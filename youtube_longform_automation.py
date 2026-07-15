@@ -50,12 +50,12 @@ CATEGORIES_ENGLISH = [
 
 # KOREAN translations for display
 CATEGORIES_KOREAN = {
-    "Motivation": "Motivación",
+    "Motivation": "동기부여",
     "Love": "??",
-    "Success": "Éxito",
-    "Wisdom": "Sabiduría",
+    "Success": "성공",
+    "Wisdom": "지혜",
     "Happiness": "??",
-    "Self Improvement": "Superación Personal",
+    "Self Improvement": "자기계발",
     "Gratitude": "??",
     "Friendship": "??",
     "Hope": "??",
