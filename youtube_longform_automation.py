@@ -1,5 +1,5 @@
 """
-YouTube Long-Form Video Automation - Bilingual English/korean Content Generator
+YouTube Long-Form Video Automation - Bilingual English/KOREAN Content Generator
 GENERATES 10-MINUTE VIDEOS with improved backgrounds for YouTube
 """
 
@@ -48,8 +48,8 @@ CATEGORIES_ENGLISH = [
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# korean translations for display
-CATEGORIES_korean = {
+# KOREAN translations for display
+CATEGORIES_KOREAN = {
     "Motivation": "Motivación",
     "Love": "Amor",
     "Success": "Éxito",
@@ -79,7 +79,7 @@ CATEGORIES_korean = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-korean_VOICE = "ko-KR-SunHiNeural"
+KOREAN_VOICE = "ko-KR-SunHiNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "korean": phrase["korean"],
+            "KOREAN": phrase["KOREAN"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -195,7 +195,7 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + korean ~2.5s)
+    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + KOREAN ~2.5s)
     For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
     """
     avg_phrase_duration = 5.0  # seconds
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_korean = CATEGORIES_korean[category_english]
+    category_KOREAN = CATEGORIES_KOREAN[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -239,7 +239,7 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
                     recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
                     exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
 
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning korean.
+                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning KOREAN.
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
@@ -255,18 +255,18 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. korean translation
+2. KOREAN translation
 3. Pronunciation guide (phonetic spelling for English speakers)
 
 Return as JSON array:
-[{{"english": "...", "korean": "...", "pronunciation": "..."}}]
+[{{"english": "...", "KOREAN": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral korean teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {"role": "system", "content": "You are a viral KOREAN teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "korean": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "korean": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "korean": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "korean": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "korean": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "korean": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "korean": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "KOREAN": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
+            {"english": "You are capable of amazing things.", "KOREAN": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
+            {"english": "Dream big, start small.", "KOREAN": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
+            {"english": "Your future is created by your actions.", "KOREAN": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
+            {"english": "Never give up on your dreams.", "KOREAN": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
+            {"english": "Small steps lead to big changes.", "KOREAN": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
+            {"english": "You are stronger than you think.", "KOREAN": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "korean": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "korean": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "korean": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "korean": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "korean": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "KOREAN": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
+            {"english": "Love makes everything possible.", "KOREAN": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
+            {"english": "My heart beats for you.", "KOREAN": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
+            {"english": "You are my everything.", "KOREAN": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
+            {"english": "Together forever, hand in hand.", "KOREAN": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "korean": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "korean": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "korean": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "korean": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "KOREAN": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
+            {"english": "Keep going, you're getting there.", "KOREAN": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
+            {"english": "Winners never quit.", "KOREAN": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
+            {"english": "Your effort will pay off.", "KOREAN": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "korean": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "korean": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "korean": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "korean": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "KOREAN": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
+            {"english": "Learn from yesterday, live for today.", "KOREAN": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
+            {"english": "Think before you act.", "KOREAN": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
+            {"english": "Experience is the best teacher.", "KOREAN": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "korean": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "korean": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "korean": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "korean": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
+            {"english": "Happiness is a choice.", "KOREAN": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
+            {"english": "Find joy in the little things.", "KOREAN": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
+            {"english": "Smile, it makes others happy.", "KOREAN": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
+            {"english": "Today is a gift.", "KOREAN": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "korean": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "korean": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "korean": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Be better than yesterday.", "KOREAN": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
+            {"english": "Grow through what you go through.", "KOREAN": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
+            {"english": "Invest in yourself daily.", "KOREAN": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "korean": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "korean": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "korean": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+            {"english": "Thank you for everything.", "KOREAN": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
+            {"english": "I appreciate your help.", "KOREAN": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
+            {"english": "Grateful for this moment.", "KOREAN": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "korean": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "korean": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "korean": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "KOREAN": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
+            {"english": "You are my best friend.", "KOREAN": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
+            {"english": "True friends stick together.", "KOREAN": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "korean": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "korean": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "korean": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "KOREAN": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
+            {"english": "Better days are coming.", "KOREAN": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
+            {"english": "Keep faith, keep going.", "KOREAN": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "korean": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "korean": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "korean": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "korean": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "korean": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
+            {"english": "Create something beautiful today.", "KOREAN": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
+            {"english": "Your imagination is unlimited.", "KOREAN": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
+            {"english": "Art comes from the heart.", "KOREAN": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
+            {"english": "Express yourself freely.", "KOREAN": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
+            {"english": "Innovation starts with curiosity.", "KOREAN": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "korean": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "korean": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "korean": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Find peace within yourself.", "KOREAN": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
+            {"english": "Breathe, relax, let go.", "KOREAN": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
+            {"english": "Calm mind, happy heart.", "KOREAN": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "korean": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "korean": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "korean": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "KOREAN": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
+            {"english": "Stand tall, speak up.", "KOREAN": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
+            {"english": "Believe in your abilities.", "KOREAN": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "korean": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "korean": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "korean": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "KOREAN": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
+            {"english": "Storms make trees take deeper roots.", "KOREAN": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
+            {"english": "Patience and persistence win.", "KOREAN": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "korean": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "korean": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "korean": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
+            {"english": "Let your light shine bright.", "KOREAN": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
+            {"english": "Inspire others by your actions.", "KOREAN": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
+            {"english": "Be the change you want to see.", "KOREAN": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "korean": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "korean": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "korean": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Choose positivity every day.", "KOREAN": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
+            {"english": "Good vibes only.", "KOREAN": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
+            {"english": "Life is what you make it.", "KOREAN": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "korean": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "korean": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "korean": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "KOREAN": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
+            {"english": "Courage is not the absence of fear.", "KOREAN": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
+            {"english": "Face your fears head on.", "KOREAN": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "korean": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "korean": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "korean": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "KOREAN": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
+            {"english": "Kindness costs nothing, means everything.", "KOREAN": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
+            {"english": "Spread kindness wherever you go.", "KOREAN": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "korean": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "korean": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "korean": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "KOREAN": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
+            {"english": "Wait patiently, trust the process.", "KOREAN": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
+            {"english": "Rome wasn't built in a day.", "KOREAN": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "korean": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "korean": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "korean": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "KOREAN": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
+            {"english": "Let go of grudges, find peace.", "KOREAN": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
+            {"english": "Forgiveness is a gift to yourself.", "KOREAN": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "korean": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "korean": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "korean": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "KOREAN": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
+            {"english": "Inner strength comes from within.", "KOREAN": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
+            {"english": "Challenges make you stronger.", "KOREAN": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "korean": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "korean": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "korean": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "KOREAN": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
+            {"english": "Joy is contagious, spread it.", "KOREAN": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
+            {"english": "Dance like nobody's watching.", "KOREAN": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "korean": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "korean": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "korean": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "KOREAN": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
+            {"english": "Work hard, rest well.", "KOREAN": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
+            {"english": "Too much of anything is not good.", "KOREAN": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "korean": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "korean": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "korean": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "KOREAN": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
+            {"english": "Embrace change, grow stronger.", "KOREAN": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
+            {"english": "Every challenge is a chance to grow.", "KOREAN": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "korean": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "korean": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "korean": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "KOREAN": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
+            {"english": "Your life has meaning.", "KOREAN": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
+            {"english": "Live with intention, not accident.", "KOREAN": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "korean": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "korean": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "korean": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "KOREAN": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
+            {"english": "Breathe deeply, stay grounded.", "KOREAN": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
+            {"english": "Notice the little things around you.", "KOREAN": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        korean_file = output_dir / f"korean_{i}.mp3"
+        KOREAN_file = output_dir / f"KOREAN_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -521,17 +521,17 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate korean audio
-        es_success = asyncio.run(generate_single_audio(phrase["korean"], korean_VOICE, str(korean_file)))
+        # Generate KOREAN audio
+        es_success = asyncio.run(generate_single_audio(phrase["KOREAN"], KOREAN_VOICE, str(KOREAN_file)))
         if not es_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(korean_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(KOREAN_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        es_duration = get_audio_duration(str(korean_file))
+        es_duration = get_audio_duration(str(KOREAN_file))
 
-        # Add pause between English and korean
+        # Add pause between English and KOREAN
         pause_between = 0.5
         total_duration = en_duration + pause_between + es_duration
 
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(korean_file),
+            "-i", str(KOREAN_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{korean_file.as_posix()}'\n")
+                f.write(f"file '{KOREAN_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "korean": str(korean_file),
+            "KOREAN": str(KOREAN_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    korean_font_paths = [
+    KOREAN_font_paths = [
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
@@ -679,12 +679,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_korean = load_font(korean_font_paths, 82)
-    font_pronunciation = load_font(korean_font_paths, 48)
+    font_KOREAN = load_font(KOREAN_font_paths, 82)
+    font_pronunciation = load_font(KOREAN_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    korean = phrase_data.get("korean", "")
+    KOREAN = phrase_data.get("KOREAN", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -737,8 +737,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
     
-    # 2. korean Box
-    es_lines = wrap_text(korean, font_korean, VIDEO_WIDTH - 300)
+    # 2. KOREAN Box
+    es_lines = wrap_text(KOREAN, font_KOREAN, VIDEO_WIDTH - 300)
     es_line_h = 100
     es_total_h = len(es_lines) * es_line_h
     
@@ -767,7 +767,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     
     y_cursor = y_start + en_box_h + GAP
 
-    # korean Section (Lingexa Lighter Purple)
+    # KOREAN Section (Lingexa Lighter Purple)
     es_box_h = es_total_h + 60
     draw.rounded_rectangle(
         [(box_x, y_cursor), (box_x + box_w, y_cursor + es_box_h)],
@@ -775,7 +775,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     for i, line in enumerate(es_lines):
         draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * es_line_h) + es_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_korean, anchor="mm")
+                  line, fill=(255, 255, 255), font=font_KOREAN, anchor="mm")
 
     y_cursor += es_box_h + (GAP // 2)
 
@@ -793,7 +793,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY korean"
+    brand_text = "VELOCITY KOREAN"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -809,7 +809,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_korean: str, output_path: str):
+def generate_thumbnail(category_english: str, category_KOREAN: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -824,7 +824,7 @@ def generate_thumbnail(category_english: str, category_korean: str, output_path:
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    korean_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    KOREAN_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -833,12 +833,12 @@ def generate_thumbnail(category_english: str, category_korean: str, output_path:
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(korean_font_paths, 110)
+    font_main = load_font(KOREAN_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER korean", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER KOREAN", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -850,8 +850,8 @@ def generate_thumbnail(category_english: str, category_korean: str, output_path:
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    # korean Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_korean, fill=(45, 35, 65), font=font_main, anchor="mm")
+    # KOREAN Translation (Dark Purple)
+    draw.text((VIDEO_WIDTH // 2, 530), category_KOREAN, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -863,7 +863,7 @@ def generate_thumbnail(category_english: str, category_korean: str, output_path:
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY korean", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY KOREAN", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -898,26 +898,26 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_korean: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_KOREAN: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn korean in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_korean})",
-        f"60 korean Phrases for {category_english} | Speak korean Like a Native! ({category_korean})",
-        f"Master korean {category_english} | 60 Essential korean Phrases with Pronunciation | Velocity korean",
-        f"korean Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak korean Fluently | {category_english} Phrases | English + korean + Pronunciation",
+        f"Learn KOREAN in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_KOREAN})",
+        f"60 KOREAN Phrases for {category_english} | Speak KOREAN Like a Native! ({category_KOREAN})",
+        f"Master KOREAN {category_english} | 60 Essential KOREAN Phrases with Pronunciation | Velocity KOREAN",
+        f"KOREAN Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak KOREAN Fluently | {category_english} Phrases | English + KOREAN + Pronunciation",
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn korean with Velocity korean! 🇪🇸
+    description = f"""🇪🇸 Learn KOREAN with Velocity KOREAN! 🇪🇸
 
-In this video, you'll learn 60 essential korean phrases about {category_english} ({category_korean}).
+In this video, you'll learn 60 essential KOREAN phrases about {category_english} ({category_KOREAN}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in korean
+• 60 practical {category_english} phrases in KOREAN
 • Correct pronunciation guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
@@ -942,15 +942,15 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   korean: {phrase['korean']}
+   KOREAN: {phrase['KOREAN']}
    Pronunciation: {phrase['pronunciation']}
 """
 
     description += f"""
 🎯 PERFECT FOR:
-• korean beginners wanting to expand vocabulary
+• KOREAN beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in korean
+• Anyone interested in KOREAN
 • Language enthusiasts and polyglots
 • Students preparing for exams
 
@@ -961,25 +961,25 @@ Perfect for beginners and intermediate learners!
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-🔔 SUBSCRIBE for more korean learning content!
+🔔 SUBSCRIBE for more KOREAN learning content!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY korean:
+📱 FOLLOW VELOCITY KOREAN:
 [Add your social media links here]
 
 🎵 MUSIC:
 [Add music credits if applicable]
 
 📖 RELATED VIDEOS:
-• korean Motivation Phrases
-• korean Love Expressions
-• Basic korean Greetings
+• KOREAN Motivation Phrases
+• KOREAN Love Expressions
+• Basic KOREAN Greetings
 
-#Learnkorean #koreanPhrases #koreanLanguage #{category_english.replace(' ', '')} #Velocitykorean #koreanForBeginners #Speakkorean #koreanVocabulary #Pronunciation #LanguageLearning #korean101 #koreanLesson
+#LearnKOREAN #KOREANPhrases #KOREANLanguage #{category_english.replace(' ', '')} #VelocityKOREAN #KOREANForBeginners #SpeakKOREAN #KOREANVocabulary #Pronunciation #LanguageLearning #KOREAN101 #KOREANLesson
 
 ---
-© Velocity korean - Making korean learning accessible to everyone!
+© Velocity KOREAN - Making KOREAN learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
@@ -1011,18 +1011,18 @@ Perfect for beginners and intermediate learners!
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn korean",
-            "korean Phrases",
-            "korean Language",
+            "Learn KOREAN",
+            "KOREAN Phrases",
+            "KOREAN Language",
             category_english,
-            "Velocity korean",
-            "korean for Beginners",
-            "Speak korean",
-            "korean Vocabulary",
+            "Velocity KOREAN",
+            "KOREAN for Beginners",
+            "Speak KOREAN",
+            "KOREAN Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "korean 101",
-            "korean Lesson"
+            "KOREAN 101",
+            "KOREAN Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -1032,7 +1032,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_korean": category_korean,
+        "category_KOREAN": category_KOREAN,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1116,7 +1116,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_korean[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_KOREAN[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1129,7 +1129,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['korean']}")
+        print(f"  {i}. {phrase['english']} → {phrase['KOREAN']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1151,10 +1151,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
             print(f"  ✅ gpt-image-2 thumbnail saved")
         else:
             print(f"  ⚠️ gpt-image-2 failed, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_korean[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_KOREAN[category_english], str(thumbnail_path))
     except Exception as e:
         print(f"  ⚠️ Thumbnail error: {e}, using built-in")
-        generate_thumbnail(category_english, CATEGORIES_korean[category_english], str(thumbnail_path))
+        generate_thumbnail(category_english, CATEGORIES_KOREAN[category_english], str(thumbnail_path))
     
     # Also extract a frame from the final video as alternative thumbnail (done after video creation)
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
@@ -1191,7 +1191,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_korean[category_english],
+        CATEGORIES_KOREAN[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1201,11 +1201,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     import json as _json
     from pathlib import Path as _Path
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn korean: {category_english}"),
+        "title": title_meta.get("selected_title", f"Learn KOREAN: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn korean", "korean Phrases", "korean", category_english, "Velocity korean"],
+        "tags": ["Learn KOREAN", "KOREAN Phrases", "KOREAN", category_english, "Velocity KOREAN"],
         "category_english": category_english,
-        "category_korean": CATEGORIES_korean[category_english],
+        "category_KOREAN": CATEGORIES_KOREAN[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1230,7 +1230,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  ⏱️  Duration: {total_duration/60:.2f} minutes")
     print(f"  📊 Phrases: {len(phrases)}")
-    print(f"  🏷️  Branding: Velocity korean")
+    print(f"  🏷️  Branding: Velocity KOREAN")
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
@@ -1255,13 +1255,13 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity korean YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity KOREAN YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY korean - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇪🇸 VELOCITY KOREAN - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1273,7 +1273,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_korean[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_KOREAN[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")

@@ -7,28 +7,28 @@ load_dotenv()
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 SCENIC_STYLES = [
-    "stunning Korean woman in flamenco dress, Barcelona, Sagrada Familia",
-    "elegant Korean woman, Madrid street, Plaza Mayor, vibrant city",
-    "beautiful Korean woman in traditional dress, Andalusia, white villages",
-    "Korean woman at Alhambra palace, golden hour, Moorish architecture",
-    "gorgeous Korean woman in modern style, sunset over Mediterranean, dramatic sky",
-    "beautiful Korean woman, Seville, Alcázar gardens, warm light",
-    "Korean woman dancing flamenco by Korean coastline, passionate, zen",
-    "elegant Korean woman in Barcelona, Park Güell, celebration",
+    "stunning KOREAN woman in flamenco dress, Barcelona, Sagrada Familia",
+    "elegant KOREAN woman, Madrid street, Plaza Mayor, vibrant city",
+    "beautiful KOREAN woman in traditional dress, Andalusia, white villages",
+    "KOREAN woman at Alhambra palace, golden hour, Moorish architecture",
+    "gorgeous KOREAN woman in modern style, sunset over Mediterranean, dramatic sky",
+    "beautiful KOREAN woman, Seville, Alcázar gardens, warm light",
+    "KOREAN woman dancing flamenco by KOREAN coastline, passionate, zen",
+    "elegant KOREAN woman in Barcelona, Park Güell, celebration",
 ]
 
 
-def generate_scenic_image(category_english: str, category_Korean: str, output_path: str):
+def generate_scenic_image(category_english: str, category_KOREAN: str, output_path: str):
     if POLLINATIONS_API_KEY:
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
             prompt = (
-                f"Professional YouTube thumbnail for Korean language learning video. "
+                f"Professional YouTube thumbnail for KOREAN language learning video. "
                 f"{style}. "
                 f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
                 f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 Korean PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY Korean'. Also: '10 MINUTE LESSON' badge."
+                f"At top: '120 KOREAN PHRASES'. In center: '{category_english}'. "
+                f"At bottom: 'VELOCITY KOREAN'. Also: '10 MINUTE LESSON' badge."
             )
             try:
                 resp = requests.post("https://gen.pollinations.ai/v1/images/generations", json={
@@ -90,7 +90,7 @@ def generate_scenic_image(category_english: str, category_Korean: str, output_pa
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
-    draw.text((960, 180), "120 Korean PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
+    draw.text((960, 180), "120 KOREAN PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
     cat_text = category_english
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
@@ -102,7 +102,7 @@ def generate_scenic_image(category_english: str, category_Korean: str, output_pa
     draw.rounded_rectangle([(960 - 200, 580), (960 + 200, 670)], radius=15, fill=(0, 0, 0, 180))
     draw.text((960, 625), "10 MINUTE LESSON", fill=(255, 210, 0), font=f_sub, anchor="mm")
 
-    brand_text = "VELOCITY Korean"
+    brand_text = "VELOCITY KOREAN"
     bb = draw.textbbox((0, 0), brand_text, font=f_brand)
     draw.text(((1920 - (bb[2] - bb[0])) // 2, 950), brand_text, fill=(200, 200, 200), font=f_brand)
 
