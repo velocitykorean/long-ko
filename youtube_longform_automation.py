@@ -63,18 +63,18 @@ CATEGORIES_KOREAN = {
     "Inner Peace": "??? ??",
     "Confidence": "???",
     "Perseverance": "??",
-    "Inspiration": "Inspiración",
+    "Inspiration": "영감",
     "Positive Life": "???? ?",
     "Courage": "??",
     "Kindness": "??",
     "Patience": "???",
-    "Forgiveness": "Perdón",
+    "Forgiveness": "용서",
     "Strength": "?",
-    "Joy": "Alegría",
+    "Joy": "기쁨",
     "Balance": "??",
     "Growth": "??",
-    "Purpose": "Propósito",
-    "Mindfulness": "Atención Plena",
+    "Purpose": "목적",
+    "Mindfulness": "마음챙김",
 }
 
 # Edge TTS voices
