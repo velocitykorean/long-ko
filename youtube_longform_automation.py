@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    KOREAN_font_paths = [
+    KOREAN_font_paths = ["/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc","/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc","/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
@@ -824,7 +824,7 @@ def generate_thumbnail(category_english: str, category_KOREAN: str, output_path:
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    KOREAN_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    KOREAN_font_paths = ["/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc","/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc","/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc","C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
