@@ -2159,7 +2159,727 @@
       "KOREAN": "미안해요, 나의 소중한 사람.",
       "category": "Forgiveness",
       "generated_at": "2026-07-15T21:30:47.633404"
+    },
+    {
+      "english": "Happiness, often found, in small things.",
+      "KOREAN": "행복은, 작은 것에서, 자주 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408540"
+    },
+    {
+      "english": "Kindness, costs nothing, gives much.",
+      "KOREAN": "친절은, 돈이 안 들어요, 많이 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408551"
+    },
+    {
+      "english": "Learning, never truly ends.",
+      "KOREAN": "배움은, 끝이 없어요, 정말로.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408553"
+    },
+    {
+      "english": "Courage, is not fearlessness.",
+      "KOREAN": "용기는, 두려움이 없는 게 아니에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408555"
+    },
+    {
+      "english": "Gratitude, unlocks fullness.",
+      "KOREAN": "감사는, 만족을 열어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408556"
+    },
+    {
+      "english": "Believe, in your own journey.",
+      "KOREAN": "자신의 여정을, 믿으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408557"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "KOREAN": "말하는 것보다, 더 들으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408558"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "KOREAN": "성장은, 편안함 밖에서 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408561"
+    },
+    {
+      "english": "Patience, yields sweet results.",
+      "KOREAN": "인내는, 달콤한 결과를 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408563"
+    },
+    {
+      "english": "A smile, can change the day.",
+      "KOREAN": "미소 하나로, 하루가 바뀌어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408564"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "KOREAN": "용서는, 당신을 자유롭게 해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408581"
+    },
+    {
+      "english": "Small steps, lead to big wins.",
+      "KOREAN": "작은 발걸음, 큰 성공으로 가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408583"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "KOREAN": "당신의 목소리는, 아주 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408584"
+    },
+    {
+      "english": "Stay curious, always explore.",
+      "KOREAN": "호기심을, 항상 유지하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408585"
+    },
+    {
+      "english": "Today's effort, shapes tomorrow.",
+      "KOREAN": "오늘의 노력은, 내일을 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408586"
+    },
+    {
+      "english": "Connect, with good people.",
+      "KOREAN": "좋은 사람들과, 연결되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408588"
+    },
+    {
+      "english": "Inner peace, is true wealth.",
+      "KOREAN": "내면의 평화, 진정한 부예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408589"
+    },
+    {
+      "english": "Dreams, are worth chasing.",
+      "KOREAN": "꿈은, 쫓을 가치가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408590"
+    },
+    {
+      "english": "Your passion, ignites your path.",
+      "KOREAN": "당신의 열정, 길을 밝혀요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408591"
+    },
+    {
+      "english": "Choose joy, every single day.",
+      "KOREAN": "매일, 기쁨을 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408593"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "KOREAN": "자신에게도, 친절하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408594"
+    },
+    {
+      "english": "Humor, heals many wounds.",
+      "KOREAN": "유머는, 많은 상처를 치유해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408595"
+    },
+    {
+      "english": "Effort, never goes wasted.",
+      "KOREAN": "노력은, 결코 헛되지 않아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408596"
+    },
+    {
+      "english": "Simple acts, create big waves.",
+      "KOREAN": "작은 행동이, 큰 파도를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408597"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "KOREAN": "이해를, 항상 추구하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408598"
+    },
+    {
+      "english": "Your true strength, is within.",
+      "KOREAN": "당신의 진짜 힘은, 안에 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408599"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "KOREAN": "새로운 생각에, 열린 마음을 가지세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408599"
+    },
+    {
+      "english": "Music, soothes the soul.",
+      "KOREAN": "음악은, 영혼을 달래줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408600"
+    },
+    {
+      "english": "Nature's beauty, calms the mind.",
+      "KOREAN": "자연의 아름다움, 마음을 진정시켜요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408602"
+    },
+    {
+      "english": "Share your gifts, with others.",
+      "KOREAN": "당신의 재능을, 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408603"
+    },
+    {
+      "english": "Hope, is a powerful thing.",
+      "KOREAN": "희망은, 강력한 것이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408604"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "KOREAN": "실수에서 배우고, 머물지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408605"
+    },
+    {
+      "english": "Adventure, awaits you always.",
+      "KOREAN": "모험이, 언제나 당신을 기다려요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408605"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "KOREAN": "웃음은, 최고의 명약이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408606"
+    },
+    {
+      "english": "Be the change, you want.",
+      "KOREAN": "원하는 변화가, 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408607"
+    },
+    {
+      "english": "Every ending, a new start.",
+      "KOREAN": "모든 끝은, 새로운 시작이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408608"
+    },
+    {
+      "english": "Love, conquers all fears.",
+      "KOREAN": "사랑은, 모든 두려움을 이겨요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408609"
+    },
+    {
+      "english": "Good deeds, ripple outward.",
+      "KOREAN": "좋은 행동은, 퍼져 나가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408610"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "KOREAN": "당신의 여정은, 특별해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408611"
+    },
+    {
+      "english": "Happiness, often found, in small things.",
+      "KOREAN": "행복은, 작은 것에서, 자주 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408612"
+    },
+    {
+      "english": "Kindness, costs nothing, gives much.",
+      "KOREAN": "친절은, 돈이 안 들어요, 많이 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408613"
+    },
+    {
+      "english": "Learning, never truly ends.",
+      "KOREAN": "배움은, 끝이 없어요, 정말로.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408615"
+    },
+    {
+      "english": "Courage, is not fearlessness.",
+      "KOREAN": "용기는, 두려움이 없는 게 아니에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408617"
+    },
+    {
+      "english": "Gratitude, unlocks fullness.",
+      "KOREAN": "감사는, 만족을 열어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408618"
+    },
+    {
+      "english": "Believe, in your own journey.",
+      "KOREAN": "자신의 여정을, 믿으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408619"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "KOREAN": "말하는 것보다, 더 들으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408620"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "KOREAN": "성장은, 편안함 밖에서 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408621"
+    },
+    {
+      "english": "Patience, yields sweet results.",
+      "KOREAN": "인내는, 달콤한 결과를 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408622"
+    },
+    {
+      "english": "A smile, can change the day.",
+      "KOREAN": "미소 하나로, 하루가 바뀌어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408623"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "KOREAN": "용서는, 당신을 자유롭게 해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408624"
+    },
+    {
+      "english": "Small steps, lead to big wins.",
+      "KOREAN": "작은 발걸음, 큰 성공으로 가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408625"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "KOREAN": "당신의 목소리는, 아주 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408629"
+    },
+    {
+      "english": "Stay curious, always explore.",
+      "KOREAN": "호기심을, 항상 유지하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408630"
+    },
+    {
+      "english": "Today's effort, shapes tomorrow.",
+      "KOREAN": "오늘의 노력은, 내일을 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408631"
+    },
+    {
+      "english": "Connect, with good people.",
+      "KOREAN": "좋은 사람들과, 연결되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408632"
+    },
+    {
+      "english": "Inner peace, is true wealth.",
+      "KOREAN": "내면의 평화, 진정한 부예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408633"
+    },
+    {
+      "english": "Dreams, are worth chasing.",
+      "KOREAN": "꿈은, 쫓을 가치가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408634"
+    },
+    {
+      "english": "Your passion, ignites your path.",
+      "KOREAN": "당신의 열정, 길을 밝혀요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408635"
+    },
+    {
+      "english": "Choose joy, every single day.",
+      "KOREAN": "매일, 기쁨을 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408636"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "KOREAN": "자신에게도, 친절하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408637"
+    },
+    {
+      "english": "Humor, heals many wounds.",
+      "KOREAN": "유머는, 많은 상처를 치유해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408638"
+    },
+    {
+      "english": "Effort, never goes wasted.",
+      "KOREAN": "노력은, 결코 헛되지 않아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408639"
+    },
+    {
+      "english": "Simple acts, create big waves.",
+      "KOREAN": "작은 행동이, 큰 파도를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.408643"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "KOREAN": "이해를, 항상 추구하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409426"
+    },
+    {
+      "english": "Your true strength, is within.",
+      "KOREAN": "당신의 진짜 힘은, 안에 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409429"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "KOREAN": "새로운 생각에, 열린 마음을 가지세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409430"
+    },
+    {
+      "english": "Music, soothes the soul.",
+      "KOREAN": "음악은, 영혼을 달래줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409431"
+    },
+    {
+      "english": "Nature's beauty, calms the mind.",
+      "KOREAN": "자연의 아름다움, 마음을 진정시켜요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409432"
+    },
+    {
+      "english": "Share your gifts, with others.",
+      "KOREAN": "당신의 재능을, 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409433"
+    },
+    {
+      "english": "Hope, is a powerful thing.",
+      "KOREAN": "희망은, 강력한 것이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409434"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "KOREAN": "실수에서 배우고, 머물지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409435"
+    },
+    {
+      "english": "Adventure, awaits you always.",
+      "KOREAN": "모험이, 언제나 당신을 기다려요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409436"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "KOREAN": "웃음은, 최고의 명약이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409437"
+    },
+    {
+      "english": "Be the change, you want.",
+      "KOREAN": "원하는 변화가, 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409438"
+    },
+    {
+      "english": "Every ending, a new start.",
+      "KOREAN": "모든 끝은, 새로운 시작이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409439"
+    },
+    {
+      "english": "Love, conquers all fears.",
+      "KOREAN": "사랑은, 모든 두려움을 이겨요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409439"
+    },
+    {
+      "english": "Good deeds, ripple outward.",
+      "KOREAN": "좋은 행동은, 퍼져 나가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409440"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "KOREAN": "당신의 여정은, 특별해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409441"
+    },
+    {
+      "english": "Happiness, often found, in small things.",
+      "KOREAN": "행복은, 작은 것에서, 자주 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409443"
+    },
+    {
+      "english": "Kindness, costs nothing, gives much.",
+      "KOREAN": "친절은, 돈이 안 들어요, 많이 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409444"
+    },
+    {
+      "english": "Learning, never truly ends.",
+      "KOREAN": "배움은, 끝이 없어요, 정말로.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409445"
+    },
+    {
+      "english": "Courage, is not fearlessness.",
+      "KOREAN": "용기는, 두려움이 없는 게 아니에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409446"
+    },
+    {
+      "english": "Gratitude, unlocks fullness.",
+      "KOREAN": "감사는, 만족을 열어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409447"
+    },
+    {
+      "english": "Believe, in your own journey.",
+      "KOREAN": "자신의 여정을, 믿으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409448"
+    },
+    {
+      "english": "Listen, more than you speak.",
+      "KOREAN": "말하는 것보다, 더 들으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409449"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "KOREAN": "성장은, 편안함 밖에서 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409450"
+    },
+    {
+      "english": "Patience, yields sweet results.",
+      "KOREAN": "인내는, 달콤한 결과를 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409451"
+    },
+    {
+      "english": "A smile, can change the day.",
+      "KOREAN": "미소 하나로, 하루가 바뀌어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409452"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "KOREAN": "용서는, 당신을 자유롭게 해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409453"
+    },
+    {
+      "english": "Small steps, lead to big wins.",
+      "KOREAN": "작은 발걸음, 큰 성공으로 가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409454"
+    },
+    {
+      "english": "Your voice, matters greatly.",
+      "KOREAN": "당신의 목소리는, 아주 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409455"
+    },
+    {
+      "english": "Stay curious, always explore.",
+      "KOREAN": "호기심을, 항상 유지하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409456"
+    },
+    {
+      "english": "Today's effort, shapes tomorrow.",
+      "KOREAN": "오늘의 노력은, 내일을 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409457"
+    },
+    {
+      "english": "Connect, with good people.",
+      "KOREAN": "좋은 사람들과, 연결되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409458"
+    },
+    {
+      "english": "Inner peace, is true wealth.",
+      "KOREAN": "내면의 평화, 진정한 부예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409459"
+    },
+    {
+      "english": "Dreams, are worth chasing.",
+      "KOREAN": "꿈은, 쫓을 가치가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409460"
+    },
+    {
+      "english": "Your passion, ignites your path.",
+      "KOREAN": "당신의 열정, 길을 밝혀요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409461"
+    },
+    {
+      "english": "Choose joy, every single day.",
+      "KOREAN": "매일, 기쁨을 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409608"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "KOREAN": "자신에게도, 친절하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409609"
+    },
+    {
+      "english": "Humor, heals many wounds.",
+      "KOREAN": "유머는, 많은 상처를 치유해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409610"
+    },
+    {
+      "english": "Effort, never goes wasted.",
+      "KOREAN": "노력은, 결코 헛되지 않아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409611"
+    },
+    {
+      "english": "Simple acts, create big waves.",
+      "KOREAN": "작은 행동이, 큰 파도를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409612"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "KOREAN": "이해를, 항상 추구하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409613"
+    },
+    {
+      "english": "Your true strength, is within.",
+      "KOREAN": "당신의 진짜 힘은, 안에 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409614"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "KOREAN": "새로운 생각에, 열린 마음을 가지세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409615"
+    },
+    {
+      "english": "Music, soothes the soul.",
+      "KOREAN": "음악은, 영혼을 달래줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409616"
+    },
+    {
+      "english": "Nature's beauty, calms the mind.",
+      "KOREAN": "자연의 아름다움, 마음을 진정시켜요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409617"
+    },
+    {
+      "english": "Share your gifts, with others.",
+      "KOREAN": "당신의 재능을, 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409618"
+    },
+    {
+      "english": "Hope, is a powerful thing.",
+      "KOREAN": "희망은, 강력한 것이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409619"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "KOREAN": "실수에서 배우고, 머물지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409620"
+    },
+    {
+      "english": "Adventure, awaits you always.",
+      "KOREAN": "모험이, 언제나 당신을 기다려요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409621"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "KOREAN": "웃음은, 최고의 명약이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409622"
+    },
+    {
+      "english": "Be the change, you want.",
+      "KOREAN": "원하는 변화가, 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409626"
+    },
+    {
+      "english": "Every ending, a new start.",
+      "KOREAN": "모든 끝은, 새로운 시작이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409628"
+    },
+    {
+      "english": "Love, conquers all fears.",
+      "KOREAN": "사랑은, 모든 두려움을 이겨요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409629"
+    },
+    {
+      "english": "Good deeds, ripple outward.",
+      "KOREAN": "좋은 행동은, 퍼져 나가요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409630"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "KOREAN": "당신의 여정은, 특별해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409630"
+    },
+    {
+      "english": "Happiness, often found, in small things.",
+      "KOREAN": "행복은, 작은 것에서, 자주 와요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409631"
+    },
+    {
+      "english": "Kindness, costs nothing, gives much.",
+      "KOREAN": "친절은, 돈이 안 들어요, 많이 줘요.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409632"
+    },
+    {
+      "english": "Learning, never truly ends.",
+      "KOREAN": "배움은, 끝이 없어요, 정말로.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-16T03:58:45.409633"
     }
   ],
-  "last_updated": "2026-07-15T21:30:47.633406"
+  "last_updated": "2026-07-16T03:58:45.409635"
 }
