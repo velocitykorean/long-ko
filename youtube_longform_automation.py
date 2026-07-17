@@ -911,7 +911,7 @@ def generate_title_description(category_english: str, category_KOREAN: str, phra
     ]
 
     # Generate comprehensive description
-    description = f"""🇪🇸 Learn KOREAN with Velocity KOREAN! 🇪🇸
+    description = f"""🇰🇷 Learn KOREAN with Velocity KOREAN! 🇰🇷
 
 In this video, you'll learn 60 essential KOREAN phrases about {category_english} ({category_KOREAN}).
 Perfect for beginners and intermediate learners!
@@ -1261,7 +1261,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY KOREAN - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇰🇷 VELOCITY KOREAN - YOUTUBE LONG-FORM AUTOMATION 🇰🇷")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
