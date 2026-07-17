@@ -40,27 +40,27 @@ jobs:
 
       - name: Create .env
         run: |
-          echo "POLLINATIONS_API_KEY=${{{{ secrets.POLLINATIONS_API_KEY }}}}" >> .env
-          echo "AI_MODEL=${{{{ secrets.AI_MODEL || 'gemini-fast' }}}}" >> .env
-          echo "YT_CLIENT_ID=${{{{ secrets.YT_CLIENT_ID }}}}" >> .env
-          echo "YT_CLIENT_SECRET=${{{{ secrets.YT_CLIENT_SECRET }}}}" >> .env
-          echo "YT_REFRESH_TOKEN=${{{{ secrets.YT_REFRESH_TOKEN }}}}" >> .env
+          echo "POLLINATIONS_API_KEY=${{ secrets.POLLINATIONS_API_KEY }}" >> .env
+          echo "AI_MODEL=${{ secrets.AI_MODEL }}" >> .env
+          echo "YT_CLIENT_ID=${{ secrets.YT_CLIENT_ID }}" >> .env
+          echo "YT_CLIENT_SECRET=${{ secrets.YT_CLIENT_SECRET }}" >> .env
+          echo "YT_REFRESH_TOKEN=${{ secrets.YT_REFRESH_TOKEN }}" >> .env
 
       - name: Generate video
         run: python youtube_longform_automation.py
 
       - name: Upload to YouTube
         env:
-          YT_CLIENT_ID: ${{{{ secrets.YT_CLIENT_ID }}}}
-          YT_CLIENT_SECRET: ${{{{ secrets.YT_CLIENT_SECRET }}}}
-          YT_REFRESH_TOKEN: ${{{{ secrets.YT_REFRESH_TOKEN }}}}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
-          export PYTHONPATH="${{{{ github.workspace }}}}:$PYTHONPATH"
+          export PYTHONPATH="${{ github.workspace }}:$PYTHONPATH"
           python upload_to_youtube.py
 
       - uses: actions/upload-artifact@v4
         with:
-          name: longform-video-${{{{ github.run_number }}}}
+          name: longform-video-${{ github.run_number }}
           path: |
             output/longform_videos/*/final_video.mp4
             output/longform_videos/*/thumbnail.jpg
@@ -82,4 +82,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add output/history/
-          git diff --staged --quiet || (git commit -m "Update history - Run #${{{{ github.run_number }}}}" && git pull --rebase && git push)
+          git diff --staged --quiet || (git commit -m "Update history - Run #${{ github.run_number }}" && git pull --rebase && git push)
