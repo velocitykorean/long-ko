@@ -2879,7 +2879,727 @@
       "KOREAN": "배움은, 끝이 없어요, 정말로.",
       "category": "Positive Life",
       "generated_at": "2026-07-16T03:58:45.409633"
+    },
+    {
+      "english": "You're my favorite person, really.",
+      "KOREAN": "당신은, 내 최고야, 정말.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018087"
+    },
+    {
+      "english": "Let's go on a date, soon.",
+      "KOREAN": "우리, 데이트 하자, 곧.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018099"
+    },
+    {
+      "english": "I miss you, a lot today.",
+      "KOREAN": "네가, 너무 보고 싶어, 오늘.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018101"
+    },
+    {
+      "english": "You make me, so happy.",
+      "KOREAN": "너 때문에, 정말 행복해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018102"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "KOREAN": "네 손, 잡아도 될까?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018104"
+    },
+    {
+      "english": "You look so good, today.",
+      "KOREAN": "오늘, 정말 멋져 보여.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018105"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "KOREAN": "언제나, 네 생각 중이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018106"
+    },
+    {
+      "english": "This is, a sweet moment.",
+      "KOREAN": "정말, 달콤한 순간이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018109"
+    },
+    {
+      "english": "You have, a nice smile.",
+      "KOREAN": "미소가, 참 예쁘네.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018111"
+    },
+    {
+      "english": "I want to see you, now.",
+      "KOREAN": "지금, 너 보고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018112"
+    },
+    {
+      "english": "My heart, beats for you.",
+      "KOREAN": "내 심장이, 너만 뛰어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018114"
+    },
+    {
+      "english": "You are, my everything.",
+      "KOREAN": "너는, 나의 전부야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018115"
+    },
+    {
+      "english": "Let's make, good memories.",
+      "KOREAN": "좋은 추억, 만들자.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018116"
+    },
+    {
+      "english": "I like you, very much.",
+      "KOREAN": "너를, 정말 좋아해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018118"
+    },
+    {
+      "english": "You're so cute, honestly.",
+      "KOREAN": "진짜, 귀엽다 너.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018119"
+    },
+    {
+      "english": "What are you doing, later?",
+      "KOREAN": "이따가, 뭐 해?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018120"
+    },
+    {
+      "english": "My heart, skipped a beat.",
+      "KOREAN": "심장이, 쿵 내려앉았어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018121"
+    },
+    {
+      "english": "You're the only one, for me.",
+      "KOREAN": "너밖에, 없어 나에게.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018122"
+    },
+    {
+      "english": "Can I call you, my love?",
+      "KOREAN": "내 사랑, 이라고 불러도 돼?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018123"
+    },
+    {
+      "english": "I love your, sense of humor.",
+      "KOREAN": "네 유머, 정말 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018125"
+    },
+    {
+      "english": "You make, life brighter.",
+      "KOREAN": "내 삶을, 더 밝게 해줘.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018126"
+    },
+    {
+      "english": "I want to be, with you.",
+      "KOREAN": "너랑, 같이 있고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018127"
+    },
+    {
+      "english": "You smell, really good.",
+      "KOREAN": "향기가, 참 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018128"
+    },
+    {
+      "english": "You're my, happy place.",
+      "KOREAN": "넌 나의, 행복한 곳이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018129"
+    },
+    {
+      "english": "My world, revolves around you.",
+      "KOREAN": "내 세상은, 너로 돌아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018130"
+    },
+    {
+      "english": "Let's share, our dreams.",
+      "KOREAN": "우리 꿈, 나눠볼까?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018131"
+    },
+    {
+      "english": "You are, so precious.",
+      "KOREAN": "정말, 소중한 사람이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018132"
+    },
+    {
+      "english": "I can't stop, thinking about you.",
+      "KOREAN": "네 생각, 멈출 수가 없어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018133"
+    },
+    {
+      "english": "You're my, true north.",
+      "KOREAN": "너는, 나의 북쪽이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018134"
+    },
+    {
+      "english": "My favorite view, is you.",
+      "KOREAN": "내가 가장, 좋아하는 풍경은 너.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018135"
+    },
+    {
+      "english": "You make, my day better.",
+      "KOREAN": "덕분에, 하루가 좋아져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018136"
+    },
+    {
+      "english": "Let's be, together always.",
+      "KOREAN": "언제나, 함께 하자.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018137"
+    },
+    {
+      "english": "You're my, favorite song.",
+      "KOREAN": "너는, 내가 제일 좋아하는 노래.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018138"
+    },
+    {
+      "english": "My heart, feels full.",
+      "KOREAN": "마음이, 꽉 찬 느낌.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018139"
+    },
+    {
+      "english": "You're so, special to me.",
+      "KOREAN": "나에게, 정말 특별해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018140"
+    },
+    {
+      "english": "I want to, hold you close.",
+      "KOREAN": "너를, 꼭 안고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018140"
+    },
+    {
+      "english": "You're my, happy ending.",
+      "KOREAN": "너는, 나의 행복한 결말.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018141"
+    },
+    {
+      "english": "You make, me feel safe.",
+      "KOREAN": "너 때문에, 안심이 돼.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018142"
+    },
+    {
+      "english": "Can I kiss you, now?",
+      "KOREAN": "지금, 키스해도 될까?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018143"
+    },
+    {
+      "english": "You're my, sweetest dream.",
+      "KOREAN": "너는, 나의 가장 달콤한 꿈.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018144"
+    },
+    {
+      "english": "I cherish, our time.",
+      "KOREAN": "우리의 시간을, 소중히 해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018145"
+    },
+    {
+      "english": "You are, my sunshine.",
+      "KOREAN": "너는, 나의 태양이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018147"
+    },
+    {
+      "english": "My heart, skips a beat, for you.",
+      "KOREAN": "내 마음이, 너 때문에, 두근거려.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018149"
+    },
+    {
+      "english": "You are, my favorite, person.",
+      "KOREAN": "당신은, 나의 제일, 좋아하는 사람.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018150"
+    },
+    {
+      "english": "Thinking of you, makes me, smile.",
+      "KOREAN": "너 생각하면, 나도, 웃게 돼.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018151"
+    },
+    {
+      "english": "Let's make, more memories, together.",
+      "KOREAN": "우리, 더 많은 추억, 만들자.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018152"
+    },
+    {
+      "english": "You feel, like home, to me.",
+      "KOREAN": "너는 나에게, 집처럼, 느껴져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018154"
+    },
+    {
+      "english": "My world, is brighter, with you.",
+      "KOREAN": "내 세상이, 너와 함께, 더 밝아져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018154"
+    },
+    {
+      "english": "I really, like your, vibe.",
+      "KOREAN": "네 느낌이, 정말, 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018155"
+    },
+    {
+      "english": "You're the one, I'm looking, for.",
+      "KOREAN": "너는 내가, 찾고 있던, 사람이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018156"
+    },
+    {
+      "english": "Just seeing you, makes me, happy.",
+      "KOREAN": "너만 봐도, 나는, 행복해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018157"
+    },
+    {
+      "english": "Can I have, your number, please?",
+      "KOREAN": "전화번호, 알려줄 수, 있어요?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018158"
+    },
+    {
+      "english": "You have, such a beautiful, smile.",
+      "KOREAN": "너의 웃음이, 정말, 아름다워.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018159"
+    },
+    {
+      "english": "This feeling, is brand new, for me.",
+      "KOREAN": "이 기분, 나에게, 정말 새롭다.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018160"
+    },
+    {
+      "english": "You stole, my heart, quickly.",
+      "KOREAN": "내 마음을, 금방, 훔쳐갔어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018161"
+    },
+    {
+      "english": "I want to, know you, more.",
+      "KOREAN": "너를, 더 알고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018162"
+    },
+    {
+      "english": "You are, my sunshine, every day.",
+      "KOREAN": "너는 나의, 매일의, 햇살이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018163"
+    },
+    {
+      "english": "My heart, races, when I see you.",
+      "KOREAN": "널 보면, 심장이, 빨리 뛰어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018164"
+    },
+    {
+      "english": "You make, my day, better.",
+      "KOREAN": "너는 내 하루를, 더 좋게, 만들어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018165"
+    },
+    {
+      "english": "I feel, so comfortable, with you.",
+      "KOREAN": "너랑 있으면, 정말, 편안해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018166"
+    },
+    {
+      "english": "Can we, go on a, date?",
+      "KOREAN": "우리, 데이트 할래?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018167"
+    },
+    {
+      "english": "You're always, on my, mind.",
+      "KOREAN": "네 생각뿐이야, 항상.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018168"
+    },
+    {
+      "english": "My life, changed, with you.",
+      "KOREAN": "내 삶이, 너 때문에, 바뀌었어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018169"
+    },
+    {
+      "english": "You are, my everything, truly.",
+      "KOREAN": "너는 나의, 전부야, 정말로.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018170"
+    },
+    {
+      "english": "I like, spending time, with you.",
+      "KOREAN": "너와 시간 보내는, 게 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018171"
+    },
+    {
+      "english": "You have, a captivating, charm.",
+      "KOREAN": "너에게는, 매력적인, 분위기가 있어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018172"
+    },
+    {
+      "english": "My heart, belongs, to you.",
+      "KOREAN": "내 마음은, 너에게, 속해있어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018173"
+    },
+    {
+      "english": "I can't stop, thinking, about you.",
+      "KOREAN": "네 생각을, 멈출 수가, 없어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018174"
+    },
+    {
+      "english": "You make, me feel, special.",
+      "KOREAN": "너는 나를, 특별하게, 느끼게 해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018175"
+    },
+    {
+      "english": "We have, great chemistry, don't we?",
+      "KOREAN": "우리, 잘 통하잖아, 그렇지?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018176"
+    },
+    {
+      "english": "You are, so charming, honestly.",
+      "KOREAN": "너 정말, 매력적이야, 솔직히.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018177"
+    },
+    {
+      "english": "My whole world, revolves, around you.",
+      "KOREAN": "내 세상의 전부가, 너를, 중심으로 돌아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018178"
+    },
+    {
+      "english": "You are, the missing, piece.",
+      "KOREAN": "너는 내가, 찾던, 조각이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018179"
+    },
+    {
+      "english": "Every moment, with you, is precious.",
+      "KOREAN": "너와 함께하는, 모든 순간이, 소중해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018180"
+    },
+    {
+      "english": "You are, my dream, come true.",
+      "KOREAN": "너는 나의, 꿈이, 이루어진 거야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018181"
+    },
+    {
+      "english": "I'm drawn, to your, personality.",
+      "KOREAN": "네 개성에, 끌려, 나는.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018182"
+    },
+    {
+      "english": "You make, life exciting, always.",
+      "KOREAN": "너는 삶을, 항상, 신나게 만들어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018183"
+    },
+    {
+      "english": "I feel, a special, connection.",
+      "KOREAN": "특별한, 인연이, 느껴져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018184"
+    },
+    {
+      "english": "You are, incredibly, attractive.",
+      "KOREAN": "너는 정말, 매력적이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018185"
+    },
+    {
+      "english": "My heart, leaps, for you.",
+      "KOREAN": "내 심장이, 너 때문에, 뛰쳐.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018186"
+    },
+    {
+      "english": "You are, my perfect, match.",
+      "KOREAN": "너는 나의, 완벽한, 짝이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018187"
+    },
+    {
+      "english": "I want to, be with, you always.",
+      "KOREAN": "너와, 항상, 함께하고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018188"
+    },
+    {
+      "english": "You are, my favorite, thought.",
+      "KOREAN": "너는 나의, 가장, 좋은 생각이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018189"
+    },
+    {
+      "english": "My feelings, are growing, for you.",
+      "KOREAN": "너에 대한, 내 마음이, 커지고 있어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018190"
+    },
+    {
+      "english": "My heart, skips a beat, for you.",
+      "KOREAN": "내 마음이, 너 때문에, 두근거려.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018191"
+    },
+    {
+      "english": "You are, my favorite, person.",
+      "KOREAN": "당신은, 나의 제일, 좋아하는 사람.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018192"
+    },
+    {
+      "english": "Thinking of you, makes me, smile.",
+      "KOREAN": "너 생각하면, 나도, 웃게 돼.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018193"
+    },
+    {
+      "english": "Let's make, more memories, together.",
+      "KOREAN": "우리, 더 많은 추억, 만들자.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018194"
+    },
+    {
+      "english": "You feel, like home, to me.",
+      "KOREAN": "너는 나에게, 집처럼, 느껴져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018195"
+    },
+    {
+      "english": "My world, is brighter, with you.",
+      "KOREAN": "내 세상이, 너와 함께, 더 밝아져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018196"
+    },
+    {
+      "english": "I really, like your, vibe.",
+      "KOREAN": "네 느낌이, 정말, 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018197"
+    },
+    {
+      "english": "You're the one, I'm looking, for.",
+      "KOREAN": "너는 내가, 찾고 있던, 사람이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018198"
+    },
+    {
+      "english": "Just seeing you, makes me, happy.",
+      "KOREAN": "너만 봐도, 나는, 행복해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018199"
+    },
+    {
+      "english": "Can I have, your number, please?",
+      "KOREAN": "전화번호, 알려줄 수, 있어요?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018199"
+    },
+    {
+      "english": "You have, such a beautiful, smile.",
+      "KOREAN": "너의 웃음이, 정말, 아름다워.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018200"
+    },
+    {
+      "english": "This feeling, is brand new, for me.",
+      "KOREAN": "이 기분, 나에게, 정말 새롭다.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018201"
+    },
+    {
+      "english": "You stole, my heart, quickly.",
+      "KOREAN": "내 마음을, 금방, 훔쳐갔어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018202"
+    },
+    {
+      "english": "I want to, know you, more.",
+      "KOREAN": "너를, 더 알고 싶어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018203"
+    },
+    {
+      "english": "You are, my sunshine, every day.",
+      "KOREAN": "너는 나의, 매일의, 햇살이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018204"
+    },
+    {
+      "english": "My heart, races, when I see you.",
+      "KOREAN": "널 보면, 심장이, 빨리 뛰어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018205"
+    },
+    {
+      "english": "You make, my day, better.",
+      "KOREAN": "너는 내 하루를, 더 좋게, 만들어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018206"
+    },
+    {
+      "english": "I feel, so comfortable, with you.",
+      "KOREAN": "너랑 있으면, 정말, 편안해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018207"
+    },
+    {
+      "english": "Can we, go on a, date?",
+      "KOREAN": "우리, 데이트 할래?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018208"
+    },
+    {
+      "english": "You're always, on my, mind.",
+      "KOREAN": "네 생각뿐이야, 항상.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018209"
+    },
+    {
+      "english": "My life, changed, with you.",
+      "KOREAN": "내 삶이, 너 때문에, 바뀌었어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018213"
+    },
+    {
+      "english": "You are, my everything, truly.",
+      "KOREAN": "너는 나의, 전부야, 정말로.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018217"
+    },
+    {
+      "english": "I like, spending time, with you.",
+      "KOREAN": "너와 시간 보내는, 게 좋아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018218"
+    },
+    {
+      "english": "You have, a captivating, charm.",
+      "KOREAN": "너에게는, 매력적인, 분위기가 있어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018219"
+    },
+    {
+      "english": "My heart, belongs, to you.",
+      "KOREAN": "내 마음은, 너에게, 속해있어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018220"
+    },
+    {
+      "english": "I can't stop, thinking, about you.",
+      "KOREAN": "네 생각을, 멈출 수가, 없어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018221"
+    },
+    {
+      "english": "You make, me feel, special.",
+      "KOREAN": "너는 나를, 특별하게, 느끼게 해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018222"
+    },
+    {
+      "english": "We have, great chemistry, don't we?",
+      "KOREAN": "우리, 잘 통하잖아, 그렇지?",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018223"
+    },
+    {
+      "english": "You are, so charming, honestly.",
+      "KOREAN": "너 정말, 매력적이야, 솔직히.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018223"
+    },
+    {
+      "english": "My whole world, revolves, around you.",
+      "KOREAN": "내 세상의 전부가, 너를, 중심으로 돌아.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018225"
+    },
+    {
+      "english": "You are, the missing, piece.",
+      "KOREAN": "너는 내가, 찾던, 조각이야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018226"
+    },
+    {
+      "english": "Every moment, with you, is precious.",
+      "KOREAN": "너와 함께하는, 모든 순간이, 소중해.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018227"
+    },
+    {
+      "english": "You are, my dream, come true.",
+      "KOREAN": "너는 나의, 꿈이, 이루어진 거야.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018228"
+    },
+    {
+      "english": "I'm drawn, to your, personality.",
+      "KOREAN": "네 개성에, 끌려, 나는.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018229"
+    },
+    {
+      "english": "You make, life exciting, always.",
+      "KOREAN": "너는 삶을, 항상, 신나게 만들어.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018230"
+    },
+    {
+      "english": "I feel, a special, connection.",
+      "KOREAN": "특별한, 인연이, 느껴져.",
+      "category": "Love",
+      "generated_at": "2026-07-17T03:56:35.018231"
     }
   ],
-  "last_updated": "2026-07-16T03:58:45.409635"
+  "last_updated": "2026-07-17T03:56:35.018233"
 }
