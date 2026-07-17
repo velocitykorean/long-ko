@@ -4319,7 +4319,727 @@
       "KOREAN": "당신은, 늘 모든 것을, 좋게 만들어요!",
       "category": "Joy",
       "generated_at": "2026-07-17T19:33:36.223286"
+    },
+    {
+      "english": "Small steps, big dreams, yes?",
+      "KOREAN": "작은 걸음, 큰 꿈, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696186"
+    },
+    {
+      "english": "Today's lesson, learned it well.",
+      "KOREAN": "오늘 배운 것, 잘 익혔어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696196"
+    },
+    {
+      "english": "Keep trying, you'll get there.",
+      "KOREAN": "계속 노력해요, 도착할 거예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696198"
+    },
+    {
+      "english": "This is progress, slowly but surely.",
+      "KOREAN": "이것이 발전, 천천히 하지만 확실히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696200"
+    },
+    {
+      "english": "Learning Korean, is fun, right?",
+      "KOREAN": "한국어 배우기, 재미있죠, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696201"
+    },
+    {
+      "english": "You said that, perfectly, wow!",
+      "KOREAN": "그렇게 말씀하셨어요, 완벽하게, 와!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696202"
+    },
+    {
+      "english": "Understanding this, is a good sign.",
+      "KOREAN": "이해하는 것, 좋은 신호예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696203"
+    },
+    {
+      "english": "New word learned, good job!",
+      "KOREAN": "새 단어 배웠어요, 잘 했어요!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696206"
+    },
+    {
+      "english": "Practice makes, perfect, keep it up.",
+      "KOREAN": "연습이 완벽을, 만들어요, 계속하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696208"
+    },
+    {
+      "english": "Your accent, improving, yes!",
+      "KOREAN": "당신의 발음, 좋아지고 있어요, 네!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696209"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "KOREAN": "이 문장, 이제 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696211"
+    },
+    {
+      "english": "Connecting words, is key.",
+      "KOREAN": "단어를 연결하는 것, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696212"
+    },
+    {
+      "english": "You're understanding, culture too.",
+      "KOREAN": "문화도 이해하고 계세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696213"
+    },
+    {
+      "english": "Listening hard, paying off.",
+      "KOREAN": "열심히 듣는 것, 효과가 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696214"
+    },
+    {
+      "english": "Speaking Korean, feels good.",
+      "KOREAN": "한국어 말하기, 기분이 좋아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696215"
+    },
+    {
+      "english": "This sentence, is flowing well.",
+      "KOREAN": "이 문장, 잘 흘러가고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696216"
+    },
+    {
+      "english": "Korean grammar, not so scary.",
+      "KOREAN": "한국어 문법, 그렇게 안 무서워요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696217"
+    },
+    {
+      "english": "You're making, real connections.",
+      "KOREAN": "진짜 관계를, 만들고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696218"
+    },
+    {
+      "english": "This conversation, is improving.",
+      "KOREAN": "이 대화, 나아지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696220"
+    },
+    {
+      "english": "Learning, is a journey, enjoy.",
+      "KOREAN": "배움은, 여정이에요, 즐기세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696221"
+    },
+    {
+      "english": "Your understanding, growing daily.",
+      "KOREAN": "당신의 이해력, 매일 자라고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696222"
+    },
+    {
+      "english": "This expression, is very useful.",
+      "KOREAN": "이 표현, 아주 유용해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696223"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "KOREAN": "이제 감을 잡고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696224"
+    },
+    {
+      "english": "Sounds natural, good job.",
+      "KOREAN": "자연스럽게 들려요, 잘 했어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696225"
+    },
+    {
+      "english": "You're thinking, in Korean now.",
+      "KOREAN": "이제 한국어로 생각하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696226"
+    },
+    {
+      "english": "This grammar point, is clear.",
+      "KOREAN": "이 문법 사항, 명확해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696227"
+    },
+    {
+      "english": "You're building, fluency, slowly.",
+      "KOREAN": "유창함을, 쌓고 있어요, 천천히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696228"
+    },
+    {
+      "english": "Understanding nuances, is next.",
+      "KOREAN": "뉘앙스를 이해하는 것, 다음 단계예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696229"
+    },
+    {
+      "english": "Your pronunciation, sounds good.",
+      "KOREAN": "당신의 발음, 괜찮아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696230"
+    },
+    {
+      "english": "This phrase, makes me smile.",
+      "KOREAN": "이 표현, 저를 웃게 해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696231"
+    },
+    {
+      "english": "You're mastering, new words.",
+      "KOREAN": "새로운 단어들을, 정복하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696232"
+    },
+    {
+      "english": "Connecting with people, is the goal.",
+      "KOREAN": "사람들과 연결되는 것, 목표예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696233"
+    },
+    {
+      "english": "This is, a learning win.",
+      "KOREAN": "이것은, 배움의 승리예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696234"
+    },
+    {
+      "english": "Your Korean, is flowing now.",
+      "KOREAN": "당신의 한국어, 지금 흘러요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696235"
+    },
+    {
+      "english": "Understanding context, is powerful.",
+      "KOREAN": "맥락을 이해하는 것, 강력해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696236"
+    },
+    {
+      "english": "Keep that momentum, going.",
+      "KOREAN": "그 추진력을, 계속 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696237"
+    },
+    {
+      "english": "You're expressing, yourself well.",
+      "KOREAN": "자신을, 잘 표현하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696238"
+    },
+    {
+      "english": "This sentence, makes sense.",
+      "KOREAN": "이 문장, 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696240"
+    },
+    {
+      "english": "You're really, learning this.",
+      "KOREAN": "당신 정말, 배우고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696240"
+    },
+    {
+      "english": "Korean is, opening up.",
+      "KOREAN": "한국어가, 열리고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696241"
+    },
+    {
+      "english": "Small steps, big dreams, yes?",
+      "KOREAN": "작은 걸음, 큰 꿈, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696242"
+    },
+    {
+      "english": "Today's lesson, learned it well.",
+      "KOREAN": "오늘 배운 것, 잘 익혔어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696245"
+    },
+    {
+      "english": "Keep trying, you'll get there.",
+      "KOREAN": "계속 노력해요, 도착할 거예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696246"
+    },
+    {
+      "english": "This is progress, slowly but surely.",
+      "KOREAN": "이것이 발전, 천천히 하지만 확실히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696247"
+    },
+    {
+      "english": "Learning Korean, is fun, right?",
+      "KOREAN": "한국어 배우기, 재미있죠, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696248"
+    },
+    {
+      "english": "You said that, perfectly, wow!",
+      "KOREAN": "그렇게 말씀하셨어요, 완벽하게, 와!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696249"
+    },
+    {
+      "english": "Understanding this, is a good sign.",
+      "KOREAN": "이해하는 것, 좋은 신호예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696250"
+    },
+    {
+      "english": "New word learned, good job!",
+      "KOREAN": "새 단어 배웠어요, 잘 했어요!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696251"
+    },
+    {
+      "english": "Practice makes, perfect, keep it up.",
+      "KOREAN": "연습이 완벽을, 만들어요, 계속하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696252"
+    },
+    {
+      "english": "Your accent, improving, yes!",
+      "KOREAN": "당신의 발음, 좋아지고 있어요, 네!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696253"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "KOREAN": "이 문장, 이제 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696254"
+    },
+    {
+      "english": "Connecting words, is key.",
+      "KOREAN": "단어를 연결하는 것, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696255"
+    },
+    {
+      "english": "You're understanding, culture too.",
+      "KOREAN": "문화도 이해하고 계세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696256"
+    },
+    {
+      "english": "Listening hard, paying off.",
+      "KOREAN": "열심히 듣는 것, 효과가 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696257"
+    },
+    {
+      "english": "Speaking Korean, feels good.",
+      "KOREAN": "한국어 말하기, 기분이 좋아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696258"
+    },
+    {
+      "english": "This sentence, is flowing well.",
+      "KOREAN": "이 문장, 잘 흘러가고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696259"
+    },
+    {
+      "english": "Korean grammar, not so scary.",
+      "KOREAN": "한국어 문법, 그렇게 안 무서워요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696260"
+    },
+    {
+      "english": "You're making, real connections.",
+      "KOREAN": "진짜 관계를, 만들고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696262"
+    },
+    {
+      "english": "This conversation, is improving.",
+      "KOREAN": "이 대화, 나아지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696268"
+    },
+    {
+      "english": "Learning, is a journey, enjoy.",
+      "KOREAN": "배움은, 여정이에요, 즐기세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696270"
+    },
+    {
+      "english": "Your understanding, growing daily.",
+      "KOREAN": "당신의 이해력, 매일 자라고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696271"
+    },
+    {
+      "english": "This expression, is very useful.",
+      "KOREAN": "이 표현, 아주 유용해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696272"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "KOREAN": "이제 감을 잡고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696273"
+    },
+    {
+      "english": "Sounds natural, good job.",
+      "KOREAN": "자연스럽게 들려요, 잘 했어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696274"
+    },
+    {
+      "english": "You're thinking, in Korean now.",
+      "KOREAN": "이제 한국어로 생각하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696275"
+    },
+    {
+      "english": "This grammar point, is clear.",
+      "KOREAN": "이 문법 사항, 명확해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696276"
+    },
+    {
+      "english": "You're building, fluency, slowly.",
+      "KOREAN": "유창함을, 쌓고 있어요, 천천히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696277"
+    },
+    {
+      "english": "Understanding nuances, is next.",
+      "KOREAN": "뉘앙스를 이해하는 것, 다음 단계예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696278"
+    },
+    {
+      "english": "Your pronunciation, sounds good.",
+      "KOREAN": "당신의 발음, 괜찮아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696279"
+    },
+    {
+      "english": "This phrase, makes me smile.",
+      "KOREAN": "이 표현, 저를 웃게 해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696280"
+    },
+    {
+      "english": "You're mastering, new words.",
+      "KOREAN": "새로운 단어들을, 정복하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696280"
+    },
+    {
+      "english": "Connecting with people, is the goal.",
+      "KOREAN": "사람들과 연결되는 것, 목표예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696281"
+    },
+    {
+      "english": "This is, a learning win.",
+      "KOREAN": "이것은, 배움의 승리예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696282"
+    },
+    {
+      "english": "Your Korean, is flowing now.",
+      "KOREAN": "당신의 한국어, 지금 흘러요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696283"
+    },
+    {
+      "english": "Understanding context, is powerful.",
+      "KOREAN": "맥락을 이해하는 것, 강력해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696284"
+    },
+    {
+      "english": "Keep that momentum, going.",
+      "KOREAN": "그 추진력을, 계속 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696285"
+    },
+    {
+      "english": "You're expressing, yourself well.",
+      "KOREAN": "자신을, 잘 표현하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696286"
+    },
+    {
+      "english": "This sentence, makes sense.",
+      "KOREAN": "이 문장, 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696287"
+    },
+    {
+      "english": "You're really, learning this.",
+      "KOREAN": "당신 정말, 배우고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696288"
+    },
+    {
+      "english": "Korean is, opening up.",
+      "KOREAN": "한국어가, 열리고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696289"
+    },
+    {
+      "english": "Small steps, big dreams, yes?",
+      "KOREAN": "작은 걸음, 큰 꿈, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696290"
+    },
+    {
+      "english": "Today's lesson, learned it well.",
+      "KOREAN": "오늘 배운 것, 잘 익혔어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696291"
+    },
+    {
+      "english": "Keep trying, you'll get there.",
+      "KOREAN": "계속 노력해요, 도착할 거예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696292"
+    },
+    {
+      "english": "This is progress, slowly but surely.",
+      "KOREAN": "이것이 발전, 천천히 하지만 확실히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696293"
+    },
+    {
+      "english": "Learning Korean, is fun, right?",
+      "KOREAN": "한국어 배우기, 재미있죠, 그렇죠?",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696294"
+    },
+    {
+      "english": "You said that, perfectly, wow!",
+      "KOREAN": "그렇게 말씀하셨어요, 완벽하게, 와!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696295"
+    },
+    {
+      "english": "Understanding this, is a good sign.",
+      "KOREAN": "이해하는 것, 좋은 신호예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696296"
+    },
+    {
+      "english": "New word learned, good job!",
+      "KOREAN": "새 단어 배웠어요, 잘 했어요!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696297"
+    },
+    {
+      "english": "Practice makes, perfect, keep it up.",
+      "KOREAN": "연습이 완벽을, 만들어요, 계속하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696298"
+    },
+    {
+      "english": "Your accent, improving, yes!",
+      "KOREAN": "당신의 발음, 좋아지고 있어요, 네!",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696299"
+    },
+    {
+      "english": "This phrase, makes sense now.",
+      "KOREAN": "이 문장, 이제 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696300"
+    },
+    {
+      "english": "Connecting words, is key.",
+      "KOREAN": "단어를 연결하는 것, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696301"
+    },
+    {
+      "english": "You're understanding, culture too.",
+      "KOREAN": "문화도 이해하고 계세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696302"
+    },
+    {
+      "english": "Listening hard, paying off.",
+      "KOREAN": "열심히 듣는 것, 효과가 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696303"
+    },
+    {
+      "english": "Speaking Korean, feels good.",
+      "KOREAN": "한국어 말하기, 기분이 좋아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696304"
+    },
+    {
+      "english": "This sentence, is flowing well.",
+      "KOREAN": "이 문장, 잘 흘러가고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696305"
+    },
+    {
+      "english": "Korean grammar, not so scary.",
+      "KOREAN": "한국어 문법, 그렇게 안 무서워요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696309"
+    },
+    {
+      "english": "You're making, real connections.",
+      "KOREAN": "진짜 관계를, 만들고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696310"
+    },
+    {
+      "english": "This conversation, is improving.",
+      "KOREAN": "이 대화, 나아지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696311"
+    },
+    {
+      "english": "Learning, is a journey, enjoy.",
+      "KOREAN": "배움은, 여정이에요, 즐기세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696312"
+    },
+    {
+      "english": "Your understanding, growing daily.",
+      "KOREAN": "당신의 이해력, 매일 자라고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696313"
+    },
+    {
+      "english": "This expression, is very useful.",
+      "KOREAN": "이 표현, 아주 유용해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696314"
+    },
+    {
+      "english": "You're getting, the hang of it.",
+      "KOREAN": "이제 감을 잡고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696315"
+    },
+    {
+      "english": "Sounds natural, good job.",
+      "KOREAN": "자연스럽게 들려요, 잘 했어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696316"
+    },
+    {
+      "english": "You're thinking, in Korean now.",
+      "KOREAN": "이제 한국어로 생각하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696317"
+    },
+    {
+      "english": "This grammar point, is clear.",
+      "KOREAN": "이 문법 사항, 명확해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696318"
+    },
+    {
+      "english": "You're building, fluency, slowly.",
+      "KOREAN": "유창함을, 쌓고 있어요, 천천히.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696319"
+    },
+    {
+      "english": "Understanding nuances, is next.",
+      "KOREAN": "뉘앙스를 이해하는 것, 다음 단계예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696320"
+    },
+    {
+      "english": "Your pronunciation, sounds good.",
+      "KOREAN": "당신의 발음, 괜찮아요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696321"
+    },
+    {
+      "english": "This phrase, makes me smile.",
+      "KOREAN": "이 표현, 저를 웃게 해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696322"
+    },
+    {
+      "english": "You're mastering, new words.",
+      "KOREAN": "새로운 단어들을, 정복하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696323"
+    },
+    {
+      "english": "Connecting with people, is the goal.",
+      "KOREAN": "사람들과 연결되는 것, 목표예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696324"
+    },
+    {
+      "english": "This is, a learning win.",
+      "KOREAN": "이것은, 배움의 승리예요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696325"
+    },
+    {
+      "english": "Your Korean, is flowing now.",
+      "KOREAN": "당신의 한국어, 지금 흘러요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696326"
+    },
+    {
+      "english": "Understanding context, is powerful.",
+      "KOREAN": "맥락을 이해하는 것, 강력해요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696327"
+    },
+    {
+      "english": "Keep that momentum, going.",
+      "KOREAN": "그 추진력을, 계속 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696328"
+    },
+    {
+      "english": "You're expressing, yourself well.",
+      "KOREAN": "자신을, 잘 표현하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696329"
+    },
+    {
+      "english": "This sentence, makes sense.",
+      "KOREAN": "이 문장, 말이 돼요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696330"
+    },
+    {
+      "english": "You're really, learning this.",
+      "KOREAN": "당신 정말, 배우고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696330"
+    },
+    {
+      "english": "Korean is, opening up.",
+      "KOREAN": "한국어가, 열리고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-07-17T21:27:52.696331"
     }
   ],
-  "last_updated": "2026-07-17T19:33:36.223288"
+  "last_updated": "2026-07-17T21:27:52.696333"
 }
