@@ -3599,7 +3599,727 @@
       "KOREAN": "특별한, 인연이, 느껴져.",
       "category": "Love",
       "generated_at": "2026-07-17T03:56:35.018231"
+    },
+    {
+      "english": "This food, is surprisingly, delicious!",
+      "KOREAN": "이 음식, 정말 맛있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223104"
+    },
+    {
+      "english": "Wow, you can, speak Korean, so well!",
+      "KOREAN": "와, 한국말, 정말 잘하시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223116"
+    },
+    {
+      "english": "This place, has a unique, charm.",
+      "KOREAN": "이곳, 독특한, 매력이 있어요.",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223118"
+    },
+    {
+      "english": "I learned, a new word, today!",
+      "KOREAN": "오늘, 새로운 단어, 배웠어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223119"
+    },
+    {
+      "english": "This song, is super, catchy!",
+      "KOREAN": "이 노래, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223120"
+    },
+    {
+      "english": "Your idea, is brilliant, truly!",
+      "KOREAN": "당신 아이디어, 정말 뛰어나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223121"
+    },
+    {
+      "english": "This is, the best, view ever!",
+      "KOREAN": "이것, 최고의, 풍경이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223122"
+    },
+    {
+      "english": "I love, this K-drama, plot!",
+      "KOREAN": "이 드라마, 줄거리 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223125"
+    },
+    {
+      "english": "This gift, is so thoughtful!",
+      "KOREAN": "이 선물, 정말 센스 있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223127"
+    },
+    {
+      "english": "You made, my day, brighter!",
+      "KOREAN": "덕분에, 오늘이, 밝아졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223128"
+    },
+    {
+      "english": "This coffee, is amazing, wow!",
+      "KOREAN": "이 커피, 정말 맛있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223129"
+    },
+    {
+      "english": "Your fashion, sense is, impeccable!",
+      "KOREAN": "당신 패션, 감각 최고예요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223131"
+    },
+    {
+      "english": "This surprise, is fantastic!",
+      "KOREAN": "이 서프라이즈, 환상적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223132"
+    },
+    {
+      "english": "I'm so, happy, right now!",
+      "KOREAN": "정말, 행복해요, 지금!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223133"
+    },
+    {
+      "english": "This is, unexpected, joy!",
+      "KOREAN": "이건, 예상치 못한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223134"
+    },
+    {
+      "english": "You have, a great, laugh!",
+      "KOREAN": "웃음소리가, 정말 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223135"
+    },
+    {
+      "english": "This moment, is perfect, really!",
+      "KOREAN": "이 순간, 정말 완벽해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223136"
+    },
+    {
+      "english": "Your energy, is infectious!",
+      "KOREAN": "당신의 에너지가, 넘쳐요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223137"
+    },
+    {
+      "english": "This cake, is heavenly, sweet!",
+      "KOREAN": "이 케이크, 천상의 맛이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223138"
+    },
+    {
+      "english": "You bring, so much, happiness!",
+      "KOREAN": "당신은, 많은 행복을, 가져다줘요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223139"
+    },
+    {
+      "english": "This adventure, is exciting!",
+      "KOREAN": "이 모험, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223140"
+    },
+    {
+      "english": "Your kindness, shines through!",
+      "KOREAN": "당신의 친절함이, 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223141"
+    },
+    {
+      "english": "This music, makes me, dance!",
+      "KOREAN": "이 음악, 춤추게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223142"
+    },
+    {
+      "english": "You have, a wonderful, spirit!",
+      "KOREAN": "당신은, 멋진 정신을, 가졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223143"
+    },
+    {
+      "english": "This is, pure, delight!",
+      "KOREAN": "이것은, 순수한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223186"
+    },
+    {
+      "english": "Your creativity, is amazing!",
+      "KOREAN": "당신의 창의력, 놀라워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223188"
+    },
+    {
+      "english": "This feeling, is pure, bliss!",
+      "KOREAN": "이 기분, 완벽한, 행복이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223189"
+    },
+    {
+      "english": "You are, so talented, wow!",
+      "KOREAN": "당신, 정말 재능 있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223190"
+    },
+    {
+      "english": "This discovery, is exciting!",
+      "KOREAN": "이 발견, 정말 흥미로워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223191"
+    },
+    {
+      "english": "Your smile, is radiant, truly!",
+      "KOREAN": "당신 미소, 정말 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223192"
+    },
+    {
+      "english": "This experience, is joyful!",
+      "KOREAN": "이 경험, 즐거워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223193"
+    },
+    {
+      "english": "You have, a kind, heart!",
+      "KOREAN": "마음씨가, 정말 곱네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223194"
+    },
+    {
+      "english": "This weather, is perfect, today!",
+      "KOREAN": "날씨, 정말 좋네요, 오늘!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223195"
+    },
+    {
+      "english": "Your passion, is inspiring!",
+      "KOREAN": "당신의 열정, 감동적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223196"
+    },
+    {
+      "english": "This is, so much, fun!",
+      "KOREAN": "이거, 정말 재미있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223196"
+    },
+    {
+      "english": "You're so, full, of life!",
+      "KOREAN": "생기가, 넘치시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223198"
+    },
+    {
+      "english": "This art, is beautiful!",
+      "KOREAN": "이 예술, 아름다워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223198"
+    },
+    {
+      "english": "Your presence, brightens, everything!",
+      "KOREAN": "당신 존재가, 모든 것을, 밝게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223199"
+    },
+    {
+      "english": "This is, a happy, surprise!",
+      "KOREAN": "이건, 행복한, 깜짝 선물이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223200"
+    },
+    {
+      "english": "You make, things better, always!",
+      "KOREAN": "당신은, 늘 모든 것을, 좋게 만들어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223201"
+    },
+    {
+      "english": "This food, is surprisingly, delicious!",
+      "KOREAN": "이 음식, 정말 맛있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223202"
+    },
+    {
+      "english": "Wow, you can, speak Korean, so well!",
+      "KOREAN": "와, 한국말, 정말 잘하시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223203"
+    },
+    {
+      "english": "This place, has a unique, charm.",
+      "KOREAN": "이곳, 독특한, 매력이 있어요.",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223204"
+    },
+    {
+      "english": "I learned, a new word, today!",
+      "KOREAN": "오늘, 새로운 단어, 배웠어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223205"
+    },
+    {
+      "english": "This song, is super, catchy!",
+      "KOREAN": "이 노래, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223207"
+    },
+    {
+      "english": "Your idea, is brilliant, truly!",
+      "KOREAN": "당신 아이디어, 정말 뛰어나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223208"
+    },
+    {
+      "english": "This is, the best, view ever!",
+      "KOREAN": "이것, 최고의, 풍경이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223209"
+    },
+    {
+      "english": "I love, this K-drama, plot!",
+      "KOREAN": "이 드라마, 줄거리 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223210"
+    },
+    {
+      "english": "This gift, is so thoughtful!",
+      "KOREAN": "이 선물, 정말 센스 있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223211"
+    },
+    {
+      "english": "You made, my day, brighter!",
+      "KOREAN": "덕분에, 오늘이, 밝아졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223212"
+    },
+    {
+      "english": "This coffee, is amazing, wow!",
+      "KOREAN": "이 커피, 정말 맛있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223213"
+    },
+    {
+      "english": "Your fashion, sense is, impeccable!",
+      "KOREAN": "당신 패션, 감각 최고예요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223214"
+    },
+    {
+      "english": "This surprise, is fantastic!",
+      "KOREAN": "이 서프라이즈, 환상적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223215"
+    },
+    {
+      "english": "I'm so, happy, right now!",
+      "KOREAN": "정말, 행복해요, 지금!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223216"
+    },
+    {
+      "english": "This is, unexpected, joy!",
+      "KOREAN": "이건, 예상치 못한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223216"
+    },
+    {
+      "english": "You have, a great, laugh!",
+      "KOREAN": "웃음소리가, 정말 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223217"
+    },
+    {
+      "english": "This moment, is perfect, really!",
+      "KOREAN": "이 순간, 정말 완벽해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223218"
+    },
+    {
+      "english": "Your energy, is infectious!",
+      "KOREAN": "당신의 에너지가, 넘쳐요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223219"
+    },
+    {
+      "english": "This cake, is heavenly, sweet!",
+      "KOREAN": "이 케이크, 천상의 맛이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223220"
+    },
+    {
+      "english": "You bring, so much, happiness!",
+      "KOREAN": "당신은, 많은 행복을, 가져다줘요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223221"
+    },
+    {
+      "english": "This adventure, is exciting!",
+      "KOREAN": "이 모험, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223222"
+    },
+    {
+      "english": "Your kindness, shines through!",
+      "KOREAN": "당신의 친절함이, 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223223"
+    },
+    {
+      "english": "This music, makes me, dance!",
+      "KOREAN": "이 음악, 춤추게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223224"
+    },
+    {
+      "english": "You have, a wonderful, spirit!",
+      "KOREAN": "당신은, 멋진 정신을, 가졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223225"
+    },
+    {
+      "english": "This is, pure, delight!",
+      "KOREAN": "이것은, 순수한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223226"
+    },
+    {
+      "english": "Your creativity, is amazing!",
+      "KOREAN": "당신의 창의력, 놀라워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223227"
+    },
+    {
+      "english": "This feeling, is pure, bliss!",
+      "KOREAN": "이 기분, 완벽한, 행복이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223228"
+    },
+    {
+      "english": "You are, so talented, wow!",
+      "KOREAN": "당신, 정말 재능 있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223229"
+    },
+    {
+      "english": "This discovery, is exciting!",
+      "KOREAN": "이 발견, 정말 흥미로워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223230"
+    },
+    {
+      "english": "Your smile, is radiant, truly!",
+      "KOREAN": "당신 미소, 정말 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223231"
+    },
+    {
+      "english": "This experience, is joyful!",
+      "KOREAN": "이 경험, 즐거워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223232"
+    },
+    {
+      "english": "You have, a kind, heart!",
+      "KOREAN": "마음씨가, 정말 곱네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223233"
+    },
+    {
+      "english": "This weather, is perfect, today!",
+      "KOREAN": "날씨, 정말 좋네요, 오늘!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223234"
+    },
+    {
+      "english": "Your passion, is inspiring!",
+      "KOREAN": "당신의 열정, 감동적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223236"
+    },
+    {
+      "english": "This is, so much, fun!",
+      "KOREAN": "이거, 정말 재미있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223237"
+    },
+    {
+      "english": "You're so, full, of life!",
+      "KOREAN": "생기가, 넘치시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223239"
+    },
+    {
+      "english": "This art, is beautiful!",
+      "KOREAN": "이 예술, 아름다워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223239"
+    },
+    {
+      "english": "Your presence, brightens, everything!",
+      "KOREAN": "당신 존재가, 모든 것을, 밝게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223240"
+    },
+    {
+      "english": "This is, a happy, surprise!",
+      "KOREAN": "이건, 행복한, 깜짝 선물이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223241"
+    },
+    {
+      "english": "You make, things better, always!",
+      "KOREAN": "당신은, 늘 모든 것을, 좋게 만들어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223242"
+    },
+    {
+      "english": "This food, is surprisingly, delicious!",
+      "KOREAN": "이 음식, 정말 맛있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223243"
+    },
+    {
+      "english": "Wow, you can, speak Korean, so well!",
+      "KOREAN": "와, 한국말, 정말 잘하시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223244"
+    },
+    {
+      "english": "This place, has a unique, charm.",
+      "KOREAN": "이곳, 독특한, 매력이 있어요.",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223245"
+    },
+    {
+      "english": "I learned, a new word, today!",
+      "KOREAN": "오늘, 새로운 단어, 배웠어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223246"
+    },
+    {
+      "english": "This song, is super, catchy!",
+      "KOREAN": "이 노래, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223247"
+    },
+    {
+      "english": "Your idea, is brilliant, truly!",
+      "KOREAN": "당신 아이디어, 정말 뛰어나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223248"
+    },
+    {
+      "english": "This is, the best, view ever!",
+      "KOREAN": "이것, 최고의, 풍경이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223249"
+    },
+    {
+      "english": "I love, this K-drama, plot!",
+      "KOREAN": "이 드라마, 줄거리 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223250"
+    },
+    {
+      "english": "This gift, is so thoughtful!",
+      "KOREAN": "이 선물, 정말 센스 있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223250"
+    },
+    {
+      "english": "You made, my day, brighter!",
+      "KOREAN": "덕분에, 오늘이, 밝아졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223251"
+    },
+    {
+      "english": "This coffee, is amazing, wow!",
+      "KOREAN": "이 커피, 정말 맛있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223252"
+    },
+    {
+      "english": "Your fashion, sense is, impeccable!",
+      "KOREAN": "당신 패션, 감각 최고예요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223253"
+    },
+    {
+      "english": "This surprise, is fantastic!",
+      "KOREAN": "이 서프라이즈, 환상적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223254"
+    },
+    {
+      "english": "I'm so, happy, right now!",
+      "KOREAN": "정말, 행복해요, 지금!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223255"
+    },
+    {
+      "english": "This is, unexpected, joy!",
+      "KOREAN": "이건, 예상치 못한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223260"
+    },
+    {
+      "english": "You have, a great, laugh!",
+      "KOREAN": "웃음소리가, 정말 좋아요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223262"
+    },
+    {
+      "english": "This moment, is perfect, really!",
+      "KOREAN": "이 순간, 정말 완벽해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223263"
+    },
+    {
+      "english": "Your energy, is infectious!",
+      "KOREAN": "당신의 에너지가, 넘쳐요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223263"
+    },
+    {
+      "english": "This cake, is heavenly, sweet!",
+      "KOREAN": "이 케이크, 천상의 맛이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223264"
+    },
+    {
+      "english": "You bring, so much, happiness!",
+      "KOREAN": "당신은, 많은 행복을, 가져다줘요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223265"
+    },
+    {
+      "english": "This adventure, is exciting!",
+      "KOREAN": "이 모험, 정말 신나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223266"
+    },
+    {
+      "english": "Your kindness, shines through!",
+      "KOREAN": "당신의 친절함이, 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223267"
+    },
+    {
+      "english": "This music, makes me, dance!",
+      "KOREAN": "이 음악, 춤추게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223268"
+    },
+    {
+      "english": "You have, a wonderful, spirit!",
+      "KOREAN": "당신은, 멋진 정신을, 가졌어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223269"
+    },
+    {
+      "english": "This is, pure, delight!",
+      "KOREAN": "이것은, 순수한, 기쁨이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223270"
+    },
+    {
+      "english": "Your creativity, is amazing!",
+      "KOREAN": "당신의 창의력, 놀라워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223271"
+    },
+    {
+      "english": "This feeling, is pure, bliss!",
+      "KOREAN": "이 기분, 완벽한, 행복이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223272"
+    },
+    {
+      "english": "You are, so talented, wow!",
+      "KOREAN": "당신, 정말 재능 있어요, 와!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223275"
+    },
+    {
+      "english": "This discovery, is exciting!",
+      "KOREAN": "이 발견, 정말 흥미로워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223276"
+    },
+    {
+      "english": "Your smile, is radiant, truly!",
+      "KOREAN": "당신 미소, 정말 빛나요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223277"
+    },
+    {
+      "english": "This experience, is joyful!",
+      "KOREAN": "이 경험, 즐거워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223278"
+    },
+    {
+      "english": "You have, a kind, heart!",
+      "KOREAN": "마음씨가, 정말 곱네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223279"
+    },
+    {
+      "english": "This weather, is perfect, today!",
+      "KOREAN": "날씨, 정말 좋네요, 오늘!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223280"
+    },
+    {
+      "english": "Your passion, is inspiring!",
+      "KOREAN": "당신의 열정, 감동적이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223281"
+    },
+    {
+      "english": "This is, so much, fun!",
+      "KOREAN": "이거, 정말 재미있어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223281"
+    },
+    {
+      "english": "You're so, full, of life!",
+      "KOREAN": "생기가, 넘치시네요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223282"
+    },
+    {
+      "english": "This art, is beautiful!",
+      "KOREAN": "이 예술, 아름다워요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223283"
+    },
+    {
+      "english": "Your presence, brightens, everything!",
+      "KOREAN": "당신 존재가, 모든 것을, 밝게 해요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223284"
+    },
+    {
+      "english": "This is, a happy, surprise!",
+      "KOREAN": "이건, 행복한, 깜짝 선물이에요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223285"
+    },
+    {
+      "english": "You make, things better, always!",
+      "KOREAN": "당신은, 늘 모든 것을, 좋게 만들어요!",
+      "category": "Joy",
+      "generated_at": "2026-07-17T19:33:36.223286"
     }
   ],
-  "last_updated": "2026-07-17T03:56:35.018233"
+  "last_updated": "2026-07-17T19:33:36.223288"
 }
