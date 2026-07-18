@@ -5039,7 +5039,727 @@
       "KOREAN": "한국어가, 열리고 있어요.",
       "category": "Success",
       "generated_at": "2026-07-17T21:27:52.696331"
+    },
+    {
+      "english": "To eat well, to live well.",
+      "KOREAN": "잘 먹고, 잘 살자.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832181"
+    },
+    {
+      "english": "For good vibes, let's study.",
+      "KOREAN": "좋은 기운, 받으려고 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832195"
+    },
+    {
+      "english": "To grab a bite, maybe later?",
+      "KOREAN": "밥 먹으려고, 나중에?",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832197"
+    },
+    {
+      "english": "Just for fun, let's try this.",
+      "KOREAN": "재미 삼아, 이것 해봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832198"
+    },
+    {
+      "english": "To impress them, practice more.",
+      "KOREAN": "그들에게 보여주려고, 더 연습해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832199"
+    },
+    {
+      "english": "For a good sleep, no late nights.",
+      "KOREAN": "잘 자려고, 밤늦게 안 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832200"
+    },
+    {
+      "english": "To win big, work smart.",
+      "KOREAN": "크게 이기려고, 똑똑하게 일해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832201"
+    },
+    {
+      "english": "For a quick smile, share this.",
+      "KOREAN": "빨리 웃으려고, 이거 공유해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832205"
+    },
+    {
+      "english": "To feel alive, sing loudly.",
+      "KOREAN": "살아있다고 느끼려고, 크게 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832208"
+    },
+    {
+      "english": "For a good grade, study hard.",
+      "KOREAN": "좋은 점수 받으려고, 열심히 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832209"
+    },
+    {
+      "english": "To get moving, let's go now.",
+      "KOREAN": "움직이려고, 지금 가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832210"
+    },
+    {
+      "english": "For a good story, listen up.",
+      "KOREAN": "재미있는 이야기 하려고, 잘 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832212"
+    },
+    {
+      "english": "To be brave, try again.",
+      "KOREAN": "용감해지려고, 다시 시도해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832213"
+    },
+    {
+      "english": "For a sweet dream, close your eyes.",
+      "KOREAN": "달콤한 꿈 꾸려고, 눈 감아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832214"
+    },
+    {
+      "english": "To feel refreshed, take a break.",
+      "KOREAN": "상쾌하려고, 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832215"
+    },
+    {
+      "english": "For a warm heart, be kind.",
+      "KOREAN": "따뜻한 마음 가지려고, 친절해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832216"
+    },
+    {
+      "english": "To be noticed, stand out.",
+      "KOREAN": "눈에 띄려고, 돋보여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832217"
+    },
+    {
+      "english": "For a great day, start positive.",
+      "KOREAN": "멋진 하루 보내려고, 긍정적으로 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832219"
+    },
+    {
+      "english": "To feel peaceful, breathe deep.",
+      "KOREAN": "평화로우려고, 깊이 숨 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832220"
+    },
+    {
+      "english": "For a good laugh, tell a joke.",
+      "KOREAN": "많이 웃으려고, 농담해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832221"
+    },
+    {
+      "english": "To be healthy, eat veggies.",
+      "KOREAN": "건강해지려고, 채소 먹어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832222"
+    },
+    {
+      "english": "For good luck, cross your fingers.",
+      "KOREAN": "행운을 빌려고, 손가락 꼬아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832225"
+    },
+    {
+      "english": "To feel strong, lift weights.",
+      "KOREAN": "강해지려고, 무게 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832226"
+    },
+    {
+      "english": "For a good chat, pull up a chair.",
+      "KOREAN": "이야기 나누려고, 의자 끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832227"
+    },
+    {
+      "english": "To be creative, draw something.",
+      "KOREAN": "창의적이 되려고, 그림 그려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832228"
+    },
+    {
+      "english": "For a quick win, try your best.",
+      "KOREAN": "빨리 이기려고, 최선을 다해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832229"
+    },
+    {
+      "english": "To feel happy, sing a song.",
+      "KOREAN": "행복해지려고, 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832230"
+    },
+    {
+      "english": "For a sweet treat, bake cookies.",
+      "KOREAN": "달콤한 간식 먹으려고, 쿠키 구워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832231"
+    },
+    {
+      "english": "To look sharp, iron your shirt.",
+      "KOREAN": "깔끔해 보이려고, 셔츠 다려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832232"
+    },
+    {
+      "english": "For a good show, pay attention.",
+      "KOREAN": "좋은 공연 보려고, 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832233"
+    },
+    {
+      "english": "To feel excited, plan a trip.",
+      "KOREAN": "신나려고, 여행 계획해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832234"
+    },
+    {
+      "english": "For a clear mind, meditate.",
+      "KOREAN": "맑은 정신 가지려고, 명상해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832234"
+    },
+    {
+      "english": "To be helpful, lend a hand.",
+      "KOREAN": "도움되려고, 손 빌려줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832235"
+    },
+    {
+      "english": "For a good habit, start small.",
+      "KOREAN": "좋은 습관 가지려고, 작게 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832236"
+    },
+    {
+      "english": "To feel confident, speak up.",
+      "KOREAN": "자신감 가지려고, 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832237"
+    },
+    {
+      "english": "For a good price, bargain hard.",
+      "KOREAN": "좋은 가격 얻으려고, 흥정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832238"
+    },
+    {
+      "english": "To be clever, think ahead.",
+      "KOREAN": "똑똑해지려고, 미리 생각해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832239"
+    },
+    {
+      "english": "For a better life, learn this.",
+      "KOREAN": "더 나은 삶 살려고, 이거 배워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832240"
+    },
+    {
+      "english": "To make friends, be friendly.",
+      "KOREAN": "친구 사귀려고, 친근하게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832241"
+    },
+    {
+      "english": "For good health, drink water.",
+      "KOREAN": "건강을 위해, 물 마셔요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832242"
+    },
+    {
+      "english": "To feel loved, give hugs.",
+      "KOREAN": "사랑받으려고, 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832243"
+    },
+    {
+      "english": "For a good cause, donate.",
+      "KOREAN": "좋은 일 하려고, 기부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832244"
+    },
+    {
+      "english": "To eat well, to live well.",
+      "KOREAN": "잘 먹고, 잘 살자.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832245"
+    },
+    {
+      "english": "For good vibes, let's study.",
+      "KOREAN": "좋은 기운, 받으려고 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832246"
+    },
+    {
+      "english": "To grab a bite, maybe later?",
+      "KOREAN": "밥 먹으려고, 나중에?",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832247"
+    },
+    {
+      "english": "Just for fun, let's try this.",
+      "KOREAN": "재미 삼아, 이것 해봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832249"
+    },
+    {
+      "english": "To impress them, practice more.",
+      "KOREAN": "그들에게 보여주려고, 더 연습해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832250"
+    },
+    {
+      "english": "For a good sleep, no late nights.",
+      "KOREAN": "잘 자려고, 밤늦게 안 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832251"
+    },
+    {
+      "english": "To win big, work smart.",
+      "KOREAN": "크게 이기려고, 똑똑하게 일해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832252"
+    },
+    {
+      "english": "For a quick smile, share this.",
+      "KOREAN": "빨리 웃으려고, 이거 공유해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832253"
+    },
+    {
+      "english": "To feel alive, sing loudly.",
+      "KOREAN": "살아있다고 느끼려고, 크게 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832254"
+    },
+    {
+      "english": "For a good grade, study hard.",
+      "KOREAN": "좋은 점수 받으려고, 열심히 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832255"
+    },
+    {
+      "english": "To get moving, let's go now.",
+      "KOREAN": "움직이려고, 지금 가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832256"
+    },
+    {
+      "english": "For a good story, listen up.",
+      "KOREAN": "재미있는 이야기 하려고, 잘 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832258"
+    },
+    {
+      "english": "To be brave, try again.",
+      "KOREAN": "용감해지려고, 다시 시도해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832259"
+    },
+    {
+      "english": "For a sweet dream, close your eyes.",
+      "KOREAN": "달콤한 꿈 꾸려고, 눈 감아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832260"
+    },
+    {
+      "english": "To feel refreshed, take a break.",
+      "KOREAN": "상쾌하려고, 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832261"
+    },
+    {
+      "english": "For a warm heart, be kind.",
+      "KOREAN": "따뜻한 마음 가지려고, 친절해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832262"
+    },
+    {
+      "english": "To be noticed, stand out.",
+      "KOREAN": "눈에 띄려고, 돋보여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832263"
+    },
+    {
+      "english": "For a great day, start positive.",
+      "KOREAN": "멋진 하루 보내려고, 긍정적으로 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832264"
+    },
+    {
+      "english": "To feel peaceful, breathe deep.",
+      "KOREAN": "평화로우려고, 깊이 숨 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832265"
+    },
+    {
+      "english": "For a good laugh, tell a joke.",
+      "KOREAN": "많이 웃으려고, 농담해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832266"
+    },
+    {
+      "english": "To be healthy, eat veggies.",
+      "KOREAN": "건강해지려고, 채소 먹어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832267"
+    },
+    {
+      "english": "For good luck, cross your fingers.",
+      "KOREAN": "행운을 빌려고, 손가락 꼬아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832268"
+    },
+    {
+      "english": "To feel strong, lift weights.",
+      "KOREAN": "강해지려고, 무게 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832269"
+    },
+    {
+      "english": "For a good chat, pull up a chair.",
+      "KOREAN": "이야기 나누려고, 의자 끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832270"
+    },
+    {
+      "english": "To be creative, draw something.",
+      "KOREAN": "창의적이 되려고, 그림 그려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832271"
+    },
+    {
+      "english": "For a quick win, try your best.",
+      "KOREAN": "빨리 이기려고, 최선을 다해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832272"
+    },
+    {
+      "english": "To feel happy, sing a song.",
+      "KOREAN": "행복해지려고, 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832273"
+    },
+    {
+      "english": "For a sweet treat, bake cookies.",
+      "KOREAN": "달콤한 간식 먹으려고, 쿠키 구워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832274"
+    },
+    {
+      "english": "To look sharp, iron your shirt.",
+      "KOREAN": "깔끔해 보이려고, 셔츠 다려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832275"
+    },
+    {
+      "english": "For a good show, pay attention.",
+      "KOREAN": "좋은 공연 보려고, 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832276"
+    },
+    {
+      "english": "To feel excited, plan a trip.",
+      "KOREAN": "신나려고, 여행 계획해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832278"
+    },
+    {
+      "english": "For a clear mind, meditate.",
+      "KOREAN": "맑은 정신 가지려고, 명상해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832279"
+    },
+    {
+      "english": "To be helpful, lend a hand.",
+      "KOREAN": "도움되려고, 손 빌려줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832280"
+    },
+    {
+      "english": "For a good habit, start small.",
+      "KOREAN": "좋은 습관 가지려고, 작게 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832281"
+    },
+    {
+      "english": "To feel confident, speak up.",
+      "KOREAN": "자신감 가지려고, 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832282"
+    },
+    {
+      "english": "For a good price, bargain hard.",
+      "KOREAN": "좋은 가격 얻으려고, 흥정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832283"
+    },
+    {
+      "english": "To be clever, think ahead.",
+      "KOREAN": "똑똑해지려고, 미리 생각해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832284"
+    },
+    {
+      "english": "For a better life, learn this.",
+      "KOREAN": "더 나은 삶 살려고, 이거 배워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832285"
+    },
+    {
+      "english": "To make friends, be friendly.",
+      "KOREAN": "친구 사귀려고, 친근하게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832286"
+    },
+    {
+      "english": "For good health, drink water.",
+      "KOREAN": "건강을 위해, 물 마셔요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832287"
+    },
+    {
+      "english": "To feel loved, give hugs.",
+      "KOREAN": "사랑받으려고, 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832288"
+    },
+    {
+      "english": "For a good cause, donate.",
+      "KOREAN": "좋은 일 하려고, 기부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832289"
+    },
+    {
+      "english": "To eat well, to live well.",
+      "KOREAN": "잘 먹고, 잘 살자.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832290"
+    },
+    {
+      "english": "For good vibes, let's study.",
+      "KOREAN": "좋은 기운, 받으려고 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832291"
+    },
+    {
+      "english": "To grab a bite, maybe later?",
+      "KOREAN": "밥 먹으려고, 나중에?",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832292"
+    },
+    {
+      "english": "Just for fun, let's try this.",
+      "KOREAN": "재미 삼아, 이것 해봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832293"
+    },
+    {
+      "english": "To impress them, practice more.",
+      "KOREAN": "그들에게 보여주려고, 더 연습해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832294"
+    },
+    {
+      "english": "For a good sleep, no late nights.",
+      "KOREAN": "잘 자려고, 밤늦게 안 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832295"
+    },
+    {
+      "english": "To win big, work smart.",
+      "KOREAN": "크게 이기려고, 똑똑하게 일해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832296"
+    },
+    {
+      "english": "For a quick smile, share this.",
+      "KOREAN": "빨리 웃으려고, 이거 공유해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832297"
+    },
+    {
+      "english": "To feel alive, sing loudly.",
+      "KOREAN": "살아있다고 느끼려고, 크게 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832298"
+    },
+    {
+      "english": "For a good grade, study hard.",
+      "KOREAN": "좋은 점수 받으려고, 열심히 공부해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832299"
+    },
+    {
+      "english": "To get moving, let's go now.",
+      "KOREAN": "움직이려고, 지금 가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832300"
+    },
+    {
+      "english": "For a good story, listen up.",
+      "KOREAN": "재미있는 이야기 하려고, 잘 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832301"
+    },
+    {
+      "english": "To be brave, try again.",
+      "KOREAN": "용감해지려고, 다시 시도해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832302"
+    },
+    {
+      "english": "For a sweet dream, close your eyes.",
+      "KOREAN": "달콤한 꿈 꾸려고, 눈 감아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832303"
+    },
+    {
+      "english": "To feel refreshed, take a break.",
+      "KOREAN": "상쾌하려고, 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832304"
+    },
+    {
+      "english": "For a warm heart, be kind.",
+      "KOREAN": "따뜻한 마음 가지려고, 친절해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832305"
+    },
+    {
+      "english": "To be noticed, stand out.",
+      "KOREAN": "눈에 띄려고, 돋보여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832306"
+    },
+    {
+      "english": "For a great day, start positive.",
+      "KOREAN": "멋진 하루 보내려고, 긍정적으로 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832307"
+    },
+    {
+      "english": "To feel peaceful, breathe deep.",
+      "KOREAN": "평화로우려고, 깊이 숨 쉬어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832307"
+    },
+    {
+      "english": "For a good laugh, tell a joke.",
+      "KOREAN": "많이 웃으려고, 농담해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832310"
+    },
+    {
+      "english": "To be healthy, eat veggies.",
+      "KOREAN": "건강해지려고, 채소 먹어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832312"
+    },
+    {
+      "english": "For good luck, cross your fingers.",
+      "KOREAN": "행운을 빌려고, 손가락 꼬아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832313"
+    },
+    {
+      "english": "To feel strong, lift weights.",
+      "KOREAN": "강해지려고, 무게 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832313"
+    },
+    {
+      "english": "For a good chat, pull up a chair.",
+      "KOREAN": "이야기 나누려고, 의자 끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832314"
+    },
+    {
+      "english": "To be creative, draw something.",
+      "KOREAN": "창의적이 되려고, 그림 그려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832315"
+    },
+    {
+      "english": "For a quick win, try your best.",
+      "KOREAN": "빨리 이기려고, 최선을 다해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832316"
+    },
+    {
+      "english": "To feel happy, sing a song.",
+      "KOREAN": "행복해지려고, 노래해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832317"
+    },
+    {
+      "english": "For a sweet treat, bake cookies.",
+      "KOREAN": "달콤한 간식 먹으려고, 쿠키 구워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832318"
+    },
+    {
+      "english": "To look sharp, iron your shirt.",
+      "KOREAN": "깔끔해 보이려고, 셔츠 다려요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832319"
+    },
+    {
+      "english": "For a good show, pay attention.",
+      "KOREAN": "좋은 공연 보려고, 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832320"
+    },
+    {
+      "english": "To feel excited, plan a trip.",
+      "KOREAN": "신나려고, 여행 계획해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832321"
+    },
+    {
+      "english": "For a clear mind, meditate.",
+      "KOREAN": "맑은 정신 가지려고, 명상해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832322"
+    },
+    {
+      "english": "To be helpful, lend a hand.",
+      "KOREAN": "도움되려고, 손 빌려줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832323"
+    },
+    {
+      "english": "For a good habit, start small.",
+      "KOREAN": "좋은 습관 가지려고, 작게 시작해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832324"
+    },
+    {
+      "english": "To feel confident, speak up.",
+      "KOREAN": "자신감 가지려고, 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832324"
+    },
+    {
+      "english": "For a good price, bargain hard.",
+      "KOREAN": "좋은 가격 얻으려고, 흥정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-18T03:56:59.832325"
     }
   ],
-  "last_updated": "2026-07-17T21:27:52.696333"
+  "last_updated": "2026-07-18T03:56:59.832327"
 }
