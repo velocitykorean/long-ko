@@ -6479,7 +6479,727 @@
       "KOREAN": "제 사과를 받아주세요.",
       "category": "Forgiveness",
       "generated_at": "2026-07-19T04:22:17.224407"
+    },
+    {
+      "english": "Brave heart, steady steps.",
+      "KOREAN": "용감한 마음, 굳센 발걸음.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423220"
+    },
+    {
+      "english": "Face it, with all you've got.",
+      "KOREAN": "맞서 싸워, 네 모든 것으로.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423228"
+    },
+    {
+      "english": "Stand tall, when you feel small.",
+      "KOREAN": "당당히 서, 작게 느껴질 때.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423230"
+    },
+    {
+      "english": "Dare to try, something new.",
+      "KOREAN": "새로운 것에, 도전해 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423232"
+    },
+    {
+      "english": "Rise up, with a roar.",
+      "KOREAN": "일어나, 포효와 함께.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423233"
+    },
+    {
+      "english": "Bold spirit, wins the day.",
+      "KOREAN": "담대한 정신, 승리하리.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423234"
+    },
+    {
+      "english": "Don't back down, push through.",
+      "KOREAN": "물러서지 마, 나아가.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423235"
+    },
+    {
+      "english": "Inner fire, burns bright.",
+      "KOREAN": "내면의 불꽃, 환하게 타올라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423238"
+    },
+    {
+      "english": "Fear less, live more.",
+      "KOREAN": "두려움 줄이고, 더 살아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423240"
+    },
+    {
+      "english": "Find your grit, hold on.",
+      "KOREAN": "용기 찾아, 붙잡아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423241"
+    },
+    {
+      "english": "Walk through the storm.",
+      "KOREAN": "폭풍 속을 걸어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423242"
+    },
+    {
+      "english": "Never quit, keep fighting.",
+      "KOREAN": "포기 말고, 계속 싸워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423244"
+    },
+    {
+      "english": "Strong will, can move mountains.",
+      "KOREAN": "강한 의지, 산을 옮겨.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423245"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "KOREAN": "도전을 받아들여, 강해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423246"
+    },
+    {
+      "english": "Lead the way, bravely.",
+      "KOREAN": "앞장서, 용감하게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423247"
+    },
+    {
+      "english": "Your spirit, will not break.",
+      "KOREAN": "너의 정신, 꺾이지 않을 거야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423248"
+    },
+    {
+      "english": "Fight for your dreams, now.",
+      "KOREAN": "꿈을 위해 싸워, 지금.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423252"
+    },
+    {
+      "english": "The brave, find their way.",
+      "KOREAN": "용감한 자, 길을 찾는다.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423253"
+    },
+    {
+      "english": "Take the leap, have faith.",
+      "KOREAN": "뛰어들어, 믿음을 가져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423255"
+    },
+    {
+      "english": "Courage is, your superpower.",
+      "KOREAN": "용기란, 너의 초능력.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423256"
+    },
+    {
+      "english": "Stand up, for what's right.",
+      "KOREAN": "옳은 것을 위해, 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423257"
+    },
+    {
+      "english": "Even small acts, can be brave.",
+      "KOREAN": "작은 행동도, 용감할 수 있어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423259"
+    },
+    {
+      "english": "Push your limits, see what happens.",
+      "KOREAN": "한계를 밀어붙여, 결과를 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423261"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "KOREAN": "너의 용기, 타인에게 영감을 줘.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423262"
+    },
+    {
+      "english": "It takes guts, to be kind.",
+      "KOREAN": "친절하기 위해, 배짱이 필요해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423263"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "KOREAN": "대담하게, 밝게, 너 자신답게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423264"
+    },
+    {
+      "english": "The night is darkest, before dawn.",
+      "KOREAN": "새벽이 오기 전, 밤이 가장 어두워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423265"
+    },
+    {
+      "english": "One brave act, changes everything.",
+      "KOREAN": "한 번의 용감한 행동, 모든 것을 바꿔.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423266"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "KOREAN": "편안한 곳에서, 나와.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423267"
+    },
+    {
+      "english": "Believe in yourself, strongly.",
+      "KOREAN": "너 자신을, 강하게 믿어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423268"
+    },
+    {
+      "english": "The future favors, the bold.",
+      "KOREAN": "미래는, 용감한 자의 편이야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423269"
+    },
+    {
+      "english": "Keep your head up, stay strong.",
+      "KOREAN": "고개 들어, 굳건히.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423270"
+    },
+    {
+      "english": "Dare to be different, and shine.",
+      "KOREAN": "다르게 시도해, 빛나라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423271"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "KOREAN": "망설여질 땐, 용감해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423272"
+    },
+    {
+      "english": "The greatest adventure, is bravery.",
+      "KOREAN": "가장 위대한 모험, 용기.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423273"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "KOREAN": "너는 생각보다, 강해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423274"
+    },
+    {
+      "english": "Stand up again, after falling.",
+      "KOREAN": "넘어져도, 다시 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423275"
+    },
+    {
+      "english": "A brave heart, knows no fear.",
+      "KOREAN": "용감한 심장은, 두려움 몰라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423276"
+    },
+    {
+      "english": "Brave heart, steady steps.",
+      "KOREAN": "용감한 마음, 굳센 발걸음.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423277"
+    },
+    {
+      "english": "Face it, with all you've got.",
+      "KOREAN": "맞서 싸워, 네 모든 것으로.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423278"
+    },
+    {
+      "english": "Stand tall, when you feel small.",
+      "KOREAN": "당당히 서, 작게 느껴질 때.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423281"
+    },
+    {
+      "english": "Dare to try, something new.",
+      "KOREAN": "새로운 것에, 도전해 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423283"
+    },
+    {
+      "english": "Rise up, with a roar.",
+      "KOREAN": "일어나, 포효와 함께.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423284"
+    },
+    {
+      "english": "Bold spirit, wins the day.",
+      "KOREAN": "담대한 정신, 승리하리.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423285"
+    },
+    {
+      "english": "Don't back down, push through.",
+      "KOREAN": "물러서지 마, 나아가.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423286"
+    },
+    {
+      "english": "Inner fire, burns bright.",
+      "KOREAN": "내면의 불꽃, 환하게 타올라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423287"
+    },
+    {
+      "english": "Fear less, live more.",
+      "KOREAN": "두려움 줄이고, 더 살아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423288"
+    },
+    {
+      "english": "Find your grit, hold on.",
+      "KOREAN": "용기 찾아, 붙잡아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423289"
+    },
+    {
+      "english": "Walk through the storm.",
+      "KOREAN": "폭풍 속을 걸어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423290"
+    },
+    {
+      "english": "Never quit, keep fighting.",
+      "KOREAN": "포기 말고, 계속 싸워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423291"
+    },
+    {
+      "english": "Strong will, can move mountains.",
+      "KOREAN": "강한 의지, 산을 옮겨.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423292"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "KOREAN": "도전을 받아들여, 강해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423293"
+    },
+    {
+      "english": "Lead the way, bravely.",
+      "KOREAN": "앞장서, 용감하게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423294"
+    },
+    {
+      "english": "Your spirit, will not break.",
+      "KOREAN": "너의 정신, 꺾이지 않을 거야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423295"
+    },
+    {
+      "english": "Fight for your dreams, now.",
+      "KOREAN": "꿈을 위해 싸워, 지금.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423296"
+    },
+    {
+      "english": "The brave, find their way.",
+      "KOREAN": "용감한 자, 길을 찾는다.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423297"
+    },
+    {
+      "english": "Take the leap, have faith.",
+      "KOREAN": "뛰어들어, 믿음을 가져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423298"
+    },
+    {
+      "english": "Courage is, your superpower.",
+      "KOREAN": "용기란, 너의 초능력.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423299"
+    },
+    {
+      "english": "Stand up, for what's right.",
+      "KOREAN": "옳은 것을 위해, 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423300"
+    },
+    {
+      "english": "Even small acts, can be brave.",
+      "KOREAN": "작은 행동도, 용감할 수 있어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423301"
+    },
+    {
+      "english": "Push your limits, see what happens.",
+      "KOREAN": "한계를 밀어붙여, 결과를 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423303"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "KOREAN": "너의 용기, 타인에게 영감을 줘.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423304"
+    },
+    {
+      "english": "It takes guts, to be kind.",
+      "KOREAN": "친절하기 위해, 배짱이 필요해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423305"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "KOREAN": "대담하게, 밝게, 너 자신답게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423306"
+    },
+    {
+      "english": "The night is darkest, before dawn.",
+      "KOREAN": "새벽이 오기 전, 밤이 가장 어두워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423307"
+    },
+    {
+      "english": "One brave act, changes everything.",
+      "KOREAN": "한 번의 용감한 행동, 모든 것을 바꿔.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423308"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "KOREAN": "편안한 곳에서, 나와.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423309"
+    },
+    {
+      "english": "Believe in yourself, strongly.",
+      "KOREAN": "너 자신을, 강하게 믿어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423310"
+    },
+    {
+      "english": "The future favors, the bold.",
+      "KOREAN": "미래는, 용감한 자의 편이야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423311"
+    },
+    {
+      "english": "Keep your head up, stay strong.",
+      "KOREAN": "고개 들어, 굳건히.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423312"
+    },
+    {
+      "english": "Dare to be different, and shine.",
+      "KOREAN": "다르게 시도해, 빛나라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423313"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "KOREAN": "망설여질 땐, 용감해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423316"
+    },
+    {
+      "english": "The greatest adventure, is bravery.",
+      "KOREAN": "가장 위대한 모험, 용기.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423317"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "KOREAN": "너는 생각보다, 강해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423318"
+    },
+    {
+      "english": "Stand up again, after falling.",
+      "KOREAN": "넘어져도, 다시 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423319"
+    },
+    {
+      "english": "A brave heart, knows no fear.",
+      "KOREAN": "용감한 심장은, 두려움 몰라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423320"
+    },
+    {
+      "english": "Brave heart, steady steps.",
+      "KOREAN": "용감한 마음, 굳센 발걸음.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423322"
+    },
+    {
+      "english": "Face it, with all you've got.",
+      "KOREAN": "맞서 싸워, 네 모든 것으로.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423322"
+    },
+    {
+      "english": "Stand tall, when you feel small.",
+      "KOREAN": "당당히 서, 작게 느껴질 때.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423324"
+    },
+    {
+      "english": "Dare to try, something new.",
+      "KOREAN": "새로운 것에, 도전해 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423326"
+    },
+    {
+      "english": "Rise up, with a roar.",
+      "KOREAN": "일어나, 포효와 함께.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423327"
+    },
+    {
+      "english": "Bold spirit, wins the day.",
+      "KOREAN": "담대한 정신, 승리하리.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423328"
+    },
+    {
+      "english": "Don't back down, push through.",
+      "KOREAN": "물러서지 마, 나아가.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423329"
+    },
+    {
+      "english": "Inner fire, burns bright.",
+      "KOREAN": "내면의 불꽃, 환하게 타올라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423331"
+    },
+    {
+      "english": "Fear less, live more.",
+      "KOREAN": "두려움 줄이고, 더 살아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423332"
+    },
+    {
+      "english": "Find your grit, hold on.",
+      "KOREAN": "용기 찾아, 붙잡아.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423332"
+    },
+    {
+      "english": "Walk through the storm.",
+      "KOREAN": "폭풍 속을 걸어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423333"
+    },
+    {
+      "english": "Never quit, keep fighting.",
+      "KOREAN": "포기 말고, 계속 싸워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423334"
+    },
+    {
+      "english": "Strong will, can move mountains.",
+      "KOREAN": "강한 의지, 산을 옮겨.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423335"
+    },
+    {
+      "english": "Embrace challenges, grow stronger.",
+      "KOREAN": "도전을 받아들여, 강해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423336"
+    },
+    {
+      "english": "Lead the way, bravely.",
+      "KOREAN": "앞장서, 용감하게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423337"
+    },
+    {
+      "english": "Your spirit, will not break.",
+      "KOREAN": "너의 정신, 꺾이지 않을 거야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423338"
+    },
+    {
+      "english": "Fight for your dreams, now.",
+      "KOREAN": "꿈을 위해 싸워, 지금.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423339"
+    },
+    {
+      "english": "The brave, find their way.",
+      "KOREAN": "용감한 자, 길을 찾는다.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423340"
+    },
+    {
+      "english": "Take the leap, have faith.",
+      "KOREAN": "뛰어들어, 믿음을 가져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423341"
+    },
+    {
+      "english": "Courage is, your superpower.",
+      "KOREAN": "용기란, 너의 초능력.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423342"
+    },
+    {
+      "english": "Stand up, for what's right.",
+      "KOREAN": "옳은 것을 위해, 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423343"
+    },
+    {
+      "english": "Even small acts, can be brave.",
+      "KOREAN": "작은 행동도, 용감할 수 있어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423344"
+    },
+    {
+      "english": "Push your limits, see what happens.",
+      "KOREAN": "한계를 밀어붙여, 결과를 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423345"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "KOREAN": "너의 용기, 타인에게 영감을 줘.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423346"
+    },
+    {
+      "english": "It takes guts, to be kind.",
+      "KOREAN": "친절하기 위해, 배짱이 필요해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423347"
+    },
+    {
+      "english": "Be bold, be bright, be you.",
+      "KOREAN": "대담하게, 밝게, 너 자신답게.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423348"
+    },
+    {
+      "english": "The night is darkest, before dawn.",
+      "KOREAN": "새벽이 오기 전, 밤이 가장 어두워.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423349"
+    },
+    {
+      "english": "One brave act, changes everything.",
+      "KOREAN": "한 번의 용감한 행동, 모든 것을 바꿔.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423352"
+    },
+    {
+      "english": "Step out, of your comfort zone.",
+      "KOREAN": "편안한 곳에서, 나와.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423353"
+    },
+    {
+      "english": "Believe in yourself, strongly.",
+      "KOREAN": "너 자신을, 강하게 믿어.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423354"
+    },
+    {
+      "english": "The future favors, the bold.",
+      "KOREAN": "미래는, 용감한 자의 편이야.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423355"
+    },
+    {
+      "english": "Keep your head up, stay strong.",
+      "KOREAN": "고개 들어, 굳건히.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423356"
+    },
+    {
+      "english": "Dare to be different, and shine.",
+      "KOREAN": "다르게 시도해, 빛나라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423357"
+    },
+    {
+      "english": "When in doubt, be brave.",
+      "KOREAN": "망설여질 땐, 용감해져.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423358"
+    },
+    {
+      "english": "The greatest adventure, is bravery.",
+      "KOREAN": "가장 위대한 모험, 용기.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423359"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "KOREAN": "너는 생각보다, 강해.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423360"
+    },
+    {
+      "english": "Stand up again, after falling.",
+      "KOREAN": "넘어져도, 다시 일어나.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423361"
+    },
+    {
+      "english": "A brave heart, knows no fear.",
+      "KOREAN": "용감한 심장은, 두려움 몰라.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423362"
+    },
+    {
+      "english": "Brave heart, steady steps.",
+      "KOREAN": "용감한 마음, 굳센 발걸음.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423363"
+    },
+    {
+      "english": "Face it, with all you've got.",
+      "KOREAN": "맞서 싸워, 네 모든 것으로.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423364"
+    },
+    {
+      "english": "Stand tall, when you feel small.",
+      "KOREAN": "당당히 서, 작게 느껴질 때.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423365"
+    },
+    {
+      "english": "Dare to try, something new.",
+      "KOREAN": "새로운 것에, 도전해 봐.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423366"
+    },
+    {
+      "english": "Rise up, with a roar.",
+      "KOREAN": "일어나, 포효와 함께.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423367"
+    },
+    {
+      "english": "Bold spirit, wins the day.",
+      "KOREAN": "담대한 정신, 승리하리.",
+      "category": "Courage",
+      "generated_at": "2026-07-20T04:44:39.423368"
     }
   ],
-  "last_updated": "2026-07-19T04:22:17.224408"
+  "last_updated": "2026-07-20T04:44:39.423370"
 }
