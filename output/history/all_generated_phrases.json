@@ -7919,7 +7919,727 @@
       "KOREAN": "더 듣고, 덜 말하고, 배우세요.",
       "category": "Strength",
       "generated_at": "2026-07-21T04:16:54.721146"
+    },
+    {
+      "english": "You're my favorite human, no cap.",
+      "KOREAN": "네가 내 제일 좋아하는 사람이야, 진짜.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640245"
+    },
+    {
+      "english": "Thanks for always having my back, buddy.",
+      "KOREAN": "내 뒤를 항상 봐줘서 고마워, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640258"
+    },
+    {
+      "english": "We're a dynamic duo, for real.",
+      "KOREAN": "우린 진짜 환상의 짝꿍이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640261"
+    },
+    {
+      "english": "You make life, way more fun.",
+      "KOREAN": "너 덕분에 삶이 훨씬 재밌어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640264"
+    },
+    {
+      "english": "Having you around, is the best.",
+      "KOREAN": "네가 옆에 있는 게 최고야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640265"
+    },
+    {
+      "english": "You're my person, like, always.",
+      "KOREAN": "넌 내 사람이야, 늘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640266"
+    },
+    {
+      "english": "My ride-or-die, right here.",
+      "KOREAN": "내 죽마고우, 바로 여기.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640267"
+    },
+    {
+      "english": "We're basically, family, dude.",
+      "KOREAN": "우린 거의 가족이야, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640270"
+    },
+    {
+      "english": "You get me, like nobody else.",
+      "KOREAN": "넌 날 아무도 이해 못 하는 만큼 이해해.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640272"
+    },
+    {
+      "english": "Life's better, with you in it.",
+      "KOREAN": "네가 있어서 인생이 더 나아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640273"
+    },
+    {
+      "english": "You're the peanut butter, to my jelly.",
+      "KOREAN": "넌 내 젤리의 땅콩버터 같은 존재야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640275"
+    },
+    {
+      "english": "We're two peas, in a pod.",
+      "KOREAN": "우린 콩깍지 속에 두 개의 완두콩 같아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640276"
+    },
+    {
+      "english": "I'm so glad, we met, seriously.",
+      "KOREAN": "우리가 만나서 정말 기뻐, 진심으로.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640277"
+    },
+    {
+      "english": "You're my favorite human, a lot.",
+      "KOREAN": "넌 내 제일 좋아하는 사람이야, 아주 많이.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640278"
+    },
+    {
+      "english": "Couldn't do life, without you.",
+      "KOREAN": "너 없이는 인생 못 살아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640279"
+    },
+    {
+      "english": "You're my partner in crime, always.",
+      "KOREAN": "넌 늘 내 범죄 동반자야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640280"
+    },
+    {
+      "english": "We're a perfect match, like socks.",
+      "KOREAN": "우린 양말처럼 완벽한 짝이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640281"
+    },
+    {
+      "english": "Thanks for the good times, always.",
+      "KOREAN": "늘 좋은 시간 만들어줘서 고마워.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640283"
+    },
+    {
+      "english": "You're my go-to person, for sure.",
+      "KOREAN": "넌 틀림없이 내가 찾는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640284"
+    },
+    {
+      "english": "We just vibe, don't we?",
+      "KOREAN": "우린 그냥 잘 맞아, 그렇지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640285"
+    },
+    {
+      "english": "You're my anchor, in the storm.",
+      "KOREAN": "넌 폭풍 속 나의 닻이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640286"
+    },
+    {
+      "english": "Glad you're on my team, mate.",
+      "KOREAN": "네가 내 편이라 기뻐, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640287"
+    },
+    {
+      "english": "We're the best kind, of trouble.",
+      "KOREAN": "우린 최고의 말썽꾸러기들이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640288"
+    },
+    {
+      "english": "You're my sunshine, on a cloudy day.",
+      "KOREAN": "넌 흐린 날의 내 태양이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640290"
+    },
+    {
+      "english": "My partner, in everything.",
+      "KOREAN": "나의 모든 것의 동반자.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640294"
+    },
+    {
+      "english": "We just click, you know?",
+      "KOREAN": "우린 그냥 통했어, 알지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640295"
+    },
+    {
+      "english": "You make everything, brighter.",
+      "KOREAN": "넌 모든 걸 더 밝게 만들어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640296"
+    },
+    {
+      "english": "So lucky, to have you.",
+      "KOREAN": "널 갖게 돼서 정말 행운이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640297"
+    },
+    {
+      "english": "We're two peas, from the same pod.",
+      "KOREAN": "우린 같은 꼬투리에서 나온 두 완두콩이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640298"
+    },
+    {
+      "english": "You're my confidant, always.",
+      "KOREAN": "넌 늘 나의 믿음직한 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640299"
+    },
+    {
+      "english": "We're a package deal, basically.",
+      "KOREAN": "우린 기본적으로 묶음 상품이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640301"
+    },
+    {
+      "english": "You're my favorite adventure buddy.",
+      "KOREAN": "넌 나의 가장 좋아하는 모험 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640302"
+    },
+    {
+      "english": "Life's a party, with you.",
+      "KOREAN": "너와 함께라면 인생은 파티야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640303"
+    },
+    {
+      "english": "You complete me, a little bit.",
+      "KOREAN": "넌 날 좀 완성시켜 줘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640304"
+    },
+    {
+      "english": "We're inseparable, like glue.",
+      "KOREAN": "우린 접착제처럼 분리할 수 없어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640305"
+    },
+    {
+      "english": "You're my favorite distraction, honestly.",
+      "KOREAN": "솔직히, 넌 나의 가장 좋아하는 방해꾼이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640306"
+    },
+    {
+      "english": "We're the dream team, no doubt.",
+      "KOREAN": "우린 의심할 여지 없이 드림팀이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640307"
+    },
+    {
+      "english": "You're my favorite human, for sure.",
+      "KOREAN": "넌 틀림없이 내 제일 좋아하는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640308"
+    },
+    {
+      "english": "We're a package deal, forever.",
+      "KOREAN": "우린 영원한 묶음 상품이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640309"
+    },
+    {
+      "english": "You're my happy place, always.",
+      "KOREAN": "넌 늘 나의 행복한 장소야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640310"
+    },
+    {
+      "english": "We're the best kind, of chaos.",
+      "KOREAN": "우린 최고의 혼돈이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640311"
+    },
+    {
+      "english": "You're my favorite person, to annoy.",
+      "KOREAN": "넌 내가 제일 좋아하는 귀찮게 하는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640312"
+    },
+    {
+      "english": "We're a match made, in heaven.",
+      "KOREAN": "우린 천국에서 만들어진 짝이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640313"
+    },
+    {
+      "english": "You're my favorite human, no cap.",
+      "KOREAN": "네가 내 제일 좋아하는 사람이야, 진짜.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640314"
+    },
+    {
+      "english": "Thanks for always having my back, buddy.",
+      "KOREAN": "내 뒤를 항상 봐줘서 고마워, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640316"
+    },
+    {
+      "english": "We're a dynamic duo, for real.",
+      "KOREAN": "우린 진짜 환상의 짝꿍이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640317"
+    },
+    {
+      "english": "You make life, way more fun.",
+      "KOREAN": "너 덕분에 삶이 훨씬 재밌어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640318"
+    },
+    {
+      "english": "Having you around, is the best.",
+      "KOREAN": "네가 옆에 있는 게 최고야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640319"
+    },
+    {
+      "english": "You're my person, like, always.",
+      "KOREAN": "넌 내 사람이야, 늘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640321"
+    },
+    {
+      "english": "My ride-or-die, right here.",
+      "KOREAN": "내 죽마고우, 바로 여기.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640322"
+    },
+    {
+      "english": "We're basically, family, dude.",
+      "KOREAN": "우린 거의 가족이야, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640323"
+    },
+    {
+      "english": "You get me, like nobody else.",
+      "KOREAN": "넌 날 아무도 이해 못 하는 만큼 이해해.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640324"
+    },
+    {
+      "english": "Life's better, with you in it.",
+      "KOREAN": "네가 있어서 인생이 더 나아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640325"
+    },
+    {
+      "english": "You're the peanut butter, to my jelly.",
+      "KOREAN": "넌 내 젤리의 땅콩버터 같은 존재야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640326"
+    },
+    {
+      "english": "We're two peas, in a pod.",
+      "KOREAN": "우린 콩깍지 속에 두 개의 완두콩 같아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640327"
+    },
+    {
+      "english": "I'm so glad, we met, seriously.",
+      "KOREAN": "우리가 만나서 정말 기뻐, 진심으로.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640329"
+    },
+    {
+      "english": "You're my favorite human, a lot.",
+      "KOREAN": "넌 내 제일 좋아하는 사람이야, 아주 많이.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640330"
+    },
+    {
+      "english": "Couldn't do life, without you.",
+      "KOREAN": "너 없이는 인생 못 살아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640331"
+    },
+    {
+      "english": "You're my partner in crime, always.",
+      "KOREAN": "넌 늘 내 범죄 동반자야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640332"
+    },
+    {
+      "english": "We're a perfect match, like socks.",
+      "KOREAN": "우린 양말처럼 완벽한 짝이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640333"
+    },
+    {
+      "english": "Thanks for the good times, always.",
+      "KOREAN": "늘 좋은 시간 만들어줘서 고마워.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640334"
+    },
+    {
+      "english": "You're my go-to person, for sure.",
+      "KOREAN": "넌 틀림없이 내가 찾는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640335"
+    },
+    {
+      "english": "We just vibe, don't we?",
+      "KOREAN": "우린 그냥 잘 맞아, 그렇지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640336"
+    },
+    {
+      "english": "You're my anchor, in the storm.",
+      "KOREAN": "넌 폭풍 속 나의 닻이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640338"
+    },
+    {
+      "english": "Glad you're on my team, mate.",
+      "KOREAN": "네가 내 편이라 기뻐, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640339"
+    },
+    {
+      "english": "We're the best kind, of trouble.",
+      "KOREAN": "우린 최고의 말썽꾸러기들이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640340"
+    },
+    {
+      "english": "You're my sunshine, on a cloudy day.",
+      "KOREAN": "넌 흐린 날의 내 태양이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640341"
+    },
+    {
+      "english": "My partner, in everything.",
+      "KOREAN": "나의 모든 것의 동반자.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640342"
+    },
+    {
+      "english": "We just click, you know?",
+      "KOREAN": "우린 그냥 통했어, 알지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640343"
+    },
+    {
+      "english": "You make everything, brighter.",
+      "KOREAN": "넌 모든 걸 더 밝게 만들어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640344"
+    },
+    {
+      "english": "So lucky, to have you.",
+      "KOREAN": "널 갖게 돼서 정말 행운이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640345"
+    },
+    {
+      "english": "We're two peas, from the same pod.",
+      "KOREAN": "우린 같은 꼬투리에서 나온 두 완두콩이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640346"
+    },
+    {
+      "english": "You're my confidant, always.",
+      "KOREAN": "넌 늘 나의 믿음직한 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640347"
+    },
+    {
+      "english": "We're a package deal, basically.",
+      "KOREAN": "우린 기본적으로 묶음 상품이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640348"
+    },
+    {
+      "english": "You're my favorite adventure buddy.",
+      "KOREAN": "넌 나의 가장 좋아하는 모험 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640351"
+    },
+    {
+      "english": "Life's a party, with you.",
+      "KOREAN": "너와 함께라면 인생은 파티야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640352"
+    },
+    {
+      "english": "You complete me, a little bit.",
+      "KOREAN": "넌 날 좀 완성시켜 줘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640353"
+    },
+    {
+      "english": "We're inseparable, like glue.",
+      "KOREAN": "우린 접착제처럼 분리할 수 없어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640354"
+    },
+    {
+      "english": "You're my favorite distraction, honestly.",
+      "KOREAN": "솔직히, 넌 나의 가장 좋아하는 방해꾼이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640355"
+    },
+    {
+      "english": "We're the dream team, no doubt.",
+      "KOREAN": "우린 의심할 여지 없이 드림팀이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640356"
+    },
+    {
+      "english": "You're my favorite human, for sure.",
+      "KOREAN": "넌 틀림없이 내 제일 좋아하는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640357"
+    },
+    {
+      "english": "We're a package deal, forever.",
+      "KOREAN": "우린 영원한 묶음 상품이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640358"
+    },
+    {
+      "english": "You're my happy place, always.",
+      "KOREAN": "넌 늘 나의 행복한 장소야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640359"
+    },
+    {
+      "english": "We're the best kind, of chaos.",
+      "KOREAN": "우린 최고의 혼돈이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640360"
+    },
+    {
+      "english": "You're my favorite person, to annoy.",
+      "KOREAN": "넌 내가 제일 좋아하는 귀찮게 하는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640361"
+    },
+    {
+      "english": "We're a match made, in heaven.",
+      "KOREAN": "우린 천국에서 만들어진 짝이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640364"
+    },
+    {
+      "english": "You're my favorite human, no cap.",
+      "KOREAN": "네가 내 제일 좋아하는 사람이야, 진짜.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640365"
+    },
+    {
+      "english": "Thanks for always having my back, buddy.",
+      "KOREAN": "내 뒤를 항상 봐줘서 고마워, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640366"
+    },
+    {
+      "english": "We're a dynamic duo, for real.",
+      "KOREAN": "우린 진짜 환상의 짝꿍이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640367"
+    },
+    {
+      "english": "You make life, way more fun.",
+      "KOREAN": "너 덕분에 삶이 훨씬 재밌어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640368"
+    },
+    {
+      "english": "Having you around, is the best.",
+      "KOREAN": "네가 옆에 있는 게 최고야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640369"
+    },
+    {
+      "english": "You're my person, like, always.",
+      "KOREAN": "넌 내 사람이야, 늘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640370"
+    },
+    {
+      "english": "My ride-or-die, right here.",
+      "KOREAN": "내 죽마고우, 바로 여기.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640371"
+    },
+    {
+      "english": "We're basically, family, dude.",
+      "KOREAN": "우린 거의 가족이야, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640373"
+    },
+    {
+      "english": "You get me, like nobody else.",
+      "KOREAN": "넌 날 아무도 이해 못 하는 만큼 이해해.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640374"
+    },
+    {
+      "english": "Life's better, with you in it.",
+      "KOREAN": "네가 있어서 인생이 더 나아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640375"
+    },
+    {
+      "english": "You're the peanut butter, to my jelly.",
+      "KOREAN": "넌 내 젤리의 땅콩버터 같은 존재야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640376"
+    },
+    {
+      "english": "We're two peas, in a pod.",
+      "KOREAN": "우린 콩깍지 속에 두 개의 완두콩 같아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640377"
+    },
+    {
+      "english": "I'm so glad, we met, seriously.",
+      "KOREAN": "우리가 만나서 정말 기뻐, 진심으로.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640378"
+    },
+    {
+      "english": "You're my favorite human, a lot.",
+      "KOREAN": "넌 내 제일 좋아하는 사람이야, 아주 많이.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640381"
+    },
+    {
+      "english": "Couldn't do life, without you.",
+      "KOREAN": "너 없이는 인생 못 살아.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640382"
+    },
+    {
+      "english": "You're my partner in crime, always.",
+      "KOREAN": "넌 늘 내 범죄 동반자야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640383"
+    },
+    {
+      "english": "We're a perfect match, like socks.",
+      "KOREAN": "우린 양말처럼 완벽한 짝이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640384"
+    },
+    {
+      "english": "Thanks for the good times, always.",
+      "KOREAN": "늘 좋은 시간 만들어줘서 고마워.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640385"
+    },
+    {
+      "english": "You're my go-to person, for sure.",
+      "KOREAN": "넌 틀림없이 내가 찾는 사람이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640386"
+    },
+    {
+      "english": "We just vibe, don't we?",
+      "KOREAN": "우린 그냥 잘 맞아, 그렇지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640387"
+    },
+    {
+      "english": "You're my anchor, in the storm.",
+      "KOREAN": "넌 폭풍 속 나의 닻이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640388"
+    },
+    {
+      "english": "Glad you're on my team, mate.",
+      "KOREAN": "네가 내 편이라 기뻐, 친구.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640389"
+    },
+    {
+      "english": "We're the best kind, of trouble.",
+      "KOREAN": "우린 최고의 말썽꾸러기들이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640390"
+    },
+    {
+      "english": "You're my sunshine, on a cloudy day.",
+      "KOREAN": "넌 흐린 날의 내 태양이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640392"
+    },
+    {
+      "english": "My partner, in everything.",
+      "KOREAN": "나의 모든 것의 동반자.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640393"
+    },
+    {
+      "english": "We just click, you know?",
+      "KOREAN": "우린 그냥 통했어, 알지?",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640394"
+    },
+    {
+      "english": "You make everything, brighter.",
+      "KOREAN": "넌 모든 걸 더 밝게 만들어.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640394"
+    },
+    {
+      "english": "So lucky, to have you.",
+      "KOREAN": "널 갖게 돼서 정말 행운이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640395"
+    },
+    {
+      "english": "We're two peas, from the same pod.",
+      "KOREAN": "우린 같은 꼬투리에서 나온 두 완두콩이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640396"
+    },
+    {
+      "english": "You're my confidant, always.",
+      "KOREAN": "넌 늘 나의 믿음직한 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640398"
+    },
+    {
+      "english": "We're a package deal, basically.",
+      "KOREAN": "우린 기본적으로 묶음 상품이야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640399"
+    },
+    {
+      "english": "You're my favorite adventure buddy.",
+      "KOREAN": "넌 나의 가장 좋아하는 모험 친구야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640399"
+    },
+    {
+      "english": "Life's a party, with you.",
+      "KOREAN": "너와 함께라면 인생은 파티야.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640401"
+    },
+    {
+      "english": "You complete me, a little bit.",
+      "KOREAN": "넌 날 좀 완성시켜 줘.",
+      "category": "Friendship",
+      "generated_at": "2026-07-22T04:18:18.640401"
     }
   ],
-  "last_updated": "2026-07-21T04:16:54.721148"
+  "last_updated": "2026-07-22T04:18:18.640403"
 }
