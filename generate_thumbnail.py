@@ -75,7 +75,8 @@ def generate_scenic_image(category_english: str, category_KOREAN: str, output_pa
 
     en_fonts = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf",
                 "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
-    ja_fonts = ["C:/Windows/Fonts/msgothic.ttc", "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+    ja_fonts = [str(Path(__file__).parent / "fonts" / "NotoSansKR-Bold.ttf"),
+                "C:/Windows/Fonts/msgothic.ttc", "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
                 "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc"]
 
     def load_font(paths, size):
