@@ -9359,7 +9359,727 @@
       "KOREAN": "그냥 앞으로, 계속 움직여.",
       "category": "Perseverance",
       "generated_at": "2026-07-23T01:27:40.497967"
+    },
+    {
+      "english": "My power level, is rising!",
+      "KOREAN": "내 레벨, 오르고 있어!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012198"
+    },
+    {
+      "english": "I'm a secret weapon, shhh!",
+      "KOREAN": "나, 비밀 병기야. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012208"
+    },
+    {
+      "english": "Made of pure awesome, watch!",
+      "KOREAN": "엄청난 걸로, 만들어졌어. 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012209"
+    },
+    {
+      "english": "My hustle, is legendary.",
+      "KOREAN": "내 열정, 전설이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012211"
+    },
+    {
+      "english": "Tougher than old leather, yep!",
+      "KOREAN": "옛날 가죽보다, 질겨. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012212"
+    },
+    {
+      "english": "Built different, like a tank.",
+      "KOREAN": "처음부터, 달랐어. 탱크처럼.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012213"
+    },
+    {
+      "english": "This workout, is a joke!",
+      "KOREAN": "이 운동, 완전 쉬워!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012214"
+    },
+    {
+      "english": "My willpower, is a fortress.",
+      "KOREAN": "내 의지, 요새 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012217"
+    },
+    {
+      "english": "Growing stronger, by the minute.",
+      "KOREAN": "점점 더, 강해져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012219"
+    },
+    {
+      "english": "I don't break, I bend.",
+      "KOREAN": "난 부러지지 않아, 구부러져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012220"
+    },
+    {
+      "english": "Unstoppable force, coming through!",
+      "KOREAN": "막을 수 없는 힘, 온다!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012221"
+    },
+    {
+      "english": "My spirit, is firework!",
+      "KOREAN": "내 정신, 불꽃놀이야!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012222"
+    },
+    {
+      "english": "Got that inner glow, watch.",
+      "KOREAN": "안에서 빛나, 봐.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012224"
+    },
+    {
+      "english": "My resilience, is epic.",
+      "KOREAN": "내 회복력, 대박이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012225"
+    },
+    {
+      "english": "I'm a work in progress, yay!",
+      "KOREAN": "나는 발전 중이야, 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012226"
+    },
+    {
+      "english": "My determination, is a magnet.",
+      "KOREAN": "내 결심, 자석 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012227"
+    },
+    {
+      "english": "I bounce back, like a superball.",
+      "KOREAN": "슈퍼볼처럼, 튕겨 나와.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012228"
+    },
+    {
+      "english": "This is my strong zone, yo!",
+      "KOREAN": "여기가 내 강한 곳이야, 요!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012229"
+    },
+    {
+      "english": "I'm built for this, obviously.",
+      "KOREAN": "난 이걸 위해, 태어났어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012230"
+    },
+    {
+      "english": "My endurance, is crazy good.",
+      "KOREAN": "내 지구력, 진짜 좋아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012232"
+    },
+    {
+      "english": "I'm like a mighty oak, see?",
+      "KOREAN": "난 튼튼한 참나무 같아, 보여?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012233"
+    },
+    {
+      "english": "My energy, is on overload.",
+      "KOREAN": "내 에너지가, 넘쳐흘러.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012234"
+    },
+    {
+      "english": "I'm a powerhouse, baby!",
+      "KOREAN": "난 파워하우스야, 베이비!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012235"
+    },
+    {
+      "english": "Giving it my all, always.",
+      "KOREAN": "내 전부를, 주는 중이야. 늘.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012236"
+    },
+    {
+      "english": "My focus, is razor sharp.",
+      "KOREAN": "내 집중력, 날카로워.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012237"
+    },
+    {
+      "english": "I radiate strength, you know?",
+      "KOREAN": "힘을 뿜어내, 알지?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012239"
+    },
+    {
+      "english": "I'm a superhero, no cape.",
+      "KOREAN": "난 슈퍼히어로야, 망토 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012240"
+    },
+    {
+      "english": "My spirit animal, is a lion.",
+      "KOREAN": "내 수호 동물, 사자야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012241"
+    },
+    {
+      "english": "I conquer, with a smile.",
+      "KOREAN": "미소로, 정복해.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012242"
+    },
+    {
+      "english": "My drive, is unstoppable.",
+      "KOREAN": "내 추진력, 멈출 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012244"
+    },
+    {
+      "english": "I'm a mountain, unmovable.",
+      "KOREAN": "난 산이야, 움직일 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012244"
+    },
+    {
+      "english": "My tenacity, is a superpower.",
+      "KOREAN": "내 끈기, 초능력 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012245"
+    },
+    {
+      "english": "I glow with inner strength.",
+      "KOREAN": "내면의 힘으로, 빛나.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012246"
+    },
+    {
+      "english": "My resilience, is a shield.",
+      "KOREAN": "내 회복력, 방패 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012247"
+    },
+    {
+      "english": "I'm built for glory, wow!",
+      "KOREAN": "영광을 위해, 만들어졌어. 와!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012248"
+    },
+    {
+      "english": "My willpower, is unbreakable.",
+      "KOREAN": "내 의지, 부서지지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012249"
+    },
+    {
+      "english": "I'm a force of nature, hear me!",
+      "KOREAN": "난 자연의 힘이야, 들어봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012250"
+    },
+    {
+      "english": "My spirit, is unstoppable.",
+      "KOREAN": "내 정신, 멈추지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012251"
+    },
+    {
+      "english": "I rise above, stronger.",
+      "KOREAN": "더 강하게, 이겨내.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012253"
+    },
+    {
+      "english": "My determination, sparks fire.",
+      "KOREAN": "내 결심, 불꽃을 일으켜.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012253"
+    },
+    {
+      "english": "I am pure power, today!",
+      "KOREAN": "나는 순수한 힘이야, 오늘!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012254"
+    },
+    {
+      "english": "My power level, is rising!",
+      "KOREAN": "내 레벨, 오르고 있어!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012256"
+    },
+    {
+      "english": "I'm a secret weapon, shhh!",
+      "KOREAN": "나, 비밀 병기야. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012257"
+    },
+    {
+      "english": "Made of pure awesome, watch!",
+      "KOREAN": "엄청난 걸로, 만들어졌어. 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012258"
+    },
+    {
+      "english": "My hustle, is legendary.",
+      "KOREAN": "내 열정, 전설이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012260"
+    },
+    {
+      "english": "Tougher than old leather, yep!",
+      "KOREAN": "옛날 가죽보다, 질겨. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012261"
+    },
+    {
+      "english": "Built different, like a tank.",
+      "KOREAN": "처음부터, 달랐어. 탱크처럼.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012262"
+    },
+    {
+      "english": "This workout, is a joke!",
+      "KOREAN": "이 운동, 완전 쉬워!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012263"
+    },
+    {
+      "english": "My willpower, is a fortress.",
+      "KOREAN": "내 의지, 요새 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012264"
+    },
+    {
+      "english": "Growing stronger, by the minute.",
+      "KOREAN": "점점 더, 강해져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012265"
+    },
+    {
+      "english": "I don't break, I bend.",
+      "KOREAN": "난 부러지지 않아, 구부러져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012266"
+    },
+    {
+      "english": "Unstoppable force, coming through!",
+      "KOREAN": "막을 수 없는 힘, 온다!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012267"
+    },
+    {
+      "english": "My spirit, is firework!",
+      "KOREAN": "내 정신, 불꽃놀이야!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012268"
+    },
+    {
+      "english": "Got that inner glow, watch.",
+      "KOREAN": "안에서 빛나, 봐.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012269"
+    },
+    {
+      "english": "My resilience, is epic.",
+      "KOREAN": "내 회복력, 대박이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012270"
+    },
+    {
+      "english": "I'm a work in progress, yay!",
+      "KOREAN": "나는 발전 중이야, 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012271"
+    },
+    {
+      "english": "My determination, is a magnet.",
+      "KOREAN": "내 결심, 자석 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012272"
+    },
+    {
+      "english": "I bounce back, like a superball.",
+      "KOREAN": "슈퍼볼처럼, 튕겨 나와.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012273"
+    },
+    {
+      "english": "This is my strong zone, yo!",
+      "KOREAN": "여기가 내 강한 곳이야, 요!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012274"
+    },
+    {
+      "english": "I'm built for this, obviously.",
+      "KOREAN": "난 이걸 위해, 태어났어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012275"
+    },
+    {
+      "english": "My endurance, is crazy good.",
+      "KOREAN": "내 지구력, 진짜 좋아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012276"
+    },
+    {
+      "english": "I'm like a mighty oak, see?",
+      "KOREAN": "난 튼튼한 참나무 같아, 보여?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012277"
+    },
+    {
+      "english": "My energy, is on overload.",
+      "KOREAN": "내 에너지가, 넘쳐흘러.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012279"
+    },
+    {
+      "english": "I'm a powerhouse, baby!",
+      "KOREAN": "난 파워하우스야, 베이비!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012280"
+    },
+    {
+      "english": "Giving it my all, always.",
+      "KOREAN": "내 전부를, 주는 중이야. 늘.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012281"
+    },
+    {
+      "english": "My focus, is razor sharp.",
+      "KOREAN": "내 집중력, 날카로워.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012282"
+    },
+    {
+      "english": "I radiate strength, you know?",
+      "KOREAN": "힘을 뿜어내, 알지?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012283"
+    },
+    {
+      "english": "I'm a superhero, no cape.",
+      "KOREAN": "난 슈퍼히어로야, 망토 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012284"
+    },
+    {
+      "english": "My spirit animal, is a lion.",
+      "KOREAN": "내 수호 동물, 사자야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012285"
+    },
+    {
+      "english": "I conquer, with a smile.",
+      "KOREAN": "미소로, 정복해.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012286"
+    },
+    {
+      "english": "My drive, is unstoppable.",
+      "KOREAN": "내 추진력, 멈출 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012287"
+    },
+    {
+      "english": "I'm a mountain, unmovable.",
+      "KOREAN": "난 산이야, 움직일 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012288"
+    },
+    {
+      "english": "My tenacity, is a superpower.",
+      "KOREAN": "내 끈기, 초능력 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012289"
+    },
+    {
+      "english": "I glow with inner strength.",
+      "KOREAN": "내면의 힘으로, 빛나.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012290"
+    },
+    {
+      "english": "My resilience, is a shield.",
+      "KOREAN": "내 회복력, 방패 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012291"
+    },
+    {
+      "english": "I'm built for glory, wow!",
+      "KOREAN": "영광을 위해, 만들어졌어. 와!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012292"
+    },
+    {
+      "english": "My willpower, is unbreakable.",
+      "KOREAN": "내 의지, 부서지지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012293"
+    },
+    {
+      "english": "I'm a force of nature, hear me!",
+      "KOREAN": "난 자연의 힘이야, 들어봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012294"
+    },
+    {
+      "english": "My spirit, is unstoppable.",
+      "KOREAN": "내 정신, 멈추지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012295"
+    },
+    {
+      "english": "I rise above, stronger.",
+      "KOREAN": "더 강하게, 이겨내.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012296"
+    },
+    {
+      "english": "My determination, sparks fire.",
+      "KOREAN": "내 결심, 불꽃을 일으켜.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012297"
+    },
+    {
+      "english": "I am pure power, today!",
+      "KOREAN": "나는 순수한 힘이야, 오늘!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012298"
+    },
+    {
+      "english": "My power level, is rising!",
+      "KOREAN": "내 레벨, 오르고 있어!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012299"
+    },
+    {
+      "english": "I'm a secret weapon, shhh!",
+      "KOREAN": "나, 비밀 병기야. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012300"
+    },
+    {
+      "english": "Made of pure awesome, watch!",
+      "KOREAN": "엄청난 걸로, 만들어졌어. 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012301"
+    },
+    {
+      "english": "My hustle, is legendary.",
+      "KOREAN": "내 열정, 전설이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012302"
+    },
+    {
+      "english": "Tougher than old leather, yep!",
+      "KOREAN": "옛날 가죽보다, 질겨. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012303"
+    },
+    {
+      "english": "Built different, like a tank.",
+      "KOREAN": "처음부터, 달랐어. 탱크처럼.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012304"
+    },
+    {
+      "english": "This workout, is a joke!",
+      "KOREAN": "이 운동, 완전 쉬워!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012305"
+    },
+    {
+      "english": "My willpower, is a fortress.",
+      "KOREAN": "내 의지, 요새 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012306"
+    },
+    {
+      "english": "Growing stronger, by the minute.",
+      "KOREAN": "점점 더, 강해져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012307"
+    },
+    {
+      "english": "I don't break, I bend.",
+      "KOREAN": "난 부러지지 않아, 구부러져.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012308"
+    },
+    {
+      "english": "Unstoppable force, coming through!",
+      "KOREAN": "막을 수 없는 힘, 온다!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012309"
+    },
+    {
+      "english": "My spirit, is firework!",
+      "KOREAN": "내 정신, 불꽃놀이야!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012310"
+    },
+    {
+      "english": "Got that inner glow, watch.",
+      "KOREAN": "안에서 빛나, 봐.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012311"
+    },
+    {
+      "english": "My resilience, is epic.",
+      "KOREAN": "내 회복력, 대박이야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012312"
+    },
+    {
+      "english": "I'm a work in progress, yay!",
+      "KOREAN": "나는 발전 중이야, 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012313"
+    },
+    {
+      "english": "My determination, is a magnet.",
+      "KOREAN": "내 결심, 자석 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012314"
+    },
+    {
+      "english": "I bounce back, like a superball.",
+      "KOREAN": "슈퍼볼처럼, 튕겨 나와.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012315"
+    },
+    {
+      "english": "This is my strong zone, yo!",
+      "KOREAN": "여기가 내 강한 곳이야, 요!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012316"
+    },
+    {
+      "english": "I'm built for this, obviously.",
+      "KOREAN": "난 이걸 위해, 태어났어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012317"
+    },
+    {
+      "english": "My endurance, is crazy good.",
+      "KOREAN": "내 지구력, 진짜 좋아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012318"
+    },
+    {
+      "english": "I'm like a mighty oak, see?",
+      "KOREAN": "난 튼튼한 참나무 같아, 보여?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012319"
+    },
+    {
+      "english": "My energy, is on overload.",
+      "KOREAN": "내 에너지가, 넘쳐흘러.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012320"
+    },
+    {
+      "english": "I'm a powerhouse, baby!",
+      "KOREAN": "난 파워하우스야, 베이비!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012321"
+    },
+    {
+      "english": "Giving it my all, always.",
+      "KOREAN": "내 전부를, 주는 중이야. 늘.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012322"
+    },
+    {
+      "english": "My focus, is razor sharp.",
+      "KOREAN": "내 집중력, 날카로워.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012323"
+    },
+    {
+      "english": "I radiate strength, you know?",
+      "KOREAN": "힘을 뿜어내, 알지?",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012324"
+    },
+    {
+      "english": "I'm a superhero, no cape.",
+      "KOREAN": "난 슈퍼히어로야, 망토 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012328"
+    },
+    {
+      "english": "My spirit animal, is a lion.",
+      "KOREAN": "내 수호 동물, 사자야.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012329"
+    },
+    {
+      "english": "I conquer, with a smile.",
+      "KOREAN": "미소로, 정복해.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012330"
+    },
+    {
+      "english": "My drive, is unstoppable.",
+      "KOREAN": "내 추진력, 멈출 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012331"
+    },
+    {
+      "english": "I'm a mountain, unmovable.",
+      "KOREAN": "난 산이야, 움직일 수 없어.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012332"
+    },
+    {
+      "english": "My tenacity, is a superpower.",
+      "KOREAN": "내 끈기, 초능력 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012333"
+    },
+    {
+      "english": "I glow with inner strength.",
+      "KOREAN": "내면의 힘으로, 빛나.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012334"
+    },
+    {
+      "english": "My resilience, is a shield.",
+      "KOREAN": "내 회복력, 방패 같아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012335"
+    },
+    {
+      "english": "I'm built for glory, wow!",
+      "KOREAN": "영광을 위해, 만들어졌어. 와!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012338"
+    },
+    {
+      "english": "My willpower, is unbreakable.",
+      "KOREAN": "내 의지, 부서지지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012339"
+    },
+    {
+      "english": "I'm a force of nature, hear me!",
+      "KOREAN": "난 자연의 힘이야, 들어봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012340"
+    },
+    {
+      "english": "My spirit, is unstoppable.",
+      "KOREAN": "내 정신, 멈추지 않아.",
+      "category": "Strength",
+      "generated_at": "2026-07-23T04:16:53.012341"
     }
   ],
-  "last_updated": "2026-07-23T01:27:40.497969"
+  "last_updated": "2026-07-23T04:16:53.012343"
 }
