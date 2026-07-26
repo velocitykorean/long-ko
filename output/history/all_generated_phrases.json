@@ -10799,7 +10799,727 @@
       "KOREAN": "어려울 때, 포기하지 마요.",
       "category": "Perseverance",
       "generated_at": "2026-07-24T04:16:19.294413"
+    },
+    {
+      "english": "My brain, is a superpower. Beep boop!",
+      "KOREAN": "내 뇌, 슈퍼파워. 삐빅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860039"
+    },
+    {
+      "english": "I'm a sunshine dispenser. Watch out!",
+      "KOREAN": "난 햇살 조절기. 조심해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860050"
+    },
+    {
+      "english": "My energy level? Infinite! Woohoo!",
+      "KOREAN": "내 에너지? 무한대! 우와!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860052"
+    },
+    {
+      "english": "I'm a 'can-do' machine. Vroom vroom!",
+      "KOREAN": "나는 '할 수 있다' 기계. 부릉부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860053"
+    },
+    {
+      "english": "My smile, is my secret weapon. Heh!",
+      "KOREAN": "내 미소, 비장의 무기. 헤헷!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860055"
+    },
+    {
+      "english": "I'm fueled by snacks. Don't judge!",
+      "KOREAN": "간식으로 가득. 뭐라 하지 마!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860056"
+    },
+    {
+      "english": "My optimism? Unbeatable! Yay!",
+      "KOREAN": "내 긍정? 절대 못 져! 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860057"
+    },
+    {
+      "english": "I'm a problem-solving ninja. Shh!",
+      "KOREAN": "나는 문제 해결 닌자. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860060"
+    },
+    {
+      "english": "My willpower? Like diamond. Sparkle!",
+      "KOREAN": "내 의지? 다이아몬드 같아. 반짝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860062"
+    },
+    {
+      "english": "I'm a hug delivery service. Free!",
+      "KOREAN": "나는 포옹 배달 서비스. 무료!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860063"
+    },
+    {
+      "english": "My creativity? Exploding! Boom!",
+      "KOREAN": "내 창의력? 폭발 중! 팡!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860065"
+    },
+    {
+      "english": "I'm a motivation booster. Get it?",
+      "KOREAN": "나는 동기 부여 부스터. 알겠어?",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860066"
+    },
+    {
+      "english": "My focus? Laser sharp. Pew pew!",
+      "KOREAN": "내 집중력? 레이저 날카로워. 삐유!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860067"
+    },
+    {
+      "english": "I'm a happy-go-lucky person. Yay!",
+      "KOREAN": "저는 낙천주의자. 만세!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860069"
+    },
+    {
+      "english": "My inner voice? Yelling 'Go!'",
+      "KOREAN": "내 속마음? '달려!'라고 소리쳐.",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860070"
+    },
+    {
+      "english": "I'm powered by good vibes. Zing!",
+      "KOREAN": "나는 좋은 기운으로 돌아가. 징!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860071"
+    },
+    {
+      "english": "My attitude? Unstoppable! Ha!",
+      "KOREAN": "내 태도? 막을 수 없어! 하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860072"
+    },
+    {
+      "english": "I'm a dream-catcher. Yours too!",
+      "KOREAN": "나는 꿈을 잡는 사람. 네 꿈도!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860074"
+    },
+    {
+      "english": "My courage? Brewing daily. Sip sip!",
+      "KOREAN": "내 용기? 매일 끓고 있어. 꼴깍!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860075"
+    },
+    {
+      "english": "I'm a 'what if' explorer. Wow!",
+      "KOREAN": "나는 '만약에' 탐험가. 와우!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860076"
+    },
+    {
+      "english": "My resilience. It's a superpower. Yes!",
+      "KOREAN": "나의 회복력. 그거 슈퍼파워야. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860077"
+    },
+    {
+      "english": "I'm a goal-getter. Watch me!",
+      "KOREAN": "나는 목표 달성가. 나를 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860078"
+    },
+    {
+      "english": "My spirit. It's ready to fly! Zoooom!",
+      "KOREAN": "내 정신. 날아갈 준비 완료! 슝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860080"
+    },
+    {
+      "english": "I'm the captain of my ship. Aye aye!",
+      "KOREAN": "나는 내 배의 선장. 네!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860081"
+    },
+    {
+      "english": "My positivity. Contagious! Get it!",
+      "KOREAN": "내 긍정 파워. 전염돼! 받아!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860082"
+    },
+    {
+      "english": "I'm a future architect. Building it!",
+      "KOREAN": "나는 미래 건축가. 짓는 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860083"
+    },
+    {
+      "english": "My grit. It's my secret sauce. Mmm!",
+      "KOREAN": "내 근성. 비장의 소스야. 냠냠!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860084"
+    },
+    {
+      "english": "I'm a learning sponge. Soak it up!",
+      "KOREAN": "나는 배우는 스펀지. 흡수해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860085"
+    },
+    {
+      "english": "My determination. It's my engine. Vroom!",
+      "KOREAN": "내 결심. 나의 엔진이야. 부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860086"
+    },
+    {
+      "english": "I'm a creative spark. Ignite!",
+      "KOREAN": "나는 창조적인 불꽃. 점화!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860087"
+    },
+    {
+      "english": "My humor. It's my therapy. Haha!",
+      "KOREAN": "내 유머. 내 치료법이야. 하하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860088"
+    },
+    {
+      "english": "I'm a resilience rockstar. Rock on!",
+      "KOREAN": "나는 회복력 락스타. 락앤롤!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860089"
+    },
+    {
+      "english": "My enthusiasm. It's contagious. Spread it!",
+      "KOREAN": "내 열정. 전염병이야. 퍼뜨려!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860090"
+    },
+    {
+      "english": "I'm a progress tracker. Moving up!",
+      "KOREAN": "나는 진척 추적기. 상승 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860091"
+    },
+    {
+      "english": "My courage. It's my superpower. Bam!",
+      "KOREAN": "내 용기. 슈퍼파워야. 쾅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860092"
+    },
+    {
+      "english": "I'm a belief magnet. Attracting good!",
+      "KOREAN": "나는 믿음 자석. 좋은 것을 끌어당겨!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860093"
+    },
+    {
+      "english": "My focus. It's my superpower. Zap!",
+      "KOREAN": "내 집중력. 슈퍼파워야. 슉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860094"
+    },
+    {
+      "english": "I'm a happiness engineer. Building smiles!",
+      "KOREAN": "나는 행복 설계사. 미소 제조 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860095"
+    },
+    {
+      "english": "My perseverance. It's my superpower. Chop!",
+      "KOREAN": "내 끈기. 슈퍼파워야. 촙!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860096"
+    },
+    {
+      "english": "I'm a 'try-try-again' champion. Woohoo!",
+      "KOREAN": "나는 '다시 시도' 챔피언. 우와!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860097"
+    },
+    {
+      "english": "My strength. It's a surprise party. Yay!",
+      "KOREAN": "내 힘. 서프라이즈 파티야. 만세!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860098"
+    },
+    {
+      "english": "My brain, is a superpower. Beep boop!",
+      "KOREAN": "내 뇌, 슈퍼파워. 삐빅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860100"
+    },
+    {
+      "english": "I'm a sunshine dispenser. Watch out!",
+      "KOREAN": "난 햇살 조절기. 조심해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860101"
+    },
+    {
+      "english": "My energy level? Infinite! Woohoo!",
+      "KOREAN": "내 에너지? 무한대! 우와!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860102"
+    },
+    {
+      "english": "I'm a 'can-do' machine. Vroom vroom!",
+      "KOREAN": "나는 '할 수 있다' 기계. 부릉부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860103"
+    },
+    {
+      "english": "My smile, is my secret weapon. Heh!",
+      "KOREAN": "내 미소, 비장의 무기. 헤헷!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860105"
+    },
+    {
+      "english": "I'm fueled by snacks. Don't judge!",
+      "KOREAN": "간식으로 가득. 뭐라 하지 마!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860106"
+    },
+    {
+      "english": "My optimism? Unbeatable! Yay!",
+      "KOREAN": "내 긍정? 절대 못 져! 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860107"
+    },
+    {
+      "english": "I'm a problem-solving ninja. Shh!",
+      "KOREAN": "나는 문제 해결 닌자. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860108"
+    },
+    {
+      "english": "My willpower? Like diamond. Sparkle!",
+      "KOREAN": "내 의지? 다이아몬드 같아. 반짝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860109"
+    },
+    {
+      "english": "I'm a hug delivery service. Free!",
+      "KOREAN": "나는 포옹 배달 서비스. 무료!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860111"
+    },
+    {
+      "english": "My creativity? Exploding! Boom!",
+      "KOREAN": "내 창의력? 폭발 중! 팡!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860112"
+    },
+    {
+      "english": "I'm a motivation booster. Get it?",
+      "KOREAN": "나는 동기 부여 부스터. 알겠어?",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860113"
+    },
+    {
+      "english": "My focus? Laser sharp. Pew pew!",
+      "KOREAN": "내 집중력? 레이저 날카로워. 삐유!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860114"
+    },
+    {
+      "english": "I'm a happy-go-lucky person. Yay!",
+      "KOREAN": "저는 낙천주의자. 만세!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860115"
+    },
+    {
+      "english": "My inner voice? Yelling 'Go!'",
+      "KOREAN": "내 속마음? '달려!'라고 소리쳐.",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860116"
+    },
+    {
+      "english": "I'm powered by good vibes. Zing!",
+      "KOREAN": "나는 좋은 기운으로 돌아가. 징!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860117"
+    },
+    {
+      "english": "My attitude? Unstoppable! Ha!",
+      "KOREAN": "내 태도? 막을 수 없어! 하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860118"
+    },
+    {
+      "english": "I'm a dream-catcher. Yours too!",
+      "KOREAN": "나는 꿈을 잡는 사람. 네 꿈도!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860119"
+    },
+    {
+      "english": "My courage? Brewing daily. Sip sip!",
+      "KOREAN": "내 용기? 매일 끓고 있어. 꼴깍!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860120"
+    },
+    {
+      "english": "I'm a 'what if' explorer. Wow!",
+      "KOREAN": "나는 '만약에' 탐험가. 와우!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860121"
+    },
+    {
+      "english": "My resilience. It's a superpower. Yes!",
+      "KOREAN": "나의 회복력. 그거 슈퍼파워야. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860122"
+    },
+    {
+      "english": "I'm a goal-getter. Watch me!",
+      "KOREAN": "나는 목표 달성가. 나를 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860123"
+    },
+    {
+      "english": "My spirit. It's ready to fly! Zoooom!",
+      "KOREAN": "내 정신. 날아갈 준비 완료! 슝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860124"
+    },
+    {
+      "english": "I'm the captain of my ship. Aye aye!",
+      "KOREAN": "나는 내 배의 선장. 네!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860125"
+    },
+    {
+      "english": "My positivity. Contagious! Get it!",
+      "KOREAN": "내 긍정 파워. 전염돼! 받아!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860127"
+    },
+    {
+      "english": "I'm a future architect. Building it!",
+      "KOREAN": "나는 미래 건축가. 짓는 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860128"
+    },
+    {
+      "english": "My grit. It's my secret sauce. Mmm!",
+      "KOREAN": "내 근성. 비장의 소스야. 냠냠!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860129"
+    },
+    {
+      "english": "I'm a learning sponge. Soak it up!",
+      "KOREAN": "나는 배우는 스펀지. 흡수해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860130"
+    },
+    {
+      "english": "My determination. It's my engine. Vroom!",
+      "KOREAN": "내 결심. 나의 엔진이야. 부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860131"
+    },
+    {
+      "english": "I'm a creative spark. Ignite!",
+      "KOREAN": "나는 창조적인 불꽃. 점화!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860132"
+    },
+    {
+      "english": "My humor. It's my therapy. Haha!",
+      "KOREAN": "내 유머. 내 치료법이야. 하하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860133"
+    },
+    {
+      "english": "I'm a resilience rockstar. Rock on!",
+      "KOREAN": "나는 회복력 락스타. 락앤롤!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860134"
+    },
+    {
+      "english": "My enthusiasm. It's contagious. Spread it!",
+      "KOREAN": "내 열정. 전염병이야. 퍼뜨려!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860135"
+    },
+    {
+      "english": "I'm a progress tracker. Moving up!",
+      "KOREAN": "나는 진척 추적기. 상승 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860136"
+    },
+    {
+      "english": "My courage. It's my superpower. Bam!",
+      "KOREAN": "내 용기. 슈퍼파워야. 쾅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860137"
+    },
+    {
+      "english": "I'm a belief magnet. Attracting good!",
+      "KOREAN": "나는 믿음 자석. 좋은 것을 끌어당겨!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860138"
+    },
+    {
+      "english": "My focus. It's my superpower. Zap!",
+      "KOREAN": "내 집중력. 슈퍼파워야. 슉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860139"
+    },
+    {
+      "english": "I'm a happiness engineer. Building smiles!",
+      "KOREAN": "나는 행복 설계사. 미소 제조 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860140"
+    },
+    {
+      "english": "My perseverance. It's my superpower. Chop!",
+      "KOREAN": "내 끈기. 슈퍼파워야. 촙!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860141"
+    },
+    {
+      "english": "I'm a 'try-try-again' champion. Woohoo!",
+      "KOREAN": "나는 '다시 시도' 챔피언. 우와!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860142"
+    },
+    {
+      "english": "My strength. It's a surprise party. Yay!",
+      "KOREAN": "내 힘. 서프라이즈 파티야. 만세!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860143"
+    },
+    {
+      "english": "My brain, is a superpower. Beep boop!",
+      "KOREAN": "내 뇌, 슈퍼파워. 삐빅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860145"
+    },
+    {
+      "english": "I'm a sunshine dispenser. Watch out!",
+      "KOREAN": "난 햇살 조절기. 조심해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860146"
+    },
+    {
+      "english": "My energy level? Infinite! Woohoo!",
+      "KOREAN": "내 에너지? 무한대! 우와!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860147"
+    },
+    {
+      "english": "I'm a 'can-do' machine. Vroom vroom!",
+      "KOREAN": "나는 '할 수 있다' 기계. 부릉부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860148"
+    },
+    {
+      "english": "My smile, is my secret weapon. Heh!",
+      "KOREAN": "내 미소, 비장의 무기. 헤헷!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860149"
+    },
+    {
+      "english": "I'm fueled by snacks. Don't judge!",
+      "KOREAN": "간식으로 가득. 뭐라 하지 마!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860150"
+    },
+    {
+      "english": "My optimism? Unbeatable! Yay!",
+      "KOREAN": "내 긍정? 절대 못 져! 야호!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860151"
+    },
+    {
+      "english": "I'm a problem-solving ninja. Shh!",
+      "KOREAN": "나는 문제 해결 닌자. 쉿!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860152"
+    },
+    {
+      "english": "My willpower? Like diamond. Sparkle!",
+      "KOREAN": "내 의지? 다이아몬드 같아. 반짝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860154"
+    },
+    {
+      "english": "I'm a hug delivery service. Free!",
+      "KOREAN": "나는 포옹 배달 서비스. 무료!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860155"
+    },
+    {
+      "english": "My creativity? Exploding! Boom!",
+      "KOREAN": "내 창의력? 폭발 중! 팡!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860156"
+    },
+    {
+      "english": "I'm a motivation booster. Get it?",
+      "KOREAN": "나는 동기 부여 부스터. 알겠어?",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860157"
+    },
+    {
+      "english": "My focus? Laser sharp. Pew pew!",
+      "KOREAN": "내 집중력? 레이저 날카로워. 삐유!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860158"
+    },
+    {
+      "english": "I'm a happy-go-lucky person. Yay!",
+      "KOREAN": "저는 낙천주의자. 만세!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860159"
+    },
+    {
+      "english": "My inner voice? Yelling 'Go!'",
+      "KOREAN": "내 속마음? '달려!'라고 소리쳐.",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860160"
+    },
+    {
+      "english": "I'm powered by good vibes. Zing!",
+      "KOREAN": "나는 좋은 기운으로 돌아가. 징!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860161"
+    },
+    {
+      "english": "My attitude? Unstoppable! Ha!",
+      "KOREAN": "내 태도? 막을 수 없어! 하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860162"
+    },
+    {
+      "english": "I'm a dream-catcher. Yours too!",
+      "KOREAN": "나는 꿈을 잡는 사람. 네 꿈도!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860163"
+    },
+    {
+      "english": "My courage? Brewing daily. Sip sip!",
+      "KOREAN": "내 용기? 매일 끓고 있어. 꼴깍!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860165"
+    },
+    {
+      "english": "I'm a 'what if' explorer. Wow!",
+      "KOREAN": "나는 '만약에' 탐험가. 와우!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860166"
+    },
+    {
+      "english": "My resilience. It's a superpower. Yes!",
+      "KOREAN": "나의 회복력. 그거 슈퍼파워야. 응!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860182"
+    },
+    {
+      "english": "I'm a goal-getter. Watch me!",
+      "KOREAN": "나는 목표 달성가. 나를 봐!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860183"
+    },
+    {
+      "english": "My spirit. It's ready to fly! Zoooom!",
+      "KOREAN": "내 정신. 날아갈 준비 완료! 슝!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860185"
+    },
+    {
+      "english": "I'm the captain of my ship. Aye aye!",
+      "KOREAN": "나는 내 배의 선장. 네!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860186"
+    },
+    {
+      "english": "My positivity. Contagious! Get it!",
+      "KOREAN": "내 긍정 파워. 전염돼! 받아!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860187"
+    },
+    {
+      "english": "I'm a future architect. Building it!",
+      "KOREAN": "나는 미래 건축가. 짓는 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860188"
+    },
+    {
+      "english": "My grit. It's my secret sauce. Mmm!",
+      "KOREAN": "내 근성. 비장의 소스야. 냠냠!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860189"
+    },
+    {
+      "english": "I'm a learning sponge. Soak it up!",
+      "KOREAN": "나는 배우는 스펀지. 흡수해!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860190"
+    },
+    {
+      "english": "My determination. It's my engine. Vroom!",
+      "KOREAN": "내 결심. 나의 엔진이야. 부릉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860191"
+    },
+    {
+      "english": "I'm a creative spark. Ignite!",
+      "KOREAN": "나는 창조적인 불꽃. 점화!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860192"
+    },
+    {
+      "english": "My humor. It's my therapy. Haha!",
+      "KOREAN": "내 유머. 내 치료법이야. 하하!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860193"
+    },
+    {
+      "english": "I'm a resilience rockstar. Rock on!",
+      "KOREAN": "나는 회복력 락스타. 락앤롤!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860195"
+    },
+    {
+      "english": "My enthusiasm. It's contagious. Spread it!",
+      "KOREAN": "내 열정. 전염병이야. 퍼뜨려!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860199"
+    },
+    {
+      "english": "I'm a progress tracker. Moving up!",
+      "KOREAN": "나는 진척 추적기. 상승 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860200"
+    },
+    {
+      "english": "My courage. It's my superpower. Bam!",
+      "KOREAN": "내 용기. 슈퍼파워야. 쾅!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860201"
+    },
+    {
+      "english": "I'm a belief magnet. Attracting good!",
+      "KOREAN": "나는 믿음 자석. 좋은 것을 끌어당겨!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860202"
+    },
+    {
+      "english": "My focus. It's my superpower. Zap!",
+      "KOREAN": "내 집중력. 슈퍼파워야. 슉!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860203"
+    },
+    {
+      "english": "I'm a happiness engineer. Building smiles!",
+      "KOREAN": "나는 행복 설계사. 미소 제조 중!",
+      "category": "Strength",
+      "generated_at": "2026-07-26T04:29:24.860204"
     }
   ],
-  "last_updated": "2026-07-24T04:16:19.294415"
+  "last_updated": "2026-07-26T04:29:24.860206"
 }
