@@ -11519,7 +11519,727 @@
       "KOREAN": "나는 행복 설계사. 미소 제조 중!",
       "category": "Strength",
       "generated_at": "2026-07-26T04:29:24.860204"
+    },
+    {
+      "english": "My passion, it fuels my soul.",
+      "KOREAN": "내 열정, 내 영혼을 불태워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270785"
+    },
+    {
+      "english": "I'm building my dreams, brick by brick.",
+      "KOREAN": "꿈을 하나씩 쌓아가고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270796"
+    },
+    {
+      "english": "My curiosity, it leads the way.",
+      "KOREAN": "내 호기심, 길을 안내해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270798"
+    },
+    {
+      "english": "I embrace challenges, with open arms.",
+      "KOREAN": "도전을, 활짝 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270800"
+    },
+    {
+      "english": "My purpose, it shines so bright.",
+      "KOREAN": "내 목적, 아주 밝게 빛나요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270801"
+    },
+    {
+      "english": "I'm a lifelong student, always learning.",
+      "KOREAN": "평생 배우는 학생이에요, 늘.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270802"
+    },
+    {
+      "english": "My vision, it guides my path.",
+      "KOREAN": "내 비전, 내 길을 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270804"
+    },
+    {
+      "english": "I give my best, every single day.",
+      "KOREAN": "매일 최선을 다해요, 정말.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270807"
+    },
+    {
+      "english": "My goals, they keep me moving.",
+      "KOREAN": "내 목표, 계속 나아가게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270809"
+    },
+    {
+      "english": "I am creating, my own story.",
+      "KOREAN": "나만의 이야기를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270810"
+    },
+    {
+      "english": "I seek growth, in everything.",
+      "KOREAN": "모든 것에서 성장을 추구해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270811"
+    },
+    {
+      "english": "My heart, it beats for this.",
+      "KOREAN": "내 마음, 이걸 위해 뛰어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270813"
+    },
+    {
+      "english": "I am here, to make a difference.",
+      "KOREAN": "변화를 만들기 위해 여기 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270814"
+    },
+    {
+      "english": "My ambition, it burns so bright.",
+      "KOREAN": "내 야망, 아주 뜨겁게 타올라요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270815"
+    },
+    {
+      "english": "I chase my dreams, fearlessly.",
+      "KOREAN": "꿈을 두려움 없이 쫓아가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270816"
+    },
+    {
+      "english": "My spirit, it's always soaring.",
+      "KOREAN": "내 정신, 늘 높이 날아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270818"
+    },
+    {
+      "english": "I lead with kindness, always.",
+      "KOREAN": "언제나, 친절함으로 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270819"
+    },
+    {
+      "english": "My determination, it never fades.",
+      "KOREAN": "내 결단력, 절대 시들지 않아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270820"
+    },
+    {
+      "english": "I find joy, in the journey.",
+      "KOREAN": "여정 속에서 기쁨을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270821"
+    },
+    {
+      "english": "My vision, it's crystal clear.",
+      "KOREAN": "내 비전, 수정처럼 맑아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270822"
+    },
+    {
+      "english": "I pour my heart, into this.",
+      "KOREAN": "내 마음을, 여기에 쏟아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270823"
+    },
+    {
+      "english": "My passion, it's my compass.",
+      "KOREAN": "내 열정, 내 나침반이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270824"
+    },
+    {
+      "english": "I'm creating change, one step.",
+      "KOREAN": "한 걸음씩, 변화를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270825"
+    },
+    {
+      "english": "My grit, it's my foundation.",
+      "KOREAN": "내 끈기, 내 바탕이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270826"
+    },
+    {
+      "english": "I live with purpose, daily.",
+      "KOREAN": "매일, 목적을 가지고 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270828"
+    },
+    {
+      "english": "My aim, it's always forward.",
+      "KOREAN": "내 목표, 언제나 앞을 향해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270829"
+    },
+    {
+      "english": "My energy, it's boundless.",
+      "KOREAN": "내 에너지, 끝이 없어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270830"
+    },
+    {
+      "english": "I move with intention, always.",
+      "KOREAN": "언제나, 의도를 가지고 움직여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270831"
+    },
+    {
+      "english": "My hope, it lights my way.",
+      "KOREAN": "내 희망, 내 길을 비춰요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270832"
+    },
+    {
+      "english": "I chase my dreams, with all.",
+      "KOREAN": "나의 전부로, 꿈을 쫓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270834"
+    },
+    {
+      "english": "My spirit, it's my guide.",
+      "KOREAN": "내 정신, 내 안내자예요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270835"
+    },
+    {
+      "english": "I build connections, warmly.",
+      "KOREAN": "따뜻하게, 관계를 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270836"
+    },
+    {
+      "english": "My drive, it sets the pace.",
+      "KOREAN": "내 추진력, 속도를 정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270837"
+    },
+    {
+      "english": "I focus on progress, daily.",
+      "KOREAN": "매일, 발전에 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270838"
+    },
+    {
+      "english": "My purpose, it's my north star.",
+      "KOREAN": "내 목적, 나의 북극성이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270839"
+    },
+    {
+      "english": "I find strength, within me.",
+      "KOREAN": "내 안에서, 힘을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270840"
+    },
+    {
+      "english": "My zeal, it's contagious.",
+      "KOREAN": "내 열의, 전염돼요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270841"
+    },
+    {
+      "english": "I create my future, now.",
+      "KOREAN": "나의 미래를, 지금 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270842"
+    },
+    {
+      "english": "My passion, it fuels my soul.",
+      "KOREAN": "내 열정, 내 영혼을 불태워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270844"
+    },
+    {
+      "english": "I'm building my dreams, brick by brick.",
+      "KOREAN": "꿈을 하나씩 쌓아가고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270845"
+    },
+    {
+      "english": "My curiosity, it leads the way.",
+      "KOREAN": "내 호기심, 길을 안내해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270846"
+    },
+    {
+      "english": "I embrace challenges, with open arms.",
+      "KOREAN": "도전을, 활짝 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270848"
+    },
+    {
+      "english": "My purpose, it shines so bright.",
+      "KOREAN": "내 목적, 아주 밝게 빛나요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270849"
+    },
+    {
+      "english": "I'm a lifelong student, always learning.",
+      "KOREAN": "평생 배우는 학생이에요, 늘.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270850"
+    },
+    {
+      "english": "My vision, it guides my path.",
+      "KOREAN": "내 비전, 내 길을 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270851"
+    },
+    {
+      "english": "I give my best, every single day.",
+      "KOREAN": "매일 최선을 다해요, 정말.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270852"
+    },
+    {
+      "english": "My goals, they keep me moving.",
+      "KOREAN": "내 목표, 계속 나아가게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270853"
+    },
+    {
+      "english": "I am creating, my own story.",
+      "KOREAN": "나만의 이야기를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270855"
+    },
+    {
+      "english": "I seek growth, in everything.",
+      "KOREAN": "모든 것에서 성장을 추구해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270856"
+    },
+    {
+      "english": "My heart, it beats for this.",
+      "KOREAN": "내 마음, 이걸 위해 뛰어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270857"
+    },
+    {
+      "english": "I am here, to make a difference.",
+      "KOREAN": "변화를 만들기 위해 여기 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270858"
+    },
+    {
+      "english": "My ambition, it burns so bright.",
+      "KOREAN": "내 야망, 아주 뜨겁게 타올라요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270859"
+    },
+    {
+      "english": "I chase my dreams, fearlessly.",
+      "KOREAN": "꿈을 두려움 없이 쫓아가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270860"
+    },
+    {
+      "english": "My spirit, it's always soaring.",
+      "KOREAN": "내 정신, 늘 높이 날아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270861"
+    },
+    {
+      "english": "I lead with kindness, always.",
+      "KOREAN": "언제나, 친절함으로 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270862"
+    },
+    {
+      "english": "My determination, it never fades.",
+      "KOREAN": "내 결단력, 절대 시들지 않아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270863"
+    },
+    {
+      "english": "I find joy, in the journey.",
+      "KOREAN": "여정 속에서 기쁨을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270864"
+    },
+    {
+      "english": "My vision, it's crystal clear.",
+      "KOREAN": "내 비전, 수정처럼 맑아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270865"
+    },
+    {
+      "english": "I pour my heart, into this.",
+      "KOREAN": "내 마음을, 여기에 쏟아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270866"
+    },
+    {
+      "english": "My passion, it's my compass.",
+      "KOREAN": "내 열정, 내 나침반이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270868"
+    },
+    {
+      "english": "I'm creating change, one step.",
+      "KOREAN": "한 걸음씩, 변화를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270869"
+    },
+    {
+      "english": "My grit, it's my foundation.",
+      "KOREAN": "내 끈기, 내 바탕이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270870"
+    },
+    {
+      "english": "I live with purpose, daily.",
+      "KOREAN": "매일, 목적을 가지고 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270871"
+    },
+    {
+      "english": "My aim, it's always forward.",
+      "KOREAN": "내 목표, 언제나 앞을 향해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270872"
+    },
+    {
+      "english": "My energy, it's boundless.",
+      "KOREAN": "내 에너지, 끝이 없어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270873"
+    },
+    {
+      "english": "I move with intention, always.",
+      "KOREAN": "언제나, 의도를 가지고 움직여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270874"
+    },
+    {
+      "english": "My hope, it lights my way.",
+      "KOREAN": "내 희망, 내 길을 비춰요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270875"
+    },
+    {
+      "english": "I chase my dreams, with all.",
+      "KOREAN": "나의 전부로, 꿈을 쫓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270876"
+    },
+    {
+      "english": "My spirit, it's my guide.",
+      "KOREAN": "내 정신, 내 안내자예요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270877"
+    },
+    {
+      "english": "I build connections, warmly.",
+      "KOREAN": "따뜻하게, 관계를 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270878"
+    },
+    {
+      "english": "My drive, it sets the pace.",
+      "KOREAN": "내 추진력, 속도를 정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270879"
+    },
+    {
+      "english": "I focus on progress, daily.",
+      "KOREAN": "매일, 발전에 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270880"
+    },
+    {
+      "english": "My purpose, it's my north star.",
+      "KOREAN": "내 목적, 나의 북극성이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270881"
+    },
+    {
+      "english": "I find strength, within me.",
+      "KOREAN": "내 안에서, 힘을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270882"
+    },
+    {
+      "english": "My zeal, it's contagious.",
+      "KOREAN": "내 열의, 전염돼요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270883"
+    },
+    {
+      "english": "I create my future, now.",
+      "KOREAN": "나의 미래를, 지금 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270884"
+    },
+    {
+      "english": "My passion, it fuels my soul.",
+      "KOREAN": "내 열정, 내 영혼을 불태워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270886"
+    },
+    {
+      "english": "I'm building my dreams, brick by brick.",
+      "KOREAN": "꿈을 하나씩 쌓아가고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270887"
+    },
+    {
+      "english": "My curiosity, it leads the way.",
+      "KOREAN": "내 호기심, 길을 안내해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270888"
+    },
+    {
+      "english": "I embrace challenges, with open arms.",
+      "KOREAN": "도전을, 활짝 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270889"
+    },
+    {
+      "english": "My purpose, it shines so bright.",
+      "KOREAN": "내 목적, 아주 밝게 빛나요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270890"
+    },
+    {
+      "english": "I'm a lifelong student, always learning.",
+      "KOREAN": "평생 배우는 학생이에요, 늘.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270891"
+    },
+    {
+      "english": "My vision, it guides my path.",
+      "KOREAN": "내 비전, 내 길을 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270893"
+    },
+    {
+      "english": "I give my best, every single day.",
+      "KOREAN": "매일 최선을 다해요, 정말.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270894"
+    },
+    {
+      "english": "My goals, they keep me moving.",
+      "KOREAN": "내 목표, 계속 나아가게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270898"
+    },
+    {
+      "english": "I am creating, my own story.",
+      "KOREAN": "나만의 이야기를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270900"
+    },
+    {
+      "english": "I seek growth, in everything.",
+      "KOREAN": "모든 것에서 성장을 추구해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270901"
+    },
+    {
+      "english": "My heart, it beats for this.",
+      "KOREAN": "내 마음, 이걸 위해 뛰어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270902"
+    },
+    {
+      "english": "I am here, to make a difference.",
+      "KOREAN": "변화를 만들기 위해 여기 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270903"
+    },
+    {
+      "english": "My ambition, it burns so bright.",
+      "KOREAN": "내 야망, 아주 뜨겁게 타올라요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270905"
+    },
+    {
+      "english": "I chase my dreams, fearlessly.",
+      "KOREAN": "꿈을 두려움 없이 쫓아가요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270906"
+    },
+    {
+      "english": "My spirit, it's always soaring.",
+      "KOREAN": "내 정신, 늘 높이 날아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270907"
+    },
+    {
+      "english": "I lead with kindness, always.",
+      "KOREAN": "언제나, 친절함으로 이끌어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270908"
+    },
+    {
+      "english": "My determination, it never fades.",
+      "KOREAN": "내 결단력, 절대 시들지 않아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270909"
+    },
+    {
+      "english": "I find joy, in the journey.",
+      "KOREAN": "여정 속에서 기쁨을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270910"
+    },
+    {
+      "english": "My vision, it's crystal clear.",
+      "KOREAN": "내 비전, 수정처럼 맑아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270911"
+    },
+    {
+      "english": "I pour my heart, into this.",
+      "KOREAN": "내 마음을, 여기에 쏟아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270912"
+    },
+    {
+      "english": "My passion, it's my compass.",
+      "KOREAN": "내 열정, 내 나침반이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270915"
+    },
+    {
+      "english": "I'm creating change, one step.",
+      "KOREAN": "한 걸음씩, 변화를 만들고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270916"
+    },
+    {
+      "english": "My grit, it's my foundation.",
+      "KOREAN": "내 끈기, 내 바탕이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270917"
+    },
+    {
+      "english": "I live with purpose, daily.",
+      "KOREAN": "매일, 목적을 가지고 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270918"
+    },
+    {
+      "english": "My aim, it's always forward.",
+      "KOREAN": "내 목표, 언제나 앞을 향해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270919"
+    },
+    {
+      "english": "My energy, it's boundless.",
+      "KOREAN": "내 에너지, 끝이 없어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270921"
+    },
+    {
+      "english": "I move with intention, always.",
+      "KOREAN": "언제나, 의도를 가지고 움직여요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270922"
+    },
+    {
+      "english": "My hope, it lights my way.",
+      "KOREAN": "내 희망, 내 길을 비춰요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270923"
+    },
+    {
+      "english": "I chase my dreams, with all.",
+      "KOREAN": "나의 전부로, 꿈을 쫓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270924"
+    },
+    {
+      "english": "My spirit, it's my guide.",
+      "KOREAN": "내 정신, 내 안내자예요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270925"
+    },
+    {
+      "english": "I build connections, warmly.",
+      "KOREAN": "따뜻하게, 관계를 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270926"
+    },
+    {
+      "english": "My drive, it sets the pace.",
+      "KOREAN": "내 추진력, 속도를 정해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270927"
+    },
+    {
+      "english": "I focus on progress, daily.",
+      "KOREAN": "매일, 발전에 집중해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270928"
+    },
+    {
+      "english": "My purpose, it's my north star.",
+      "KOREAN": "내 목적, 나의 북극성이에요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270929"
+    },
+    {
+      "english": "I find strength, within me.",
+      "KOREAN": "내 안에서, 힘을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270930"
+    },
+    {
+      "english": "My zeal, it's contagious.",
+      "KOREAN": "내 열의, 전염돼요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270931"
+    },
+    {
+      "english": "I create my future, now.",
+      "KOREAN": "나의 미래를, 지금 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270932"
+    },
+    {
+      "english": "My passion, it fuels my soul.",
+      "KOREAN": "내 열정, 내 영혼을 불태워요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270933"
+    },
+    {
+      "english": "I'm building my dreams, brick by brick.",
+      "KOREAN": "꿈을 하나씩 쌓아가고 있어요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270936"
+    },
+    {
+      "english": "My curiosity, it leads the way.",
+      "KOREAN": "내 호기심, 길을 안내해요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270937"
+    },
+    {
+      "english": "I embrace challenges, with open arms.",
+      "KOREAN": "도전을, 활짝 안아줘요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270938"
+    },
+    {
+      "english": "My purpose, it shines so bright.",
+      "KOREAN": "내 목적, 아주 밝게 빛나요.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270939"
+    },
+    {
+      "english": "I'm a lifelong student, always learning.",
+      "KOREAN": "평생 배우는 학생이에요, 늘.",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:37:43.270940"
     }
   ],
-  "last_updated": "2026-07-26T04:29:24.860206"
+  "last_updated": "2026-07-27T04:37:43.270942"
 }
