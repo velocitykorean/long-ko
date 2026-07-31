@@ -1194,7 +1194,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    generate_title_description(
+    title_meta = generate_title_description(
         category_english,
         CATEGORIES_KOREAN[category_english],
         phrases,
@@ -1202,7 +1202,6 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         str(video_dir)
     )
 
-    # Save metadata
     metadata = {
         "category_english": category_english,
         "category_korean": CATEGORIES_KOREAN[category_english],
@@ -1221,6 +1220,30 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
+    # Save latest video info for upload script (BEFORE metadata overwrite)
+    import json as _json
+    from pathlib import Path as _Path
+    meta_out = {
+        "title": title_meta.get("selected_title", f"Learn Korean: {category_english}"),
+        "description": title_meta.get("description", ""),
+        "tags": ["Learn Korean", "Korean Phrases", "Korean", category_english, "Velocity Korean"],
+        "category_english": category_english,
+        "category_korean": CATEGORIES_KOREAN[category_english],
+        "phrases_count": len(phrases),
+        "duration_seconds": total_duration,
+        "duration_minutes": total_duration / 60,
+        "video_path": str(output_video),
+        "thumbnail_path": str(thumbnail_path),
+        "phrases": phrases,
+        "generated_at": datetime.now().isoformat(),
+    }
+    _Path("output").mkdir(exist_ok=True)
+    with open(_Path("output") / "latest_video.json", "w", encoding="utf-8") as f:
+        _json.dump(meta_out, f, indent=2, ensure_ascii=False)
+    with open(_Path("output") / "latest_upload_info.json", "w", encoding="utf-8") as f:
+        _json.dump({"title": meta_out["title"], "description": meta_out["description"],
+                     "category": category_english, "phrases_count": len(phrases)}, f, indent=2)
+
 
     print(f"\n{'='*80}")
     print(f"✅ LONG-FORM VIDEO COMPLETE!")
