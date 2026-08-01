@@ -12959,7 +12959,367 @@
       "korean": "딱 좋아요, 이 느낌.",
       "category": "Balance",
       "generated_at": "2026-07-31T12:31:35.961591"
+    },
+    {
+      "english": "Eat well, live vibrantly.",
+      "korean": "잘 먹고, 활기차게 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004235"
+    },
+    {
+      "english": "Learn Korean, unlock worlds.",
+      "korean": "한국어 배워요, 세상을 열어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004251"
+    },
+    {
+      "english": "Travel light, explore more.",
+      "korean": "가볍게 여행해요, 더 많이 탐험해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004254"
+    },
+    {
+      "english": "Drink tea, find your calm.",
+      "korean": "차 마셔요, 당신의 평온을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004255"
+    },
+    {
+      "english": "Connect deeply, feel truly.",
+      "korean": "깊이 연결돼요, 진정으로 느껴요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004256"
+    },
+    {
+      "english": "Listen more, understand better.",
+      "korean": "더 들어요, 더 잘 이해해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004257"
+    },
+    {
+      "english": "Walk often, clear your mind.",
+      "korean": "자주 걸어요, 마음을 맑게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004258"
+    },
+    {
+      "english": "Create something, every day.",
+      "korean": "매일 무언가 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004262"
+    },
+    {
+      "english": "Share kindness, spread joy.",
+      "korean": "친절을 나눠요, 기쁨을 퍼뜨려요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004263"
+    },
+    {
+      "english": "Laugh often, live fully.",
+      "korean": "자주 웃어요, 온전히 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004265"
+    },
+    {
+      "english": "Read books, expand your world.",
+      "korean": "책 읽어요, 세상을 넓혀요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004266"
+    },
+    {
+      "english": "Rest well, recharge completely.",
+      "korean": "푹 쉬어요, 완전히 충전해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004268"
+    },
+    {
+      "english": "Sing out, express your soul.",
+      "korean": "소리 내어 노래해요, 당신의 영혼을 표현해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004268"
+    },
+    {
+      "english": "Be present, savor moments.",
+      "korean": "현재에 집중해요, 순간을 음미해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004269"
+    },
+    {
+      "english": "Help others, feel good.",
+      "korean": "다른 사람을 도와요, 기분이 좋아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004270"
+    },
+    {
+      "english": "Explore food, taste diversity.",
+      "korean": "음식을 탐험해요, 다양성을 맛봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004271"
+    },
+    {
+      "english": "Learn a phrase, connect faster.",
+      "korean": "한 구절 배워요, 더 빨리 연결돼요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004272"
+    },
+    {
+      "english": "Seek adventure, find yourself.",
+      "korean": "모험을 찾아요, 자신을 발견해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004273"
+    },
+    {
+      "english": "Open your mind, welcome change.",
+      "korean": "마음을 열어요, 변화를 환영해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004273"
+    },
+    {
+      "english": "Dance freely, move your body.",
+      "korean": "자유롭게 춤춰요, 몸을 움직여요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004274"
+    },
+    {
+      "english": "Plant seeds, watch them grow.",
+      "korean": "씨앗을 심어요, 자라는 것을 지켜봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004276"
+    },
+    {
+      "english": "Ask questions, gain knowledge.",
+      "korean": "질문해요, 지식을 얻어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004277"
+    },
+    {
+      "english": "Practice Korean, speak with ease.",
+      "korean": "한국어 연습해요, 쉽게 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004278"
+    },
+    {
+      "english": "Embrace silence, find clarity.",
+      "korean": "침묵을 받아들여요, 명확함을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004279"
+    },
+    {
+      "english": "Observe nature, feel wonder.",
+      "korean": "자연을 관찰해요, 경이로움을 느껴요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004280"
+    },
+    {
+      "english": "Write thoughts, express yourself.",
+      "korean": "생각을 적어요, 자신을 표현해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004280"
+    },
+    {
+      "english": "Sleep deeply, wake refreshed.",
+      "korean": "깊이 자요, 상쾌하게 일어나요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004281"
+    },
+    {
+      "english": "Dream big, chase it now.",
+      "korean": "크게 꿈꿔요, 지금 바로 쫓아가요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004282"
+    },
+    {
+      "english": "Stay curious, keep exploring.",
+      "korean": "호기심을 유지해요, 계속 탐험해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004283"
+    },
+    {
+      "english": "Be grateful, find peace.",
+      "korean": "감사해요, 평화를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004284"
+    },
+    {
+      "english": "Paint your canvas, create art.",
+      "korean": "당신의 캔버스를 칠해요, 예술을 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004285"
+    },
+    {
+      "english": "Cook together, build bonds.",
+      "korean": "함께 요리해요, 유대감을 쌓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004285"
+    },
+    {
+      "english": "Listen to music, feel the beat.",
+      "korean": "음악 들어요, 비트를 느껴요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004286"
+    },
+    {
+      "english": "Learn a new skill, grow daily.",
+      "korean": "새로운 기술 배워요, 매일 성장해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004287"
+    },
+    {
+      "english": "Speak kindly, heal hearts.",
+      "korean": "친절하게 말해요, 마음을 치유해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004288"
+    },
+    {
+      "english": "Explore cities, discover culture.",
+      "korean": "도시를 탐험해요, 문화를 발견해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004290"
+    },
+    {
+      "english": "Write stories, share your voice.",
+      "korean": "이야기를 써요, 당신의 목소리를 공유해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004291"
+    },
+    {
+      "english": "Meditate daily, find your center.",
+      "korean": "매일 명상해요, 당신의 중심을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004292"
+    },
+    {
+      "english": "Laugh with friends, make memories.",
+      "korean": "친구들과 웃어요, 추억을 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004293"
+    },
+    {
+      "english": "Create beauty, in your space.",
+      "korean": "당신의 공간에, 아름다움을 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004294"
+    },
+    {
+      "english": "Eat well, live vibrantly.",
+      "korean": "잘 먹고, 활기차게 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004295"
+    },
+    {
+      "english": "Learn Korean, unlock worlds.",
+      "korean": "한국어 배워요, 세상을 열어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004296"
+    },
+    {
+      "english": "Travel light, explore more.",
+      "korean": "가볍게 여행해요, 더 많이 탐험해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004296"
+    },
+    {
+      "english": "Drink tea, find your calm.",
+      "korean": "차 마셔요, 당신의 평온을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004297"
+    },
+    {
+      "english": "Connect deeply, feel truly.",
+      "korean": "깊이 연결돼요, 진정으로 느껴요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004298"
+    },
+    {
+      "english": "Listen more, understand better.",
+      "korean": "더 들어요, 더 잘 이해해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004299"
+    },
+    {
+      "english": "Walk often, clear your mind.",
+      "korean": "자주 걸어요, 마음을 맑게 해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004300"
+    },
+    {
+      "english": "Create something, every day.",
+      "korean": "매일 무언가 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004300"
+    },
+    {
+      "english": "Share kindness, spread joy.",
+      "korean": "친절을 나눠요, 기쁨을 퍼뜨려요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004301"
+    },
+    {
+      "english": "Laugh often, live fully.",
+      "korean": "자주 웃어요, 온전히 살아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004302"
+    },
+    {
+      "english": "Read books, expand your world.",
+      "korean": "책 읽어요, 세상을 넓혀요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004303"
+    },
+    {
+      "english": "Rest well, recharge completely.",
+      "korean": "푹 쉬어요, 완전히 충전해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004303"
+    },
+    {
+      "english": "Sing out, express your soul.",
+      "korean": "소리 내어 노래해요, 당신의 영혼을 표현해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004304"
+    },
+    {
+      "english": "Be present, savor moments.",
+      "korean": "현재에 집중해요, 순간을 음미해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004306"
+    },
+    {
+      "english": "Help others, feel good.",
+      "korean": "다른 사람을 도와요, 기분이 좋아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004307"
+    },
+    {
+      "english": "Explore food, taste diversity.",
+      "korean": "음식을 탐험해요, 다양성을 맛봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004308"
+    },
+    {
+      "english": "Learn a phrase, connect faster.",
+      "korean": "한 구절 배워요, 더 빨리 연결돼요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004309"
+    },
+    {
+      "english": "Seek adventure, find yourself.",
+      "korean": "모험을 찾아요, 자신을 발견해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004310"
+    },
+    {
+      "english": "Open your mind, welcome change.",
+      "korean": "마음을 열어요, 변화를 환영해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004311"
+    },
+    {
+      "english": "Dance freely, move your body.",
+      "korean": "자유롭게 춤춰요, 몸을 움직여요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-01T04:22:53.004312"
     }
   ],
-  "last_updated": "2026-07-31T12:31:35.961593"
+  "last_updated": "2026-08-01T04:22:53.004313"
 }
