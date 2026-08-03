@@ -13679,7 +13679,367 @@
       "korean": "나는 너에게, 끌려.",
       "category": "Strength",
       "generated_at": "2026-08-02T04:26:14.166834"
+    },
+    {
+      "english": "This feeling, so good.",
+      "korean": "이 기분, 너무 좋아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257921"
+    },
+    {
+      "english": "Can’t stop, smiling.",
+      "korean": "웃음이, 멈추질 않아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257932"
+    },
+    {
+      "english": "This moment, pure bliss.",
+      "korean": "이 순간, 완벽한 행복.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257934"
+    },
+    {
+      "english": "Everything, feels right.",
+      "korean": "모든 게, 잘 맞아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257935"
+    },
+    {
+      "english": "Just happy, feeling this.",
+      "korean": "그냥 행복해, 이걸 느끼니.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257936"
+    },
+    {
+      "english": "What a wonderful, day.",
+      "korean": "정말 멋진, 하루야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257937"
+    },
+    {
+      "english": "So much, to be thankful for.",
+      "korean": "감사할 게, 정말 많아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257939"
+    },
+    {
+      "english": "This is, the best.",
+      "korean": "이게, 최고야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257942"
+    },
+    {
+      "english": "Feeling so, content.",
+      "korean": "정말 만족스러워.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257944"
+    },
+    {
+      "english": "Pure delight, right now.",
+      "korean": "순수한 기쁨, 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257945"
+    },
+    {
+      "english": "A perfect, little moment.",
+      "korean": "완벽한, 작은 순간.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257946"
+    },
+    {
+      "english": "Couldn’t ask, for more.",
+      "korean": "더 바랄 게 없어.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257947"
+    },
+    {
+      "english": "This energy, is amazing.",
+      "korean": "이 에너지가, 대단해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257949"
+    },
+    {
+      "english": "My heart, is singing.",
+      "korean": "내 마음이, 노래해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257950"
+    },
+    {
+      "english": "So much, happiness.",
+      "korean": "행복이, 너무 많아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257951"
+    },
+    {
+      "english": "This is, pure magic.",
+      "korean": "이게, 순수한 마법이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257952"
+    },
+    {
+      "english": "Feeling wonderful, inside.",
+      "korean": "속이, 너무 좋아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257953"
+    },
+    {
+      "english": "Life is, beautiful now.",
+      "korean": "인생이, 아름다워 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257955"
+    },
+    {
+      "english": "This is, my happy place.",
+      "korean": "여기가, 나의 행복한 곳.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257956"
+    },
+    {
+      "english": "So much, positive vibes.",
+      "korean": "긍정적인 기운, 가득해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257957"
+    },
+    {
+      "english": "This feeling, is addictive.",
+      "korean": "이 기분, 중독적이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257958"
+    },
+    {
+      "english": "Everything, feels easy.",
+      "korean": "모든 게, 쉬워.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257959"
+    },
+    {
+      "english": "Pure joy, is here.",
+      "korean": "순수한 기쁨, 여기에.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257960"
+    },
+    {
+      "english": "My mood, is perfect.",
+      "korean": "내 기분이, 완벽해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257961"
+    },
+    {
+      "english": "What a great, feeling.",
+      "korean": "정말 좋은, 느낌이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257962"
+    },
+    {
+      "english": "This is, so uplifting.",
+      "korean": "이거, 정말 기운 나.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257963"
+    },
+    {
+      "english": "This moment, is precious.",
+      "korean": "이 순간, 소중해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257964"
+    },
+    {
+      "english": "Feeling so, optimistic.",
+      "korean": "정말 낙관적이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257966"
+    },
+    {
+      "english": "This is, pure happiness.",
+      "korean": "이것이, 순수한 행복이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257966"
+    },
+    {
+      "english": "This feeling, is amazing.",
+      "korean": "이 기분, 대단해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257968"
+    },
+    {
+      "english": "What a lovely, surprise.",
+      "korean": "정말 기쁜, 서프라이즈야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257969"
+    },
+    {
+      "english": "So much, peace now.",
+      "korean": "평화가, 정말 많아 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257970"
+    },
+    {
+      "english": "This is, my happy song.",
+      "korean": "이건, 나의 행복 노래.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257971"
+    },
+    {
+      "english": "Feeling so, alive today.",
+      "korean": "오늘, 정말 살아있어.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257971"
+    },
+    {
+      "english": "This moment, is perfect.",
+      "korean": "이 순간, 완벽해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257973"
+    },
+    {
+      "english": "My spirit, soars high.",
+      "korean": "내 영혼이, 높이 날아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257973"
+    },
+    {
+      "english": "This feeling, so good.",
+      "korean": "이 기분, 너무 좋아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257975"
+    },
+    {
+      "english": "Can’t stop, smiling.",
+      "korean": "웃음이, 멈추질 않아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257976"
+    },
+    {
+      "english": "This moment, pure bliss.",
+      "korean": "이 순간, 완벽한 행복.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257977"
+    },
+    {
+      "english": "Everything, feels right.",
+      "korean": "모든 게, 잘 맞아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257978"
+    },
+    {
+      "english": "Just happy, feeling this.",
+      "korean": "그냥 행복해, 이걸 느끼니.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257980"
+    },
+    {
+      "english": "What a wonderful, day.",
+      "korean": "정말 멋진, 하루야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257981"
+    },
+    {
+      "english": "So much, to be thankful for.",
+      "korean": "감사할 게, 정말 많아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257982"
+    },
+    {
+      "english": "This is, the best.",
+      "korean": "이게, 최고야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257983"
+    },
+    {
+      "english": "Feeling so, content.",
+      "korean": "정말 만족스러워.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257984"
+    },
+    {
+      "english": "Pure delight, right now.",
+      "korean": "순수한 기쁨, 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257986"
+    },
+    {
+      "english": "A perfect, little moment.",
+      "korean": "완벽한, 작은 순간.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257987"
+    },
+    {
+      "english": "Couldn’t ask, for more.",
+      "korean": "더 바랄 게 없어.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257988"
+    },
+    {
+      "english": "This energy, is amazing.",
+      "korean": "이 에너지가, 대단해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257989"
+    },
+    {
+      "english": "My heart, is singing.",
+      "korean": "내 마음이, 노래해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257990"
+    },
+    {
+      "english": "So much, happiness.",
+      "korean": "행복이, 너무 많아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257991"
+    },
+    {
+      "english": "This is, pure magic.",
+      "korean": "이게, 순수한 마법이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257992"
+    },
+    {
+      "english": "Feeling wonderful, inside.",
+      "korean": "속이, 너무 좋아.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257993"
+    },
+    {
+      "english": "Life is, beautiful now.",
+      "korean": "인생이, 아름다워 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257994"
+    },
+    {
+      "english": "This is, my happy place.",
+      "korean": "여기가, 나의 행복한 곳.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257996"
+    },
+    {
+      "english": "So much, positive vibes.",
+      "korean": "긍정적인 기운, 가득해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257997"
+    },
+    {
+      "english": "This feeling, is addictive.",
+      "korean": "이 기분, 중독적이야.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257998"
+    },
+    {
+      "english": "Everything, feels easy.",
+      "korean": "모든 게, 쉬워.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.257999"
+    },
+    {
+      "english": "Pure joy, is here.",
+      "korean": "순수한 기쁨, 여기에.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.258000"
+    },
+    {
+      "english": "My mood, is perfect.",
+      "korean": "내 기분이, 완벽해.",
+      "category": "Joy",
+      "generated_at": "2026-08-03T04:32:26.258001"
     }
   ],
-  "last_updated": "2026-08-02T04:26:14.166836"
+  "last_updated": "2026-08-03T04:32:26.258003"
 }
