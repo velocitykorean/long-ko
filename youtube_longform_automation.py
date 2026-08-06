@@ -745,6 +745,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cn_total_h = len(cn_lines) * cn_line_h
     
     # 3. Pronunciation Box
+CRITICAL: Every translation MUST be in Korean. NEVER use German, Spanish, or any other language. Only Korean.
     py_text = f"[{pronunciation}]"
     py_lines = wrap_text(py_text, font_pronunciation, VIDEO_WIDTH - 400)
     py_line_h = 60
