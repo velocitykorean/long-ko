@@ -15119,7 +15119,367 @@
       "korean": "너는 나의 신선한 공기.",
       "category": "Inner Peace",
       "generated_at": "2026-08-06T04:14:53.942179"
+    },
+    {
+      "english": "Tomorrow, is a new chance.",
+      "korean": "내일은, 새로운 기회예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056177"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "korean": "계속 가요, 포기하지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056189"
+    },
+    {
+      "english": "A little bit, more, please.",
+      "korean": "조금만, 더, 부탁해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056191"
+    },
+    {
+      "english": "It will be okay, soon.",
+      "korean": "곧, 괜찮아질 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056192"
+    },
+    {
+      "english": "We can do this, together.",
+      "korean": "우리, 이걸 할 수 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056193"
+    },
+    {
+      "english": "Sun will shine, again.",
+      "korean": "태양이, 다시 빛날 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056194"
+    },
+    {
+      "english": "Hang in there, my friend.",
+      "korean": "힘내요, 내 친구.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056196"
+    },
+    {
+      "english": "Hope is a good thing.",
+      "korean": "희망은, 좋은 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056199"
+    },
+    {
+      "english": "You've got this, yes!",
+      "korean": "당신은, 할 수 있어요, 네!",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056201"
+    },
+    {
+      "english": "Just a little, more patience.",
+      "korean": "조금만, 더 인내심을.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056202"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "korean": "턱을, 위로 올리세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056203"
+    },
+    {
+      "english": "This too, shall pass.",
+      "korean": "이것 또한, 지나갈 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056204"
+    },
+    {
+      "english": "A glimmer, of hope.",
+      "korean": "희망의, 한 줄기.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056206"
+    },
+    {
+      "english": "Let's try, one more time.",
+      "korean": "한 번 더, 시도해 봐요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056207"
+    },
+    {
+      "english": "Never lose, your light.",
+      "korean": "당신의 빛을, 절대 잃지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056208"
+    },
+    {
+      "english": "You are resilient, always.",
+      "korean": "당신은, 언제나 회복력이 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056209"
+    },
+    {
+      "english": "The end is, a new beginning.",
+      "korean": "끝은, 새로운 시작이에요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056210"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "korean": "앞으로, 계속 나아가세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056211"
+    },
+    {
+      "english": "A little hope, goes a long way.",
+      "korean": "작은 희망이, 멀리 가요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056212"
+    },
+    {
+      "english": "You are capable, of anything.",
+      "korean": "당신은, 무엇이든 할 수 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056213"
+    },
+    {
+      "english": "Don't forget, to smile.",
+      "korean": "웃는 것을, 잊지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056214"
+    },
+    {
+      "english": "Keep that, hope alive.",
+      "korean": "그 희망을, 살아있게 하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056215"
+    },
+    {
+      "english": "There's always, something good.",
+      "korean": "언제나, 좋은 무언가가 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056216"
+    },
+    {
+      "english": "Your journey, continues.",
+      "korean": "당신의 여정은, 계속됩니다.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056217"
+    },
+    {
+      "english": "Let courage, lead you.",
+      "korean": "용기가, 당신을 이끌게 하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056218"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "korean": "당신은, 있는 그대로 충분해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056219"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "korean": "정신을, 높이 유지하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056220"
+    },
+    {
+      "english": "One day, it will make sense.",
+      "korean": "어느 날, 이해가 될 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056221"
+    },
+    {
+      "english": "The best is, yet to come.",
+      "korean": "최고는, 아직 오지 않았어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056222"
+    },
+    {
+      "english": "Believe in, brighter tomorrows.",
+      "korean": "더 밝은 내일을, 믿어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056223"
+    },
+    {
+      "english": "You are never, truly alone.",
+      "korean": "당신은, 결코 진정 혼자가 아니에요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056223"
+    },
+    {
+      "english": "Tomorrow, is a new chance.",
+      "korean": "내일은, 새로운 기회예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056225"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "korean": "계속 가요, 포기하지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056226"
+    },
+    {
+      "english": "A little bit, more, please.",
+      "korean": "조금만, 더, 부탁해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056227"
+    },
+    {
+      "english": "It will be okay, soon.",
+      "korean": "곧, 괜찮아질 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056228"
+    },
+    {
+      "english": "We can do this, together.",
+      "korean": "우리, 이걸 할 수 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056229"
+    },
+    {
+      "english": "Sun will shine, again.",
+      "korean": "태양이, 다시 빛날 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056230"
+    },
+    {
+      "english": "Hang in there, my friend.",
+      "korean": "힘내요, 내 친구.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056231"
+    },
+    {
+      "english": "Hope is a good thing.",
+      "korean": "희망은, 좋은 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056232"
+    },
+    {
+      "english": "You've got this, yes!",
+      "korean": "당신은, 할 수 있어요, 네!",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056233"
+    },
+    {
+      "english": "Just a little, more patience.",
+      "korean": "조금만, 더 인내심을.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056234"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "korean": "턱을, 위로 올리세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056238"
+    },
+    {
+      "english": "This too, shall pass.",
+      "korean": "이것 또한, 지나갈 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056239"
+    },
+    {
+      "english": "A glimmer, of hope.",
+      "korean": "희망의, 한 줄기.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056240"
+    },
+    {
+      "english": "Let's try, one more time.",
+      "korean": "한 번 더, 시도해 봐요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056241"
+    },
+    {
+      "english": "Never lose, your light.",
+      "korean": "당신의 빛을, 절대 잃지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056242"
+    },
+    {
+      "english": "You are resilient, always.",
+      "korean": "당신은, 언제나 회복력이 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056243"
+    },
+    {
+      "english": "The end is, a new beginning.",
+      "korean": "끝은, 새로운 시작이에요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056244"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "korean": "앞으로, 계속 나아가세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056245"
+    },
+    {
+      "english": "A little hope, goes a long way.",
+      "korean": "작은 희망이, 멀리 가요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056245"
+    },
+    {
+      "english": "You are capable, of anything.",
+      "korean": "당신은, 무엇이든 할 수 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056246"
+    },
+    {
+      "english": "Don't forget, to smile.",
+      "korean": "웃는 것을, 잊지 마세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056247"
+    },
+    {
+      "english": "Keep that, hope alive.",
+      "korean": "그 희망을, 살아있게 하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056248"
+    },
+    {
+      "english": "There's always, something good.",
+      "korean": "언제나, 좋은 무언가가 있어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056249"
+    },
+    {
+      "english": "Your journey, continues.",
+      "korean": "당신의 여정은, 계속됩니다.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056250"
+    },
+    {
+      "english": "Let courage, lead you.",
+      "korean": "용기가, 당신을 이끌게 하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056251"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "korean": "당신은, 있는 그대로 충분해요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056252"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "korean": "정신을, 높이 유지하세요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056253"
+    },
+    {
+      "english": "One day, it will make sense.",
+      "korean": "어느 날, 이해가 될 거예요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056254"
+    },
+    {
+      "english": "The best is, yet to come.",
+      "korean": "최고는, 아직 오지 않았어요.",
+      "category": "Hope",
+      "generated_at": "2026-08-07T03:50:56.056255"
     }
   ],
-  "last_updated": "2026-08-06T04:14:53.942181"
+  "last_updated": "2026-08-07T03:50:56.056257"
 }
