@@ -15479,7 +15479,367 @@
       "korean": "최고는, 아직 오지 않았어요.",
       "category": "Hope",
       "generated_at": "2026-08-07T03:50:56.056255"
+    },
+    {
+      "english": "Taste new flavors, explore more.",
+      "korean": "새로운 맛, 더 많이 탐험해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073686"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "korean": "매일 조금씩, 배워요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073697"
+    },
+    {
+      "english": "Share your story, be heard.",
+      "korean": "이야기를 나누고, 들어봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073699"
+    },
+    {
+      "english": "Try a new hobby, find joy.",
+      "korean": "새 취미, 즐거움을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073700"
+    },
+    {
+      "english": "Sing your heart out, loud.",
+      "korean": "마음껏 노래해요, 크게.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073702"
+    },
+    {
+      "english": "Dance like nobody's watching, free.",
+      "korean": "아무도 안 보듯 춤춰요, 자유롭게.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073703"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "korean": "자주 웃어요, 치유가 돼요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073704"
+    },
+    {
+      "english": "Connect with nature, breathe deep.",
+      "korean": "자연과 연결, 깊이 숨 쉬어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073707"
+    },
+    {
+      "english": "Create something, beautiful.",
+      "korean": "아름다운 무언가, 만들어봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073708"
+    },
+    {
+      "english": "Write your dreams, down.",
+      "korean": "꿈을 글로 써봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073709"
+    },
+    {
+      "english": "Cherish the moment, now.",
+      "korean": "순간을 소중히, 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073711"
+    },
+    {
+      "english": "Forgive quickly, move on.",
+      "korean": "빨리 용서하고, 나아가요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073712"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "korean": "실수에서 배우고, 성장해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073713"
+    },
+    {
+      "english": "Be kind, always.",
+      "korean": "친절하세요, 언제나.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073714"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "korean": "어디서나 아름다움을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073715"
+    },
+    {
+      "english": "Share your talents, shine.",
+      "korean": "재능을 나누고, 빛나세요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073716"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "korean": "매일 감사함을 연습해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073717"
+    },
+    {
+      "english": "Dream bigger, reach further.",
+      "korean": "더 크게 꿈꾸고, 더 멀리 닿아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073719"
+    },
+    {
+      "english": "Celebrate small wins, acknowledge.",
+      "korean": "작은 승리를 축하하고, 인정해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073720"
+    },
+    {
+      "english": "Explore your city, find hidden gems.",
+      "korean": "도시를 탐험하고, 숨겨진 보물을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073721"
+    },
+    {
+      "english": "Express your feelings, honestly.",
+      "korean": "감정을 솔직하게 표현해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073722"
+    },
+    {
+      "english": "Listen to new music, discover.",
+      "korean": "새 음악을 듣고, 발견해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073723"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "korean": "사람들과 진심으로 연결돼요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073724"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "korean": "깊이 숨 쉬고, 긴장을 풀어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073725"
+    },
+    {
+      "english": "Try a new recipe, cook.",
+      "korean": "새 레시피, 요리해봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073726"
+    },
+    {
+      "english": "Watch the sunrise, be inspired.",
+      "korean": "일출을 보며, 영감을 얻어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073727"
+    },
+    {
+      "english": "Share a smile, brighten their day.",
+      "korean": "미소를 나누고, 하루를 밝혀줘요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073728"
+    },
+    {
+      "english": "Learn a few words, communicate.",
+      "korean": "몇 단어를 배우고, 소통해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073729"
+    },
+    {
+      "english": "Enjoy simple pleasures, truly.",
+      "korean": "소소한 즐거움을, 진정으로 누려요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073730"
+    },
+    {
+      "english": "Read a good book, travel.",
+      "korean": "좋은 책을 읽고, 여행해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073731"
+    },
+    {
+      "english": "Ask questions, understand.",
+      "korean": "질문하고, 이해해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073732"
+    },
+    {
+      "english": "Forgive yourself, for errors.",
+      "korean": "실수를 용서해요, 자신에게.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073733"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "korean": "새로운 길을, 용감하게 탐험해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073735"
+    },
+    {
+      "english": "Share your wisdom, inspire.",
+      "korean": "지혜를 나누고, 영감을 주세요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073736"
+    },
+    {
+      "english": "Taste new flavors, explore more.",
+      "korean": "새로운 맛, 더 많이 탐험해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073737"
+    },
+    {
+      "english": "Learn a little, everyday.",
+      "korean": "매일 조금씩, 배워요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073738"
+    },
+    {
+      "english": "Share your story, be heard.",
+      "korean": "이야기를 나누고, 들어봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073739"
+    },
+    {
+      "english": "Try a new hobby, find joy.",
+      "korean": "새 취미, 즐거움을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073740"
+    },
+    {
+      "english": "Sing your heart out, loud.",
+      "korean": "마음껏 노래해요, 크게.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073742"
+    },
+    {
+      "english": "Dance like nobody's watching, free.",
+      "korean": "아무도 안 보듯 춤춰요, 자유롭게.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073743"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "korean": "자주 웃어요, 치유가 돼요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073744"
+    },
+    {
+      "english": "Connect with nature, breathe deep.",
+      "korean": "자연과 연결, 깊이 숨 쉬어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073745"
+    },
+    {
+      "english": "Create something, beautiful.",
+      "korean": "아름다운 무언가, 만들어봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073746"
+    },
+    {
+      "english": "Write your dreams, down.",
+      "korean": "꿈을 글로 써봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073747"
+    },
+    {
+      "english": "Cherish the moment, now.",
+      "korean": "순간을 소중히, 지금.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073748"
+    },
+    {
+      "english": "Forgive quickly, move on.",
+      "korean": "빨리 용서하고, 나아가요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073749"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "korean": "실수에서 배우고, 성장해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073750"
+    },
+    {
+      "english": "Be kind, always.",
+      "korean": "친절하세요, 언제나.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073751"
+    },
+    {
+      "english": "Find beauty, everywhere.",
+      "korean": "어디서나 아름다움을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073753"
+    },
+    {
+      "english": "Share your talents, shine.",
+      "korean": "재능을 나누고, 빛나세요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073754"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "korean": "매일 감사함을 연습해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073755"
+    },
+    {
+      "english": "Dream bigger, reach further.",
+      "korean": "더 크게 꿈꾸고, 더 멀리 닿아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073756"
+    },
+    {
+      "english": "Celebrate small wins, acknowledge.",
+      "korean": "작은 승리를 축하하고, 인정해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073757"
+    },
+    {
+      "english": "Explore your city, find hidden gems.",
+      "korean": "도시를 탐험하고, 숨겨진 보물을 찾아요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073758"
+    },
+    {
+      "english": "Express your feelings, honestly.",
+      "korean": "감정을 솔직하게 표현해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073759"
+    },
+    {
+      "english": "Listen to new music, discover.",
+      "korean": "새 음악을 듣고, 발견해요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073760"
+    },
+    {
+      "english": "Connect with people, genuinely.",
+      "korean": "사람들과 진심으로 연결돼요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073762"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "korean": "깊이 숨 쉬고, 긴장을 풀어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073763"
+    },
+    {
+      "english": "Try a new recipe, cook.",
+      "korean": "새 레시피, 요리해봐요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073764"
+    },
+    {
+      "english": "Watch the sunrise, be inspired.",
+      "korean": "일출을 보며, 영감을 얻어요.",
+      "category": "Joy",
+      "generated_at": "2026-08-08T02:55:16.073765"
     }
   ],
-  "last_updated": "2026-08-07T03:50:56.056257"
+  "last_updated": "2026-08-08T02:55:16.073767"
 }
