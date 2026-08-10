@@ -16199,7 +16199,367 @@
       "korean": "절대, 낙심하지 마.",
       "category": "Patience",
       "generated_at": "2026-08-09T03:03:11.204783"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "korean": "당신, 정말 대단해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521813"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "korean": "모든 것, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521824"
+    },
+    {
+      "english": "You make me, smile.",
+      "korean": "당신 덕분에, 웃어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521825"
+    },
+    {
+      "english": "I appreciate, you so much.",
+      "korean": "당신을, 정말 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521827"
+    },
+    {
+      "english": "You're a gift, to me.",
+      "korean": "당신은, 제게 선물 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521827"
+    },
+    {
+      "english": "I'm lucky, to know you.",
+      "korean": "당신을 알게 된 건, 행운이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521828"
+    },
+    {
+      "english": "Thanks for being, you.",
+      "korean": "있는 그대로, 있어줘서 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521829"
+    },
+    {
+      "english": "You're the best, really.",
+      "korean": "당신이 최고예요, 정말.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521831"
+    },
+    {
+      "english": "I'm grateful, for your kindness.",
+      "korean": "당신의 친절에, 감사드려요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521833"
+    },
+    {
+      "english": "Thanks for your, support.",
+      "korean": "당신의 지지에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521834"
+    },
+    {
+      "english": "You're one, in a million.",
+      "korean": "당신은 백만 분의, 하나예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521835"
+    },
+    {
+      "english": "You're my, sunshine.",
+      "korean": "당신은, 나의 햇살이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521836"
+    },
+    {
+      "english": "So thankful, for your help.",
+      "korean": "도와줘서, 정말 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521837"
+    },
+    {
+      "english": "You mean, a lot.",
+      "korean": "당신은, 정말 소중해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521838"
+    },
+    {
+      "english": "Thanks for, listening.",
+      "korean": "들어줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521839"
+    },
+    {
+      "english": "You're a treasure, to me.",
+      "korean": "당신은, 저에게 보물 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521839"
+    },
+    {
+      "english": "I'm so glad, you're here.",
+      "korean": "당신이 여기 있어서, 정말 기뻐요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521840"
+    },
+    {
+      "english": "Grateful for, our bond.",
+      "korean": "우리의 인연에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521841"
+    },
+    {
+      "english": "You're a blessing, indeed.",
+      "korean": "당신은 정말, 축복이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521842"
+    },
+    {
+      "english": "Thanks for, making time.",
+      "korean": "시간 내줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521843"
+    },
+    {
+      "english": "You're my, inspiration.",
+      "korean": "당신은, 나의 영감이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521843"
+    },
+    {
+      "english": "I value, our friendship.",
+      "korean": "우리의 우정을, 소중히 여겨요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521844"
+    },
+    {
+      "english": "You make things, better.",
+      "korean": "당신 덕분에, 모든 게 나아져요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521845"
+    },
+    {
+      "english": "Thanks for, your trust.",
+      "korean": "믿어줘서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521846"
+    },
+    {
+      "english": "You're a gem, for sure.",
+      "korean": "당신은 분명, 보석 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521846"
+    },
+    {
+      "english": "So grateful, for your heart.",
+      "korean": "당신의 마음에, 감사드려요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521847"
+    },
+    {
+      "english": "Thanks for, your patience.",
+      "korean": "당신의 인내심에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521848"
+    },
+    {
+      "english": "You're a dream, come true.",
+      "korean": "당신은, 꿈이 현실이 된 것 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521849"
+    },
+    {
+      "english": "I cherish, this moment.",
+      "korean": "이 순간을, 소중히 여겨요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521849"
+    },
+    {
+      "english": "You're a true, friend.",
+      "korean": "당신은, 진정한 친구예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521850"
+    },
+    {
+      "english": "Thanks for, your understanding.",
+      "korean": "이해해줘서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521851"
+    },
+    {
+      "english": "Grateful for, your company.",
+      "korean": "당신과 함께여서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521851"
+    },
+    {
+      "english": "You're a star, for me.",
+      "korean": "당신은, 저에게 별 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521852"
+    },
+    {
+      "english": "Thanks for, being there.",
+      "korean": "옆에 있어줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521853"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "korean": "당신, 정말 대단해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521854"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "korean": "모든 것, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521855"
+    },
+    {
+      "english": "You make me, smile.",
+      "korean": "당신 덕분에, 웃어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521856"
+    },
+    {
+      "english": "I appreciate, you so much.",
+      "korean": "당신을, 정말 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521857"
+    },
+    {
+      "english": "You're a gift, to me.",
+      "korean": "당신은, 제게 선물 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521858"
+    },
+    {
+      "english": "I'm lucky, to know you.",
+      "korean": "당신을 알게 된 건, 행운이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521859"
+    },
+    {
+      "english": "Thanks for being, you.",
+      "korean": "있는 그대로, 있어줘서 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521860"
+    },
+    {
+      "english": "You're the best, really.",
+      "korean": "당신이 최고예요, 정말.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521860"
+    },
+    {
+      "english": "I'm grateful, for your kindness.",
+      "korean": "당신의 친절에, 감사드려요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521861"
+    },
+    {
+      "english": "Thanks for your, support.",
+      "korean": "당신의 지지에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521862"
+    },
+    {
+      "english": "You're one, in a million.",
+      "korean": "당신은 백만 분의, 하나예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521863"
+    },
+    {
+      "english": "You're my, sunshine.",
+      "korean": "당신은, 나의 햇살이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521864"
+    },
+    {
+      "english": "So thankful, for your help.",
+      "korean": "도와줘서, 정말 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521865"
+    },
+    {
+      "english": "You mean, a lot.",
+      "korean": "당신은, 정말 소중해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521866"
+    },
+    {
+      "english": "Thanks for, listening.",
+      "korean": "들어줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521866"
+    },
+    {
+      "english": "You're a treasure, to me.",
+      "korean": "당신은, 저에게 보물 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521867"
+    },
+    {
+      "english": "I'm so glad, you're here.",
+      "korean": "당신이 여기 있어서, 정말 기뻐요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521868"
+    },
+    {
+      "english": "Grateful for, our bond.",
+      "korean": "우리의 인연에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521869"
+    },
+    {
+      "english": "You're a blessing, indeed.",
+      "korean": "당신은 정말, 축복이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521869"
+    },
+    {
+      "english": "Thanks for, making time.",
+      "korean": "시간 내줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521870"
+    },
+    {
+      "english": "You're my, inspiration.",
+      "korean": "당신은, 나의 영감이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521871"
+    },
+    {
+      "english": "I value, our friendship.",
+      "korean": "우리의 우정을, 소중히 여겨요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521872"
+    },
+    {
+      "english": "You make things, better.",
+      "korean": "당신 덕분에, 모든 게 나아져요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521873"
+    },
+    {
+      "english": "Thanks for, your trust.",
+      "korean": "믿어줘서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521873"
+    },
+    {
+      "english": "You're a gem, for sure.",
+      "korean": "당신은 분명, 보석 같아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521874"
+    },
+    {
+      "english": "So grateful, for your heart.",
+      "korean": "당신의 마음에, 감사드려요.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-10T03:12:45.521875"
     }
   ],
-  "last_updated": "2026-08-09T03:03:11.204785"
+  "last_updated": "2026-08-10T03:12:45.521877"
 }
