@@ -16559,7 +16559,367 @@
       "korean": "당신의 마음에, 감사드려요.",
       "category": "Gratitude",
       "generated_at": "2026-08-10T03:12:45.521875"
+    },
+    {
+      "english": "You have, inner strength.",
+      "korean": "당신은, 내면의 힘이 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213444"
+    },
+    {
+      "english": "Your resilience, amazes me.",
+      "korean": "당신의 회복력, 놀라워요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213453"
+    },
+    {
+      "english": "Stay strong, always.",
+      "korean": "항상, 굳건하세요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213455"
+    },
+    {
+      "english": "Your determination, shines bright.",
+      "korean": "당신의 결단력, 빛나요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213456"
+    },
+    {
+      "english": "You can, overcome anything.",
+      "korean": "당신은, 무엇이든 이겨낼 수 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213457"
+    },
+    {
+      "english": "You possess, great fortitude.",
+      "korean": "당신은, 강한 인내심을 가졌어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213458"
+    },
+    {
+      "english": "Your perseverance, is admirable.",
+      "korean": "당신의 끈기, 존경스러워요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213460"
+    },
+    {
+      "english": "You have, a powerful will.",
+      "korean": "당신은, 강력한 의지를 가지고 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213463"
+    },
+    {
+      "english": "Your inner peace, is strength.",
+      "korean": "당신의 내면의 평화, 그것이 힘이에요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213464"
+    },
+    {
+      "english": "You are, truly mighty.",
+      "korean": "당신은, 정말 강해요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213466"
+    },
+    {
+      "english": "Your resolve, is unwavering.",
+      "korean": "당신의 결심, 흔들리지 않아요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213467"
+    },
+    {
+      "english": "You find, strength within.",
+      "korean": "당신은, 내면에서 힘을 찾아요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213468"
+    },
+    {
+      "english": "Your steadfastness, is key.",
+      "korean": "당신의 꾸준함, 핵심이에요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213469"
+    },
+    {
+      "english": "You carry, great power.",
+      "korean": "당신은, 큰 힘을 가지고 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213470"
+    },
+    {
+      "english": "You endure, with grace.",
+      "korean": "당신은, 우아하게 견뎌내요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213471"
+    },
+    {
+      "english": "Your fortitude, inspires hope.",
+      "korean": "당신의 인내심, 희망을 줘요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213472"
+    },
+    {
+      "english": "You possess, a strong spirit.",
+      "korean": "당신은, 강한 정신을 가지고 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213473"
+    },
+    {
+      "english": "You stand, firm and strong.",
+      "korean": "당신은, 굳건하게 서 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213474"
+    },
+    {
+      "english": "You have, abundant willpower.",
+      "korean": "당신은, 의지가 넘쳐나요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213475"
+    },
+    {
+      "english": "You face challenges, bravely.",
+      "korean": "당신은, 용감하게 도전에 맞서요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213476"
+    },
+    {
+      "english": "Your spirit, shines so bright.",
+      "korean": "당신의 정신, 아주 밝게 빛나요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213477"
+    },
+    {
+      "english": "You are, truly formidable.",
+      "korean": "당신은, 정말 대단해요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213478"
+    },
+    {
+      "english": "Your endurance, is impressive.",
+      "korean": "당신의 끈기, 인상 깊어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213479"
+    },
+    {
+      "english": "You find, power in stillness.",
+      "korean": "당신은, 고요함 속에서 힘을 찾아요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213480"
+    },
+    {
+      "english": "Your steadfastness, is admirable.",
+      "korean": "당신의 확고함, 존경스러워요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213481"
+    },
+    {
+      "english": "You possess, immense grit.",
+      "korean": "당신은, 엄청난 근성을 가졌어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213482"
+    },
+    {
+      "english": "Your inner calm, is strength.",
+      "korean": "당신의 내면의 평온, 그것이 힘이에요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213483"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "korean": "당신의 결단력, 정말 대단해요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213484"
+    },
+    {
+      "english": "You carry, inner fortitude.",
+      "korean": "당신은, 내면의 굳건함을 가지고 있어요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213485"
+    },
+    {
+      "english": "Your spirit, never breaks.",
+      "korean": "당신의 정신력, 절대 꺾이지 않아요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213486"
+    },
+    {
+      "english": "You are, remarkably strong.",
+      "korean": "당신은, 놀랍도록 강해요.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213487"
+    },
+    {
+      "english": "Strong mind, strong life.",
+      "korean": "강한 마음, 강한 삶.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213489"
+    },
+    {
+      "english": "Build your, strength.",
+      "korean": "너의 힘을, 길러.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213490"
+    },
+    {
+      "english": "Inner power, shines.",
+      "korean": "내면의 힘, 빛나.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213491"
+    },
+    {
+      "english": "Never give, up now.",
+      "korean": "지금 포기하지, 마.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213492"
+    },
+    {
+      "english": "Be resilient, always.",
+      "korean": "항상, 회복력 있게.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213493"
+    },
+    {
+      "english": "Find your, courage.",
+      "korean": "너의 용기를, 찾아.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213495"
+    },
+    {
+      "english": "Stand tall, proud.",
+      "korean": "굳건히 서, 자랑스럽게.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213496"
+    },
+    {
+      "english": "Embrace the, challenge.",
+      "korean": "도전을, 받아들여.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213497"
+    },
+    {
+      "english": "Grow through, struggle.",
+      "korean": "고난을 통해, 성장해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213498"
+    },
+    {
+      "english": "Power within, you.",
+      "korean": "너 안에, 힘이 있어.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213499"
+    },
+    {
+      "english": "Face it, head on.",
+      "korean": "정면으로, 맞서.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213500"
+    },
+    {
+      "english": "Unleash your, might.",
+      "korean": "너의 힘을, 발휘해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213502"
+    },
+    {
+      "english": "Endure and, conquer.",
+      "korean": "견디고, 정복해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213503"
+    },
+    {
+      "english": "Your spirit, soars.",
+      "korean": "너의 정신은, 날아올라.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213504"
+    },
+    {
+      "english": "Tough times, pass.",
+      "korean": "힘든 시간은, 지나가.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213505"
+    },
+    {
+      "english": "Find your, inner peace.",
+      "korean": "너의 내면의 평화를, 찾아.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213506"
+    },
+    {
+      "english": "Strength comes, from within.",
+      "korean": "힘은, 내면에서 와.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213507"
+    },
+    {
+      "english": "Rise above, it all.",
+      "korean": "모든 것을, 이겨내.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213508"
+    },
+    {
+      "english": "You've got, this.",
+      "korean": "너는, 해낼 수 있어.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213509"
+    },
+    {
+      "english": "Inner strength, matters.",
+      "korean": "내면의 힘이, 중요해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213510"
+    },
+    {
+      "english": "Face your, fears.",
+      "korean": "너의 두려움을, 직시해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213511"
+    },
+    {
+      "english": "You are, tougher.",
+      "korean": "너는, 더 강해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213512"
+    },
+    {
+      "english": "Build a, strong core.",
+      "korean": "단단한 중심을, 만들어.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213513"
+    },
+    {
+      "english": "Stay focused, on goals.",
+      "korean": "목표에, 집중해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213514"
+    },
+    {
+      "english": "Your resilience, impresses.",
+      "korean": "너의 회복력이, 인상 깊어.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213515"
+    },
+    {
+      "english": "Push your, limits.",
+      "korean": "너의 한계를, 밀어붙여.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213516"
+    },
+    {
+      "english": "Be a, solid rock.",
+      "korean": "단단한 바위가, 되어.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213517"
+    },
+    {
+      "english": "Strong will, wins.",
+      "korean": "강한 의지가, 이긴다.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213518"
+    },
+    {
+      "english": "You are, stronger now.",
+      "korean": "너는, 지금 더 강해.",
+      "category": "Strength",
+      "generated_at": "2026-08-11T03:05:11.213519"
     }
   ],
-  "last_updated": "2026-08-10T03:12:45.521877"
+  "last_updated": "2026-08-11T03:05:11.213521"
 }
