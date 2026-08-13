@@ -17279,7 +17279,367 @@
       "korean": "자신에게, 인내심을 허락하세요.",
       "category": "Patience",
       "generated_at": "2026-08-12T03:24:20.834489"
+    },
+    {
+      "english": "Keep going, you're close.",
+      "korean": "계속 가요, 거의 다 왔어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845544"
+    },
+    {
+      "english": "Believe in your, progress.",
+      "korean": "당신의 발전을, 믿으세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845556"
+    },
+    {
+      "english": "You're learning, so fast!",
+      "korean": "정말 빨리, 배우고 있어요!",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845558"
+    },
+    {
+      "english": "Every mistake, is a lesson.",
+      "korean": "모든 실수는, 배움이에요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845559"
+    },
+    {
+      "english": "You got this, don't stop.",
+      "korean": "할 수 있어요, 멈추지 마세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845560"
+    },
+    {
+      "english": "Small wins, add up.",
+      "korean": "작은 승리들이, 쌓여요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845564"
+    },
+    {
+      "english": "Almost there, hang in.",
+      "korean": "거의 다 왔어요, 버티세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845566"
+    },
+    {
+      "english": "You're blooming, beautifully.",
+      "korean": "아름답게, 피어나고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845569"
+    },
+    {
+      "english": "Your hard work, pays off.",
+      "korean": "당신의 노력은, 보상받을 거예요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845572"
+    },
+    {
+      "english": "You're making, great strides.",
+      "korean": "큰 발걸음을, 내딛고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845573"
+    },
+    {
+      "english": "Don't quit, you're rising.",
+      "korean": "포기하지 마세요, 당신은 상승 중이에요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845574"
+    },
+    {
+      "english": "This is, your moment.",
+      "korean": "이것은, 당신의 순간입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845575"
+    },
+    {
+      "english": "Celebrate, small victories.",
+      "korean": "작은 승리들을, 축하하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845576"
+    },
+    {
+      "english": "Your potential, is huge.",
+      "korean": "당신의 잠재력은, 거대합니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845577"
+    },
+    {
+      "english": "Keep exploring, new paths.",
+      "korean": "새로운 길을, 계속 탐험하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845579"
+    },
+    {
+      "english": "Momentum is, building now.",
+      "korean": "지금, 추진력이 쌓이고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845580"
+    },
+    {
+      "english": "Your dedication, shines.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845581"
+    },
+    {
+      "english": "Never stop, improving.",
+      "korean": "개선을, 멈추지 마세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845582"
+    },
+    {
+      "english": "You're growing, every day.",
+      "korean": "매일, 성장하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845582"
+    },
+    {
+      "english": "Embrace the learning, process.",
+      "korean": "배움의 과정을, 받아들이세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845583"
+    },
+    {
+      "english": "You're a, fast learner.",
+      "korean": "당신은, 빨리 배우는 사람입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845584"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "korean": "여정은, 보람찹니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845585"
+    },
+    {
+      "english": "You're building, something great.",
+      "korean": "멋진 것을, 만들고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845586"
+    },
+    {
+      "english": "Just keep, practicing.",
+      "korean": "그냥, 계속 연습하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845586"
+    },
+    {
+      "english": "Little by, little you climb.",
+      "korean": "조금씩, 조금씩 올라가요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845587"
+    },
+    {
+      "english": "Embrace the struggle, it's growth.",
+      "korean": "고난을 받아들이세요, 그것은 성장입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845588"
+    },
+    {
+      "english": "You're achieving, your goals.",
+      "korean": "당신의 목표들을, 달성하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845589"
+    },
+    {
+      "english": "Keep your, vision clear.",
+      "korean": "당신의 비전을, 명확하게 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845590"
+    },
+    {
+      "english": "You're getting, stronger now.",
+      "korean": "지금, 더 강해지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845590"
+    },
+    {
+      "english": "Success is, within reach.",
+      "korean": "성공이, 손 닿을 거리에 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845591"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "korean": "계속 배우고, 계속 성장하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845592"
+    },
+    {
+      "english": "Keep going, you're close.",
+      "korean": "계속 가요, 거의 다 왔어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845593"
+    },
+    {
+      "english": "Believe in your, progress.",
+      "korean": "당신의 발전을, 믿으세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845594"
+    },
+    {
+      "english": "You're learning, so fast!",
+      "korean": "정말 빨리, 배우고 있어요!",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845595"
+    },
+    {
+      "english": "Every mistake, is a lesson.",
+      "korean": "모든 실수는, 배움이에요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845596"
+    },
+    {
+      "english": "You got this, don't stop.",
+      "korean": "할 수 있어요, 멈추지 마세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845596"
+    },
+    {
+      "english": "Small wins, add up.",
+      "korean": "작은 승리들이, 쌓여요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845597"
+    },
+    {
+      "english": "Almost there, hang in.",
+      "korean": "거의 다 왔어요, 버티세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845598"
+    },
+    {
+      "english": "You're blooming, beautifully.",
+      "korean": "아름답게, 피어나고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845599"
+    },
+    {
+      "english": "Your hard work, pays off.",
+      "korean": "당신의 노력은, 보상받을 거예요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845600"
+    },
+    {
+      "english": "You're making, great strides.",
+      "korean": "큰 발걸음을, 내딛고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845601"
+    },
+    {
+      "english": "Don't quit, you're rising.",
+      "korean": "포기하지 마세요, 당신은 상승 중이에요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845602"
+    },
+    {
+      "english": "This is, your moment.",
+      "korean": "이것은, 당신의 순간입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845603"
+    },
+    {
+      "english": "Celebrate, small victories.",
+      "korean": "작은 승리들을, 축하하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845604"
+    },
+    {
+      "english": "Your potential, is huge.",
+      "korean": "당신의 잠재력은, 거대합니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845606"
+    },
+    {
+      "english": "Keep exploring, new paths.",
+      "korean": "새로운 길을, 계속 탐험하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845607"
+    },
+    {
+      "english": "Momentum is, building now.",
+      "korean": "지금, 추진력이 쌓이고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845608"
+    },
+    {
+      "english": "Your dedication, shines.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845610"
+    },
+    {
+      "english": "Never stop, improving.",
+      "korean": "개선을, 멈추지 마세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845611"
+    },
+    {
+      "english": "You're growing, every day.",
+      "korean": "매일, 성장하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845613"
+    },
+    {
+      "english": "Embrace the learning, process.",
+      "korean": "배움의 과정을, 받아들이세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845614"
+    },
+    {
+      "english": "You're a, fast learner.",
+      "korean": "당신은, 빨리 배우는 사람입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845614"
+    },
+    {
+      "english": "The journey, is rewarding.",
+      "korean": "여정은, 보람찹니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845615"
+    },
+    {
+      "english": "You're building, something great.",
+      "korean": "멋진 것을, 만들고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845616"
+    },
+    {
+      "english": "Just keep, practicing.",
+      "korean": "그냥, 계속 연습하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845617"
+    },
+    {
+      "english": "Little by, little you climb.",
+      "korean": "조금씩, 조금씩 올라가요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845618"
+    },
+    {
+      "english": "Embrace the struggle, it's growth.",
+      "korean": "고난을 받아들이세요, 그것은 성장입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845618"
+    },
+    {
+      "english": "You're achieving, your goals.",
+      "korean": "당신의 목표들을, 달성하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845619"
+    },
+    {
+      "english": "Keep your, vision clear.",
+      "korean": "당신의 비전을, 명확하게 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845620"
+    },
+    {
+      "english": "You're getting, stronger now.",
+      "korean": "지금, 더 강해지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-13T03:27:44.845621"
     }
   ],
-  "last_updated": "2026-08-12T03:24:20.834491"
+  "last_updated": "2026-08-13T03:27:44.845623"
 }
