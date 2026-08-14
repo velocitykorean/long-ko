@@ -17639,7 +17639,367 @@
       "korean": "지금, 더 강해지고 있어요.",
       "category": "Success",
       "generated_at": "2026-08-13T03:27:44.845621"
+    },
+    {
+      "english": "Speak Korean, with confidence.",
+      "korean": "자신감 있게, 한국어 말해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756970"
+    },
+    {
+      "english": "Understand more, each time.",
+      "korean": "이해력을, 점점 높이세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756982"
+    },
+    {
+      "english": "Your Korean, is improving.",
+      "korean": "당신의 한국어, 늘고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756984"
+    },
+    {
+      "english": "Try new words, today.",
+      "korean": "오늘, 새로운 단어를 시도해 보세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756986"
+    },
+    {
+      "english": "Listen closely, absorb it.",
+      "korean": "잘 듣고, 흡수하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756987"
+    },
+    {
+      "english": "Write it down, remember it.",
+      "korean": "적어두고, 기억하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756988"
+    },
+    {
+      "english": "Ask questions, bravely.",
+      "korean": "용감하게, 질문하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756989"
+    },
+    {
+      "english": "You are, a great student.",
+      "korean": "당신은, 훌륭한 학생입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756992"
+    },
+    {
+      "english": "Progress, is happening now.",
+      "korean": "진전이, 지금 일어나고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756994"
+    },
+    {
+      "english": "Your effort, matters a lot.",
+      "korean": "당신의 노력이, 정말 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756995"
+    },
+    {
+      "english": "Speak Korean, every day.",
+      "korean": "매일, 한국어로 말해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756996"
+    },
+    {
+      "english": "You are, understanding more.",
+      "korean": "당신은, 더 많이 이해하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756998"
+    },
+    {
+      "english": "This will, help you a lot.",
+      "korean": "이것이, 당신에게 큰 도움이 될 거예요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.756999"
+    },
+    {
+      "english": "Keep talking, keep improving.",
+      "korean": "계속 말하고, 계속 발전하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757004"
+    },
+    {
+      "english": "Your voice, is important.",
+      "korean": "당신의 목소리가, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757005"
+    },
+    {
+      "english": "Celebrate, your progress.",
+      "korean": "당신의 발전을, 축하하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757006"
+    },
+    {
+      "english": "You can, speak Korean.",
+      "korean": "당신은, 한국어를 말할 수 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757007"
+    },
+    {
+      "english": "Try to, understand fully.",
+      "korean": "완전히 이해하려고, 노력하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757008"
+    },
+    {
+      "english": "This step, is crucial.",
+      "korean": "이 단계가, 중요합니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757010"
+    },
+    {
+      "english": "Your fluency, grows.",
+      "korean": "당신의 유창함이, 자라나요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757011"
+    },
+    {
+      "english": "Practice makes, perfect.",
+      "korean": "연습이, 완벽을 만듭니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757012"
+    },
+    {
+      "english": "Speak naturally, try it.",
+      "korean": "자연스럽게, 말해 보세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757012"
+    },
+    {
+      "english": "You are, a natural.",
+      "korean": "당신은, 타고난 재능이 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757013"
+    },
+    {
+      "english": "Don't give up, learn more.",
+      "korean": "포기하지 말고, 더 배우세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757014"
+    },
+    {
+      "english": "New knowledge, unlocks doors.",
+      "korean": "새로운 지식이, 문을 열어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757015"
+    },
+    {
+      "english": "Your confidence, is rising.",
+      "korean": "당신의 자신감이, 올라가고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757016"
+    },
+    {
+      "english": "Every word, counts.",
+      "korean": "모든 단어가, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757017"
+    },
+    {
+      "english": "Speak Korean, like a local.",
+      "korean": "현지인처럼, 한국어 말해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757018"
+    },
+    {
+      "english": "You're getting, fluent faster.",
+      "korean": "유창해지는 속도가, 빨라지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757019"
+    },
+    {
+      "english": "This is, a big step.",
+      "korean": "이것은, 큰 발전입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757020"
+    },
+    {
+      "english": "Keep that, momentum going.",
+      "korean": "그 기세를, 계속 유지하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757021"
+    },
+    {
+      "english": "You're speaking, clearly now.",
+      "korean": "당신은, 이제 명확하게 말하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757021"
+    },
+    {
+      "english": "Your mind, is expanding.",
+      "korean": "당신의 사고력이, 확장되고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757022"
+    },
+    {
+      "english": "Embrace the new, language.",
+      "korean": "새로운 언어를, 받아들이세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757023"
+    },
+    {
+      "english": "You're understanding, context.",
+      "korean": "문맥을, 이해하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757024"
+    },
+    {
+      "english": "Your future, is brighter.",
+      "korean": "당신의 미래가, 더 밝아지고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757027"
+    },
+    {
+      "english": "Speak Korean, with confidence.",
+      "korean": "자신감 있게, 한국어 말해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757029"
+    },
+    {
+      "english": "Understand more, each time.",
+      "korean": "이해력을, 점점 높이세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757030"
+    },
+    {
+      "english": "Your Korean, is improving.",
+      "korean": "당신의 한국어, 늘고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757031"
+    },
+    {
+      "english": "Try new words, today.",
+      "korean": "오늘, 새로운 단어를 시도해 보세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757032"
+    },
+    {
+      "english": "Listen closely, absorb it.",
+      "korean": "잘 듣고, 흡수하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757033"
+    },
+    {
+      "english": "Write it down, remember it.",
+      "korean": "적어두고, 기억하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757034"
+    },
+    {
+      "english": "Ask questions, bravely.",
+      "korean": "용감하게, 질문하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757035"
+    },
+    {
+      "english": "You are, a great student.",
+      "korean": "당신은, 훌륭한 학생입니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757036"
+    },
+    {
+      "english": "Progress, is happening now.",
+      "korean": "진전이, 지금 일어나고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757037"
+    },
+    {
+      "english": "Your effort, matters a lot.",
+      "korean": "당신의 노력이, 정말 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757038"
+    },
+    {
+      "english": "Speak Korean, every day.",
+      "korean": "매일, 한국어로 말해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757039"
+    },
+    {
+      "english": "You are, understanding more.",
+      "korean": "당신은, 더 많이 이해하고 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757040"
+    },
+    {
+      "english": "This will, help you a lot.",
+      "korean": "이것이, 당신에게 큰 도움이 될 거예요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757041"
+    },
+    {
+      "english": "Keep talking, keep improving.",
+      "korean": "계속 말하고, 계속 발전하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757042"
+    },
+    {
+      "english": "Your voice, is important.",
+      "korean": "당신의 목소리가, 중요해요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757043"
+    },
+    {
+      "english": "Celebrate, your progress.",
+      "korean": "당신의 발전을, 축하하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757044"
+    },
+    {
+      "english": "You can, speak Korean.",
+      "korean": "당신은, 한국어를 말할 수 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757045"
+    },
+    {
+      "english": "Try to, understand fully.",
+      "korean": "완전히 이해하려고, 노력하세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757046"
+    },
+    {
+      "english": "This step, is crucial.",
+      "korean": "이 단계가, 중요합니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757047"
+    },
+    {
+      "english": "Your fluency, grows.",
+      "korean": "당신의 유창함이, 자라나요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757048"
+    },
+    {
+      "english": "Practice makes, perfect.",
+      "korean": "연습이, 완벽을 만듭니다.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757049"
+    },
+    {
+      "english": "Speak naturally, try it.",
+      "korean": "자연스럽게, 말해 보세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757050"
+    },
+    {
+      "english": "You are, a natural.",
+      "korean": "당신은, 타고난 재능이 있어요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757051"
+    },
+    {
+      "english": "Don't give up, learn more.",
+      "korean": "포기하지 말고, 더 배우세요.",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:25:00.757052"
     }
   ],
-  "last_updated": "2026-08-13T03:27:44.845623"
+  "last_updated": "2026-08-14T03:25:00.757054"
 }
