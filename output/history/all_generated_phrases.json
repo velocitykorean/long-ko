@@ -19079,7 +19079,367 @@
       "korean": "좋은 친구, 잊지 마세요.",
       "category": "Friendship",
       "generated_at": "2026-08-17T02:20:27.288976"
+    },
+    {
+      "english": "Learn a little, each day.",
+      "korean": "매일 조금씩, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906579"
+    },
+    {
+      "english": "Start small, think big.",
+      "korean": "작게 시작, 크게 생각.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906590"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "korean": "새로운 것, 용감하게 시도.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906592"
+    },
+    {
+      "english": "Be present, right now.",
+      "korean": "지금 여기, 존재하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906593"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "korean": "실수는, 교훈입니다.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906594"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "korean": "작은 승리, 축하해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906595"
+    },
+    {
+      "english": "Focus on, what matters.",
+      "korean": "중요한 것에, 집중하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906597"
+    },
+    {
+      "english": "Ask for help, easily.",
+      "korean": "도움 요청, 쉽게 하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906621"
+    },
+    {
+      "english": "Forgive yourself, too.",
+      "korean": "자신도, 용서하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906625"
+    },
+    {
+      "english": "Be patient, with progress.",
+      "korean": "진행에, 인내심 가지세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906628"
+    },
+    {
+      "english": "Rest when, you need to.",
+      "korean": "필요할 때, 쉬세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906631"
+    },
+    {
+      "english": "Stay curious, always.",
+      "korean": "항상, 호기심 유지.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906633"
+    },
+    {
+      "english": "Simplify your, routine.",
+      "korean": "당신의 일상, 단순화.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906636"
+    },
+    {
+      "english": "Set clear, goals.",
+      "korean": "명확한, 목표 설정.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906638"
+    },
+    {
+      "english": "Find your, motivation.",
+      "korean": "당신의 동기, 찾으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906640"
+    },
+    {
+      "english": "Stay positive, outlook.",
+      "korean": "긍정적인, 시각 유지.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906643"
+    },
+    {
+      "english": "Move your body, often.",
+      "korean": "몸을, 자주 움직여.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906646"
+    },
+    {
+      "english": "Read something, new.",
+      "korean": "새로운 것을, 읽으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906647"
+    },
+    {
+      "english": "Write your, thoughts down.",
+      "korean": "생각을, 적어보세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906649"
+    },
+    {
+      "english": "Take a break, when tired.",
+      "korean": "피곤할 때, 휴식.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906650"
+    },
+    {
+      "english": "Seek inspiration, everywhere.",
+      "korean": "영감을, 어디서든 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906651"
+    },
+    {
+      "english": "Create a calm, space.",
+      "korean": "고요한, 공간을 만드세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906652"
+    },
+    {
+      "english": "Learn from, your past.",
+      "korean": "과거로부터, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906653"
+    },
+    {
+      "english": "Embrace your, strengths.",
+      "korean": "당신의 강점, 받아들여.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906654"
+    },
+    {
+      "english": "Find your, passion.",
+      "korean": "당신의 열정, 찾으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906655"
+    },
+    {
+      "english": "Reflect on, your day.",
+      "korean": "하루를, 되돌아보세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906656"
+    },
+    {
+      "english": "Challenge yourself, often.",
+      "korean": "자신을, 자주 도전하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906657"
+    },
+    {
+      "english": "Stay humble, and learn.",
+      "korean": "겸손하고, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906658"
+    },
+    {
+      "english": "Prioritize, your well-being.",
+      "korean": "당신의 건강, 우선하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906659"
+    },
+    {
+      "english": "Adapt to, new situations.",
+      "korean": "새로운 상황, 적응하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906660"
+    },
+    {
+      "english": "Be the best, you can.",
+      "korean": "최선을, 다하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906661"
+    },
+    {
+      "english": "Learn a little, each day.",
+      "korean": "매일 조금씩, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906663"
+    },
+    {
+      "english": "Start small, think big.",
+      "korean": "작게 시작, 크게 생각.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906664"
+    },
+    {
+      "english": "Try new things, bravely.",
+      "korean": "새로운 것, 용감하게 시도.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906665"
+    },
+    {
+      "english": "Be present, right now.",
+      "korean": "지금 여기, 존재하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906667"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "korean": "실수는, 교훈입니다.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906668"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "korean": "작은 승리, 축하해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906669"
+    },
+    {
+      "english": "Focus on, what matters.",
+      "korean": "중요한 것에, 집중하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906670"
+    },
+    {
+      "english": "Ask for help, easily.",
+      "korean": "도움 요청, 쉽게 하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906671"
+    },
+    {
+      "english": "Forgive yourself, too.",
+      "korean": "자신도, 용서하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906672"
+    },
+    {
+      "english": "Be patient, with progress.",
+      "korean": "진행에, 인내심 가지세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906673"
+    },
+    {
+      "english": "Rest when, you need to.",
+      "korean": "필요할 때, 쉬세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906674"
+    },
+    {
+      "english": "Stay curious, always.",
+      "korean": "항상, 호기심 유지.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906675"
+    },
+    {
+      "english": "Simplify your, routine.",
+      "korean": "당신의 일상, 단순화.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906676"
+    },
+    {
+      "english": "Set clear, goals.",
+      "korean": "명확한, 목표 설정.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906678"
+    },
+    {
+      "english": "Find your, motivation.",
+      "korean": "당신의 동기, 찾으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906679"
+    },
+    {
+      "english": "Stay positive, outlook.",
+      "korean": "긍정적인, 시각 유지.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906680"
+    },
+    {
+      "english": "Move your body, often.",
+      "korean": "몸을, 자주 움직여.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906681"
+    },
+    {
+      "english": "Read something, new.",
+      "korean": "새로운 것을, 읽으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906682"
+    },
+    {
+      "english": "Write your, thoughts down.",
+      "korean": "생각을, 적어보세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906683"
+    },
+    {
+      "english": "Take a break, when tired.",
+      "korean": "피곤할 때, 휴식.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906684"
+    },
+    {
+      "english": "Seek inspiration, everywhere.",
+      "korean": "영감을, 어디서든 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906685"
+    },
+    {
+      "english": "Create a calm, space.",
+      "korean": "고요한, 공간을 만드세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906686"
+    },
+    {
+      "english": "Learn from, your past.",
+      "korean": "과거로부터, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906687"
+    },
+    {
+      "english": "Embrace your, strengths.",
+      "korean": "당신의 강점, 받아들여.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906688"
+    },
+    {
+      "english": "Find your, passion.",
+      "korean": "당신의 열정, 찾으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906689"
+    },
+    {
+      "english": "Reflect on, your day.",
+      "korean": "하루를, 되돌아보세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906690"
+    },
+    {
+      "english": "Challenge yourself, often.",
+      "korean": "자신을, 자주 도전하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906691"
+    },
+    {
+      "english": "Stay humble, and learn.",
+      "korean": "겸손하고, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906692"
+    },
+    {
+      "english": "Prioritize, your well-being.",
+      "korean": "당신의 건강, 우선하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-18T02:38:31.906693"
     }
   ],
-  "last_updated": "2026-08-17T02:20:27.288978"
+  "last_updated": "2026-08-18T02:38:31.906695"
 }
