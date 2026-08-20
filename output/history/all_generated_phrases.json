@@ -19799,7 +19799,367 @@
       "korean": "크게 꿈꾸고, 열심히 일하자.",
       "category": "Purpose",
       "generated_at": "2026-08-19T02:23:25.301607"
+    },
+    {
+      "english": "Embrace change, with open arms.",
+      "korean": "변화를, 환영하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578579"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "korean": "친절은, 돈이 들지 않아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578591"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "korean": "긍정적인 생각, 좋은 것을 끌어당겨요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578593"
+    },
+    {
+      "english": "Your best is, always enough.",
+      "korean": "당신의 최선은, 언제나 충분해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578594"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "korean": "작은 순간들 속에서, 기쁨을 찾아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578595"
+    },
+    {
+      "english": "Be a light, in the darkness.",
+      "korean": "어둠 속에서, 빛이 되어주세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578596"
+    },
+    {
+      "english": "Spread love, and good vibes.",
+      "korean": "사랑과, 좋은 에너지를 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578598"
+    },
+    {
+      "english": "Gratitude, changes everything.",
+      "korean": "감사는, 모든 것을 바꿔요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578601"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "korean": "마음의 소리에, 귀 기울이세요, 알아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578603"
+    },
+    {
+      "english": "Be kind, to everyone you meet.",
+      "korean": "만나는 모든 사람에게, 친절하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578604"
+    },
+    {
+      "english": "Your attitude, determines your altitude.",
+      "korean": "당신의 태도가, 당신의 높이를 결정해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578606"
+    },
+    {
+      "english": "Share your talents, with the world.",
+      "korean": "당신의 재능을, 세상과 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578607"
+    },
+    {
+      "english": "Stay humble, stay kind.",
+      "korean": "겸손하게, 친절하게 지내세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578608"
+    },
+    {
+      "english": "Believe in miracles, make them happen.",
+      "korean": "기적을 믿고, 그것을 일어나게 하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578609"
+    },
+    {
+      "english": "Let go of what's past, embrace the future.",
+      "korean": "과거를 놓아주고, 미래를 받아들이세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578610"
+    },
+    {
+      "english": "Be the reason, someone smiles today.",
+      "korean": "오늘 누군가 웃게 하는, 이유가 되어주세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578611"
+    },
+    {
+      "english": "Your passion, fuels your purpose.",
+      "korean": "당신의 열정이, 당신의 목적을 불태워요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578613"
+    },
+    {
+      "english": "Choose joy, choose peace.",
+      "korean": "기쁨을 선택하고, 평화를 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578614"
+    },
+    {
+      "english": "Be a problem solver, not a complainer.",
+      "korean": "불평하는 사람보다, 해결사가 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578615"
+    },
+    {
+      "english": "Kind words, have power.",
+      "korean": "친절한 말에는, 힘이 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578616"
+    },
+    {
+      "english": "Stay curious, explore everything.",
+      "korean": "호기심을 유지하고, 모든 것을 탐험하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578617"
+    },
+    {
+      "english": "Give thanks, for the little things.",
+      "korean": "작은 것들에 대해, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578618"
+    },
+    {
+      "english": "Your energy, creates your reality.",
+      "korean": "당신의 에너지가, 당신의 현실을 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578619"
+    },
+    {
+      "english": "Believe in good, and it will find you.",
+      "korean": "선을 믿으면, 그것이 당신을 찾을 거예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578620"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "korean": "보고 싶은 변화가, 당신이 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578621"
+    },
+    {
+      "english": "Inspire hope, in every interaction.",
+      "korean": "모든 만남 속에서, 희망을 불어넣으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578622"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "korean": "작은 승리들을, 축하하세요, 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578623"
+    },
+    {
+      "english": "Choose courage, over comfort.",
+      "korean": "편안함 대신, 용기를 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578625"
+    },
+    {
+      "english": "Spread positivity, like wildfire.",
+      "korean": "긍정적인 에너지를, 산불처럼 퍼뜨리세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578626"
+    },
+    {
+      "english": "Be grateful, always.",
+      "korean": "언제나, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578627"
+    },
+    {
+      "english": "Your heart, is your compass.",
+      "korean": "당신의 마음이, 당신의 나침반이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578628"
+    },
+    {
+      "english": "Live with intention, and purpose.",
+      "korean": "의도와, 목적을 가지고 사세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578629"
+    },
+    {
+      "english": "Embrace change, with open arms.",
+      "korean": "변화를, 환영하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578631"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "korean": "친절은, 돈이 들지 않아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578632"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "korean": "긍정적인 생각, 좋은 것을 끌어당겨요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578633"
+    },
+    {
+      "english": "Your best is, always enough.",
+      "korean": "당신의 최선은, 언제나 충분해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578635"
+    },
+    {
+      "english": "Find joy, in simple moments.",
+      "korean": "작은 순간들 속에서, 기쁨을 찾아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578636"
+    },
+    {
+      "english": "Be a light, in the darkness.",
+      "korean": "어둠 속에서, 빛이 되어주세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578637"
+    },
+    {
+      "english": "Spread love, and good vibes.",
+      "korean": "사랑과, 좋은 에너지를 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578638"
+    },
+    {
+      "english": "Gratitude, changes everything.",
+      "korean": "감사는, 모든 것을 바꿔요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578640"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "korean": "마음의 소리에, 귀 기울이세요, 알아요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578641"
+    },
+    {
+      "english": "Be kind, to everyone you meet.",
+      "korean": "만나는 모든 사람에게, 친절하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578642"
+    },
+    {
+      "english": "Your attitude, determines your altitude.",
+      "korean": "당신의 태도가, 당신의 높이를 결정해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578643"
+    },
+    {
+      "english": "Share your talents, with the world.",
+      "korean": "당신의 재능을, 세상과 나누세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578644"
+    },
+    {
+      "english": "Stay humble, stay kind.",
+      "korean": "겸손하게, 친절하게 지내세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578646"
+    },
+    {
+      "english": "Believe in miracles, make them happen.",
+      "korean": "기적을 믿고, 그것을 일어나게 하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578647"
+    },
+    {
+      "english": "Let go of what's past, embrace the future.",
+      "korean": "과거를 놓아주고, 미래를 받아들이세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578648"
+    },
+    {
+      "english": "Be the reason, someone smiles today.",
+      "korean": "오늘 누군가 웃게 하는, 이유가 되어주세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578649"
+    },
+    {
+      "english": "Your passion, fuels your purpose.",
+      "korean": "당신의 열정이, 당신의 목적을 불태워요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578651"
+    },
+    {
+      "english": "Choose joy, choose peace.",
+      "korean": "기쁨을 선택하고, 평화를 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578652"
+    },
+    {
+      "english": "Be a problem solver, not a complainer.",
+      "korean": "불평하는 사람보다, 해결사가 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578653"
+    },
+    {
+      "english": "Kind words, have power.",
+      "korean": "친절한 말에는, 힘이 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578654"
+    },
+    {
+      "english": "Stay curious, explore everything.",
+      "korean": "호기심을 유지하고, 모든 것을 탐험하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578655"
+    },
+    {
+      "english": "Give thanks, for the little things.",
+      "korean": "작은 것들에 대해, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578656"
+    },
+    {
+      "english": "Your energy, creates your reality.",
+      "korean": "당신의 에너지가, 당신의 현실을 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578657"
+    },
+    {
+      "english": "Believe in good, and it will find you.",
+      "korean": "선을 믿으면, 그것이 당신을 찾을 거예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578659"
+    },
+    {
+      "english": "Be the change, you wish to see.",
+      "korean": "보고 싶은 변화가, 당신이 되세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578660"
+    },
+    {
+      "english": "Inspire hope, in every interaction.",
+      "korean": "모든 만남 속에서, 희망을 불어넣으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578661"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "korean": "작은 승리들을, 축하하세요, 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578662"
+    },
+    {
+      "english": "Choose courage, over comfort.",
+      "korean": "편안함 대신, 용기를 선택하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-20T02:18:10.578663"
     }
   ],
-  "last_updated": "2026-08-19T02:23:25.301609"
+  "last_updated": "2026-08-20T02:18:10.578665"
 }
