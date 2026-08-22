@@ -20519,7 +20519,367 @@
       "korean": "모든 좌절 위로, 일어서세요.",
       "category": "Strength",
       "generated_at": "2026-08-21T02:24:00.660894"
+    },
+    {
+      "english": "Plant seeds of kindness, watch them bloom.",
+      "korean": "친절의 씨앗을 심어요, 꽃 피는 걸 봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150105"
+    },
+    {
+      "english": "Listen closely, hear the unspoken.",
+      "korean": "귀 기울여요, 말 없는 소리를 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150116"
+    },
+    {
+      "english": "Explore new paths, find your way.",
+      "korean": "새로운 길을 탐험해요, 당신 길을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150118"
+    },
+    {
+      "english": "Share your light, brighten the world.",
+      "korean": "당신의 빛을 나눠요, 세상을 밝혀요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150120"
+    },
+    {
+      "english": "Practice patience, see rewards grow.",
+      "korean": "인내심을 연습해요, 보상이 자라는 걸 봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150121"
+    },
+    {
+      "english": "Embrace change, learn to adapt.",
+      "korean": "변화를 받아들여요, 적응하는 법을 배워요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150123"
+    },
+    {
+      "english": "Seek understanding, build bridges.",
+      "korean": "이해를 구해요, 다리를 놓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150124"
+    },
+    {
+      "english": "Create beauty, with your own hands.",
+      "korean": "아름다움을 창조해요, 당신 손으로요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150128"
+    },
+    {
+      "english": "Offer help, lend your support.",
+      "korean": "도움을 제안해요, 당신 지지를 보내요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150129"
+    },
+    {
+      "english": "Speak truth, with gentle words.",
+      "korean": "진실을 말해요, 부드러운 말로.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150131"
+    },
+    {
+      "english": "Follow your heart, be authentic.",
+      "korean": "마음을 따르세요, 진실되게 되세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150132"
+    },
+    {
+      "english": "Inspire others, by your actions.",
+      "korean": "당신의 행동으로, 다른 사람에게 영감을 주세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150134"
+    },
+    {
+      "english": "Practice forgiveness, find inner peace.",
+      "korean": "용서를 연습해요, 내면의 평화를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150135"
+    },
+    {
+      "english": "Gather wisdom, from every experience.",
+      "korean": "모든 경험에서, 지혜를 모아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150136"
+    },
+    {
+      "english": "Build trust, with honesty.",
+      "korean": "정직으로, 신뢰를 쌓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150138"
+    },
+    {
+      "english": "Cherish life, every single day.",
+      "korean": "매일매일, 삶을 소중히 여기세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150139"
+    },
+    {
+      "english": "Share laughter, spread the joy.",
+      "korean": "웃음을 나눠요, 기쁨을 퍼뜨려요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150140"
+    },
+    {
+      "english": "Nurture growth, in all things.",
+      "korean": "모든 것에서, 성장을 길러요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150141"
+    },
+    {
+      "english": "Express gratitude, often and sincerely.",
+      "korean": "자주, 그리고 진심으로, 감사를 표현해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150142"
+    },
+    {
+      "english": "Seek peace, within yourself.",
+      "korean": "당신 안에서, 평화를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150144"
+    },
+    {
+      "english": "Create harmony, in your surroundings.",
+      "korean": "당신 주변에, 조화를 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150145"
+    },
+    {
+      "english": "Offer comfort, to those in need.",
+      "korean": "도움이 필요한 사람들에게, 위로를 주세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150146"
+    },
+    {
+      "english": "Inspire courage, in weary hearts.",
+      "korean": "지친 마음에, 용기를 북돋아 주세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150147"
+    },
+    {
+      "english": "Share your vision, build a future.",
+      "korean": "당신의 비전을 공유하세요, 미래를 건설해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150148"
+    },
+    {
+      "english": "Seek connection, with others.",
+      "korean": "다른 사람들과, 연결을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150149"
+    },
+    {
+      "english": "Embrace wonder, with open eyes.",
+      "korean": "열린 눈으로, 경이로움을 받아들여요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150150"
+    },
+    {
+      "english": "Practice gratitude, for blessings received.",
+      "korean": "받은 축복에 대해, 감사를 연습해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150151"
+    },
+    {
+      "english": "Create space, for quiet reflection.",
+      "korean": "조용한 성찰을 위한, 공간을 만드세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150152"
+    },
+    {
+      "english": "Offer forgiveness, freely given.",
+      "korean": "자유롭게 주는, 용서를 베풀어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150153"
+    },
+    {
+      "english": "Learn from mistakes, move forward.",
+      "korean": "실수에서 배워요, 앞으로 나아가요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150154"
+    },
+    {
+      "english": "Seek wisdom, in quiet moments.",
+      "korean": "고요한 순간들 속에서, 지혜를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150155"
+    },
+    {
+      "english": "Plant seeds of hope, nurture dreams.",
+      "korean": "희망의 씨앗을 심어요, 꿈을 키워요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150156"
+    },
+    {
+      "english": "Listen to your intuition, trust your gut.",
+      "korean": "당신 직감을 들어요, 본능을 믿어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150157"
+    },
+    {
+      "english": "Explore your passions, ignite your spirit.",
+      "korean": "열정을 탐험해요, 정신을 불태워요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150158"
+    },
+    {
+      "english": "Practice compassion, in every interaction.",
+      "korean": "모든 만남에서, 연민을 연습해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150159"
+    },
+    {
+      "english": "Embrace learning, as a lifelong journey.",
+      "korean": "평생의 여정으로, 배움을 받아들여요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150160"
+    },
+    {
+      "english": "Seek connection, with the universe.",
+      "korean": "우주와, 연결을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150161"
+    },
+    {
+      "english": "Create peace, within your heart.",
+      "korean": "당신 마음속에, 평화를 만드세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150162"
+    },
+    {
+      "english": "Offer kindness, without expectation.",
+      "korean": "기대 없이, 친절을 베풀어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150163"
+    },
+    {
+      "english": "Plant seeds of kindness, watch them bloom.",
+      "korean": "친절의 씨앗을 심어요, 꽃 피는 걸 봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150165"
+    },
+    {
+      "english": "Listen closely, hear the unspoken.",
+      "korean": "귀 기울여요, 말 없는 소리를 들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150167"
+    },
+    {
+      "english": "Explore new paths, find your way.",
+      "korean": "새로운 길을 탐험해요, 당신 길을 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150168"
+    },
+    {
+      "english": "Share your light, brighten the world.",
+      "korean": "당신의 빛을 나눠요, 세상을 밝혀요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150169"
+    },
+    {
+      "english": "Practice patience, see rewards grow.",
+      "korean": "인내심을 연습해요, 보상이 자라는 걸 봐요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150170"
+    },
+    {
+      "english": "Embrace change, learn to adapt.",
+      "korean": "변화를 받아들여요, 적응하는 법을 배워요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150172"
+    },
+    {
+      "english": "Seek understanding, build bridges.",
+      "korean": "이해를 구해요, 다리를 놓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150173"
+    },
+    {
+      "english": "Create beauty, with your own hands.",
+      "korean": "아름다움을 창조해요, 당신 손으로요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150174"
+    },
+    {
+      "english": "Offer help, lend your support.",
+      "korean": "도움을 제안해요, 당신 지지를 보내요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150175"
+    },
+    {
+      "english": "Speak truth, with gentle words.",
+      "korean": "진실을 말해요, 부드러운 말로.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150176"
+    },
+    {
+      "english": "Follow your heart, be authentic.",
+      "korean": "마음을 따르세요, 진실되게 되세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150178"
+    },
+    {
+      "english": "Inspire others, by your actions.",
+      "korean": "당신의 행동으로, 다른 사람에게 영감을 주세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150179"
+    },
+    {
+      "english": "Practice forgiveness, find inner peace.",
+      "korean": "용서를 연습해요, 내면의 평화를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150180"
+    },
+    {
+      "english": "Gather wisdom, from every experience.",
+      "korean": "모든 경험에서, 지혜를 모아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150181"
+    },
+    {
+      "english": "Build trust, with honesty.",
+      "korean": "정직으로, 신뢰를 쌓아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150182"
+    },
+    {
+      "english": "Cherish life, every single day.",
+      "korean": "매일매일, 삶을 소중히 여기세요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150183"
+    },
+    {
+      "english": "Share laughter, spread the joy.",
+      "korean": "웃음을 나눠요, 기쁨을 퍼뜨려요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150184"
+    },
+    {
+      "english": "Nurture growth, in all things.",
+      "korean": "모든 것에서, 성장을 길러요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150185"
+    },
+    {
+      "english": "Express gratitude, often and sincerely.",
+      "korean": "자주, 그리고 진심으로, 감사를 표현해요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150187"
+    },
+    {
+      "english": "Seek peace, within yourself.",
+      "korean": "당신 안에서, 평화를 찾아요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150188"
+    },
+    {
+      "english": "Create harmony, in your surroundings.",
+      "korean": "당신 주변에, 조화를 만들어요.",
+      "category": "Purpose",
+      "generated_at": "2026-08-22T02:16:20.150189"
     }
   ],
-  "last_updated": "2026-08-21T02:24:00.660895"
+  "last_updated": "2026-08-22T02:16:20.150191"
 }
