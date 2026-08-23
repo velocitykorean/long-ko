@@ -20879,7 +20879,367 @@
       "korean": "당신 주변에, 조화를 만들어요.",
       "category": "Purpose",
       "generated_at": "2026-08-22T02:16:20.150189"
+    },
+    {
+      "english": "Work hard, play harder.",
+      "korean": "열심히 일하고, 더 신나게 놀자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602608"
+    },
+    {
+      "english": "Eat well, sleep deep.",
+      "korean": "잘 먹고, 푹 자자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602619"
+    },
+    {
+      "english": "Drink water, feel great.",
+      "korean": "물 많이 마시고, 기분 좋아지자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602621"
+    },
+    {
+      "english": "Move your body, free your mind.",
+      "korean": "몸을 움직여, 마음을 해방하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602622"
+    },
+    {
+      "english": "Read a book, go somewhere.",
+      "korean": "책을 읽고, 어딘가로 가자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602624"
+    },
+    {
+      "english": "Laugh often, cry little.",
+      "korean": "많이 웃고, 조금 울자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602625"
+    },
+    {
+      "english": "Save money, spend smart.",
+      "korean": "돈을 아끼고, 현명하게 쓰자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602626"
+    },
+    {
+      "english": "Be early, stay calm.",
+      "korean": "일찍 와서, 침착하게 있자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602629"
+    },
+    {
+      "english": "Clean up, feel new.",
+      "korean": "정리하고, 새 기분 느끼자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602631"
+    },
+    {
+      "english": "Dream big, start now.",
+      "korean": "크게 꿈꾸고, 지금 시작하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602632"
+    },
+    {
+      "english": "Cook dinner, share with friends.",
+      "korean": "저녁 만들어, 친구와 나누자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602633"
+    },
+    {
+      "english": "Walk outside, see nature.",
+      "korean": "밖에 나가 걷고, 자연을 보자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602634"
+    },
+    {
+      "english": "Learn a word, use it today.",
+      "korean": "단어 하나 배우고, 오늘 쓰자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602635"
+    },
+    {
+      "english": "Help a neighbor, be a good friend.",
+      "korean": "이웃 돕고, 좋은 친구 되자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602636"
+    },
+    {
+      "english": "Smile a lot, make it count.",
+      "korean": "많이 웃고, 의미 있게 하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602637"
+    },
+    {
+      "english": "Fix it, don't replace it.",
+      "korean": "고치고, 바꾸지 말자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602638"
+    },
+    {
+      "english": "Write it down, make it real.",
+      "korean": "적고, 현실로 만들자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602639"
+    },
+    {
+      "english": "Plan ahead, worry less.",
+      "korean": "미리 계획하고, 걱정 줄이자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602641"
+    },
+    {
+      "english": "Sing loud, feel free.",
+      "korean": "크게 노래하고, 자유롭게 느끼자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602642"
+    },
+    {
+      "english": "Try new food, taste the world.",
+      "korean": "새로운 음식 맛보고, 세상을 맛보자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602643"
+    },
+    {
+      "english": "Ask questions, get answers.",
+      "korean": "질문하고, 답을 얻자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602644"
+    },
+    {
+      "english": "Save energy, recharge yourself.",
+      "korean": "에너지 아끼고, 자신을 충전하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602645"
+    },
+    {
+      "english": "Be kind, always and forever.",
+      "korean": "친절하고, 언제나 영원히.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602646"
+    },
+    {
+      "english": "Get organized, feel in control.",
+      "korean": "정리하고, 통제감을 느끼자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602647"
+    },
+    {
+      "english": "Stretch out, touch the sky.",
+      "korean": "스트레칭하고, 하늘에 닿자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602648"
+    },
+    {
+      "english": "Tell a story, share your life.",
+      "korean": "이야기하고, 네 삶을 나누자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602649"
+    },
+    {
+      "english": "Plant a flower, watch it grow.",
+      "korean": "꽃을 심고, 자라는 걸 보자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602650"
+    },
+    {
+      "english": "Listen to music, dance like nobody's watching.",
+      "korean": "음악 듣고, 아무도 안 보듯 춤추자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602651"
+    },
+    {
+      "english": "Forgive quickly, love deeply.",
+      "korean": "빨리 용서하고, 깊이 사랑하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602652"
+    },
+    {
+      "english": "Take a break, come back stronger.",
+      "korean": "쉬고, 더 강하게 돌아오자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602653"
+    },
+    {
+      "english": "Learn a new skill, boost yourself.",
+      "korean": "새로운 기술 배우고, 자신감 올리자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602654"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "korean": "공간 정리하고, 마음을 비우자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602655"
+    },
+    {
+      "english": "Call a friend, stay connected.",
+      "korean": "친구에게 전화하고, 연결 유지하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602656"
+    },
+    {
+      "english": "Water the plants, nurture life.",
+      "korean": "식물에 물 주고, 생명을 키우자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602657"
+    },
+    {
+      "english": "Share a smile, spread good vibes.",
+      "korean": "미소 나누고, 좋은 기운 퍼뜨리자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602658"
+    },
+    {
+      "english": "Reflect on your day, learn and grow.",
+      "korean": "하루를 돌아보고, 배우고 성장하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602659"
+    },
+    {
+      "english": "Exercise your brain, stay sharp.",
+      "korean": "뇌를 훈련하고, 날카롭게 유지하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602660"
+    },
+    {
+      "english": "Work hard, play harder.",
+      "korean": "열심히 일하고, 더 신나게 놀자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602662"
+    },
+    {
+      "english": "Eat well, sleep deep.",
+      "korean": "잘 먹고, 푹 자자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602663"
+    },
+    {
+      "english": "Drink water, feel great.",
+      "korean": "물 많이 마시고, 기분 좋아지자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602664"
+    },
+    {
+      "english": "Move your body, free your mind.",
+      "korean": "몸을 움직여, 마음을 해방하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602665"
+    },
+    {
+      "english": "Read a book, go somewhere.",
+      "korean": "책을 읽고, 어딘가로 가자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602666"
+    },
+    {
+      "english": "Laugh often, cry little.",
+      "korean": "많이 웃고, 조금 울자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602667"
+    },
+    {
+      "english": "Save money, spend smart.",
+      "korean": "돈을 아끼고, 현명하게 쓰자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602669"
+    },
+    {
+      "english": "Be early, stay calm.",
+      "korean": "일찍 와서, 침착하게 있자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602670"
+    },
+    {
+      "english": "Clean up, feel new.",
+      "korean": "정리하고, 새 기분 느끼자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602671"
+    },
+    {
+      "english": "Dream big, start now.",
+      "korean": "크게 꿈꾸고, 지금 시작하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602672"
+    },
+    {
+      "english": "Cook dinner, share with friends.",
+      "korean": "저녁 만들어, 친구와 나누자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602673"
+    },
+    {
+      "english": "Walk outside, see nature.",
+      "korean": "밖에 나가 걷고, 자연을 보자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602674"
+    },
+    {
+      "english": "Learn a word, use it today.",
+      "korean": "단어 하나 배우고, 오늘 쓰자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602675"
+    },
+    {
+      "english": "Help a neighbor, be a good friend.",
+      "korean": "이웃 돕고, 좋은 친구 되자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602677"
+    },
+    {
+      "english": "Smile a lot, make it count.",
+      "korean": "많이 웃고, 의미 있게 하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602678"
+    },
+    {
+      "english": "Fix it, don't replace it.",
+      "korean": "고치고, 바꾸지 말자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602679"
+    },
+    {
+      "english": "Write it down, make it real.",
+      "korean": "적고, 현실로 만들자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602680"
+    },
+    {
+      "english": "Plan ahead, worry less.",
+      "korean": "미리 계획하고, 걱정 줄이자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602681"
+    },
+    {
+      "english": "Sing loud, feel free.",
+      "korean": "크게 노래하고, 자유롭게 느끼자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602682"
+    },
+    {
+      "english": "Try new food, taste the world.",
+      "korean": "새로운 음식 맛보고, 세상을 맛보자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602683"
+    },
+    {
+      "english": "Ask questions, get answers.",
+      "korean": "질문하고, 답을 얻자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602684"
+    },
+    {
+      "english": "Save energy, recharge yourself.",
+      "korean": "에너지 아끼고, 자신을 충전하자.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602685"
+    },
+    {
+      "english": "Be kind, always and forever.",
+      "korean": "친절하고, 언제나 영원히.",
+      "category": "Balance",
+      "generated_at": "2026-08-23T02:24:43.602686"
     }
   ],
-  "last_updated": "2026-08-22T02:16:20.150191"
+  "last_updated": "2026-08-23T02:24:43.602688"
 }
