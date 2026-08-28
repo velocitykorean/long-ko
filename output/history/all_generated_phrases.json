@@ -22679,7 +22679,367 @@
       "korean": "네 여정, 지금 시작.",
       "category": "Growth",
       "generated_at": "2026-08-27T10:58:13.777102"
+    },
+    {
+      "english": "Never give up, try harder.",
+      "korean": "포기하지 마세요, 더 노력하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282403"
+    },
+    {
+      "english": "Your effort, counts.",
+      "korean": "당신의 노력, 소중해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282416"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "korean": "긍정적이고, 강하게 계세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282418"
+    },
+    {
+      "english": "Embrace the challenge, you can.",
+      "korean": "도전을 받아들이세요, 할 수 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282419"
+    },
+    {
+      "english": "Every day, a little progress.",
+      "korean": "매일, 조금씩 발전하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282420"
+    },
+    {
+      "english": "Your dream, is valid.",
+      "korean": "당신의 꿈, 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282421"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "korean": "호기심을 유지하고, 이유를 물으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282422"
+    },
+    {
+      "english": "Your passion, will guide you.",
+      "korean": "당신의 열정, 당신을 이끌 거예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282425"
+    },
+    {
+      "english": "Never stop, exploring.",
+      "korean": "멈추지 마세요, 탐험을.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282426"
+    },
+    {
+      "english": "Be grateful, every day.",
+      "korean": "매일, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282427"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "korean": "과정을 믿으세요, 효과가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282428"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "korean": "항상, 좋은 것에 집중하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282429"
+    },
+    {
+      "english": "Small actions, make a difference.",
+      "korean": "작은 행동, 변화를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282430"
+    },
+    {
+      "english": "Keep your head up, high.",
+      "korean": "고개를 드세요, 높이.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282431"
+    },
+    {
+      "english": "Learn something new, today.",
+      "korean": "오늘, 새로운 것을 배우세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282431"
+    },
+    {
+      "english": "Love what you do, truly.",
+      "korean": "하는 일을 사랑하세요, 진정으로.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282432"
+    },
+    {
+      "english": "Keep moving forward, don't stop.",
+      "korean": "앞으로 계속 나아가세요, 멈추지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282433"
+    },
+    {
+      "english": "Embrace change, it's life.",
+      "korean": "변화를 받아들이세요, 그게 인생이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282434"
+    },
+    {
+      "english": "Find your voice, speak up.",
+      "korean": "당신의 목소리를 찾고, 말하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282435"
+    },
+    {
+      "english": "Every step, a learning opportunity.",
+      "korean": "모든 발걸음, 배움의 기회예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282435"
+    },
+    {
+      "english": "Never give up, try harder.",
+      "korean": "포기하지 마세요, 더 노력하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282436"
+    },
+    {
+      "english": "Your effort, counts.",
+      "korean": "당신의 노력, 소중해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282437"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "korean": "긍정적이고, 강하게 계세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282438"
+    },
+    {
+      "english": "Embrace the challenge, you can.",
+      "korean": "도전을 받아들이세요, 할 수 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282439"
+    },
+    {
+      "english": "Every day, a little progress.",
+      "korean": "매일, 조금씩 발전하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282440"
+    },
+    {
+      "english": "Your dream, is valid.",
+      "korean": "당신의 꿈, 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282441"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "korean": "호기심을 유지하고, 이유를 물으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282441"
+    },
+    {
+      "english": "Your passion, will guide you.",
+      "korean": "당신의 열정, 당신을 이끌 거예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282442"
+    },
+    {
+      "english": "Never stop, exploring.",
+      "korean": "멈추지 마세요, 탐험을.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282443"
+    },
+    {
+      "english": "Be grateful, every day.",
+      "korean": "매일, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282444"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "korean": "과정을 믿으세요, 효과가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282444"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "korean": "항상, 좋은 것에 집중하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282445"
+    },
+    {
+      "english": "Small actions, make a difference.",
+      "korean": "작은 행동, 변화를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282446"
+    },
+    {
+      "english": "Keep your head up, high.",
+      "korean": "고개를 드세요, 높이.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282447"
+    },
+    {
+      "english": "Learn something new, today.",
+      "korean": "오늘, 새로운 것을 배우세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282448"
+    },
+    {
+      "english": "Love what you do, truly.",
+      "korean": "하는 일을 사랑하세요, 진정으로.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282448"
+    },
+    {
+      "english": "Keep moving forward, don't stop.",
+      "korean": "앞으로 계속 나아가세요, 멈추지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282449"
+    },
+    {
+      "english": "Embrace change, it's life.",
+      "korean": "변화를 받아들이세요, 그게 인생이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282450"
+    },
+    {
+      "english": "Find your voice, speak up.",
+      "korean": "당신의 목소리를 찾고, 말하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282451"
+    },
+    {
+      "english": "Every step, a learning opportunity.",
+      "korean": "모든 발걸음, 배움의 기회예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282452"
+    },
+    {
+      "english": "Never give up, try harder.",
+      "korean": "포기하지 마세요, 더 노력하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282452"
+    },
+    {
+      "english": "Your effort, counts.",
+      "korean": "당신의 노력, 소중해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282453"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "korean": "긍정적이고, 강하게 계세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282454"
+    },
+    {
+      "english": "Embrace the challenge, you can.",
+      "korean": "도전을 받아들이세요, 할 수 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282455"
+    },
+    {
+      "english": "Every day, a little progress.",
+      "korean": "매일, 조금씩 발전하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282456"
+    },
+    {
+      "english": "Your dream, is valid.",
+      "korean": "당신의 꿈, 중요해요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282457"
+    },
+    {
+      "english": "Stay curious, ask why.",
+      "korean": "호기심을 유지하고, 이유를 물으세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282458"
+    },
+    {
+      "english": "Your passion, will guide you.",
+      "korean": "당신의 열정, 당신을 이끌 거예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282458"
+    },
+    {
+      "english": "Never stop, exploring.",
+      "korean": "멈추지 마세요, 탐험을.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282459"
+    },
+    {
+      "english": "Be grateful, every day.",
+      "korean": "매일, 감사하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282460"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "korean": "과정을 믿으세요, 효과가 있어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282461"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "korean": "항상, 좋은 것에 집중하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282461"
+    },
+    {
+      "english": "Small actions, make a difference.",
+      "korean": "작은 행동, 변화를 만들어요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282462"
+    },
+    {
+      "english": "Keep your head up, high.",
+      "korean": "고개를 드세요, 높이.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282463"
+    },
+    {
+      "english": "Learn something new, today.",
+      "korean": "오늘, 새로운 것을 배우세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282464"
+    },
+    {
+      "english": "Love what you do, truly.",
+      "korean": "하는 일을 사랑하세요, 진정으로.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282465"
+    },
+    {
+      "english": "Keep moving forward, don't stop.",
+      "korean": "앞으로 계속 나아가세요, 멈추지 마세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282465"
+    },
+    {
+      "english": "Embrace change, it's life.",
+      "korean": "변화를 받아들이세요, 그게 인생이에요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282466"
+    },
+    {
+      "english": "Find your voice, speak up.",
+      "korean": "당신의 목소리를 찾고, 말하세요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282467"
+    },
+    {
+      "english": "Every step, a learning opportunity.",
+      "korean": "모든 발걸음, 배움의 기회예요.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-28T12:33:47.282467"
     }
   ],
-  "last_updated": "2026-08-27T10:58:13.777104"
+  "last_updated": "2026-08-28T12:33:47.282469"
 }
