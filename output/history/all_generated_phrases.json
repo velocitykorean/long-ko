@@ -24839,7 +24839,367 @@
       "korean": "인내심은, 보상을 가져와요.",
       "category": "Wisdom",
       "generated_at": "2026-09-02T05:31:20.454011"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "korean": "도움 주셔서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702954"
+    },
+    {
+      "english": "You are, too kind.",
+      "korean": "너무, 친절하세요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702966"
+    },
+    {
+      "english": "I'm so, grateful now.",
+      "korean": "지금, 정말 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702968"
+    },
+    {
+      "english": "What a, surprise gift!",
+      "korean": "이런, 깜짝 선물!",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702969"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "korean": "당신의 노력, 알아차렸어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702971"
+    },
+    {
+      "english": "This means, a lot.",
+      "korean": "이것은, 정말 의미 있어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702972"
+    },
+    {
+      "english": "I owe, you one.",
+      "korean": "신세, 많이 졌어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702973"
+    },
+    {
+      "english": "Feeling lucky, today.",
+      "korean": "오늘, 운이 좋아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702977"
+    },
+    {
+      "english": "So much, goodness here.",
+      "korean": "정말, 많은 좋은 것들.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702979"
+    },
+    {
+      "english": "Thanks for, the advice.",
+      "korean": "조언, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702981"
+    },
+    {
+      "english": "I'm touched, deeply.",
+      "korean": "마음이, 깊이 감동했어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702982"
+    },
+    {
+      "english": "What a, sweet gesture.",
+      "korean": "정말, 달콤한 제스처네요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702983"
+    },
+    {
+      "english": "This is, perfect timing.",
+      "korean": "이것은, 완벽한 타이밍이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702984"
+    },
+    {
+      "english": "Always, appreciate you.",
+      "korean": "항상, 당신을 고마워해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702986"
+    },
+    {
+      "english": "Your kindness, shines.",
+      "korean": "당신의 친절이, 빛나요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702987"
+    },
+    {
+      "english": "This is, more than enough.",
+      "korean": "이것은, 충분 그 이상이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702988"
+    },
+    {
+      "english": "I'm very, thankful.",
+      "korean": "정말, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702989"
+    },
+    {
+      "english": "Big thanks, to you.",
+      "korean": "당신에게, 큰 감사.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702990"
+    },
+    {
+      "english": "This is, truly amazing.",
+      "korean": "이것은, 정말 놀라워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702991"
+    },
+    {
+      "english": "What a, generous offer.",
+      "korean": "정말, 너그러운 제안이네요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702993"
+    },
+    {
+      "english": "I can't, thank you enough.",
+      "korean": "얼마나, 감사해야 할지 몰라요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702994"
+    },
+    {
+      "english": "Feeling blessed, always.",
+      "korean": "언제나, 축복받은 기분이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702995"
+    },
+    {
+      "english": "So much, love received.",
+      "korean": "너무, 많은 사랑을 받았어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702996"
+    },
+    {
+      "english": "This is, truly appreciated.",
+      "korean": "이것은, 정말 감사히 여겨져요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702997"
+    },
+    {
+      "english": "Thank you, for your time.",
+      "korean": "시간 내주셔서, 감사합니다.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702998"
+    },
+    {
+      "english": "I'm thankful, for this.",
+      "korean": "이것에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.702999"
+    },
+    {
+      "english": "You've got, my thanks.",
+      "korean": "제 감사, 받으세요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703000"
+    },
+    {
+      "english": "What a, wonderful gesture.",
+      "korean": "정말, 멋진 제스처예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703001"
+    },
+    {
+      "english": "This is, truly kind.",
+      "korean": "이것은, 정말 친절해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703002"
+    },
+    {
+      "english": "Thanks for, the support.",
+      "korean": "지지, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703003"
+    },
+    {
+      "english": "Forever, grateful for you.",
+      "korean": "당신에게, 영원히 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703004"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "korean": "도움 주셔서, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703005"
+    },
+    {
+      "english": "You are, too kind.",
+      "korean": "너무, 친절하세요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703006"
+    },
+    {
+      "english": "I'm so, grateful now.",
+      "korean": "지금, 정말 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703008"
+    },
+    {
+      "english": "What a, surprise gift!",
+      "korean": "이런, 깜짝 선물!",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703009"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "korean": "당신의 노력, 알아차렸어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703010"
+    },
+    {
+      "english": "This means, a lot.",
+      "korean": "이것은, 정말 의미 있어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703011"
+    },
+    {
+      "english": "I owe, you one.",
+      "korean": "신세, 많이 졌어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703012"
+    },
+    {
+      "english": "Feeling lucky, today.",
+      "korean": "오늘, 운이 좋아요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703014"
+    },
+    {
+      "english": "So much, goodness here.",
+      "korean": "정말, 많은 좋은 것들.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703015"
+    },
+    {
+      "english": "Thanks for, the advice.",
+      "korean": "조언, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703016"
+    },
+    {
+      "english": "I'm touched, deeply.",
+      "korean": "마음이, 깊이 감동했어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703017"
+    },
+    {
+      "english": "What a, sweet gesture.",
+      "korean": "정말, 달콤한 제스처네요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703018"
+    },
+    {
+      "english": "This is, perfect timing.",
+      "korean": "이것은, 완벽한 타이밍이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703019"
+    },
+    {
+      "english": "Always, appreciate you.",
+      "korean": "항상, 당신을 고마워해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703020"
+    },
+    {
+      "english": "Your kindness, shines.",
+      "korean": "당신의 친절이, 빛나요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703022"
+    },
+    {
+      "english": "This is, more than enough.",
+      "korean": "이것은, 충분 그 이상이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703023"
+    },
+    {
+      "english": "I'm very, thankful.",
+      "korean": "정말, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703024"
+    },
+    {
+      "english": "Big thanks, to you.",
+      "korean": "당신에게, 큰 감사.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703025"
+    },
+    {
+      "english": "This is, truly amazing.",
+      "korean": "이것은, 정말 놀라워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703026"
+    },
+    {
+      "english": "What a, generous offer.",
+      "korean": "정말, 너그러운 제안이네요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703027"
+    },
+    {
+      "english": "I can't, thank you enough.",
+      "korean": "얼마나, 감사해야 할지 몰라요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703028"
+    },
+    {
+      "english": "Feeling blessed, always.",
+      "korean": "언제나, 축복받은 기분이에요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703029"
+    },
+    {
+      "english": "So much, love received.",
+      "korean": "너무, 많은 사랑을 받았어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703030"
+    },
+    {
+      "english": "This is, truly appreciated.",
+      "korean": "이것은, 정말 감사히 여겨져요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703031"
+    },
+    {
+      "english": "Thank you, for your time.",
+      "korean": "시간 내주셔서, 감사합니다.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703032"
+    },
+    {
+      "english": "I'm thankful, for this.",
+      "korean": "이것에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703033"
+    },
+    {
+      "english": "You've got, my thanks.",
+      "korean": "제 감사, 받으세요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703034"
+    },
+    {
+      "english": "What a, wonderful gesture.",
+      "korean": "정말, 멋진 제스처예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703035"
+    },
+    {
+      "english": "This is, truly kind.",
+      "korean": "이것은, 정말 친절해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-03T05:32:13.703036"
     }
   ],
-  "last_updated": "2026-09-02T05:31:20.454013"
+  "last_updated": "2026-09-03T05:32:13.703038"
 }
