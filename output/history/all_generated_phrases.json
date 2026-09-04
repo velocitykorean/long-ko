@@ -25199,7 +25199,367 @@
       "korean": "이것은, 정말 친절해요.",
       "category": "Gratitude",
       "generated_at": "2026-09-03T05:32:13.703036"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "korean": "당신은, 정말 은인이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910072"
+    },
+    {
+      "english": "This is, incredibly helpful.",
+      "korean": "이것은, 믿을 수 없을 만큼 도움이 돼요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910085"
+    },
+    {
+      "english": "You always, know what to do.",
+      "korean": "당신은 항상, 무엇을 해야 할지 알아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910086"
+    },
+    {
+      "english": "I really, value your friendship.",
+      "korean": "저는 당신의 우정을, 정말 소중하게 생각해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910087"
+    },
+    {
+      "english": "You're so thoughtful, always.",
+      "korean": "당신은 항상, 정말 사려 깊어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910088"
+    },
+    {
+      "english": "This is, exactly what I needed.",
+      "korean": "이것은, 제가 딱 필요했던 거예요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910089"
+    },
+    {
+      "english": "You have, a big heart.",
+      "korean": "당신은, 마음이 넓어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910089"
+    },
+    {
+      "english": "I'm so happy, for your support.",
+      "korean": "당신의 지지에, 정말 기뻐요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910093"
+    },
+    {
+      "english": "This is, a wonderful surprise.",
+      "korean": "이것은, 정말 멋진 놀라움이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910094"
+    },
+    {
+      "english": "You're too kind, to me.",
+      "korean": "저에게 너무, 친절하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910095"
+    },
+    {
+      "english": "I'm in your debt, now.",
+      "korean": "제가 당신에게, 빚졌어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910096"
+    },
+    {
+      "english": "Your help, was invaluable.",
+      "korean": "당신의 도움은, 정말 값졌어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910097"
+    },
+    {
+      "english": "You always, go the extra mile.",
+      "korean": "당신은 항상, 더 노력해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910098"
+    },
+    {
+      "english": "This is, more than I expected.",
+      "korean": "이것은, 제가 예상한 것보다 더 많아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910098"
+    },
+    {
+      "english": "You're a gem, honestly.",
+      "korean": "당신은 정말, 보석이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910099"
+    },
+    {
+      "english": "I'm so glad, we met.",
+      "korean": "우리가 만나서, 정말 기뻐요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910100"
+    },
+    {
+      "english": "This gesture, is very touching.",
+      "korean": "이런 행동은, 정말 감동적이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910100"
+    },
+    {
+      "english": "You've brightened, my spirit.",
+      "korean": "당신은 제 마음을, 밝게 해주었어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910101"
+    },
+    {
+      "english": "I'm truly, blessed by you.",
+      "korean": "저는 당신 덕분에, 정말 축복받았어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910101"
+    },
+    {
+      "english": "Your kindness, is so rare.",
+      "korean": "당신의 친절함은, 정말 드물어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910102"
+    },
+    {
+      "english": "This is, absolutely perfect.",
+      "korean": "이것은, 정말 완벽해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910103"
+    },
+    {
+      "english": "You're an angel, sent down.",
+      "korean": "당신은 천사예요, 내려온.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910103"
+    },
+    {
+      "english": "I'm so appreciative, of you.",
+      "korean": "저는 당신에게, 정말 감사해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910104"
+    },
+    {
+      "english": "You've made a difference, here.",
+      "korean": "당신은 여기에, 변화를 가져왔어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910104"
+    },
+    {
+      "english": "This is, a true blessing.",
+      "korean": "이것은, 정말 축복이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910105"
+    },
+    {
+      "english": "You're incredibly, kind-hearted.",
+      "korean": "당신은 믿을 수 없을 만큼, 마음씨가 좋아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910106"
+    },
+    {
+      "english": "You always, lift me up.",
+      "korean": "당신은 항상, 저를 북돋아 줘요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910106"
+    },
+    {
+      "english": "This means, the world to me.",
+      "korean": "이것은 저에게, 세상이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910107"
+    },
+    {
+      "english": "You have, my deepest thanks.",
+      "korean": "제 가장 깊은, 감사를 드려요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910107"
+    },
+    {
+      "english": "What a generous, soul you are.",
+      "korean": "당신은 정말, 너그러운 영혼이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910108"
+    },
+    {
+      "english": "Your thoughtfulness, is unmatched.",
+      "korean": "당신의 사려 깊음은, 비할 데가 없어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910109"
+    },
+    {
+      "english": "You've made, a positive impact.",
+      "korean": "당신은 긍정적인, 영향을 주었어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910109"
+    },
+    {
+      "english": "I'm so indebted, to you.",
+      "korean": "저는 당신에게, 정말 신세졌어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910110"
+    },
+    {
+      "english": "You're a true, gift to the world.",
+      "korean": "당신은 세상에, 정말 선물이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910111"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "korean": "당신은, 정말 은인이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910112"
+    },
+    {
+      "english": "This is, incredibly helpful.",
+      "korean": "이것은, 믿을 수 없을 만큼 도움이 돼요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910112"
+    },
+    {
+      "english": "You always, know what to do.",
+      "korean": "당신은 항상, 무엇을 해야 할지 알아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910113"
+    },
+    {
+      "english": "I really, value your friendship.",
+      "korean": "저는 당신의 우정을, 정말 소중하게 생각해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910114"
+    },
+    {
+      "english": "You're so thoughtful, always.",
+      "korean": "당신은 항상, 정말 사려 깊어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910115"
+    },
+    {
+      "english": "This is, exactly what I needed.",
+      "korean": "이것은, 제가 딱 필요했던 거예요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910115"
+    },
+    {
+      "english": "You have, a big heart.",
+      "korean": "당신은, 마음이 넓어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910116"
+    },
+    {
+      "english": "I'm so happy, for your support.",
+      "korean": "당신의 지지에, 정말 기뻐요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910117"
+    },
+    {
+      "english": "This is, a wonderful surprise.",
+      "korean": "이것은, 정말 멋진 놀라움이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910118"
+    },
+    {
+      "english": "You're too kind, to me.",
+      "korean": "저에게 너무, 친절하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910119"
+    },
+    {
+      "english": "I'm in your debt, now.",
+      "korean": "제가 당신에게, 빚졌어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910119"
+    },
+    {
+      "english": "Your help, was invaluable.",
+      "korean": "당신의 도움은, 정말 값졌어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910120"
+    },
+    {
+      "english": "You always, go the extra mile.",
+      "korean": "당신은 항상, 더 노력해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910121"
+    },
+    {
+      "english": "This is, more than I expected.",
+      "korean": "이것은, 제가 예상한 것보다 더 많아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910121"
+    },
+    {
+      "english": "You're a gem, honestly.",
+      "korean": "당신은 정말, 보석이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910122"
+    },
+    {
+      "english": "I'm so glad, we met.",
+      "korean": "우리가 만나서, 정말 기뻐요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910122"
+    },
+    {
+      "english": "This gesture, is very touching.",
+      "korean": "이런 행동은, 정말 감동적이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910123"
+    },
+    {
+      "english": "You've brightened, my spirit.",
+      "korean": "당신은 제 마음을, 밝게 해주었어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910124"
+    },
+    {
+      "english": "I'm truly, blessed by you.",
+      "korean": "저는 당신 덕분에, 정말 축복받았어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910124"
+    },
+    {
+      "english": "Your kindness, is so rare.",
+      "korean": "당신의 친절함은, 정말 드물어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910125"
+    },
+    {
+      "english": "This is, absolutely perfect.",
+      "korean": "이것은, 정말 완벽해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910125"
+    },
+    {
+      "english": "You're an angel, sent down.",
+      "korean": "당신은 천사예요, 내려온.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910126"
+    },
+    {
+      "english": "I'm so appreciative, of you.",
+      "korean": "저는 당신에게, 정말 감사해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910127"
+    },
+    {
+      "english": "You've made a difference, here.",
+      "korean": "당신은 여기에, 변화를 가져왔어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910127"
+    },
+    {
+      "english": "This is, a true blessing.",
+      "korean": "이것은, 정말 축복이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910128"
+    },
+    {
+      "english": "You're incredibly, kind-hearted.",
+      "korean": "당신은 믿을 수 없을 만큼, 마음씨가 좋아요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-04T05:37:21.910129"
     }
   ],
-  "last_updated": "2026-09-03T05:32:13.703038"
+  "last_updated": "2026-09-04T05:37:21.910131"
 }
