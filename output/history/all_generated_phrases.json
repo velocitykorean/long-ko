@@ -26279,7 +26279,367 @@
       "korean": "꿈꾸는 것을, 멈추지 마.",
       "category": "Hope",
       "generated_at": "2026-09-06T05:37:03.225310"
+    },
+    {
+      "english": "Kindness, is its own reward.",
+      "korean": "친절함은, 그 자체로 보상입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866778"
+    },
+    {
+      "english": "Laughter, heals the deepest wounds.",
+      "korean": "웃음은, 깊은 상처를 치유합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866789"
+    },
+    {
+      "english": "Curiosity, opens new doors.",
+      "korean": "호기심은, 새로운 문을 엽니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866791"
+    },
+    {
+      "english": "Patience, bears sweet fruit.",
+      "korean": "인내는, 달콤한 열매를 맺습니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866793"
+    },
+    {
+      "english": "Gratitude, enriches your life.",
+      "korean": "감사는, 삶을 풍요롭게 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866794"
+    },
+    {
+      "english": "Simplicity, brings true peace.",
+      "korean": "단순함은, 진정한 평화를 가져옵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866795"
+    },
+    {
+      "english": "Courage, whispers 'try again'.",
+      "korean": "용기는, '다시 시도해봐' 속삭입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866796"
+    },
+    {
+      "english": "Wisdom, grows with experience.",
+      "korean": "지혜는, 경험과 함께 자랍니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866800"
+    },
+    {
+      "english": "Love, is the strongest force.",
+      "korean": "사랑은, 가장 강력한 힘입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866801"
+    },
+    {
+      "english": "Joy, is found in small things.",
+      "korean": "기쁨은, 작은 것들 속에서 발견됩니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866802"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "korean": "이해는, 다리를 건설합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866804"
+    },
+    {
+      "english": "Connection, nourishes the spirit.",
+      "korean": "연결은, 영혼을 nourishes 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866805"
+    },
+    {
+      "english": "Creativity, knows no limits.",
+      "korean": "창의력은, 한계를 모릅니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866806"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "korean": "행동은, 말보다 크게 말합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866807"
+    },
+    {
+      "english": "Imagination, paints the future.",
+      "korean": "상상력은, 미래를 그립니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866808"
+    },
+    {
+      "english": "Generosity, multiplies happiness.",
+      "korean": "너그러움은, 행복을 증폭시킵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866809"
+    },
+    {
+      "english": "Learning, is a lifelong adventure.",
+      "korean": "학습은, 평생의 모험입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866810"
+    },
+    {
+      "english": "Truth, always finds a way.",
+      "korean": "진실은, 항상 길을 찾습니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866811"
+    },
+    {
+      "english": "Humor, lightens any burden.",
+      "korean": "유머는, 어떤 짐도 가볍게 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866812"
+    },
+    {
+      "english": "Adventure, makes life vibrant.",
+      "korean": "모험은, 삶을 활기차게 만듭니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866813"
+    },
+    {
+      "english": "Acceptance, brings inner calm.",
+      "korean": "수용은, 내면의 평온을 가져옵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866814"
+    },
+    {
+      "english": "Doubt, is a temporary guest.",
+      "korean": "의심은, 일시적인 손님입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866815"
+    },
+    {
+      "english": "Wonder, keeps the mind young.",
+      "korean": "경이로움은, 마음을 젊게 유지합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866816"
+    },
+    {
+      "english": "Harmony, creates beautiful things.",
+      "korean": "조화는, 아름다운 것을 창조합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866817"
+    },
+    {
+      "english": "Focus, unlocks potential.",
+      "korean": "집중력은, 잠재력을 풀어줍니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866818"
+    },
+    {
+      "english": "Action, cures fear.",
+      "korean": "행동은, 두려움을 치료합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866819"
+    },
+    {
+      "english": "Gentleness, is powerful.",
+      "korean": "부드러움은, 강력합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866820"
+    },
+    {
+      "english": "Gratitude, multiplies blessings.",
+      "korean": "감사는, 축복을 증폭시킵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866821"
+    },
+    {
+      "english": "Joy, finds you when you rest.",
+      "korean": "기쁨은, 쉴 때 당신을 찾아옵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866822"
+    },
+    {
+      "english": "Silence, speaks volumes.",
+      "korean": "침묵은, 많은 것을 말합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866823"
+    },
+    {
+      "english": "Connection, is vital.",
+      "korean": "연결은, 필수적입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866824"
+    },
+    {
+      "english": "Kindness, echoes endlessly.",
+      "korean": "친절함은, 끝없이 울려 퍼집니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866825"
+    },
+    {
+      "english": "Creativity, blooms everywhere.",
+      "korean": "창의력은, 어디에서나 꽃핍니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866826"
+    },
+    {
+      "english": "Peace, is a choice.",
+      "korean": "평화는, 선택입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866827"
+    },
+    {
+      "english": "Courage, opens doors.",
+      "korean": "용기는, 문을 엽니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866828"
+    },
+    {
+      "english": "Imagination, is a seed.",
+      "korean": "상상력은, 씨앗입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866829"
+    },
+    {
+      "english": "Growth, is a process.",
+      "korean": "성장은, 과정입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866830"
+    },
+    {
+      "english": "Empathy, heals the world.",
+      "korean": "공감은, 세상을 치유합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866831"
+    },
+    {
+      "english": "Kindness, is its own reward.",
+      "korean": "친절함은, 그 자체로 보상입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866832"
+    },
+    {
+      "english": "Laughter, heals the deepest wounds.",
+      "korean": "웃음은, 깊은 상처를 치유합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866834"
+    },
+    {
+      "english": "Curiosity, opens new doors.",
+      "korean": "호기심은, 새로운 문을 엽니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866835"
+    },
+    {
+      "english": "Patience, bears sweet fruit.",
+      "korean": "인내는, 달콤한 열매를 맺습니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866837"
+    },
+    {
+      "english": "Gratitude, enriches your life.",
+      "korean": "감사는, 삶을 풍요롭게 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866838"
+    },
+    {
+      "english": "Simplicity, brings true peace.",
+      "korean": "단순함은, 진정한 평화를 가져옵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866839"
+    },
+    {
+      "english": "Courage, whispers 'try again'.",
+      "korean": "용기는, '다시 시도해봐' 속삭입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866840"
+    },
+    {
+      "english": "Wisdom, grows with experience.",
+      "korean": "지혜는, 경험과 함께 자랍니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866841"
+    },
+    {
+      "english": "Love, is the strongest force.",
+      "korean": "사랑은, 가장 강력한 힘입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866842"
+    },
+    {
+      "english": "Joy, is found in small things.",
+      "korean": "기쁨은, 작은 것들 속에서 발견됩니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866844"
+    },
+    {
+      "english": "Understanding, builds bridges.",
+      "korean": "이해는, 다리를 건설합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866845"
+    },
+    {
+      "english": "Connection, nourishes the spirit.",
+      "korean": "연결은, 영혼을 nourishes 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866846"
+    },
+    {
+      "english": "Creativity, knows no limits.",
+      "korean": "창의력은, 한계를 모릅니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866847"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "korean": "행동은, 말보다 크게 말합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866848"
+    },
+    {
+      "english": "Imagination, paints the future.",
+      "korean": "상상력은, 미래를 그립니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866849"
+    },
+    {
+      "english": "Generosity, multiplies happiness.",
+      "korean": "너그러움은, 행복을 증폭시킵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866850"
+    },
+    {
+      "english": "Learning, is a lifelong adventure.",
+      "korean": "학습은, 평생의 모험입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866851"
+    },
+    {
+      "english": "Truth, always finds a way.",
+      "korean": "진실은, 항상 길을 찾습니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866852"
+    },
+    {
+      "english": "Humor, lightens any burden.",
+      "korean": "유머는, 어떤 짐도 가볍게 합니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866853"
+    },
+    {
+      "english": "Adventure, makes life vibrant.",
+      "korean": "모험은, 삶을 활기차게 만듭니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866854"
+    },
+    {
+      "english": "Acceptance, brings inner calm.",
+      "korean": "수용은, 내면의 평온을 가져옵니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866855"
+    },
+    {
+      "english": "Doubt, is a temporary guest.",
+      "korean": "의심은, 일시적인 손님입니다.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-07T05:47:24.866857"
     }
   ],
-  "last_updated": "2026-09-06T05:37:03.225312"
+  "last_updated": "2026-09-07T05:47:24.866859"
 }
