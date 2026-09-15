@@ -28799,7 +28799,367 @@
       "korean": "현재에 집중하세요.",
       "category": "Positive Life",
       "generated_at": "2026-09-14T05:54:32.454717"
+    },
+    {
+      "english": "Learn one new word, daily.",
+      "korean": "하루에, 새로운 단어 하나.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901648"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "korean": "도움 요청해요, 괜찮아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901658"
+    },
+    {
+      "english": "Practice patience, it rewards.",
+      "korean": "인내심을 연습해요, 보상이 있어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901659"
+    },
+    {
+      "english": "Embrace mistakes, learn from them.",
+      "korean": "실수를 받아들이고, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901661"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "korean": "해결책을 찾아요, 문제를 말고.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901662"
+    },
+    {
+      "english": "Simplify your life, gain focus.",
+      "korean": "삶을 단순화하고, 집중력을 얻어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901663"
+    },
+    {
+      "english": "Connect with nature, recharge.",
+      "korean": "자연과 연결되어, 재충전해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901665"
+    },
+    {
+      "english": "Visualize your success, believe.",
+      "korean": "성공을 상상하고, 믿으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901668"
+    },
+    {
+      "english": "Create a routine, find rhythm.",
+      "korean": "습관을 만들고, 리듬을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901669"
+    },
+    {
+      "english": "Share your knowledge, grow together.",
+      "korean": "지식을 나누고, 함께 성장해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901671"
+    },
+    {
+      "english": "Read something new, expand.",
+      "korean": "새로운 것을 읽고, 확장하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901672"
+    },
+    {
+      "english": "Drink more water, feel better.",
+      "korean": "물을 더 마시고, 기분이 좋아져요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901673"
+    },
+    {
+      "english": "Set boundaries, protect your peace.",
+      "korean": "경계를 설정하고, 평화를 지키세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901675"
+    },
+    {
+      "english": "Seek feedback, improve your skills.",
+      "korean": "피드백을 구하고, 실력을 향상하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901676"
+    },
+    {
+      "english": "Find your balance, in chaos.",
+      "korean": "혼란 속에서, 균형을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901677"
+    },
+    {
+      "english": "Keep learning, never stop.",
+      "korean": "배움을 멈추지 마세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901678"
+    },
+    {
+      "english": "Plan your day, achieve goals.",
+      "korean": "하루를 계획하고, 목표를 달성해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901679"
+    },
+    {
+      "english": "Rest is productive, too.",
+      "korean": "휴식도, 생산적이에요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901680"
+    },
+    {
+      "english": "Share a smile, it's contagious.",
+      "korean": "미소를 나누세요, 전염돼요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901695"
+    },
+    {
+      "english": "Take breaks, often.",
+      "korean": "휴식을 자주 취하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901696"
+    },
+    {
+      "english": "Celebrate effort, not just results.",
+      "korean": "노력을 축하해요, 결과만 말고.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901697"
+    },
+    {
+      "english": "Learn one new word, daily.",
+      "korean": "하루에, 새로운 단어 하나.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901698"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "korean": "도움 요청해요, 괜찮아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901699"
+    },
+    {
+      "english": "Practice patience, it rewards.",
+      "korean": "인내심을 연습해요, 보상이 있어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901700"
+    },
+    {
+      "english": "Embrace mistakes, learn from them.",
+      "korean": "실수를 받아들이고, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901701"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "korean": "해결책을 찾아요, 문제를 말고.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901702"
+    },
+    {
+      "english": "Simplify your life, gain focus.",
+      "korean": "삶을 단순화하고, 집중력을 얻어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901703"
+    },
+    {
+      "english": "Connect with nature, recharge.",
+      "korean": "자연과 연결되어, 재충전해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901705"
+    },
+    {
+      "english": "Visualize your success, believe.",
+      "korean": "성공을 상상하고, 믿으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901706"
+    },
+    {
+      "english": "Create a routine, find rhythm.",
+      "korean": "습관을 만들고, 리듬을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901707"
+    },
+    {
+      "english": "Share your knowledge, grow together.",
+      "korean": "지식을 나누고, 함께 성장해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901708"
+    },
+    {
+      "english": "Read something new, expand.",
+      "korean": "새로운 것을 읽고, 확장하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901709"
+    },
+    {
+      "english": "Drink more water, feel better.",
+      "korean": "물을 더 마시고, 기분이 좋아져요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901710"
+    },
+    {
+      "english": "Set boundaries, protect your peace.",
+      "korean": "경계를 설정하고, 평화를 지키세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901711"
+    },
+    {
+      "english": "Seek feedback, improve your skills.",
+      "korean": "피드백을 구하고, 실력을 향상하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901712"
+    },
+    {
+      "english": "Find your balance, in chaos.",
+      "korean": "혼란 속에서, 균형을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901713"
+    },
+    {
+      "english": "Keep learning, never stop.",
+      "korean": "배움을 멈추지 마세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901714"
+    },
+    {
+      "english": "Plan your day, achieve goals.",
+      "korean": "하루를 계획하고, 목표를 달성해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901715"
+    },
+    {
+      "english": "Rest is productive, too.",
+      "korean": "휴식도, 생산적이에요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901716"
+    },
+    {
+      "english": "Share a smile, it's contagious.",
+      "korean": "미소를 나누세요, 전염돼요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901717"
+    },
+    {
+      "english": "Take breaks, often.",
+      "korean": "휴식을 자주 취하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901718"
+    },
+    {
+      "english": "Celebrate effort, not just results.",
+      "korean": "노력을 축하해요, 결과만 말고.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901719"
+    },
+    {
+      "english": "Learn one new word, daily.",
+      "korean": "하루에, 새로운 단어 하나.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901720"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "korean": "도움 요청해요, 괜찮아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901721"
+    },
+    {
+      "english": "Practice patience, it rewards.",
+      "korean": "인내심을 연습해요, 보상이 있어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901722"
+    },
+    {
+      "english": "Embrace mistakes, learn from them.",
+      "korean": "실수를 받아들이고, 배우세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901723"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "korean": "해결책을 찾아요, 문제를 말고.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901724"
+    },
+    {
+      "english": "Simplify your life, gain focus.",
+      "korean": "삶을 단순화하고, 집중력을 얻어요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901725"
+    },
+    {
+      "english": "Connect with nature, recharge.",
+      "korean": "자연과 연결되어, 재충전해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901726"
+    },
+    {
+      "english": "Visualize your success, believe.",
+      "korean": "성공을 상상하고, 믿으세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901727"
+    },
+    {
+      "english": "Create a routine, find rhythm.",
+      "korean": "습관을 만들고, 리듬을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901728"
+    },
+    {
+      "english": "Share your knowledge, grow together.",
+      "korean": "지식을 나누고, 함께 성장해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901729"
+    },
+    {
+      "english": "Read something new, expand.",
+      "korean": "새로운 것을 읽고, 확장하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901730"
+    },
+    {
+      "english": "Drink more water, feel better.",
+      "korean": "물을 더 마시고, 기분이 좋아져요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901731"
+    },
+    {
+      "english": "Set boundaries, protect your peace.",
+      "korean": "경계를 설정하고, 평화를 지키세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901732"
+    },
+    {
+      "english": "Seek feedback, improve your skills.",
+      "korean": "피드백을 구하고, 실력을 향상하세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901733"
+    },
+    {
+      "english": "Find your balance, in chaos.",
+      "korean": "혼란 속에서, 균형을 찾아요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901734"
+    },
+    {
+      "english": "Keep learning, never stop.",
+      "korean": "배움을 멈추지 마세요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901735"
+    },
+    {
+      "english": "Plan your day, achieve goals.",
+      "korean": "하루를 계획하고, 목표를 달성해요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901736"
+    },
+    {
+      "english": "Rest is productive, too.",
+      "korean": "휴식도, 생산적이에요.",
+      "category": "Self Improvement",
+      "generated_at": "2026-09-15T05:56:02.901737"
     }
   ],
-  "last_updated": "2026-09-14T05:54:32.454719"
+  "last_updated": "2026-09-15T05:56:02.901739"
 }
