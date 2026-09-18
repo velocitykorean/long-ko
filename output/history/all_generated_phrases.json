@@ -29879,7 +29879,367 @@
       "korean": "도전을 받아들이고, 한국어를 사랑하세요.",
       "category": "Motivation",
       "generated_at": "2026-09-17T05:51:54.332538"
+    },
+    {
+      "english": "Offer help, without being asked.",
+      "korean": "먼저 도와주세요, 부탁 없어도.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004643"
+    },
+    {
+      "english": "Listen well, truly hear.",
+      "korean": "잘 들어요, 진심으로.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004657"
+    },
+    {
+      "english": "Encourage others, lift them up.",
+      "korean": "다른 사람을 격려해요, 힘을 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004659"
+    },
+    {
+      "english": "Say thank you, sincerely.",
+      "korean": "감사해요, 진심을 담아.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004660"
+    },
+    {
+      "english": "Give compliments, often.",
+      "korean": "칭찬을 자주 하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004660"
+    },
+    {
+      "english": "Practice empathy, understand feelings.",
+      "korean": "공감 능력을 키워요, 감정을 이해해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004661"
+    },
+    {
+      "english": "Speak softly, with kindness.",
+      "korean": "부드럽게 말해요, 친절함을 담아.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004662"
+    },
+    {
+      "english": "Accept differences, with grace.",
+      "korean": "차이를 너그럽게 받아들여요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004665"
+    },
+    {
+      "english": "Hold the door open, for others.",
+      "korean": "다른 사람을 위해 문을 잡아주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004666"
+    },
+    {
+      "english": "Apologize first, when wrong.",
+      "korean": "잘못했다면, 먼저 사과해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004667"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "korean": "좋은 경청자가 되세요, 언제나.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004668"
+    },
+    {
+      "english": "Share wisdom, with humility.",
+      "korean": "지혜를 겸손하게 나누세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004669"
+    },
+    {
+      "english": "Show gratitude, regularly.",
+      "korean": "감사를 꾸준히 표현하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004670"
+    },
+    {
+      "english": "Be gentle, with your words.",
+      "korean": "말을 부드럽게 사용하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004670"
+    },
+    {
+      "english": "Respect everyone, equally.",
+      "korean": "모든 사람을 동등하게 존중하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004671"
+    },
+    {
+      "english": "Leave things better, than you found them.",
+      "korean": "발견한 것보다 더 좋게 남기세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004672"
+    },
+    {
+      "english": "Offer encouragement, freely.",
+      "korean": "격려를 아낌없이 하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004672"
+    },
+    {
+      "english": "Listen with your heart, not just ears.",
+      "korean": "귀가 아닌 마음으로 들으세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004673"
+    },
+    {
+      "english": "Share a kind word, make a difference.",
+      "korean": "친절한 말을 나눠요, 변화를 만들어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004673"
+    },
+    {
+      "english": "Be a source, of comfort.",
+      "korean": "위안이 되는 존재가 되세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004674"
+    },
+    {
+      "english": "Act with compassion, always.",
+      "korean": "항상 동정심으로 행동하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004675"
+    },
+    {
+      "english": "Offer support, when someone struggles.",
+      "korean": "누군가 힘들어할 때, 지지해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004676"
+    },
+    {
+      "english": "Express gratitude, for small things.",
+      "korean": "작은 것들에 감사함을 표현하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004676"
+    },
+    {
+      "english": "Be understanding, of mistakes.",
+      "korean": "실수에 대해 이해심을 가지세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004677"
+    },
+    {
+      "english": "Give praise, genuinely.",
+      "korean": "진심으로 칭찬해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004678"
+    },
+    {
+      "english": "Share your positive energy, widely.",
+      "korean": "당신의 긍정적 에너지를 널리 나눠요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004678"
+    },
+    {
+      "english": "Be a safe harbor, for others.",
+      "korean": "다른 사람에게 안전한 항구가 되어주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004679"
+    },
+    {
+      "english": "Offer a kind word, when it matters.",
+      "korean": "중요할 때, 친절한 말을 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004680"
+    },
+    {
+      "english": "Show consideration, in actions.",
+      "korean": "행동으로 사려 깊음을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004680"
+    },
+    {
+      "english": "Be an agent, of good.",
+      "korean": "선의의 주체가 되세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004681"
+    },
+    {
+      "english": "Offer help, without being asked.",
+      "korean": "먼저 도와주세요, 부탁 없어도.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004682"
+    },
+    {
+      "english": "Listen well, truly hear.",
+      "korean": "잘 들어요, 진심으로.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004683"
+    },
+    {
+      "english": "Encourage others, lift them up.",
+      "korean": "다른 사람을 격려해요, 힘을 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004683"
+    },
+    {
+      "english": "Say thank you, sincerely.",
+      "korean": "감사해요, 진심을 담아.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004684"
+    },
+    {
+      "english": "Give compliments, often.",
+      "korean": "칭찬을 자주 하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004685"
+    },
+    {
+      "english": "Practice empathy, understand feelings.",
+      "korean": "공감 능력을 키워요, 감정을 이해해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004686"
+    },
+    {
+      "english": "Speak softly, with kindness.",
+      "korean": "부드럽게 말해요, 친절함을 담아.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004686"
+    },
+    {
+      "english": "Accept differences, with grace.",
+      "korean": "차이를 너그럽게 받아들여요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004687"
+    },
+    {
+      "english": "Hold the door open, for others.",
+      "korean": "다른 사람을 위해 문을 잡아주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004688"
+    },
+    {
+      "english": "Apologize first, when wrong.",
+      "korean": "잘못했다면, 먼저 사과해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004688"
+    },
+    {
+      "english": "Be a good listener, always.",
+      "korean": "좋은 경청자가 되세요, 언제나.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004689"
+    },
+    {
+      "english": "Share wisdom, with humility.",
+      "korean": "지혜를 겸손하게 나누세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004690"
+    },
+    {
+      "english": "Show gratitude, regularly.",
+      "korean": "감사를 꾸준히 표현하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004690"
+    },
+    {
+      "english": "Be gentle, with your words.",
+      "korean": "말을 부드럽게 사용하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004691"
+    },
+    {
+      "english": "Respect everyone, equally.",
+      "korean": "모든 사람을 동등하게 존중하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004692"
+    },
+    {
+      "english": "Leave things better, than you found them.",
+      "korean": "발견한 것보다 더 좋게 남기세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004693"
+    },
+    {
+      "english": "Offer encouragement, freely.",
+      "korean": "격려를 아낌없이 하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004693"
+    },
+    {
+      "english": "Listen with your heart, not just ears.",
+      "korean": "귀가 아닌 마음으로 들으세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004694"
+    },
+    {
+      "english": "Share a kind word, make a difference.",
+      "korean": "친절한 말을 나눠요, 변화를 만들어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004695"
+    },
+    {
+      "english": "Be a source, of comfort.",
+      "korean": "위안이 되는 존재가 되세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004695"
+    },
+    {
+      "english": "Act with compassion, always.",
+      "korean": "항상 동정심으로 행동하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004696"
+    },
+    {
+      "english": "Offer support, when someone struggles.",
+      "korean": "누군가 힘들어할 때, 지지해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004697"
+    },
+    {
+      "english": "Express gratitude, for small things.",
+      "korean": "작은 것들에 감사함을 표현하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004697"
+    },
+    {
+      "english": "Be understanding, of mistakes.",
+      "korean": "실수에 대해 이해심을 가지세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004698"
+    },
+    {
+      "english": "Give praise, genuinely.",
+      "korean": "진심으로 칭찬해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004698"
+    },
+    {
+      "english": "Share your positive energy, widely.",
+      "korean": "당신의 긍정적 에너지를 널리 나눠요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004699"
+    },
+    {
+      "english": "Be a safe harbor, for others.",
+      "korean": "다른 사람에게 안전한 항구가 되어주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004700"
+    },
+    {
+      "english": "Offer a kind word, when it matters.",
+      "korean": "중요할 때, 친절한 말을 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004700"
+    },
+    {
+      "english": "Show consideration, in actions.",
+      "korean": "행동으로 사려 깊음을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004701"
+    },
+    {
+      "english": "Be an agent, of good.",
+      "korean": "선의의 주체가 되세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-18T05:37:22.004702"
     }
   ],
-  "last_updated": "2026-09-17T05:51:54.332541"
+  "last_updated": "2026-09-18T05:37:22.004704"
 }
