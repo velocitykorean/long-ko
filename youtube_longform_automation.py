@@ -78,7 +78,7 @@ CATEGORIES_KOREAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "ko-KR-SunHiNeural"
 
 # Phrase history file (NEVER delete this!)
