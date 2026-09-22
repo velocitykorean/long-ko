@@ -31679,7 +31679,367 @@
       "korean": "당신의, 학습 동료를, 찾으세요.",
       "category": "Success",
       "generated_at": "2026-09-21T19:30:38.023990"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "korean": "당신의 뇌는, 배우는 걸 좋아해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862507"
+    },
+    {
+      "english": "One word, opens worlds.",
+      "korean": "한 단어, 세상을 열어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862520"
+    },
+    {
+      "english": "Mistakes are, just data.",
+      "korean": "실수는, 그냥 데이터일 뿐.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862522"
+    },
+    {
+      "english": "Consistency, is the secret.",
+      "korean": "꾸준함이, 비결이에요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862523"
+    },
+    {
+      "english": "New sounds, new feelings.",
+      "korean": "새로운 소리, 새로운 느낌.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862524"
+    },
+    {
+      "english": "Practice makes, you fluent.",
+      "korean": "연습이, 당신을 유창하게 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862525"
+    },
+    {
+      "english": "Listen, truly listen.",
+      "korean": "귀 기울여, 진정으로 들으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862527"
+    },
+    {
+      "english": "Speak, even a little.",
+      "korean": "말해요, 아주 조금이라도.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862531"
+    },
+    {
+      "english": "Curiosity, fuels learning.",
+      "korean": "호기심이, 배움을 불태워요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862533"
+    },
+    {
+      "english": "New language, new you.",
+      "korean": "새로운 언어, 새로운 당신.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862534"
+    },
+    {
+      "english": "Don't aim for perfect.",
+      "korean": "완벽함을, 목표하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862535"
+    },
+    {
+      "english": "Words are, like music.",
+      "korean": "말은, 음악과 같아요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862537"
+    },
+    {
+      "english": "Understand, the core idea.",
+      "korean": "핵심 아이디어를, 이해하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862538"
+    },
+    {
+      "english": "Enjoy, the journey.",
+      "korean": "여정을, 즐기세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862539"
+    },
+    {
+      "english": "Believe, you can do it.",
+      "korean": "할 수 있다고, 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862540"
+    },
+    {
+      "english": "Context, is your guide.",
+      "korean": "문맥이, 당신의 안내자예요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862541"
+    },
+    {
+      "english": "Repeat, like a song.",
+      "korean": "노래처럼, 반복하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862542"
+    },
+    {
+      "english": "You are, getting better.",
+      "korean": "당신은, 나아지고 있어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862543"
+    },
+    {
+      "english": "Think, in the new language.",
+      "korean": "새 언어로, 생각해보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862544"
+    },
+    {
+      "english": "Make it, a habit.",
+      "korean": "습관으로, 만드세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862545"
+    },
+    {
+      "english": "The world, is listening.",
+      "korean": "세상이, 듣고 있어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862547"
+    },
+    {
+      "english": "Learn, with your senses.",
+      "korean": "감각으로, 배워보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862548"
+    },
+    {
+      "english": "Each day, counts.",
+      "korean": "매일, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862549"
+    },
+    {
+      "english": "Your fluency, grows daily.",
+      "korean": "당신의 유창함, 매일 자라나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862550"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "korean": "매일, 자신에게 도전하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862551"
+    },
+    {
+      "english": "Connect, with characters.",
+      "korean": "글자에, 연결해보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862551"
+    },
+    {
+      "english": "Speak, with confidence.",
+      "korean": "자신감 있게, 말하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862552"
+    },
+    {
+      "english": "Listen to, stories.",
+      "korean": "이야기를, 들어보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862553"
+    },
+    {
+      "english": "Vocabulary, is power.",
+      "korean": "어휘력은, 힘이에요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862554"
+    },
+    {
+      "english": "Understand, the feeling.",
+      "korean": "느낌을, 이해하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862555"
+    },
+    {
+      "english": "Your brain, is ready.",
+      "korean": "당신의 뇌는, 준비됐어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862556"
+    },
+    {
+      "english": "Learn, what you love.",
+      "korean": "사랑하는 것을, 배우세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862557"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "korean": "당신의 뇌는, 배우는 걸 좋아해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862558"
+    },
+    {
+      "english": "One word, opens worlds.",
+      "korean": "한 단어, 세상을 열어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862559"
+    },
+    {
+      "english": "Mistakes are, just data.",
+      "korean": "실수는, 그냥 데이터일 뿐.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862560"
+    },
+    {
+      "english": "Consistency, is the secret.",
+      "korean": "꾸준함이, 비결이에요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862562"
+    },
+    {
+      "english": "New sounds, new feelings.",
+      "korean": "새로운 소리, 새로운 느낌.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862563"
+    },
+    {
+      "english": "Practice makes, you fluent.",
+      "korean": "연습이, 당신을 유창하게 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862564"
+    },
+    {
+      "english": "Listen, truly listen.",
+      "korean": "귀 기울여, 진정으로 들으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862565"
+    },
+    {
+      "english": "Speak, even a little.",
+      "korean": "말해요, 아주 조금이라도.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862566"
+    },
+    {
+      "english": "Curiosity, fuels learning.",
+      "korean": "호기심이, 배움을 불태워요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862567"
+    },
+    {
+      "english": "New language, new you.",
+      "korean": "새로운 언어, 새로운 당신.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862568"
+    },
+    {
+      "english": "Don't aim for perfect.",
+      "korean": "완벽함을, 목표하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862569"
+    },
+    {
+      "english": "Words are, like music.",
+      "korean": "말은, 음악과 같아요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862570"
+    },
+    {
+      "english": "Understand, the core idea.",
+      "korean": "핵심 아이디어를, 이해하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862571"
+    },
+    {
+      "english": "Enjoy, the journey.",
+      "korean": "여정을, 즐기세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862572"
+    },
+    {
+      "english": "Believe, you can do it.",
+      "korean": "할 수 있다고, 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862573"
+    },
+    {
+      "english": "Context, is your guide.",
+      "korean": "문맥이, 당신의 안내자예요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862574"
+    },
+    {
+      "english": "Repeat, like a song.",
+      "korean": "노래처럼, 반복하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862575"
+    },
+    {
+      "english": "You are, getting better.",
+      "korean": "당신은, 나아지고 있어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862576"
+    },
+    {
+      "english": "Think, in the new language.",
+      "korean": "새 언어로, 생각해보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862577"
+    },
+    {
+      "english": "Make it, a habit.",
+      "korean": "습관으로, 만드세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862578"
+    },
+    {
+      "english": "The world, is listening.",
+      "korean": "세상이, 듣고 있어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862579"
+    },
+    {
+      "english": "Learn, with your senses.",
+      "korean": "감각으로, 배워보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862580"
+    },
+    {
+      "english": "Each day, counts.",
+      "korean": "매일, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862581"
+    },
+    {
+      "english": "Your fluency, grows daily.",
+      "korean": "당신의 유창함, 매일 자라나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862582"
+    },
+    {
+      "english": "Challenge yourself, daily.",
+      "korean": "매일, 자신에게 도전하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862583"
+    },
+    {
+      "english": "Connect, with characters.",
+      "korean": "글자에, 연결해보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862583"
+    },
+    {
+      "english": "Speak, with confidence.",
+      "korean": "자신감 있게, 말하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862584"
+    },
+    {
+      "english": "Listen to, stories.",
+      "korean": "이야기를, 들어보세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-22T05:32:35.862585"
     }
   ],
-  "last_updated": "2026-09-21T19:30:38.023992"
+  "last_updated": "2026-09-22T05:32:35.862588"
 }
