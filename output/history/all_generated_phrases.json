@@ -33119,7 +33119,367 @@
       "korean": "누군가를 돕고, 기분 좋아지고, 최고야!",
       "category": "Balance",
       "generated_at": "2026-09-25T05:33:20.102522"
+    },
+    {
+      "english": "A small gift, means a lot.",
+      "korean": "작은 선물, 큰 마음.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436363"
+    },
+    {
+      "english": "Lend a hand, help them up.",
+      "korean": "손을 내밀어, 일으켜 줘요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436375"
+    },
+    {
+      "english": "Listen closely, truly hear them.",
+      "korean": "귀 기울여, 진심으로 들어줘.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436377"
+    },
+    {
+      "english": "Say thank you, always be grateful.",
+      "korean": "감사합니다, 늘 고마워하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436379"
+    },
+    {
+      "english": "Share your food, make friends.",
+      "korean": "음식을 나누고, 친구를 사귀어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436380"
+    },
+    {
+      "english": "Offer comfort, when they are sad.",
+      "korean": "슬플 때, 위로를 건네주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436381"
+    },
+    {
+      "english": "Hold the door, be polite.",
+      "korean": "문을 잡아줘, 예의를 지키세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436382"
+    },
+    {
+      "english": "Give compliments, make them happy.",
+      "korean": "칭찬을 하고, 기쁘게 해줘요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436386"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "korean": "자리를 양보해요, 존중을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436388"
+    },
+    {
+      "english": "Be understanding, accept differences.",
+      "korean": "이해심을 갖고, 다름을 받아들여요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436389"
+    },
+    {
+      "english": "Encourage others, help them grow.",
+      "korean": "다른 사람을 격려해요, 성장시켜 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436390"
+    },
+    {
+      "english": "Speak kindly, with soft words.",
+      "korean": "부드러운 말로, 친절하게 말해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436392"
+    },
+    {
+      "english": "Leave a kind note, surprise them.",
+      "korean": "친절한 쪽지를 남겨요, 놀라게 해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436393"
+    },
+    {
+      "english": "Share good news, spread happiness.",
+      "korean": "좋은 소식을 나누고, 행복을 퍼뜨려요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436394"
+    },
+    {
+      "english": "Offer a hug, show you care.",
+      "korean": "안아주세요, 당신의 마음을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436395"
+    },
+    {
+      "english": "Be forgiving, let go of anger.",
+      "korean": "용서해 주세요, 분노를 놓아주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436396"
+    },
+    {
+      "english": "Offer encouragement, during tough times.",
+      "korean": "힘든 시기엔, 격려를 해 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436397"
+    },
+    {
+      "english": "Say 'you can do it', cheer them on.",
+      "korean": "'할 수 있어요' 말해요, 응원해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436398"
+    },
+    {
+      "english": "Help with chores, ease their burden.",
+      "korean": "일을 도와줘요, 짐을 덜어주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436399"
+    },
+    {
+      "english": "Offer a warm drink, in the cold.",
+      "korean": "추울 때, 따뜻한 음료를 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436400"
+    },
+    {
+      "english": "Apologize sincerely, when you are wrong.",
+      "korean": "틀렸을 때, 진심으로 사과하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436401"
+    },
+    {
+      "english": "Be gentle, with fragile things.",
+      "korean": "부서지기 쉬운 것들에, 부드럽게 대하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436402"
+    },
+    {
+      "english": "Offer a story, to a child.",
+      "korean": "아이에게, 이야기를 들려주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436403"
+    },
+    {
+      "english": "Share a compliment, about their effort.",
+      "korean": "노력에 대한 칭찬을, 나눠주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436404"
+    },
+    {
+      "english": "Offer a kind word, in passing.",
+      "korean": "지나가면서, 친절한 말을 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436405"
+    },
+    {
+      "english": "Be a good listener, always available.",
+      "korean": "좋은 경청자가 되세요, 늘 곁에 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436406"
+    },
+    {
+      "english": "Offer a thoughtful gesture, show you remembered.",
+      "korean": "기억하고 있다는, 사려 깊은 행동을 하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436407"
+    },
+    {
+      "english": "Share a laugh, connect with joy.",
+      "korean": "함께 웃어요, 즐거움으로 연결되세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436408"
+    },
+    {
+      "english": "Offer support, in their endeavors.",
+      "korean": "그들의 노력에, 지지를 보내세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436409"
+    },
+    {
+      "english": "Offer a warm welcome, to newcomers.",
+      "korean": "새로운 사람들에게, 따뜻하게 환영해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436410"
+    },
+    {
+      "english": "Share your knowledge, teach someone.",
+      "korean": "지식을 나누고, 누군가를 가르쳐주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436410"
+    },
+    {
+      "english": "Offer a kind glance, acknowledge their presence.",
+      "korean": "친절한 눈빛으로, 그들의 존재를 알아봐 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436411"
+    },
+    {
+      "english": "Be patient, with those learning.",
+      "korean": "배우는 사람들에게, 인내심을 가지세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436412"
+    },
+    {
+      "english": "Offer a thoughtful question, show you care.",
+      "korean": "마음을 담은 질문을, 건네세요, 관심 있다는 것을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436413"
+    },
+    {
+      "english": "Share a happy memory, spread warmth.",
+      "korean": "행복했던 기억을 나누고, 따뜻함을 퍼뜨려요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436414"
+    },
+    {
+      "english": "Offer a word of peace, when there's conflict.",
+      "korean": "갈등이 있을 때, 평화의 말을 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436415"
+    },
+    {
+      "english": "Be a kind listener, truly engage.",
+      "korean": "친절한 경청자가 되세요, 진심으로 귀 기울이세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436416"
+    },
+    {
+      "english": "A small gift, means a lot.",
+      "korean": "작은 선물, 큰 마음.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436417"
+    },
+    {
+      "english": "Lend a hand, help them up.",
+      "korean": "손을 내밀어, 일으켜 줘요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436418"
+    },
+    {
+      "english": "Listen closely, truly hear them.",
+      "korean": "귀 기울여, 진심으로 들어줘.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436419"
+    },
+    {
+      "english": "Say thank you, always be grateful.",
+      "korean": "감사합니다, 늘 고마워하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436420"
+    },
+    {
+      "english": "Share your food, make friends.",
+      "korean": "음식을 나누고, 친구를 사귀어요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436421"
+    },
+    {
+      "english": "Offer comfort, when they are sad.",
+      "korean": "슬플 때, 위로를 건네주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436423"
+    },
+    {
+      "english": "Hold the door, be polite.",
+      "korean": "문을 잡아줘, 예의를 지키세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436424"
+    },
+    {
+      "english": "Give compliments, make them happy.",
+      "korean": "칭찬을 하고, 기쁘게 해줘요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436425"
+    },
+    {
+      "english": "Offer your seat, show respect.",
+      "korean": "자리를 양보해요, 존중을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436426"
+    },
+    {
+      "english": "Be understanding, accept differences.",
+      "korean": "이해심을 갖고, 다름을 받아들여요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436427"
+    },
+    {
+      "english": "Encourage others, help them grow.",
+      "korean": "다른 사람을 격려해요, 성장시켜 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436428"
+    },
+    {
+      "english": "Speak kindly, with soft words.",
+      "korean": "부드러운 말로, 친절하게 말해요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436429"
+    },
+    {
+      "english": "Leave a kind note, surprise them.",
+      "korean": "친절한 쪽지를 남겨요, 놀라게 해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436430"
+    },
+    {
+      "english": "Share good news, spread happiness.",
+      "korean": "좋은 소식을 나누고, 행복을 퍼뜨려요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436431"
+    },
+    {
+      "english": "Offer a hug, show you care.",
+      "korean": "안아주세요, 당신의 마음을 보여주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436432"
+    },
+    {
+      "english": "Be forgiving, let go of anger.",
+      "korean": "용서해 주세요, 분노를 놓아주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436433"
+    },
+    {
+      "english": "Offer encouragement, during tough times.",
+      "korean": "힘든 시기엔, 격려를 해 주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436434"
+    },
+    {
+      "english": "Say 'you can do it', cheer them on.",
+      "korean": "'할 수 있어요' 말해요, 응원해주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436435"
+    },
+    {
+      "english": "Help with chores, ease their burden.",
+      "korean": "일을 도와줘요, 짐을 덜어주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436436"
+    },
+    {
+      "english": "Offer a warm drink, in the cold.",
+      "korean": "추울 때, 따뜻한 음료를 건네세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436437"
+    },
+    {
+      "english": "Apologize sincerely, when you are wrong.",
+      "korean": "틀렸을 때, 진심으로 사과하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436437"
+    },
+    {
+      "english": "Be gentle, with fragile things.",
+      "korean": "부서지기 쉬운 것들에, 부드럽게 대하세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436438"
+    },
+    {
+      "english": "Offer a story, to a child.",
+      "korean": "아이에게, 이야기를 들려주세요.",
+      "category": "Kindness",
+      "generated_at": "2026-09-26T05:39:43.436439"
     }
   ],
-  "last_updated": "2026-09-25T05:33:20.102523"
+  "last_updated": "2026-09-26T05:39:43.436442"
 }
