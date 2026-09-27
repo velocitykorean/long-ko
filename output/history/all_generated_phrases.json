@@ -33479,7 +33479,367 @@
       "korean": "아이에게, 이야기를 들려주세요.",
       "category": "Kindness",
       "generated_at": "2026-09-26T05:39:43.436439"
+    },
+    {
+      "english": "Every small step, counts.",
+      "korean": "모든 작은 발걸음, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975100"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "korean": "도전을 받아들이세요, 더 강해져요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975111"
+    },
+    {
+      "english": "One word at a time, build.",
+      "korean": "한 단어씩, 쌓아 올리세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975113"
+    },
+    {
+      "english": "Practice makes progress, not perfection.",
+      "korean": "연습은 완벽보다 발전을 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975114"
+    },
+    {
+      "english": "Small wins, fuel the journey.",
+      "korean": "작은 승리들이, 여정에 힘을 줘요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975116"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "korean": "당신은 할 수 있어요, 놀라운 일들을.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975117"
+    },
+    {
+      "english": "Don't compare, your chapter one.",
+      "korean": "당신의 첫 장과, 비교하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975118"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "korean": "그 열정을, 계속 타오르게 하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975121"
+    },
+    {
+      "english": "You're doing great, really.",
+      "korean": "정말 잘 하고 있어요, 진짜.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975122"
+    },
+    {
+      "english": "Every try, counts.",
+      "korean": "모든 시도가, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975123"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "korean": "앞으로 계속 나아가세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975124"
+    },
+    {
+      "english": "Believe in the process.",
+      "korean": "과정을 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975125"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975127"
+    },
+    {
+      "english": "Embrace the new, it's exciting.",
+      "korean": "새로운 것을 받아들이세요, 신나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975128"
+    },
+    {
+      "english": "Every small step, counts.",
+      "korean": "모든 작은 발걸음, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975129"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "korean": "도전을 받아들이세요, 더 강해져요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975130"
+    },
+    {
+      "english": "One word at a time, build.",
+      "korean": "한 단어씩, 쌓아 올리세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975131"
+    },
+    {
+      "english": "Practice makes progress, not perfection.",
+      "korean": "연습은 완벽보다 발전을 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975132"
+    },
+    {
+      "english": "Small wins, fuel the journey.",
+      "korean": "작은 승리들이, 여정에 힘을 줘요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975133"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "korean": "당신은 할 수 있어요, 놀라운 일들을.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975134"
+    },
+    {
+      "english": "Don't compare, your chapter one.",
+      "korean": "당신의 첫 장과, 비교하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975135"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "korean": "그 열정을, 계속 타오르게 하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975136"
+    },
+    {
+      "english": "You're doing great, really.",
+      "korean": "정말 잘 하고 있어요, 진짜.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975137"
+    },
+    {
+      "english": "Every try, counts.",
+      "korean": "모든 시도가, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975139"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "korean": "앞으로 계속 나아가세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975140"
+    },
+    {
+      "english": "Believe in the process.",
+      "korean": "과정을 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975141"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975142"
+    },
+    {
+      "english": "Embrace the new, it's exciting.",
+      "korean": "새로운 것을 받아들이세요, 신나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975143"
+    },
+    {
+      "english": "Every small step, counts.",
+      "korean": "모든 작은 발걸음, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975144"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "korean": "도전을 받아들이세요, 더 강해져요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975145"
+    },
+    {
+      "english": "One word at a time, build.",
+      "korean": "한 단어씩, 쌓아 올리세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975146"
+    },
+    {
+      "english": "Practice makes progress, not perfection.",
+      "korean": "연습은 완벽보다 발전을 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975147"
+    },
+    {
+      "english": "Small wins, fuel the journey.",
+      "korean": "작은 승리들이, 여정에 힘을 줘요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975148"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "korean": "당신은 할 수 있어요, 놀라운 일들을.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975150"
+    },
+    {
+      "english": "Don't compare, your chapter one.",
+      "korean": "당신의 첫 장과, 비교하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975151"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "korean": "그 열정을, 계속 타오르게 하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975152"
+    },
+    {
+      "english": "You're doing great, really.",
+      "korean": "정말 잘 하고 있어요, 진짜.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975153"
+    },
+    {
+      "english": "Every try, counts.",
+      "korean": "모든 시도가, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975154"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "korean": "앞으로 계속 나아가세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975155"
+    },
+    {
+      "english": "Believe in the process.",
+      "korean": "과정을 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975156"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975157"
+    },
+    {
+      "english": "Embrace the new, it's exciting.",
+      "korean": "새로운 것을 받아들이세요, 신나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975158"
+    },
+    {
+      "english": "Every small step, counts.",
+      "korean": "모든 작은 발걸음, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975159"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "korean": "도전을 받아들이세요, 더 강해져요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975160"
+    },
+    {
+      "english": "One word at a time, build.",
+      "korean": "한 단어씩, 쌓아 올리세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975161"
+    },
+    {
+      "english": "Practice makes progress, not perfection.",
+      "korean": "연습은 완벽보다 발전을 만들어요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975162"
+    },
+    {
+      "english": "Small wins, fuel the journey.",
+      "korean": "작은 승리들이, 여정에 힘을 줘요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975163"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "korean": "당신은 할 수 있어요, 놀라운 일들을.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975164"
+    },
+    {
+      "english": "Don't compare, your chapter one.",
+      "korean": "당신의 첫 장과, 비교하지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975165"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "korean": "그 열정을, 계속 타오르게 하세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975166"
+    },
+    {
+      "english": "You're doing great, really.",
+      "korean": "정말 잘 하고 있어요, 진짜.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975168"
+    },
+    {
+      "english": "Every try, counts.",
+      "korean": "모든 시도가, 중요해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975169"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "korean": "앞으로 계속 나아가세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975170"
+    },
+    {
+      "english": "Believe in the process.",
+      "korean": "과정을 믿으세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975171"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "korean": "당신의 헌신이, 빛나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975172"
+    },
+    {
+      "english": "Embrace the new, it's exciting.",
+      "korean": "새로운 것을 받아들이세요, 신나요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975173"
+    },
+    {
+      "english": "Mistakes are okay, they're lessons.",
+      "korean": "실수는 괜찮아요, 그건 배움이에요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975174"
+    },
+    {
+      "english": "Just try today, that's enough.",
+      "korean": "오늘은 그냥 해봐요, 그것만으로도 충분해요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975175"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "korean": "계속 하세요, 지금 멈추지 마세요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975176"
+    },
+    {
+      "english": "Your effort counts, truly it does.",
+      "korean": "당신의 노력은 중요해요, 정말로요.",
+      "category": "Motivation",
+      "generated_at": "2026-09-27T05:56:20.975177"
     }
   ],
-  "last_updated": "2026-09-26T05:39:43.436442"
+  "last_updated": "2026-09-27T05:56:20.975179"
 }
