@@ -34559,7 +34559,367 @@
       "korean": "너의 친절함이, 변화를 만들어.",
       "category": "Positive Life",
       "generated_at": "2026-09-29T06:20:05.348026"
+    },
+    {
+      "english": "Wow, so cool, I love it!",
+      "korean": "와, 진짜 멋지다, 완전 좋아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410112"
+    },
+    {
+      "english": "This tastes, amazing, wow!",
+      "korean": "이거 진짜 맛있다, 대박!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410124"
+    },
+    {
+      "english": "You totally, nailed it, yes!",
+      "korean": "너 진짜 잘했다, 최고야!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410126"
+    },
+    {
+      "english": "That made me, laugh so hard!",
+      "korean": "그거 보고, 빵 터졌어!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410127"
+    },
+    {
+      "english": "What a surprise, I'm happy!",
+      "korean": "깜짝 놀랐는데, 기분 좋아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410127"
+    },
+    {
+      "english": "Oh my gosh, so exciting, yay!",
+      "korean": "세상에, 너무 신나, 만세!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410128"
+    },
+    {
+      "english": "This music, makes me want to dance!",
+      "korean": "이 음악, 춤추고 싶게 만들어!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410129"
+    },
+    {
+      "english": "You're so funny, I can't stop laughing!",
+      "korean": "너 진짜 웃겨, 웃음이 멈추질 않아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410133"
+    },
+    {
+      "english": "This view, is absolutely breathtaking!",
+      "korean": "이 풍경, 숨이 멎을 것 같아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410134"
+    },
+    {
+      "english": "Feeling good, like I can fly!",
+      "korean": "기분 최고, 하늘 나는 것 같아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410135"
+    },
+    {
+      "english": "That was a, brilliant idea, wow!",
+      "korean": "그거 진짜, 기발한 아이디어야, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410136"
+    },
+    {
+      "english": "My heart, is so full right now!",
+      "korean": "내 마음이, 지금 너무 충만해!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410137"
+    },
+    {
+      "english": "This is, pure happiness, yes!",
+      "korean": "이거 진짜, 행복 그 자체야, 맞다!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410138"
+    },
+    {
+      "english": "I’m so proud, of you, seriously!",
+      "korean": "네가 너무, 자랑스러워, 진심으로!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410139"
+    },
+    {
+      "english": "This is, the best day ever!",
+      "korean": "오늘 진짜, 역대급 최고야!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410139"
+    },
+    {
+      "english": "It feels, like a dream, amazing!",
+      "korean": "꿈만 같아, 정말 멋지다!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410140"
+    },
+    {
+      "english": "You always, make me smile, thank you!",
+      "korean": "너는 항상, 날 웃게 해, 고마워!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410141"
+    },
+    {
+      "english": "This is, beyond my wildest dreams!",
+      "korean": "내 상상 이상이야, 정말!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410142"
+    },
+    {
+      "english": "Feeling so, incredibly lucky, wow!",
+      "korean": "너무, 운이 좋은 것 같아, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410143"
+    },
+    {
+      "english": "That was, so heartwarming, truly!",
+      "korean": "정말, 마음이 따뜻해졌어, 진짜!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410144"
+    },
+    {
+      "english": "I’m on top, of the world, yay!",
+      "korean": "세상을 다, 가진 기분이야, 만세!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410144"
+    },
+    {
+      "english": "This is, the highlight, of my week!",
+      "korean": "이번 주, 최고의 순간이야, 이거!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410145"
+    },
+    {
+      "english": "You just, made my day, amazing!",
+      "korean": "네 덕분에, 오늘이 즐거워졌어, 멋지다!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410146"
+    },
+    {
+      "english": "This feeling, is indescribable, truly!",
+      "korean": "이 기분, 말로 표현 못 해, 진짜!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410147"
+    },
+    {
+      "english": "What a wonderful, surprise, yes!",
+      "korean": "정말 멋진, 서프라이즈야, 맞아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410148"
+    },
+    {
+      "english": "I feel, so alive, right now!",
+      "korean": "정말, 살아있는 기분이야, 지금!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410149"
+    },
+    {
+      "english": "You’ve got, this totally, go!",
+      "korean": "너 이거, 완전 할 수 있어, 가자!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410149"
+    },
+    {
+      "english": "This is, everything I hoped for!",
+      "korean": "내가 바라던, 모든 것이야, 이거!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410150"
+    },
+    {
+      "english": "My heart, is singing, truly!",
+      "korean": "내 마음이, 노래하는 것 같아, 정말!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410151"
+    },
+    {
+      "english": "What a fantastic, outcome, wow!",
+      "korean": "정말 환상적인, 결과야, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410152"
+    },
+    {
+      "english": "This is, exactly the vibe, needed!",
+      "korean": "이거 딱, 필요한 분위기야, 이거!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410153"
+    },
+    {
+      "english": "Feeling so, incredibly inspired, yes!",
+      "korean": "정말, 영감을 많이 받아, 맞아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410153"
+    },
+    {
+      "english": "You are, a ray of sunshine, truly!",
+      "korean": "너는, 햇살 같은 존재야, 진짜!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410154"
+    },
+    {
+      "english": "This moment, is pure magic, wow!",
+      "korean": "이 순간, 완전 마법 같아, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410155"
+    },
+    {
+      "english": "I can’t stop, smiling, yay!",
+      "korean": "웃음이, 멈추질 않아, 만세!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410156"
+    },
+    {
+      "english": "This is, the definition, of happiness!",
+      "korean": "이게 바로, 행복의 정의야!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410157"
+    },
+    {
+      "english": "You make, everything brighter, truly!",
+      "korean": "너 때문에, 모든 게 밝아져, 진짜!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410158"
+    },
+    {
+      "english": "What a joyful, experience, wow!",
+      "korean": "정말 즐거운, 경험이야, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410158"
+    },
+    {
+      "english": "Wow, so cool, I love it!",
+      "korean": "와, 진짜 멋지다, 완전 좋아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410159"
+    },
+    {
+      "english": "This tastes, amazing, wow!",
+      "korean": "이거 진짜 맛있다, 대박!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410160"
+    },
+    {
+      "english": "You totally, nailed it, yes!",
+      "korean": "너 진짜 잘했다, 최고야!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410161"
+    },
+    {
+      "english": "That made me, laugh so hard!",
+      "korean": "그거 보고, 빵 터졌어!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410162"
+    },
+    {
+      "english": "What a surprise, I'm happy!",
+      "korean": "깜짝 놀랐는데, 기분 좋아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410163"
+    },
+    {
+      "english": "Oh my gosh, so exciting, yay!",
+      "korean": "세상에, 너무 신나, 만세!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410164"
+    },
+    {
+      "english": "This music, makes me want to dance!",
+      "korean": "이 음악, 춤추고 싶게 만들어!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410165"
+    },
+    {
+      "english": "You're so funny, I can't stop laughing!",
+      "korean": "너 진짜 웃겨, 웃음이 멈추질 않아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410166"
+    },
+    {
+      "english": "This view, is absolutely breathtaking!",
+      "korean": "이 풍경, 숨이 멎을 것 같아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410166"
+    },
+    {
+      "english": "Feeling good, like I can fly!",
+      "korean": "기분 최고, 하늘 나는 것 같아!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410167"
+    },
+    {
+      "english": "That was a, brilliant idea, wow!",
+      "korean": "그거 진짜, 기발한 아이디어야, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410168"
+    },
+    {
+      "english": "My heart, is so full right now!",
+      "korean": "내 마음이, 지금 너무 충만해!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410169"
+    },
+    {
+      "english": "This is, pure happiness, yes!",
+      "korean": "이거 진짜, 행복 그 자체야, 맞다!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410170"
+    },
+    {
+      "english": "I’m so proud, of you, seriously!",
+      "korean": "네가 너무, 자랑스러워, 진심으로!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410170"
+    },
+    {
+      "english": "This is, the best day ever!",
+      "korean": "오늘 진짜, 역대급 최고야!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410171"
+    },
+    {
+      "english": "It feels, like a dream, amazing!",
+      "korean": "꿈만 같아, 정말 멋지다!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410172"
+    },
+    {
+      "english": "You always, make me smile, thank you!",
+      "korean": "너는 항상, 날 웃게 해, 고마워!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410172"
+    },
+    {
+      "english": "This is, beyond my wildest dreams!",
+      "korean": "내 상상 이상이야, 정말!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410173"
+    },
+    {
+      "english": "Feeling so, incredibly lucky, wow!",
+      "korean": "너무, 운이 좋은 것 같아, 와!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410174"
+    },
+    {
+      "english": "That was, so heartwarming, truly!",
+      "korean": "정말, 마음이 따뜻해졌어, 진짜!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410174"
+    },
+    {
+      "english": "I’m on top, of the world, yay!",
+      "korean": "세상을 다, 가진 기분이야, 만세!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410175"
+    },
+    {
+      "english": "This is, the highlight, of my week!",
+      "korean": "이번 주, 최고의 순간이야, 이거!",
+      "category": "Joy",
+      "generated_at": "2026-09-30T06:05:31.410176"
     }
   ],
-  "last_updated": "2026-09-29T06:20:05.348028"
+  "last_updated": "2026-09-30T06:05:31.410177"
 }
