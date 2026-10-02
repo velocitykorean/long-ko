@@ -35279,7 +35279,367 @@
       "korean": "불꽃 하나가, 위대함을, 지펴!",
       "category": "Creativity",
       "generated_at": "2026-10-01T06:39:22.136355"
+    },
+    {
+      "english": "Small joys, matter most.",
+      "korean": "작은 기쁨이, 가장 중요해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369383"
+    },
+    {
+      "english": "Kindness, starts within.",
+      "korean": "친절함은, 내면에서 시작돼요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369396"
+    },
+    {
+      "english": "Release, what you can't control.",
+      "korean": "통제할 수 없는 것은, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369398"
+    },
+    {
+      "english": "Slow down, and observe.",
+      "korean": "천천히, 그리고 관찰하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369400"
+    },
+    {
+      "english": "Find stillness, within.",
+      "korean": "내면의 고요함을, 찾으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369401"
+    },
+    {
+      "english": "Every breath, a new beginning.",
+      "korean": "모든 숨결, 새로운 시작이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369403"
+    },
+    {
+      "english": "Focus, on the now.",
+      "korean": "지금에, 집중하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369404"
+    },
+    {
+      "english": "What truly matters, today?",
+      "korean": "오늘, 정말 중요한 것은 무엇인가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369408"
+    },
+    {
+      "english": "Embrace, the quiet moments.",
+      "korean": "조용한 순간들을, 받아들이세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369410"
+    },
+    {
+      "english": "Let your worries, fade away.",
+      "korean": "걱정들을, 사라지게 하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369412"
+    },
+    {
+      "english": "Gratitude, opens the heart.",
+      "korean": "감사는, 마음을 열어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369414"
+    },
+    {
+      "english": "Simply be, and notice.",
+      "korean": "그냥 존재하고, 알아차리세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369415"
+    },
+    {
+      "english": "Let your mind, settle down.",
+      "korean": "마음을, 가라앉히세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369416"
+    },
+    {
+      "english": "Release, the past.",
+      "korean": "과거는, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369418"
+    },
+    {
+      "english": "Flow with, the present.",
+      "korean": "현재와, 함께 흘러가세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369419"
+    },
+    {
+      "english": "Your body, remembers peace.",
+      "korean": "당신의 몸은, 평화를 기억해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369420"
+    },
+    {
+      "english": "Cherish, this quiet time.",
+      "korean": "이 조용한 시간을, 소중히 여기세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369421"
+    },
+    {
+      "english": "Just be, yourself.",
+      "korean": "그냥, 당신 자신으로 있으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369422"
+    },
+    {
+      "english": "Small joys, matter most.",
+      "korean": "작은 기쁨이, 가장 중요해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369424"
+    },
+    {
+      "english": "Kindness, starts within.",
+      "korean": "친절함은, 내면에서 시작돼요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369425"
+    },
+    {
+      "english": "Release, what you can't control.",
+      "korean": "통제할 수 없는 것은, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369427"
+    },
+    {
+      "english": "Slow down, and observe.",
+      "korean": "천천히, 그리고 관찰하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369428"
+    },
+    {
+      "english": "Find stillness, within.",
+      "korean": "내면의 고요함을, 찾으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369429"
+    },
+    {
+      "english": "Every breath, a new beginning.",
+      "korean": "모든 숨결, 새로운 시작이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369431"
+    },
+    {
+      "english": "Focus, on the now.",
+      "korean": "지금에, 집중하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369432"
+    },
+    {
+      "english": "What truly matters, today?",
+      "korean": "오늘, 정말 중요한 것은 무엇인가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369433"
+    },
+    {
+      "english": "Embrace, the quiet moments.",
+      "korean": "조용한 순간들을, 받아들이세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369435"
+    },
+    {
+      "english": "Let your worries, fade away.",
+      "korean": "걱정들을, 사라지게 하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369436"
+    },
+    {
+      "english": "Gratitude, opens the heart.",
+      "korean": "감사는, 마음을 열어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369437"
+    },
+    {
+      "english": "Simply be, and notice.",
+      "korean": "그냥 존재하고, 알아차리세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369439"
+    },
+    {
+      "english": "Let your mind, settle down.",
+      "korean": "마음을, 가라앉히세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369440"
+    },
+    {
+      "english": "Release, the past.",
+      "korean": "과거는, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369441"
+    },
+    {
+      "english": "Flow with, the present.",
+      "korean": "현재와, 함께 흘러가세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369442"
+    },
+    {
+      "english": "Your body, remembers peace.",
+      "korean": "당신의 몸은, 평화를 기억해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369444"
+    },
+    {
+      "english": "Cherish, this quiet time.",
+      "korean": "이 조용한 시간을, 소중히 여기세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369445"
+    },
+    {
+      "english": "Just be, yourself.",
+      "korean": "그냥, 당신 자신으로 있으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369446"
+    },
+    {
+      "english": "Small joys, matter most.",
+      "korean": "작은 기쁨이, 가장 중요해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369448"
+    },
+    {
+      "english": "Kindness, starts within.",
+      "korean": "친절함은, 내면에서 시작돼요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369449"
+    },
+    {
+      "english": "Release, what you can't control.",
+      "korean": "통제할 수 없는 것은, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369451"
+    },
+    {
+      "english": "Slow down, and observe.",
+      "korean": "천천히, 그리고 관찰하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369452"
+    },
+    {
+      "english": "Find stillness, within.",
+      "korean": "내면의 고요함을, 찾으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369453"
+    },
+    {
+      "english": "Every breath, a new beginning.",
+      "korean": "모든 숨결, 새로운 시작이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369454"
+    },
+    {
+      "english": "Focus, on the now.",
+      "korean": "지금에, 집중하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369456"
+    },
+    {
+      "english": "What truly matters, today?",
+      "korean": "오늘, 정말 중요한 것은 무엇인가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369457"
+    },
+    {
+      "english": "Embrace, the quiet moments.",
+      "korean": "조용한 순간들을, 받아들이세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369459"
+    },
+    {
+      "english": "Let your worries, fade away.",
+      "korean": "걱정들을, 사라지게 하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369460"
+    },
+    {
+      "english": "Gratitude, opens the heart.",
+      "korean": "감사는, 마음을 열어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369461"
+    },
+    {
+      "english": "Simply be, and notice.",
+      "korean": "그냥 존재하고, 알아차리세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369462"
+    },
+    {
+      "english": "Let your mind, settle down.",
+      "korean": "마음을, 가라앉히세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369463"
+    },
+    {
+      "english": "Release, the past.",
+      "korean": "과거는, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369465"
+    },
+    {
+      "english": "Flow with, the present.",
+      "korean": "현재와, 함께 흘러가세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369466"
+    },
+    {
+      "english": "Your body, remembers peace.",
+      "korean": "당신의 몸은, 평화를 기억해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369468"
+    },
+    {
+      "english": "Cherish, this quiet time.",
+      "korean": "이 조용한 시간을, 소중히 여기세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369469"
+    },
+    {
+      "english": "Just be, yourself.",
+      "korean": "그냥, 당신 자신으로 있으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369470"
+    },
+    {
+      "english": "Small joys, matter most.",
+      "korean": "작은 기쁨이, 가장 중요해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369471"
+    },
+    {
+      "english": "Kindness, starts within.",
+      "korean": "친절함은, 내면에서 시작돼요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369472"
+    },
+    {
+      "english": "Release, what you can't control.",
+      "korean": "통제할 수 없는 것은, 놓아주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369474"
+    },
+    {
+      "english": "Slow down, and observe.",
+      "korean": "천천히, 그리고 관찰하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369475"
+    },
+    {
+      "english": "Find stillness, within.",
+      "korean": "내면의 고요함을, 찾으세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369477"
+    },
+    {
+      "english": "Every breath, a new beginning.",
+      "korean": "모든 숨결, 새로운 시작이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-02T06:22:57.369478"
     }
   ],
-  "last_updated": "2026-10-01T06:39:22.136357"
+  "last_updated": "2026-10-02T06:22:57.369482"
 }
