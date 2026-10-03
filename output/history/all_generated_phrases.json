@@ -35639,7 +35639,367 @@
       "korean": "모든 숨결, 새로운 시작이에요.",
       "category": "Mindfulness",
       "generated_at": "2026-10-02T06:22:57.369478"
+    },
+    {
+      "english": "Walk this way, feel the ground.",
+      "korean": "이쪽으로 걸어요, 땅을 느껴봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260185"
+    },
+    {
+      "english": "Taste everything, remember the flavor.",
+      "korean": "모든 걸 맛봐요, 맛을 기억해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260197"
+    },
+    {
+      "english": "Look around, see the details.",
+      "korean": "주위를 둘러봐요, 세세한 것을 봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260199"
+    },
+    {
+      "english": "Breathe deep, fill your lungs.",
+      "korean": "깊이 숨 쉬어요, 폐를 채워요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260201"
+    },
+    {
+      "english": "Sit awhile, let thoughts pass.",
+      "korean": "잠시 앉아요, 생각이 지나가도록 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260202"
+    },
+    {
+      "english": "Share a smile, connect with others.",
+      "korean": "미소를 나눠요, 다른 사람들과 연결돼요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260204"
+    },
+    {
+      "english": "Drink water, refresh your body.",
+      "korean": "물을 마셔요, 몸을 새롭게 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260205"
+    },
+    {
+      "english": "Stretch gently, ease the tension.",
+      "korean": "부드럽게 스트레칭해요, 긴장을 풀어줘요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260210"
+    },
+    {
+      "english": "Hum a tune, lift your spirits.",
+      "korean": "콧노래를 흥얼거려요, 기분을 끌어올려요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260212"
+    },
+    {
+      "english": "Wiggle your toes, feel alive.",
+      "korean": "발가락을 꼼지락거려요, 살아있음을 느껴요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260213"
+    },
+    {
+      "english": "Gaze outside, find your view.",
+      "korean": "밖을 바라봐요, 당신의 시야를 찾아요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260214"
+    },
+    {
+      "english": "Hold your drink, savor the warmth.",
+      "korean": "잔을 잡아요, 따뜻함을 음미해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260215"
+    },
+    {
+      "english": "Close your eyes, just for a moment.",
+      "korean": "눈을 감아요, 잠깐 동안만이라도.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260216"
+    },
+    {
+      "english": "Wipe your brow, cool yourself down.",
+      "korean": "이마를 닦아요, 몸을 식혀요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260218"
+    },
+    {
+      "english": "Nod your head, agree with yourself.",
+      "korean": "고개를 끄덕여요, 스스로에게 동의해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260219"
+    },
+    {
+      "english": "Lean back, relax your posture.",
+      "korean": "뒤로 기대요, 자세를 편안하게 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260223"
+    },
+    {
+      "english": "Shake your shoulders, let go of stress.",
+      "korean": "어깨를 흔들어요, 스트레스를 놓아요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260224"
+    },
+    {
+      "english": "Tap your feet, feel the beat.",
+      "korean": "발을 두드려요, 박자를 느껴봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260225"
+    },
+    {
+      "english": "Sip slowly, enjoy the moment.",
+      "korean": "천천히 마셔요, 순간을 즐겨요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260227"
+    },
+    {
+      "english": "Look up, see the sky.",
+      "korean": "하늘을 올려다봐요, 하늘을 봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260228"
+    },
+    {
+      "english": "Point ahead, choose your path.",
+      "korean": "앞을 가리켜요, 당신의 길을 선택해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260229"
+    },
+    {
+      "english": "Rub your hands, feel the warmth.",
+      "korean": "손을 비벼요, 따뜻함을 느껴봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260230"
+    },
+    {
+      "english": "Stand tall, own your space.",
+      "korean": "똑바로 서세요, 당신의 공간을 차지해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260231"
+    },
+    {
+      "english": "Clap your hands, celebrate small wins.",
+      "korean": "손뼉을 쳐요, 작은 승리를 축하해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260232"
+    },
+    {
+      "english": "Wink your eye, a secret shared.",
+      "korean": "눈을 찡긋해요, 비밀을 공유해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260234"
+    },
+    {
+      "english": "Bow your head, show respect.",
+      "korean": "고개를 숙여요, 존중을 보여줘요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260235"
+    },
+    {
+      "english": "Stretch your arms, reach for more.",
+      "korean": "팔을 뻗어요, 더 많은 것을 향해.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260236"
+    },
+    {
+      "english": "Yawn widely, release the day.",
+      "korean": "크게 하품해요, 하루를 놓아줘요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260237"
+    },
+    {
+      "english": "Shake your head, disagree gently.",
+      "korean": "고개를 저어요, 부드럽게 반대해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260238"
+    },
+    {
+      "english": "Touch your nose, a quick check.",
+      "korean": "코를 만져요, 빠르게 확인해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260239"
+    },
+    {
+      "english": "Flick your wrist, a subtle signal.",
+      "korean": "손목을 튕겨요, 미묘한 신호예요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260240"
+    },
+    {
+      "english": "Tap your chest, a reminder to self.",
+      "korean": "가슴을 톡톡 쳐요, 스스로에게 상기시켜요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260241"
+    },
+    {
+      "english": "Wiggle your ears, just for fun.",
+      "korean": "귀를 쫑긋거려요, 재미로 하는 거예요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260242"
+    },
+    {
+      "english": "Blow a kiss, send good vibes.",
+      "korean": "손 키스를 날려요, 좋은 기운을 보내요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260243"
+    },
+    {
+      "english": "Pinch your cheek, feel the blood.",
+      "korean": "볼을 꼬집어요, 피가 도는 것을 느껴요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260244"
+    },
+    {
+      "english": "Scratch your head, ponder a bit.",
+      "korean": "머리를 긁어요, 잠시 생각해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260245"
+    },
+    {
+      "english": "Tap your chin, thinking deeply.",
+      "korean": "턱을 만져요, 깊이 생각 중이에요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260246"
+    },
+    {
+      "english": "Hum softly, a gentle melody.",
+      "korean": "부드럽게 흥얼거려요, 잔잔한 멜로디.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260247"
+    },
+    {
+      "english": "Shake your fist, a silent protest.",
+      "korean": "주먹을 흔들어요, 조용한 항의예요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260248"
+    },
+    {
+      "english": "Twirl your finger, a little dance.",
+      "korean": "손가락을 빙글 돌려요, 작은 춤이에요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260249"
+    },
+    {
+      "english": "Pat your knee, a comforting gesture.",
+      "korean": "무릎을 토닥여요, 위로하는 행동이에요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260250"
+    },
+    {
+      "english": "Blink slowly, observe the world.",
+      "korean": "천천히 깜빡여요, 세상을 관찰해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260252"
+    },
+    {
+      "english": "Curl your toes, feel the connection.",
+      "korean": "발가락을 구부려요, 연결을 느껴요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260253"
+    },
+    {
+      "english": "Walk this way, feel the ground.",
+      "korean": "이쪽으로 걸어요, 땅을 느껴봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260254"
+    },
+    {
+      "english": "Taste everything, remember the flavor.",
+      "korean": "모든 걸 맛봐요, 맛을 기억해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260256"
+    },
+    {
+      "english": "Look around, see the details.",
+      "korean": "주위를 둘러봐요, 세세한 것을 봐요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260257"
+    },
+    {
+      "english": "Breathe deep, fill your lungs.",
+      "korean": "깊이 숨 쉬어요, 폐를 채워요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260258"
+    },
+    {
+      "english": "Sit awhile, let thoughts pass.",
+      "korean": "잠시 앉아요, 생각이 지나가도록 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260261"
+    },
+    {
+      "english": "Share a smile, connect with others.",
+      "korean": "미소를 나눠요, 다른 사람들과 연결돼요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260262"
+    },
+    {
+      "english": "Drink water, refresh your body.",
+      "korean": "물을 마셔요, 몸을 새롭게 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260264"
+    },
+    {
+      "english": "Stretch gently, ease the tension.",
+      "korean": "부드럽게 스트레칭해요, 긴장을 풀어줘요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260265"
+    },
+    {
+      "english": "Hum a tune, lift your spirits.",
+      "korean": "콧노래를 흥얼거려요, 기분을 끌어올려요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260266"
+    },
+    {
+      "english": "Wiggle your toes, feel alive.",
+      "korean": "발가락을 꼼지락거려요, 살아있음을 느껴요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260268"
+    },
+    {
+      "english": "Gaze outside, find your view.",
+      "korean": "밖을 바라봐요, 당신의 시야를 찾아요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260269"
+    },
+    {
+      "english": "Hold your drink, savor the warmth.",
+      "korean": "잔을 잡아요, 따뜻함을 음미해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260270"
+    },
+    {
+      "english": "Close your eyes, just for a moment.",
+      "korean": "눈을 감아요, 잠깐 동안만이라도.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260271"
+    },
+    {
+      "english": "Wipe your brow, cool yourself down.",
+      "korean": "이마를 닦아요, 몸을 식혀요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260272"
+    },
+    {
+      "english": "Nod your head, agree with yourself.",
+      "korean": "고개를 끄덕여요, 스스로에게 동의해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260273"
+    },
+    {
+      "english": "Lean back, relax your posture.",
+      "korean": "뒤로 기대요, 자세를 편안하게 해요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260274"
+    },
+    {
+      "english": "Shake your shoulders, let go of stress.",
+      "korean": "어깨를 흔들어요, 스트레스를 놓아요.",
+      "category": "Balance",
+      "generated_at": "2026-10-03T05:52:21.260276"
     }
   ],
-  "last_updated": "2026-10-02T06:22:57.369482"
+  "last_updated": "2026-10-03T05:52:21.260278"
 }
