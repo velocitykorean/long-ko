@@ -37079,7 +37079,367 @@
       "korean": "잊고 넘어가요.",
       "category": "Forgiveness",
       "generated_at": "2026-10-06T06:57:37.976143"
+    },
+    {
+      "english": "Just keep, going.",
+      "korean": "계속, 나아가세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652255"
+    },
+    {
+      "english": "Don't rush, perfection.",
+      "korean": "완벽함을, 서두르지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652266"
+    },
+    {
+      "english": "Breathe, and let it unfold.",
+      "korean": "숨 쉬고, 펼쳐지도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652268"
+    },
+    {
+      "english": "Keep faith, keep trying.",
+      "korean": "믿음을, 잃지 말고, 계속 시도하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652269"
+    },
+    {
+      "english": "Don't force, anything.",
+      "korean": "어떤 것도, 억지로 하지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652271"
+    },
+    {
+      "english": "Wisdom comes, with waiting.",
+      "korean": "지혜는, 기다림과 함께 와요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652272"
+    },
+    {
+      "english": "Embrace the pause, it's needed.",
+      "korean": "멈춤을, 받아들이세요, 필요해요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652273"
+    },
+    {
+      "english": "The best things, aren't rushed.",
+      "korean": "최고의 것들은, 서둘러지지 않아요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652277"
+    },
+    {
+      "english": "Be patient, like a river.",
+      "korean": "강물처럼, 인내심을 가지세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652278"
+    },
+    {
+      "english": "It's worth, the wait.",
+      "korean": "기다릴, 가치가 있어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652280"
+    },
+    {
+      "english": "Let things, settle down.",
+      "korean": "상황이, 가라앉도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652281"
+    },
+    {
+      "english": "No need, to hurry.",
+      "korean": "서두를, 필요 없어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652283"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "korean": "당신의, 인내심을 기르세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652284"
+    },
+    {
+      "english": "The fruit ripens, in time.",
+      "korean": "과일은, 때가 되면 익어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652285"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "korean": "인내는, 문을 열어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652287"
+    },
+    {
+      "english": "Just be, patient.",
+      "korean": "그냥, 참으세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652288"
+    },
+    {
+      "english": "Allow, for growth.",
+      "korean": "성장을, 허용하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652289"
+    },
+    {
+      "english": "Patience, builds strength.",
+      "korean": "인내는, 힘을 길러줘요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652290"
+    },
+    {
+      "english": "It takes, time to bloom.",
+      "korean": "피어나려면, 시간이 걸려요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652291"
+    },
+    {
+      "english": "Keep a calm, heart.",
+      "korean": "차분한, 마음을 유지하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652292"
+    },
+    {
+      "english": "Let the outcome, surprise you.",
+      "korean": "결과가, 당신을 놀라게 하도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652293"
+    },
+    {
+      "english": "Just keep, going.",
+      "korean": "계속, 나아가세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652295"
+    },
+    {
+      "english": "Don't rush, perfection.",
+      "korean": "완벽함을, 서두르지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652296"
+    },
+    {
+      "english": "Breathe, and let it unfold.",
+      "korean": "숨 쉬고, 펼쳐지도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652297"
+    },
+    {
+      "english": "Keep faith, keep trying.",
+      "korean": "믿음을, 잃지 말고, 계속 시도하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652299"
+    },
+    {
+      "english": "Don't force, anything.",
+      "korean": "어떤 것도, 억지로 하지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652300"
+    },
+    {
+      "english": "Wisdom comes, with waiting.",
+      "korean": "지혜는, 기다림과 함께 와요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652301"
+    },
+    {
+      "english": "Embrace the pause, it's needed.",
+      "korean": "멈춤을, 받아들이세요, 필요해요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652302"
+    },
+    {
+      "english": "The best things, aren't rushed.",
+      "korean": "최고의 것들은, 서둘러지지 않아요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652303"
+    },
+    {
+      "english": "Be patient, like a river.",
+      "korean": "강물처럼, 인내심을 가지세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652304"
+    },
+    {
+      "english": "It's worth, the wait.",
+      "korean": "기다릴, 가치가 있어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652305"
+    },
+    {
+      "english": "Let things, settle down.",
+      "korean": "상황이, 가라앉도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652306"
+    },
+    {
+      "english": "No need, to hurry.",
+      "korean": "서두를, 필요 없어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652307"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "korean": "당신의, 인내심을 기르세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652308"
+    },
+    {
+      "english": "The fruit ripens, in time.",
+      "korean": "과일은, 때가 되면 익어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652309"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "korean": "인내는, 문을 열어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652310"
+    },
+    {
+      "english": "Just be, patient.",
+      "korean": "그냥, 참으세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652311"
+    },
+    {
+      "english": "Allow, for growth.",
+      "korean": "성장을, 허용하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652312"
+    },
+    {
+      "english": "Patience, builds strength.",
+      "korean": "인내는, 힘을 길러줘요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652313"
+    },
+    {
+      "english": "It takes, time to bloom.",
+      "korean": "피어나려면, 시간이 걸려요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652314"
+    },
+    {
+      "english": "Keep a calm, heart.",
+      "korean": "차분한, 마음을 유지하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652316"
+    },
+    {
+      "english": "Let the outcome, surprise you.",
+      "korean": "결과가, 당신을 놀라게 하도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652317"
+    },
+    {
+      "english": "Just keep, going.",
+      "korean": "계속, 나아가세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652318"
+    },
+    {
+      "english": "Don't rush, perfection.",
+      "korean": "완벽함을, 서두르지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652320"
+    },
+    {
+      "english": "Breathe, and let it unfold.",
+      "korean": "숨 쉬고, 펼쳐지도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652321"
+    },
+    {
+      "english": "Keep faith, keep trying.",
+      "korean": "믿음을, 잃지 말고, 계속 시도하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652322"
+    },
+    {
+      "english": "Don't force, anything.",
+      "korean": "어떤 것도, 억지로 하지 마세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652323"
+    },
+    {
+      "english": "Wisdom comes, with waiting.",
+      "korean": "지혜는, 기다림과 함께 와요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652324"
+    },
+    {
+      "english": "Embrace the pause, it's needed.",
+      "korean": "멈춤을, 받아들이세요, 필요해요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652326"
+    },
+    {
+      "english": "The best things, aren't rushed.",
+      "korean": "최고의 것들은, 서둘러지지 않아요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652327"
+    },
+    {
+      "english": "Be patient, like a river.",
+      "korean": "강물처럼, 인내심을 가지세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652328"
+    },
+    {
+      "english": "It's worth, the wait.",
+      "korean": "기다릴, 가치가 있어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652329"
+    },
+    {
+      "english": "Let things, settle down.",
+      "korean": "상황이, 가라앉도록 두세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652330"
+    },
+    {
+      "english": "No need, to hurry.",
+      "korean": "서두를, 필요 없어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652332"
+    },
+    {
+      "english": "Cultivate, your patience.",
+      "korean": "당신의, 인내심을 기르세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652333"
+    },
+    {
+      "english": "The fruit ripens, in time.",
+      "korean": "과일은, 때가 되면 익어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652334"
+    },
+    {
+      "english": "Patience, opens doors.",
+      "korean": "인내는, 문을 열어요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652335"
+    },
+    {
+      "english": "Just be, patient.",
+      "korean": "그냥, 참으세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652336"
+    },
+    {
+      "english": "Allow, for growth.",
+      "korean": "성장을, 허용하세요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652337"
+    },
+    {
+      "english": "Patience, builds strength.",
+      "korean": "인내는, 힘을 길러줘요.",
+      "category": "Patience",
+      "generated_at": "2026-10-07T06:38:52.652338"
     }
   ],
-  "last_updated": "2026-10-06T06:57:37.976145"
+  "last_updated": "2026-10-07T06:38:52.652340"
 }
