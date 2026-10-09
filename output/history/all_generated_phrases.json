@@ -37799,7 +37799,367 @@
       "korean": "넌 나의, 운명이야.",
       "category": "Love",
       "generated_at": "2026-10-08T06:45:00.232204"
+    },
+    {
+      "english": "Thank you, for the gift.",
+      "korean": "선물, 정말 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181525"
+    },
+    {
+      "english": "This meal, is delicious.",
+      "korean": "이 식사, 정말 맛있어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181536"
+    },
+    {
+      "english": "Thanks for, helping me.",
+      "korean": "도와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181538"
+    },
+    {
+      "english": "I'm grateful, for this chance.",
+      "korean": "이 기회에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181539"
+    },
+    {
+      "english": "I value, your opinion.",
+      "korean": "당신의 의견, 소중해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181541"
+    },
+    {
+      "english": "You're a, great friend.",
+      "korean": "당신은, 좋은 친구예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181542"
+    },
+    {
+      "english": "I'm thankful, for your time.",
+      "korean": "당신의 시간, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181543"
+    },
+    {
+      "english": "Thanks for, coming over.",
+      "korean": "와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181547"
+    },
+    {
+      "english": "Your smile, is lovely.",
+      "korean": "당신의 미소, 사랑스러워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181549"
+    },
+    {
+      "english": "Thank you, for the help.",
+      "korean": "도움, 감사합니다.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181550"
+    },
+    {
+      "english": "I'm thankful, for your presence.",
+      "korean": "당신의 존재, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181552"
+    },
+    {
+      "english": "Thank you, for the reminder.",
+      "korean": "알려줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181553"
+    },
+    {
+      "english": "Your encouragement, is great.",
+      "korean": "당신의 격려, 최고예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181554"
+    },
+    {
+      "english": "Thanks for, sharing this.",
+      "korean": "이것을 공유해줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181555"
+    },
+    {
+      "english": "Thank you, for the treat.",
+      "korean": "대접, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181556"
+    },
+    {
+      "english": "Your ideas, are inspiring.",
+      "korean": "당신의 아이디어, 영감을 줘요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181557"
+    },
+    {
+      "english": "Thank you, for the fun.",
+      "korean": "재미, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181558"
+    },
+    {
+      "english": "I'm thankful, for this moment.",
+      "korean": "이 순간, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181560"
+    },
+    {
+      "english": "Thank you, for the offer.",
+      "korean": "제의, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181561"
+    },
+    {
+      "english": "Thank you, for the support.",
+      "korean": "지지, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181562"
+    },
+    {
+      "english": "Your kindness, touched me.",
+      "korean": "당신의 친절, 감동이었어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181563"
+    },
+    {
+      "english": "I'm grateful, for this experience.",
+      "korean": "이 경험, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181564"
+    },
+    {
+      "english": "Thank you, for the gift.",
+      "korean": "선물, 정말 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181565"
+    },
+    {
+      "english": "This meal, is delicious.",
+      "korean": "이 식사, 정말 맛있어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181567"
+    },
+    {
+      "english": "Thanks for, helping me.",
+      "korean": "도와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181568"
+    },
+    {
+      "english": "I'm grateful, for this chance.",
+      "korean": "이 기회에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181569"
+    },
+    {
+      "english": "I value, your opinion.",
+      "korean": "당신의 의견, 소중해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181570"
+    },
+    {
+      "english": "You're a, great friend.",
+      "korean": "당신은, 좋은 친구예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181571"
+    },
+    {
+      "english": "I'm thankful, for your time.",
+      "korean": "당신의 시간, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181573"
+    },
+    {
+      "english": "Thanks for, coming over.",
+      "korean": "와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181574"
+    },
+    {
+      "english": "Your smile, is lovely.",
+      "korean": "당신의 미소, 사랑스러워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181575"
+    },
+    {
+      "english": "Thank you, for the help.",
+      "korean": "도움, 감사합니다.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181576"
+    },
+    {
+      "english": "I'm thankful, for your presence.",
+      "korean": "당신의 존재, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181577"
+    },
+    {
+      "english": "Thank you, for the reminder.",
+      "korean": "알려줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181578"
+    },
+    {
+      "english": "Your encouragement, is great.",
+      "korean": "당신의 격려, 최고예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181580"
+    },
+    {
+      "english": "Thanks for, sharing this.",
+      "korean": "이것을 공유해줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181581"
+    },
+    {
+      "english": "Thank you, for the treat.",
+      "korean": "대접, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181582"
+    },
+    {
+      "english": "Your ideas, are inspiring.",
+      "korean": "당신의 아이디어, 영감을 줘요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181583"
+    },
+    {
+      "english": "Thank you, for the fun.",
+      "korean": "재미, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181584"
+    },
+    {
+      "english": "I'm thankful, for this moment.",
+      "korean": "이 순간, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181585"
+    },
+    {
+      "english": "Thank you, for the offer.",
+      "korean": "제의, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181586"
+    },
+    {
+      "english": "Thank you, for the support.",
+      "korean": "지지, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181587"
+    },
+    {
+      "english": "Your kindness, touched me.",
+      "korean": "당신의 친절, 감동이었어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181588"
+    },
+    {
+      "english": "I'm grateful, for this experience.",
+      "korean": "이 경험, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181589"
+    },
+    {
+      "english": "Thank you, for the gift.",
+      "korean": "선물, 정말 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181590"
+    },
+    {
+      "english": "This meal, is delicious.",
+      "korean": "이 식사, 정말 맛있어요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181592"
+    },
+    {
+      "english": "Thanks for, helping me.",
+      "korean": "도와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181593"
+    },
+    {
+      "english": "I'm grateful, for this chance.",
+      "korean": "이 기회에, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181594"
+    },
+    {
+      "english": "I value, your opinion.",
+      "korean": "당신의 의견, 소중해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181595"
+    },
+    {
+      "english": "You're a, great friend.",
+      "korean": "당신은, 좋은 친구예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181596"
+    },
+    {
+      "english": "I'm thankful, for your time.",
+      "korean": "당신의 시간, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181598"
+    },
+    {
+      "english": "Thanks for, coming over.",
+      "korean": "와줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181599"
+    },
+    {
+      "english": "Your smile, is lovely.",
+      "korean": "당신의 미소, 사랑스러워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181600"
+    },
+    {
+      "english": "Thank you, for the help.",
+      "korean": "도움, 감사합니다.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181601"
+    },
+    {
+      "english": "I'm thankful, for your presence.",
+      "korean": "당신의 존재, 감사해요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181602"
+    },
+    {
+      "english": "Thank you, for the reminder.",
+      "korean": "알려줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181603"
+    },
+    {
+      "english": "Your encouragement, is great.",
+      "korean": "당신의 격려, 최고예요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181604"
+    },
+    {
+      "english": "Thanks for, sharing this.",
+      "korean": "이것을 공유해줘서, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181606"
+    },
+    {
+      "english": "Thank you, for the treat.",
+      "korean": "대접, 고마워요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181607"
+    },
+    {
+      "english": "Your ideas, are inspiring.",
+      "korean": "당신의 아이디어, 영감을 줘요.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-09T06:52:55.181608"
     }
   ],
-  "last_updated": "2026-10-08T06:45:00.232205"
+  "last_updated": "2026-10-09T06:52:55.181610"
 }
