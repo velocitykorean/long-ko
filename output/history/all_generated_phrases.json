@@ -38159,7 +38159,367 @@
       "korean": "당신의 아이디어, 영감을 줘요.",
       "category": "Gratitude",
       "generated_at": "2026-10-09T06:52:55.181608"
+    },
+    {
+      "english": "Don't give up, I believe in you.",
+      "korean": "포기하지 마, 난 널 믿어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362490"
+    },
+    {
+      "english": "You're doing great, keep pushing.",
+      "korean": "잘 하고 있어, 계속 밀어붙여.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362501"
+    },
+    {
+      "english": "Just a little more, you can do it.",
+      "korean": "조금만 더, 할 수 있어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362503"
+    },
+    {
+      "english": "I'm proud of your progress.",
+      "korean": "네 발전에, 자랑스러워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362505"
+    },
+    {
+      "english": "Let's overcome, this together.",
+      "korean": "이것을, 함께 극복하자.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362506"
+    },
+    {
+      "english": "You've got this, don't doubt it.",
+      "korean": "너는 할 수 있어, 의심하지 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362507"
+    },
+    {
+      "english": "Focus on the goal, stay determined.",
+      "korean": "목표에 집중해, 단호하게.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362509"
+    },
+    {
+      "english": "You're so resilient, it's amazing.",
+      "korean": "넌 정말 강해, 놀라워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362514"
+    },
+    {
+      "english": "Push through the pain, it passes.",
+      "korean": "고통을 이겨내, 지나갈 거야.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362515"
+    },
+    {
+      "english": "This is just a test, pass it.",
+      "korean": "이건 그냥 시험이야, 통과해.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362517"
+    },
+    {
+      "english": "Never stop trying, never quit.",
+      "korean": "시도 멈추지 마, 절대 포기 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362518"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "korean": "집중해, 강해져.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362519"
+    },
+    {
+      "english": "Don't look back, move forward.",
+      "korean": "뒤돌아보지 마, 앞으로 가.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362520"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "korean": "턱을 들어, 언제나.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362522"
+    },
+    {
+      "english": "You have come so far.",
+      "korean": "넌 정말 멀리 왔어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362523"
+    },
+    {
+      "english": "Persistence pays off, my dear.",
+      "korean": "끈기는 보상받아, 내 사랑.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362524"
+    },
+    {
+      "english": "Let your determination, shine.",
+      "korean": "네 결심을, 빛나게 해.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362525"
+    },
+    {
+      "english": "Don't let setbacks, stop you.",
+      "korean": "좌절이, 널 멈추게 하지 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362526"
+    },
+    {
+      "english": "Keep that spark, alive, darling.",
+      "korean": "그 반짝임을, 살아있게 해, 자기.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362527"
+    },
+    {
+      "english": "Your effort, is inspiring me.",
+      "korean": "네 노력이, 날 고무시켜.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362528"
+    },
+    {
+      "english": "Don't lose hope, it's close.",
+      "korean": "희망을 잃지 마, 거의 다 왔어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362529"
+    },
+    {
+      "english": "Keep believing, in yourself.",
+      "korean": "계속 믿어, 자신을.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362530"
+    },
+    {
+      "english": "You are almost there, so close.",
+      "korean": "거의 다 왔어, 아주 가까이.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362531"
+    },
+    {
+      "english": "Don't give up, I believe in you.",
+      "korean": "포기하지 마, 난 널 믿어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362533"
+    },
+    {
+      "english": "You're doing great, keep pushing.",
+      "korean": "잘 하고 있어, 계속 밀어붙여.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362534"
+    },
+    {
+      "english": "Just a little more, you can do it.",
+      "korean": "조금만 더, 할 수 있어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362536"
+    },
+    {
+      "english": "I'm proud of your progress.",
+      "korean": "네 발전에, 자랑스러워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362537"
+    },
+    {
+      "english": "Let's overcome, this together.",
+      "korean": "이것을, 함께 극복하자.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362539"
+    },
+    {
+      "english": "You've got this, don't doubt it.",
+      "korean": "너는 할 수 있어, 의심하지 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362540"
+    },
+    {
+      "english": "Focus on the goal, stay determined.",
+      "korean": "목표에 집중해, 단호하게.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362541"
+    },
+    {
+      "english": "You're so resilient, it's amazing.",
+      "korean": "넌 정말 강해, 놀라워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362542"
+    },
+    {
+      "english": "Push through the pain, it passes.",
+      "korean": "고통을 이겨내, 지나갈 거야.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362543"
+    },
+    {
+      "english": "This is just a test, pass it.",
+      "korean": "이건 그냥 시험이야, 통과해.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362544"
+    },
+    {
+      "english": "Never stop trying, never quit.",
+      "korean": "시도 멈추지 마, 절대 포기 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362545"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "korean": "집중해, 강해져.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362546"
+    },
+    {
+      "english": "Don't look back, move forward.",
+      "korean": "뒤돌아보지 마, 앞으로 가.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362547"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "korean": "턱을 들어, 언제나.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362548"
+    },
+    {
+      "english": "You have come so far.",
+      "korean": "넌 정말 멀리 왔어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362549"
+    },
+    {
+      "english": "Persistence pays off, my dear.",
+      "korean": "끈기는 보상받아, 내 사랑.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362550"
+    },
+    {
+      "english": "Let your determination, shine.",
+      "korean": "네 결심을, 빛나게 해.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362551"
+    },
+    {
+      "english": "Don't let setbacks, stop you.",
+      "korean": "좌절이, 널 멈추게 하지 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362552"
+    },
+    {
+      "english": "Keep that spark, alive, darling.",
+      "korean": "그 반짝임을, 살아있게 해, 자기.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362553"
+    },
+    {
+      "english": "Your effort, is inspiring me.",
+      "korean": "네 노력이, 날 고무시켜.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362554"
+    },
+    {
+      "english": "Don't lose hope, it's close.",
+      "korean": "희망을 잃지 마, 거의 다 왔어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362555"
+    },
+    {
+      "english": "Keep believing, in yourself.",
+      "korean": "계속 믿어, 자신을.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362556"
+    },
+    {
+      "english": "You are almost there, so close.",
+      "korean": "거의 다 왔어, 아주 가까이.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362557"
+    },
+    {
+      "english": "Don't give up, I believe in you.",
+      "korean": "포기하지 마, 난 널 믿어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362559"
+    },
+    {
+      "english": "You're doing great, keep pushing.",
+      "korean": "잘 하고 있어, 계속 밀어붙여.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362560"
+    },
+    {
+      "english": "Just a little more, you can do it.",
+      "korean": "조금만 더, 할 수 있어.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362561"
+    },
+    {
+      "english": "I'm proud of your progress.",
+      "korean": "네 발전에, 자랑스러워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362562"
+    },
+    {
+      "english": "Let's overcome, this together.",
+      "korean": "이것을, 함께 극복하자.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362563"
+    },
+    {
+      "english": "You've got this, don't doubt it.",
+      "korean": "너는 할 수 있어, 의심하지 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362564"
+    },
+    {
+      "english": "Focus on the goal, stay determined.",
+      "korean": "목표에 집중해, 단호하게.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362565"
+    },
+    {
+      "english": "You're so resilient, it's amazing.",
+      "korean": "넌 정말 강해, 놀라워.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362566"
+    },
+    {
+      "english": "Push through the pain, it passes.",
+      "korean": "고통을 이겨내, 지나갈 거야.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362568"
+    },
+    {
+      "english": "This is just a test, pass it.",
+      "korean": "이건 그냥 시험이야, 통과해.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362569"
+    },
+    {
+      "english": "Never stop trying, never quit.",
+      "korean": "시도 멈추지 마, 절대 포기 마.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362570"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "korean": "집중해, 강해져.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362571"
+    },
+    {
+      "english": "Don't look back, move forward.",
+      "korean": "뒤돌아보지 마, 앞으로 가.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362572"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "korean": "턱을 들어, 언제나.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-10T06:30:07.362573"
     }
   ],
-  "last_updated": "2026-10-09T06:52:55.181610"
+  "last_updated": "2026-10-10T06:30:07.362576"
 }
