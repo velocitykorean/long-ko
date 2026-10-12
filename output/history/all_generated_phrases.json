@@ -38879,7 +38879,367 @@
       "korean": "네 미소, 전염돼, 알아?",
       "category": "Joy",
       "generated_at": "2026-10-11T06:35:52.180831"
+    },
+    {
+      "english": "Oops, my bad, sorry!",
+      "korean": "앗, 제 실수예요, 죄송합니다!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783869"
+    },
+    {
+      "english": "My apologies, I messed up.",
+      "korean": "죄송해요, 제가 망쳤어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783883"
+    },
+    {
+      "english": "I owe you one, I promise.",
+      "korean": "신세 졌어요, 약속할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783886"
+    },
+    {
+      "english": "My mistake, totally.",
+      "korean": "제 잘못이에요, 완전히.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783888"
+    },
+    {
+      "english": "I hope you can understand.",
+      "korean": "이해해 주셨으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783889"
+    },
+    {
+      "english": "I'll do better next time.",
+      "korean": "다음에는 더 잘할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783890"
+    },
+    {
+      "english": "What can I do, to fix this?",
+      "korean": "이걸 고치려면 뭘 하면 될까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783892"
+    },
+    {
+      "english": "Forgive my hasty words.",
+      "korean": "성급했던 제 말 용서하세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783896"
+    },
+    {
+      "english": "That was uncalled for, sorry.",
+      "korean": "그건 선 넘었어요, 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783898"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "korean": "넘어가자, 그럴까?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783900"
+    },
+    {
+      "english": "My sincerest apologies.",
+      "korean": "진심으로 사과드립니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783901"
+    },
+    {
+      "english": "I was wrong, you're right.",
+      "korean": "제가 틀렸어요, 당신이 맞아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783903"
+    },
+    {
+      "english": "Can we start over, fresh?",
+      "korean": "새롭게 다시 시작할 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783904"
+    },
+    {
+      "english": "That was not my intention.",
+      "korean": "그건 제 의도가 아니었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783905"
+    },
+    {
+      "english": "I hope you're not too upset.",
+      "korean": "너무 속상하지 않았으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783907"
+    },
+    {
+      "english": "I messed up, but I learned.",
+      "korean": "망쳤지만, 배웠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783909"
+    },
+    {
+      "english": "My deepest regrets.",
+      "korean": "가장 깊은 유감입니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783910"
+    },
+    {
+      "english": "That was foolish of me.",
+      "korean": "제가 정말 어리석었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783911"
+    },
+    {
+      "english": "Can we just let it go?",
+      "korean": "그냥 놔줄 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783913"
+    },
+    {
+      "english": "I truly value you.",
+      "korean": "당신을 정말 소중하게 생각해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783914"
+    },
+    {
+      "english": "I messed up, I know.",
+      "korean": "제가 망쳤어요, 알아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783915"
+    },
+    {
+      "english": "Please forgive my actions.",
+      "korean": "제 행동을 용서해 주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783916"
+    },
+    {
+      "english": "My apologies, I was wrong.",
+      "korean": "죄송합니다, 제가 틀렸어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783917"
+    },
+    {
+      "english": "Oops, my bad, sorry!",
+      "korean": "앗, 제 실수예요, 죄송합니다!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783919"
+    },
+    {
+      "english": "My apologies, I messed up.",
+      "korean": "죄송해요, 제가 망쳤어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783920"
+    },
+    {
+      "english": "I owe you one, I promise.",
+      "korean": "신세 졌어요, 약속할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783922"
+    },
+    {
+      "english": "My mistake, totally.",
+      "korean": "제 잘못이에요, 완전히.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783923"
+    },
+    {
+      "english": "I hope you can understand.",
+      "korean": "이해해 주셨으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783925"
+    },
+    {
+      "english": "I'll do better next time.",
+      "korean": "다음에는 더 잘할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783926"
+    },
+    {
+      "english": "What can I do, to fix this?",
+      "korean": "이걸 고치려면 뭘 하면 될까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783928"
+    },
+    {
+      "english": "Forgive my hasty words.",
+      "korean": "성급했던 제 말 용서하세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783929"
+    },
+    {
+      "english": "That was uncalled for, sorry.",
+      "korean": "그건 선 넘었어요, 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783930"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "korean": "넘어가자, 그럴까?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783932"
+    },
+    {
+      "english": "My sincerest apologies.",
+      "korean": "진심으로 사과드립니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783933"
+    },
+    {
+      "english": "I was wrong, you're right.",
+      "korean": "제가 틀렸어요, 당신이 맞아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783934"
+    },
+    {
+      "english": "Can we start over, fresh?",
+      "korean": "새롭게 다시 시작할 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783935"
+    },
+    {
+      "english": "That was not my intention.",
+      "korean": "그건 제 의도가 아니었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783937"
+    },
+    {
+      "english": "I hope you're not too upset.",
+      "korean": "너무 속상하지 않았으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783938"
+    },
+    {
+      "english": "I messed up, but I learned.",
+      "korean": "망쳤지만, 배웠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783939"
+    },
+    {
+      "english": "My deepest regrets.",
+      "korean": "가장 깊은 유감입니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783941"
+    },
+    {
+      "english": "That was foolish of me.",
+      "korean": "제가 정말 어리석었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783942"
+    },
+    {
+      "english": "Can we just let it go?",
+      "korean": "그냥 놔줄 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783943"
+    },
+    {
+      "english": "I truly value you.",
+      "korean": "당신을 정말 소중하게 생각해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783945"
+    },
+    {
+      "english": "I messed up, I know.",
+      "korean": "제가 망쳤어요, 알아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783946"
+    },
+    {
+      "english": "Please forgive my actions.",
+      "korean": "제 행동을 용서해 주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783947"
+    },
+    {
+      "english": "My apologies, I was wrong.",
+      "korean": "죄송합니다, 제가 틀렸어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783949"
+    },
+    {
+      "english": "Oops, my bad, sorry!",
+      "korean": "앗, 제 실수예요, 죄송합니다!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783950"
+    },
+    {
+      "english": "My apologies, I messed up.",
+      "korean": "죄송해요, 제가 망쳤어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783952"
+    },
+    {
+      "english": "I owe you one, I promise.",
+      "korean": "신세 졌어요, 약속할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783953"
+    },
+    {
+      "english": "My mistake, totally.",
+      "korean": "제 잘못이에요, 완전히.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783954"
+    },
+    {
+      "english": "I hope you can understand.",
+      "korean": "이해해 주셨으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783956"
+    },
+    {
+      "english": "I'll do better next time.",
+      "korean": "다음에는 더 잘할게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783957"
+    },
+    {
+      "english": "What can I do, to fix this?",
+      "korean": "이걸 고치려면 뭘 하면 될까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783958"
+    },
+    {
+      "english": "Forgive my hasty words.",
+      "korean": "성급했던 제 말 용서하세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783960"
+    },
+    {
+      "english": "That was uncalled for, sorry.",
+      "korean": "그건 선 넘었어요, 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783961"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "korean": "넘어가자, 그럴까?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783963"
+    },
+    {
+      "english": "My sincerest apologies.",
+      "korean": "진심으로 사과드립니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783964"
+    },
+    {
+      "english": "I was wrong, you're right.",
+      "korean": "제가 틀렸어요, 당신이 맞아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783965"
+    },
+    {
+      "english": "Can we start over, fresh?",
+      "korean": "새롭게 다시 시작할 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783966"
+    },
+    {
+      "english": "That was not my intention.",
+      "korean": "그건 제 의도가 아니었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-12T06:40:57.783968"
     }
   ],
-  "last_updated": "2026-10-11T06:35:52.180833"
+  "last_updated": "2026-10-12T06:40:57.783970"
 }
