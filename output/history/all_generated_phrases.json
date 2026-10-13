@@ -39959,7 +39959,367 @@
       "korean": "당신의 여정, 유창함으로 가는.",
       "category": "Success",
       "generated_at": "2026-10-13T03:34:51.600057"
+    },
+    {
+      "english": "Travel light, pack phrases.",
+      "korean": "가볍게 여행, 문장 챙기세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637754"
+    },
+    {
+      "english": "Eat well, speak Korean.",
+      "korean": "잘 먹고, 한국어 하세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637771"
+    },
+    {
+      "english": "Get around, ask easily.",
+      "korean": "이동하세요, 쉽게 물어보세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637772"
+    },
+    {
+      "english": "Find treasures, with words.",
+      "korean": "보물 찾기, 단어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637773"
+    },
+    {
+      "english": "Connect deeper, learn more.",
+      "korean": "더 깊이 연결, 더 배우세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637774"
+    },
+    {
+      "english": "Your trip, your voice.",
+      "korean": "당신의 여행, 당신의 목소리.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637775"
+    },
+    {
+      "english": "Be bold, try speaking.",
+      "korean": "용감하게, 말해보세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637776"
+    },
+    {
+      "english": "New friends, new phrases.",
+      "korean": "새 친구, 새 문장.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637781"
+    },
+    {
+      "english": "Everyday tasks, made simple.",
+      "korean": "일상 업무, 쉽게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637782"
+    },
+    {
+      "english": "Experience more, say more.",
+      "korean": "더 많이 경험, 더 많이 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637783"
+    },
+    {
+      "english": "Unlock moments, with language.",
+      "korean": "순간을 열어요, 언어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637784"
+    },
+    {
+      "english": "Your Korean adventure, starts now.",
+      "korean": "당신의 한국어 모험, 지금 시작.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637784"
+    },
+    {
+      "english": "Feel local, sound local.",
+      "korean": "현지처럼 느끼고, 현지처럼 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637785"
+    },
+    {
+      "english": "Culture immersion, phrase by phrase.",
+      "korean": "문화 몰입, 문장 하나씩.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637786"
+    },
+    {
+      "english": "Confidence comes, with practice.",
+      "korean": "자신감은 와요, 연습과 함께.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637787"
+    },
+    {
+      "english": "Order food, like a pro.",
+      "korean": "음식 주문, 전문가처럼.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637787"
+    },
+    {
+      "english": "Navigate markets, with ease.",
+      "korean": "시장 둘러봐요, 쉽게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637788"
+    },
+    {
+      "english": "Share stories, in Korean.",
+      "korean": "이야기 나눠요, 한국어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637789"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "korean": "당신을 표현하세요, 자유롭게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637790"
+    },
+    {
+      "english": "Build connections, one word.",
+      "korean": "관계를 만드세요, 단어 하나로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637791"
+    },
+    {
+      "english": "Your Korean journey, unfolds.",
+      "korean": "당신의 한국어 여정, 펼쳐져요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637792"
+    },
+    {
+      "english": "Master daily life, with Korean.",
+      "korean": "일상생활 마스터, 한국어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637792"
+    },
+    {
+      "english": "See Korea, through language.",
+      "korean": "한국을 보세요, 언어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637793"
+    },
+    {
+      "english": "Discover secrets, with phrases.",
+      "korean": "비밀을 발견해요, 문장들로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637793"
+    },
+    {
+      "english": "Travel smarter, learn Korean.",
+      "korean": "더 똑똑하게 여행, 한국어 배우세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637794"
+    },
+    {
+      "english": "Your best trip, awaits.",
+      "korean": "당신의 최고의 여행, 기다려요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637794"
+    },
+    {
+      "english": "Understand locals, truly.",
+      "korean": "현지인 이해하기, 진정으로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637795"
+    },
+    {
+      "english": "Make connections, instantly.",
+      "korean": "연결 만드세요, 즉시.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637796"
+    },
+    {
+      "english": "Your key, to Korea.",
+      "korean": "당신의 열쇠, 한국으로 가는.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637796"
+    },
+    {
+      "english": "Embrace new sounds, speak.",
+      "korean": "새로운 소리를 받아들이세요, 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637797"
+    },
+    {
+      "english": "Everyday conversations, master them.",
+      "korean": "일상 대화, 마스터하세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637797"
+    },
+    {
+      "english": "Your language skills, grow.",
+      "korean": "당신의 언어 실력, 자라나요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637798"
+    },
+    {
+      "english": "Travel joyfully, speak Korean.",
+      "korean": "즐겁게 여행, 한국어 하세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637798"
+    },
+    {
+      "english": "Experience Korea, authentically.",
+      "korean": "한국을 경험하세요, 진정성 있게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637799"
+    },
+    {
+      "english": "Travel light, pack phrases.",
+      "korean": "가볍게 여행, 문장 챙기세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637800"
+    },
+    {
+      "english": "Eat well, speak Korean.",
+      "korean": "잘 먹고, 한국어 하세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637801"
+    },
+    {
+      "english": "Get around, ask easily.",
+      "korean": "이동하세요, 쉽게 물어보세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637802"
+    },
+    {
+      "english": "Find treasures, with words.",
+      "korean": "보물 찾기, 단어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637802"
+    },
+    {
+      "english": "Connect deeper, learn more.",
+      "korean": "더 깊이 연결, 더 배우세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637803"
+    },
+    {
+      "english": "Your trip, your voice.",
+      "korean": "당신의 여행, 당신의 목소리.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637804"
+    },
+    {
+      "english": "Be bold, try speaking.",
+      "korean": "용감하게, 말해보세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637805"
+    },
+    {
+      "english": "New friends, new phrases.",
+      "korean": "새 친구, 새 문장.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637806"
+    },
+    {
+      "english": "Everyday tasks, made simple.",
+      "korean": "일상 업무, 쉽게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637807"
+    },
+    {
+      "english": "Experience more, say more.",
+      "korean": "더 많이 경험, 더 많이 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637808"
+    },
+    {
+      "english": "Unlock moments, with language.",
+      "korean": "순간을 열어요, 언어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637808"
+    },
+    {
+      "english": "Your Korean adventure, starts now.",
+      "korean": "당신의 한국어 모험, 지금 시작.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637809"
+    },
+    {
+      "english": "Feel local, sound local.",
+      "korean": "현지처럼 느끼고, 현지처럼 말해요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637810"
+    },
+    {
+      "english": "Culture immersion, phrase by phrase.",
+      "korean": "문화 몰입, 문장 하나씩.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637811"
+    },
+    {
+      "english": "Confidence comes, with practice.",
+      "korean": "자신감은 와요, 연습과 함께.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637812"
+    },
+    {
+      "english": "Order food, like a pro.",
+      "korean": "음식 주문, 전문가처럼.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637813"
+    },
+    {
+      "english": "Navigate markets, with ease.",
+      "korean": "시장 둘러봐요, 쉽게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637813"
+    },
+    {
+      "english": "Share stories, in Korean.",
+      "korean": "이야기 나눠요, 한국어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637814"
+    },
+    {
+      "english": "Express yourself, freely.",
+      "korean": "당신을 표현하세요, 자유롭게.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637814"
+    },
+    {
+      "english": "Build connections, one word.",
+      "korean": "관계를 만드세요, 단어 하나로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637815"
+    },
+    {
+      "english": "Your Korean journey, unfolds.",
+      "korean": "당신의 한국어 여정, 펼쳐져요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637816"
+    },
+    {
+      "english": "Master daily life, with Korean.",
+      "korean": "일상생활 마스터, 한국어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637816"
+    },
+    {
+      "english": "See Korea, through language.",
+      "korean": "한국을 보세요, 언어로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637817"
+    },
+    {
+      "english": "Discover secrets, with phrases.",
+      "korean": "비밀을 발견해요, 문장들로.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637818"
+    },
+    {
+      "english": "Travel smarter, learn Korean.",
+      "korean": "더 똑똑하게 여행, 한국어 배우세요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637818"
+    },
+    {
+      "english": "Your best trip, awaits.",
+      "korean": "당신의 최고의 여행, 기다려요.",
+      "category": "Purpose",
+      "generated_at": "2026-10-13T07:11:14.637819"
     }
   ],
-  "last_updated": "2026-10-13T03:34:51.600059"
+  "last_updated": "2026-10-13T07:11:14.637821"
 }
