@@ -302,7 +302,6 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Korean translation (Hangul)
-CRITICAL: Every translation MUST be in Korean. NEVER use German, Spanish, or any other language. Only Korean.
 3. Korean pronunciation guide (romanization, e.g., "annyeonghaseyo")
 
 Return as JSON array:
@@ -543,6 +542,8 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     return fresh_phrases[:num_phrases]
 
 
+# ============== AUDIO GENERATION ==============
+
 def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
     """Fallback TTS using Google Translate TTS if Edge TTS fails."""
     import urllib.request
@@ -588,19 +589,20 @@ def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool
     return False
 
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
+async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
     """Generate audio using Edge TTS with automatic Google TTS fallback"""
-    # 1. Try Edge TTS
-    try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        if Path(output_path).exists() and Path(output_path).stat().st_size > 500:
-            return True
-    except Exception as e:
-        print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+    import edge_tts
+    for attempt in range(retries):
+        try:
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 300:
+                return True
+        except Exception as e:
+            if attempt == retries - 1:
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
 
-    # 2. Try Google TTS fallback
+    # Fallback to Google TTS
     if generate_google_tts(text, voice, output_path):
         return True
 
@@ -1309,15 +1311,9 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         str(video_dir)
     )
 
-    selected_title = title_meta.get("selected_title", f"Learn Korean: {category_english}")
-    description = title_meta.get("description", "")
-
     metadata = {
         "category_english": category_english,
         "category_korean": CATEGORIES_KOREAN[category_english],
-        "selected_title": selected_title,
-        "title": selected_title,
-        "description": description,
         "timestamp": timestamp,
         "target_phrases": phrases_count,
         "actual_duration_seconds": total_duration,
