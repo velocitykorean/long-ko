@@ -5321,7 +5321,727 @@
       "chinese": "行动比语言，更有力量。",
       "category": "Wisdom",
       "generated_at": "2026-05-12T22:16:24.748026"
+    },
+    {
+      "english": "Wow, that's amazing!, I'm impressed.",
+      "korean": "와, 정말 대단해요!, 감탄했어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024567"
+    },
+    {
+      "english": "You can do it!, Believe in yourself.",
+      "korean": "할 수 있어요!, 자신을 믿어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024582"
+    },
+    {
+      "english": "Let's try together!, We'll succeed.",
+      "korean": "같이 해봐요!, 성공할 거예요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024584"
+    },
+    {
+      "english": "Keep pushing forward!, Don't give up.",
+      "korean": "계속 나아가요!, 포기하지 마세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024586"
+    },
+    {
+      "english": "That's a great idea!, Let's go.",
+      "korean": "정말 좋은 생각이에요!, 시작합시다.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024588"
+    },
+    {
+      "english": "What a surprise!, I didn't expect this.",
+      "korean": "정말 놀랍네요!, 이걸 예상 못 했어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024591"
+    },
+    {
+      "english": "You've got this!, I cheer for you.",
+      "korean": "해낼 수 있어요!, 당신을 응원해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024593"
+    },
+    {
+      "english": "Don't worry, be happy!, Everything's okay.",
+      "korean": "걱정 말고, 행복하세요!, 다 괜찮아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024597"
+    },
+    {
+      "english": "This is exciting!, I can't wait.",
+      "korean": "신나요!, 빨리 보고 싶어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024599"
+    },
+    {
+      "english": "You're doing great!, Keep it up.",
+      "korean": "정말 잘하고 있어요!, 계속하세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024601"
+    },
+    {
+      "english": "What's the plan?, Let's discuss.",
+      "korean": "계획이 뭐예요?, 이야기해 봐요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024603"
+    },
+    {
+      "english": "Let's aim higher!, Reach for the stars.",
+      "korean": "더 높이 목표합시다!, 별을 향해 나아가요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024605"
+    },
+    {
+      "english": "Feeling inspired?, Me too!",
+      "korean": "영감받았어요?, 저도요!",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024607"
+    },
+    {
+      "english": "This moment is gold!, Cherish it.",
+      "korean": "이 순간은 황금이에요!, 소중히 간직해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024609"
+    },
+    {
+      "english": "Ready for adventure?, Let's go!",
+      "korean": "모험할 준비 됐나요?, 가자!",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024611"
+    },
+    {
+      "english": "What a breakthrough!, Well done.",
+      "korean": "정말 획기적이네요!, 잘했어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024612"
+    },
+    {
+      "english": "Just breathe, and try., You'll get there.",
+      "korean": "그냥 숨 쉬고, 시도해요., 거기까지 갈 거예요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024614"
+    },
+    {
+      "english": "Believe in the process., It unfolds.",
+      "korean": "과정을 믿으세요., 저절로 풀릴 거예요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024616"
+    },
+    {
+      "english": "That spark is yours!, Ignite it.",
+      "korean": "그 불꽃은 당신 거예요!, 불붙이세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024618"
+    },
+    {
+      "english": "What's next?, Let's discover.",
+      "korean": "다음은 뭐죠?, 발견해 봐요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024620"
+    },
+    {
+      "english": "Imagine the possibilities!, They are endless.",
+      "korean": "가능성을 상상해 봐요!, 끝이 없어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024622"
+    },
+    {
+      "english": "This is progress!, Celebrate small wins.",
+      "korean": "이것이 발전이에요!, 작은 승리를 축하해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024624"
+    },
+    {
+      "english": "It's a new beginning!, Embrace it.",
+      "korean": "새로운 시작이에요!, 받아들여요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024625"
+    },
+    {
+      "english": "Flow with the moment., Be present.",
+      "korean": "순간에 흘러가세요., 현재에 집중해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024627"
+    },
+    {
+      "english": "You inspire me too!, Thank you.",
+      "korean": "당신도 저에게 영감을 줘요!, 감사합니다.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024629"
+    },
+    {
+      "english": "Let's create something great!, Together.",
+      "korean": "멋진 것을 만들어 봐요!, 함께.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024631"
+    },
+    {
+      "english": "Feel the passion!, Let it guide.",
+      "korean": "열정을 느껴봐요!, 이끌도록 두세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024632"
+    },
+    {
+      "english": "That's a bright future!, I see it.",
+      "korean": "정말 밝은 미래네요!, 보여요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024634"
+    },
+    {
+      "english": "Keep the faith!, You're almost there.",
+      "korean": "믿음을 잃지 마세요!, 거의 다 왔어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024636"
+    },
+    {
+      "english": "What a wonderful day!, Full of hope.",
+      "korean": "정말 멋진 날이에요!, 희망으로 가득해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024638"
+    },
+    {
+      "english": "What are you thinking about?, Tell me.",
+      "korean": "무슨 생각 해요?, 말해 봐요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024640"
+    },
+    {
+      "english": "Can you give me some advice?",
+      "korean": "조언 좀 해 주실래요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024641"
+    },
+    {
+      "english": "What do you think about this?",
+      "korean": "이것에 대해 어떻게 생각해요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024643"
+    },
+    {
+      "english": "Is this a good way to start?",
+      "korean": "이렇게 시작하는 게 좋을까요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024645"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "korean": "이것에 대한 당신 생각은 뭐예요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024647"
+    },
+    {
+      "english": "How should I approach this goal?",
+      "korean": "이 목표를 어떻게 접근해야 할까요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024649"
+    },
+    {
+      "english": "What if we tried this approach?",
+      "korean": "이런 식으로 시도해 보면 어떨까요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024651"
+    },
+    {
+      "english": "Do you have any suggestions for me?",
+      "korean": "저를 위한 제안이 있나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024653"
+    },
+    {
+      "english": "What's the most important first step?",
+      "korean": "가장 중요한 첫걸음은 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024655"
+    },
+    {
+      "english": "Are you also working on something?",
+      "korean": "당신도 뭔가 하고 있나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024657"
+    },
+    {
+      "english": "Tell me about your dreams.",
+      "korean": "당신의 꿈에 대해 말해주세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024658"
+    },
+    {
+      "english": "What drives your passion?",
+      "korean": "무엇이 당신의 열정을 불태우나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024660"
+    },
+    {
+      "english": "How do you stay motivated daily?",
+      "korean": "매일 어떻게 동기 부여를 유지해요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024661"
+    },
+    {
+      "english": "What inspires you the most?",
+      "korean": "무엇이 당신에게 가장 큰 영감을 주나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024663"
+    },
+    {
+      "english": "Let's share our inspirations.",
+      "korean": "서로의 영감을 나눠봐요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024664"
+    },
+    {
+      "english": "What are your hopes for the future?",
+      "korean": "미래에 대한 당신의 희망은 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024666"
+    },
+    {
+      "english": "What's the best lesson learned?",
+      "korean": "배운 최고의 교훈은 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024668"
+    },
+    {
+      "english": "Can we discuss this idea further?",
+      "korean": "이 아이디어에 대해 더 이야기 나눌 수 있을까요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024669"
+    },
+    {
+      "english": "What did you learn from that?",
+      "korean": "그것으로부터 무엇을 배웠나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024671"
+    },
+    {
+      "english": "What makes you feel alive?",
+      "korean": "무엇이 당신을 살아있다고 느끼게 하나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024672"
+    },
+    {
+      "english": "How can we support each other?",
+      "korean": "우리는 서로 어떻게 도울 수 있을까요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024674"
+    },
+    {
+      "english": "What's a good starting point?",
+      "korean": "좋은 시작점은 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024676"
+    },
+    {
+      "english": "What are your immediate thoughts?",
+      "korean": "당신의 즉각적인 생각은 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024677"
+    },
+    {
+      "english": "Did you have an epiphany?",
+      "korean": "깨달음을 얻었나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024679"
+    },
+    {
+      "english": "What's on your mind right now?",
+      "korean": "지금 무슨 생각을 하고 있어요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024680"
+    },
+    {
+      "english": "How do you see this developing?",
+      "korean": "이것이 어떻게 발전할 것이라고 봐요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024682"
+    },
+    {
+      "english": "What are you most curious about?",
+      "korean": "무엇에 대해 가장 호기심이 많나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024684"
+    },
+    {
+      "english": "Can you clarify that point?",
+      "korean": "그 점을 명확히 해 주시겠어요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024685"
+    },
+    {
+      "english": "What's the underlying reason?",
+      "korean": "근본적인 이유는 무엇인가요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024687"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "korean": "너 자신을 믿어, 항상.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024689"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "korean": "넌 할 수 있어, 의심 마.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024691"
+    },
+    {
+      "english": "Keep pushing forward, little by little.",
+      "korean": "조금씩, 계속 나아가.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024693"
+    },
+    {
+      "english": "Every effort counts, seriously.",
+      "korean": "모든 노력이 중요해, 정말.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024695"
+    },
+    {
+      "english": "You're doing great, honestly.",
+      "korean": "잘 하고 있어, 진짜.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024697"
+    },
+    {
+      "english": "Don't give up, not yet.",
+      "korean": "포기하지 마, 아직.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024699"
+    },
+    {
+      "english": "Your potential is huge, wow.",
+      "korean": "너의 잠재력은 엄청나, 와.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024701"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "korean": "심호흡 해봐, 편안하게.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024703"
+    },
+    {
+      "english": "Focus on your goal, clear.",
+      "korean": "목표에 집중해, 명확하게.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024704"
+    },
+    {
+      "english": "You can overcome anything.",
+      "korean": "무엇이든 이겨낼 수 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024706"
+    },
+    {
+      "english": "Let your spirit shine, bright.",
+      "korean": "너의 영혼을 빛나게 해, 밝게.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024707"
+    },
+    {
+      "english": "This is your journey, own it.",
+      "korean": "이건 너의 여정이야, 즐겨.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024709"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "korean": "넌 네 생각보다 강해.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024711"
+    },
+    {
+      "english": "Keep that positive vibe, yeah.",
+      "korean": "그 긍정적인 느낌 유지해, 응.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024712"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "korean": "너의 노력이 보상받을 거야.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024714"
+    },
+    {
+      "english": "You are capable of great things.",
+      "korean": "넌 위대한 일을 할 수 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024716"
+    },
+    {
+      "english": "Just keep going, no matter what.",
+      "korean": "그냥 계속 가, 무슨 일이 있어도.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024717"
+    },
+    {
+      "english": "Believe in the process, trust.",
+      "korean": "과정을 믿어봐, 신뢰해.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024719"
+    },
+    {
+      "english": "You have so much potential.",
+      "korean": "너한테 잠재력이 정말 많아.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024720"
+    },
+    {
+      "english": "Let your dreams take flight.",
+      "korean": "너의 꿈을 날게 해봐.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024722"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "korean": "집중하고, 강하게 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024723"
+    },
+    {
+      "english": "You are on the right track.",
+      "korean": "너 지금 잘 하고 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024725"
+    },
+    {
+      "english": "Never stop learning, grow.",
+      "korean": "배움을 멈추지 마, 성장해.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024726"
+    },
+    {
+      "english": "You're doing amazing work.",
+      "korean": "정말 대단한 일을 하고 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024728"
+    },
+    {
+      "english": "Keep that fire burning inside.",
+      "korean": "내면의 불꽃을 계속 태워.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024730"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "korean": "너의 노력이 칭찬할 만해.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024731"
+    },
+    {
+      "english": "You can do incredible things.",
+      "korean": "넌 믿기지 않는 일을 할 수 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024733"
+    },
+    {
+      "english": "Keep up the great momentum.",
+      "korean": "그 좋은 기세 계속 이어가.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024734"
+    },
+    {
+      "english": "You are capable of more.",
+      "korean": "넌 더 많은 것을 할 수 있어.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024736"
+    },
+    {
+      "english": "Quiet moments, often teach us most.",
+      "korean": "고요한 순간이, 우리에게 가장 많이 가르쳐요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024738"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "korean": "마음의 소리를 들어봐요, 그게 알아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024739"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "korean": "진정한 힘은, 내면에서 와요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024741"
+    },
+    {
+      "english": "Reflect deeply, find your truth.",
+      "korean": "깊이 성찰해요, 당신의 진실을 찾아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024743"
+    },
+    {
+      "english": "Patience, plants the seeds.",
+      "korean": "인내는, 씨앗을 심어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024745"
+    },
+    {
+      "english": "This feeling, is temporary.",
+      "korean": "이 감정은, 잠시예요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024746"
+    },
+    {
+      "english": "Embrace vulnerability, it's okay.",
+      "korean": "취약함을 받아들여요, 괜찮아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024748"
+    },
+    {
+      "english": "Honesty with yourself, is key.",
+      "korean": "스스로에게 솔직한 것, 중요해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024750"
+    },
+    {
+      "english": "Allow yourself, to feel deeply.",
+      "korean": "깊이 느끼도록, 허락해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024751"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "korean": "당신에게, 정말 중요한 것은?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024753"
+    },
+    {
+      "english": "Small steps, lead to big changes.",
+      "korean": "작은 발걸음이, 큰 변화를 이끌어요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024755"
+    },
+    {
+      "english": "Find peace, in this moment.",
+      "korean": "이 순간 속에서, 평화를 찾아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024757"
+    },
+    {
+      "english": "Your inner voice, is wise.",
+      "korean": "당신의 내면의 목소리, 현명해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024758"
+    },
+    {
+      "english": "Gratitude, shifts your perspective.",
+      "korean": "감사는, 당신의 관점을 바꿔요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024760"
+    },
+    {
+      "english": "It's okay, to not have answers.",
+      "korean": "정답이 없어도, 괜찮아요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024762"
+    },
+    {
+      "english": "This is a learning curve.",
+      "korean": "이것은 학습 곡선이에요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024763"
+    },
+    {
+      "english": "Be kind, to your own heart.",
+      "korean": "자신의 마음에, 친절하세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024765"
+    },
+    {
+      "english": "Trust the journey, it unfolds.",
+      "korean": "여정을 믿어요, 펼쳐질 거예요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024767"
+    },
+    {
+      "english": "Your emotions, are valid.",
+      "korean": "당신의 감정은, 유효해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024768"
+    },
+    {
+      "english": "Seek understanding, deeply.",
+      "korean": "깊이 이해를 구해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024770"
+    },
+    {
+      "english": "This perspective, is new.",
+      "korean": "이 관점은, 새로워요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024772"
+    },
+    {
+      "english": "Allow yourself, to pause.",
+      "korean": "잠시 멈추도록, 허락해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024774"
+    },
+    {
+      "english": "What brings you, inner peace?",
+      "korean": "무엇이 당신에게, 내면의 평화를 주나요?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024775"
+    },
+    {
+      "english": "Self-compassion, is vital.",
+      "korean": "자기 연민은, 필수적이에요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024777"
+    },
+    {
+      "english": "Releasing expectations, frees you.",
+      "korean": "기대를 놓는 것, 당신을 자유롭게 해요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024779"
+    },
+    {
+      "english": "This is a moment, of growth.",
+      "korean": "이것은 성장의, 순간이에요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024780"
+    },
+    {
+      "english": "Connect with your feelings, truly.",
+      "korean": "당신의 감정과, 진정으로 연결되세요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024782"
+    },
+    {
+      "english": "Authenticity, is your superpower.",
+      "korean": "진정성은, 당신의 초능력이에요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024783"
+    },
+    {
+      "english": "Embrace the quiet, wisdom awaits.",
+      "korean": "고요함을 받아들이세요, 지혜가 기다려요.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024785"
+    },
+    {
+      "english": "Try it once, you'll see.",
+      "korean": "한 번 해봐, 알게 될 거야.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024786"
+    },
+    {
+      "english": "Don't be afraid, just ask.",
+      "korean": "쫄지 말고, 그냥 물어봐.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024788"
+    },
+    {
+      "english": "This is how we do it.",
+      "korean": "이게 바로, 우리가 하는 방식이야.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-17T05:09:07.024790"
     }
   ],
-  "last_updated": "2026-05-12T22:16:24.748236"
+  "last_updated": "2026-10-17T05:09:07.024791"
 }
