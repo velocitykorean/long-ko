@@ -6041,7 +6041,727 @@
       "korean": "이게 바로, 우리가 하는 방식이야.",
       "category": "Inspiration",
       "generated_at": "2026-10-17T05:09:07.024790"
+    },
+    {
+      "english": "Thank you, so much.",
+      "korean": "정말, 감사합니다.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528169"
+    },
+    {
+      "english": "You're welcome, anytime.",
+      "korean": "천만에요, 언제든지요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528182"
+    },
+    {
+      "english": "Excuse me, please.",
+      "korean": "저기요, 부탁해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528186"
+    },
+    {
+      "english": "I'm sorry, my bad.",
+      "korean": "죄송해요, 제 실수예요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528189"
+    },
+    {
+      "english": "No problem, really.",
+      "korean": "괜찮아요, 정말로요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528192"
+    },
+    {
+      "english": "This is delicious, wow.",
+      "korean": "이거 맛있어요, 와.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528197"
+    },
+    {
+      "english": "Good job, well done.",
+      "korean": "잘했어요, 수고했어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528199"
+    },
+    {
+      "english": "Let's go, together.",
+      "korean": "같이, 가요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528205"
+    },
+    {
+      "english": "Here you go, please.",
+      "korean": "여기 있어요, 드세요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528208"
+    },
+    {
+      "english": "Take care, bye bye.",
+      "korean": "안녕히 가세요, 안녕.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528211"
+    },
+    {
+      "english": "It's okay, don't worry.",
+      "korean": "괜찮아요, 걱정 마세요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528217"
+    },
+    {
+      "english": "I understand, totally.",
+      "korean": "이해해요, 완전히요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528219"
+    },
+    {
+      "english": "That's great, really.",
+      "korean": "정말 좋네요, 진짜.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528222"
+    },
+    {
+      "english": "You can do it, fighting!",
+      "korean": "할 수 있어요, 파이팅!",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528225"
+    },
+    {
+      "english": "Let's rest, for a bit.",
+      "korean": "잠깐, 쉬어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528228"
+    },
+    {
+      "english": "What do you think, hmm?",
+      "korean": "어떻게 생각해요, 음?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528231"
+    },
+    {
+      "english": "I'll help, with this.",
+      "korean": "제가, 도와줄게요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528233"
+    },
+    {
+      "english": "It's beautiful, truly.",
+      "korean": "아름다워요, 정말.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528236"
+    },
+    {
+      "english": "Have a good day, always.",
+      "korean": "좋은 하루 보내세요, 항상.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528239"
+    },
+    {
+      "english": "Don't give up, please.",
+      "korean": "포기하지 마세요, 제발.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528242"
+    },
+    {
+      "english": "I believe you, totally.",
+      "korean": "믿어요, 당신을요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528244"
+    },
+    {
+      "english": "You look tired, rest up.",
+      "korean": "피곤해 보여요, 쉬세요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528247"
+    },
+    {
+      "english": "It's very kind, of you.",
+      "korean": "정말 친절하시네요, 당신.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528258"
+    },
+    {
+      "english": "Let's be friends, okay?",
+      "korean": "친구가 돼요, 좋아요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528262"
+    },
+    {
+      "english": "You are awesome, really.",
+      "korean": "정말 대단해요, 당신.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528264"
+    },
+    {
+      "english": "Happy to help, always.",
+      "korean": "돕게 되어 기뻐요, 언제나.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528267"
+    },
+    {
+      "english": "Thinking of you, today.",
+      "korean": "오늘, 당신을 생각해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528270"
+    },
+    {
+      "english": "May you be happy, always.",
+      "korean": "행복하시길 바라요, 늘.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528272"
+    },
+    {
+      "english": "You deserve the best, truly.",
+      "korean": "최고를 받을 자격 있어요, 정말.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528275"
+    },
+    {
+      "english": "Sending good vibes, your way.",
+      "korean": "좋은 기운 보내요, 당신에게.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528277"
+    },
+    {
+      "english": "May I ask, something small?",
+      "korean": "작은 거 하나, 여쭤봐도 될까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528280"
+    },
+    {
+      "english": "What do you recommend, for today?",
+      "korean": "오늘 뭐 드시는 거 추천하세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528283"
+    },
+    {
+      "english": "Could you help me, with this task?",
+      "korean": "이 일 좀, 도와주실 수 있을까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528288"
+    },
+    {
+      "english": "Is this seat, taken?",
+      "korean": "여기 자리, 있나요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528291"
+    },
+    {
+      "english": "What are your thoughts, on this?",
+      "korean": "이것에 대해, 어떻게 생각하세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528294"
+    },
+    {
+      "english": "Can I borrow, your pen for a moment?",
+      "korean": "펜 잠깐, 빌려도 될까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528297"
+    },
+    {
+      "english": "Did you sleep, well last night?",
+      "korean": "어젯밤, 잘 주무셨어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528300"
+    },
+    {
+      "english": "How was your day, overall?",
+      "korean": "오늘 하루, 어떠셨어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528303"
+    },
+    {
+      "english": "What brings you, here today?",
+      "korean": "오늘 무슨 일로, 오셨어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528306"
+    },
+    {
+      "english": "Do you need, any assistance?",
+      "korean": "도움 필요하신 거, 있으세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528309"
+    },
+    {
+      "english": "What's your favorite, Korean food?",
+      "korean": "가장 좋아하는, 한국 음식이 뭐예요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528312"
+    },
+    {
+      "english": "Could you tell me, the time please?",
+      "korean": "지금 몇 시인지, 알려주시겠어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528316"
+    },
+    {
+      "english": "Is there anything, I can do for you?",
+      "korean": "제가 해드릴 수 있는 일, 있을까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528319"
+    },
+    {
+      "english": "Where is the nearest, restroom?",
+      "korean": "가장 가까운 화장실, 어디인가요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528322"
+    },
+    {
+      "english": "What kind of music, do you like?",
+      "korean": "어떤 종류의 음악을, 좋아하세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528325"
+    },
+    {
+      "english": "Would you like, some water?",
+      "korean": "물 좀, 드릴까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528328"
+    },
+    {
+      "english": "Can you speak, English here?",
+      "korean": "여기서 영어, 할 수 있나요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528330"
+    },
+    {
+      "english": "Do you have, a moment to chat?",
+      "korean": "잠시 이야기 나눌, 시간 있으세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528333"
+    },
+    {
+      "english": "What are your plans, for the weekend?",
+      "korean": "주말 계획, 어떻게 되세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528336"
+    },
+    {
+      "english": "Is this the right, way?",
+      "korean": "이쪽이 맞는, 길인가요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528338"
+    },
+    {
+      "english": "Could you repeat, that please?",
+      "korean": "다시 한번, 말씀해주시겠어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528341"
+    },
+    {
+      "english": "What's your favorite, hobby?",
+      "korean": "가장 좋아하는, 취미가 뭐예요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528344"
+    },
+    {
+      "english": "Do you need, directions?",
+      "korean": "길을 잘 모르시겠어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528347"
+    },
+    {
+      "english": "Can I ask, for a recommendation?",
+      "korean": "추천 좀, 부탁드려도 될까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528349"
+    },
+    {
+      "english": "What time, does it open?",
+      "korean": "몇 시에, 문 여나요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528352"
+    },
+    {
+      "english": "Are you waiting, for someone?",
+      "korean": "누구 기다리세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528355"
+    },
+    {
+      "english": "Could you show me, how to do this?",
+      "korean": "이거 어떻게 하는지, 알려주시겠어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528357"
+    },
+    {
+      "english": "What are you, looking for?",
+      "korean": "무엇을 찾으세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528360"
+    },
+    {
+      "english": "Did you enjoy, the event?",
+      "korean": "행사 즐거우셨나요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528363"
+    },
+    {
+      "english": "What's the best, way to get there?",
+      "korean": "거기 가는 가장 좋은, 방법이 뭐예요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528366"
+    },
+    {
+      "english": "A small favor, can you do it?",
+      "korean": "작은 부탁인데, 좀 들어줄래?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528370"
+    },
+    {
+      "english": "This is for you, a little gift.",
+      "korean": "이거 너 주려고, 작은 선물.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528373"
+    },
+    {
+      "english": "Don't worry, I'll help you out.",
+      "korean": "걱정 마, 내가 도와줄게.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528376"
+    },
+    {
+      "english": "Let's share, what we have.",
+      "korean": "서로 나누자, 가진 것을.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528379"
+    },
+    {
+      "english": "Your kindness, is a great help.",
+      "korean": "네 친절이, 큰 도움이 돼.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528382"
+    },
+    {
+      "english": "Take care, of yourself too.",
+      "korean": "너도, 몸조리 잘 해.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528385"
+    },
+    {
+      "english": "We can overcome, this together.",
+      "korean": "우리 함께, 이겨낼 수 있어.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528387"
+    },
+    {
+      "english": "Be understanding, always.",
+      "korean": "이해심을, 항상 가지자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528390"
+    },
+    {
+      "english": "A little consideration, goes a long way.",
+      "korean": "작은 배려가, 큰 힘이 되지.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528393"
+    },
+    {
+      "english": "Let's be good neighbors, okay?",
+      "korean": "우리 좋은 이웃, 하자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528396"
+    },
+    {
+      "english": "That's very thoughtful, of you.",
+      "korean": "정말 세심하네, 당신.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528399"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "korean": "노력에, 감사해.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528402"
+    },
+    {
+      "english": "Don't feel bad, about it.",
+      "korean": "너무, 속상해하지 마.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528404"
+    },
+    {
+      "english": "We're all in, this together.",
+      "korean": "우리 모두, 함께야.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528409"
+    },
+    {
+      "english": "A little help, makes a big difference.",
+      "korean": "작은 도움이, 큰 차이를 만들지.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528412"
+    },
+    {
+      "english": "Let's give each other, a hand.",
+      "korean": "서로 돕는, 사이가 되자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528415"
+    },
+    {
+      "english": "Your support, means a lot.",
+      "korean": "당신의 지지가, 큰 의미야.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528417"
+    },
+    {
+      "english": "Be considerate, of others.",
+      "korean": "타인을, 배려하자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528420"
+    },
+    {
+      "english": "It’s the little things, that count.",
+      "korean": "작은 것들이, 중요해.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528424"
+    },
+    {
+      "english": "We can get through, this hard time.",
+      "korean": "이 힘든 시기를, 함께 넘자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528427"
+    },
+    {
+      "english": "Let's be kind, to strangers.",
+      "korean": "모르는 사람에게도, 친절하자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528430"
+    },
+    {
+      "english": "Your presence, is comforting.",
+      "korean": "당신이 곁에 있어, 든든해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528433"
+    },
+    {
+      "english": "Lend a listening ear, sometimes.",
+      "korean": "가끔은, 귀 기울여 들어주자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528435"
+    },
+    {
+      "english": "Let's create, a better world.",
+      "korean": "더 나은 세상을, 함께 만들자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528438"
+    },
+    {
+      "english": "Every little bit, helps.",
+      "korean": "조금씩이라도, 도움이 돼.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528441"
+    },
+    {
+      "english": "A warm smile, can change a day.",
+      "korean": "따뜻한 미소 하나가, 하루를 바꿔.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528443"
+    },
+    {
+      "english": "Let's show, some empathy.",
+      "korean": "서로 공감하며, 지내자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528448"
+    },
+    {
+      "english": "May peace, be with you.",
+      "korean": "평화가, 당신과 함께하길.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528452"
+    },
+    {
+      "english": "You're not alone, in this.",
+      "korean": "이 일에, 혼자가 아니에요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528455"
+    },
+    {
+      "english": "Let's spread, positivity.",
+      "korean": "긍정적인 기운을, 나누자.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528458"
+    },
+    {
+      "english": "I'm reflecting, on my actions.",
+      "korean": "제 행동을 돌아보고 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528461"
+    },
+    {
+      "english": "True kindness, comes from the heart.",
+      "korean": "진정한 친절은, 마음에서 우러나와요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528464"
+    },
+    {
+      "english": "Patience is, a virtue, I'm learning.",
+      "korean": "인내는 미덕이죠, 배우고 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528467"
+    },
+    {
+      "english": "How do you, feel about this?",
+      "korean": "이것에 대해, 어떻게 생각하세요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528470"
+    },
+    {
+      "english": "Let's be honest, with ourselves.",
+      "korean": "우리 자신에게, 솔직해져요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528474"
+    },
+    {
+      "english": "My feelings, are quite mixed.",
+      "korean": "제 감정은, 꽤 복잡해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528477"
+    },
+    {
+      "english": "What's truly, important to you?",
+      "korean": "당신에게, 정말 중요한 것은 무엇인가요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528480"
+    },
+    {
+      "english": "I need time, to process this.",
+      "korean": "이것을 처리할, 시간이 필요해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528483"
+    },
+    {
+      "english": "Being understanding, takes effort.",
+      "korean": "이해심을 가지는 것은, 노력이 필요해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528486"
+    },
+    {
+      "english": "Let's share, our thoughts openly.",
+      "korean": "우리의 생각을, 솔직하게 나눠봐요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528489"
+    },
+    {
+      "english": "I'm trying, to be more patient.",
+      "korean": "더 인내심을 가지려고, 노력 중이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528492"
+    },
+    {
+      "english": "How did that, make you feel?",
+      "korean": "그것 때문에, 기분이 어땠어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528494"
+    },
+    {
+      "english": "My perspective, has changed.",
+      "korean": "제 관점이, 바뀌었어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528497"
+    },
+    {
+      "english": "I'm thinking, deeply about it.",
+      "korean": "그것에 대해, 깊이 생각하고 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528500"
+    },
+    {
+      "english": "What's your, inner motivation?",
+      "korean": "당신의 내면 동기는, 무엇인가요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528503"
+    },
+    {
+      "english": "It's okay, to feel this way.",
+      "korean": "이렇게 느끼는 것도, 괜찮아요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528507"
+    },
+    {
+      "english": "Kindness requires, self-awareness.",
+      "korean": "친절함은, 자기 인식을 필요로 해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528511"
+    },
+    {
+      "english": "Can we talk, about our feelings?",
+      "korean": "우리 감정에 대해, 이야기할 수 있을까요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528513"
+    },
+    {
+      "english": "I'm trying, to understand better.",
+      "korean": "더 잘 이해하려고, 노력하고 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528516"
+    },
+    {
+      "english": "This situation, makes me thoughtful.",
+      "korean": "이 상황이, 저를 사려 깊게 만드네요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528519"
+    },
+    {
+      "english": "What lessons, did you learn?",
+      "korean": "어떤 교훈을, 얻으셨어요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528521"
+    },
+    {
+      "english": "Honesty builds, trust, I believe.",
+      "korean": "정직은 신뢰를 쌓아요, 저는 믿어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528525"
+    },
+    {
+      "english": "My heart feels, a bit heavy.",
+      "korean": "마음이, 조금 무겁게 느껴져요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528527"
+    },
+    {
+      "english": "Let's be kind, even when tired.",
+      "korean": "피곤할 때라도, 친절하게 대해요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528530"
+    },
+    {
+      "english": "I'm contemplating, the future.",
+      "korean": "미래를, 숙고하고 있어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528533"
+    },
+    {
+      "english": "Your honesty, is appreciated.",
+      "korean": "당신의 정직함이, 감사하게 느껴져요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528541"
+    },
+    {
+      "english": "What's your, emotional state?",
+      "korean": "당신의 감정 상태는, 어떤가요?",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528544"
+    },
+    {
+      "english": "Kindness is, a continuous effort.",
+      "korean": "친절함은, 지속적인 노력이에요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528546"
+    },
+    {
+      "english": "Small favors, make a big difference.",
+      "korean": "작은 호의가, 큰 차이를 만들어요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528549"
+    },
+    {
+      "english": "Let's help each other, out.",
+      "korean": "서로 돕고, 살아요.",
+      "category": "Kindness",
+      "generated_at": "2026-10-18T05:15:14.528552"
     }
   ],
-  "last_updated": "2026-10-17T05:09:07.024791"
+  "last_updated": "2026-10-18T05:15:14.528554"
 }
