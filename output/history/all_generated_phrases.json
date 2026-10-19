@@ -6761,7 +6761,727 @@
       "korean": "서로 돕고, 살아요.",
       "category": "Kindness",
       "generated_at": "2026-10-18T05:15:14.528552"
+    },
+    {
+      "english": "My apologies, I bumped you.",
+      "korean": "죄송합니다, 제가 부딪혔어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049573"
+    },
+    {
+      "english": "Sorry, I didn't see you.",
+      "korean": "미안해요, 못 봤어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049587"
+    },
+    {
+      "english": "Please forgive my mistake.",
+      "korean": "제 실수, 너그러이 봐주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049590"
+    },
+    {
+      "english": "It won't happen again.",
+      "korean": "다시는 안 그럴게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049593"
+    },
+    {
+      "english": "I'm truly sorry for that.",
+      "korean": "그 일에 대해 정말 미안해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049596"
+    },
+    {
+      "english": "Can you overlook this?",
+      "korean": "이것 좀 눈감아 줄래요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049599"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "korean": "용서해 주시면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049602"
+    },
+    {
+      "english": "That was my bad.",
+      "korean": "제 잘못이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049607"
+    },
+    {
+      "english": "Please excuse my rudeness.",
+      "korean": "무례했던 것, 용서해주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049611"
+    },
+    {
+      "english": "I owe you an apology.",
+      "korean": "제가 사과해야 마땅해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049614"
+    },
+    {
+      "english": "Don't hold it against me.",
+      "korean": "저를 탓하지 말아 주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049617"
+    },
+    {
+      "english": "Let's forget about it.",
+      "korean": "그냥 잊어버려요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049619"
+    },
+    {
+      "english": "I'm sorry for the trouble.",
+      "korean": "번거롭게 해서 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049622"
+    },
+    {
+      "english": "I regret my actions.",
+      "korean": "제 행동을 후회해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049626"
+    },
+    {
+      "english": "Can we move past this?",
+      "korean": "이것을 넘어가 줄 수 있나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049629"
+    },
+    {
+      "english": "I hope for your understanding.",
+      "korean": "이해해주시길 바라요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049631"
+    },
+    {
+      "english": "My deepest apologies.",
+      "korean": "진심으로 사과드립니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049634"
+    },
+    {
+      "english": "Please accept my apology.",
+      "korean": "제 사과를 받아주세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049636"
+    },
+    {
+      "english": "I messed up, sorry.",
+      "korean": "제가 망쳤어요, 미안해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049639"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "korean": "서운한 마음 없기, 알았죠?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049641"
+    },
+    {
+      "english": "I'm sorry I was late.",
+      "korean": "늦어서 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049644"
+    },
+    {
+      "english": "Let's call it even.",
+      "korean": "이제 쌤쌤 하는 걸로 해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049646"
+    },
+    {
+      "english": "I take full responsibility.",
+      "korean": "제 책임입니다, 전적으로.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049649"
+    },
+    {
+      "english": "I hope you're not too upset.",
+      "korean": "너무 화 안 나셨으면 좋겠어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049652"
+    },
+    {
+      "english": "I ask for your forgiveness.",
+      "korean": "용서를 구합니다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049654"
+    },
+    {
+      "english": "I really regret this.",
+      "korean": "정말 후회하고 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049656"
+    },
+    {
+      "english": "Can you grant me grace?",
+      "korean": "너그러움을 베풀어 주시겠어요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049659"
+    },
+    {
+      "english": "I'm sorry for causing pain.",
+      "korean": "상처를 드린 것, 죄송해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049661"
+    },
+    {
+      "english": "Let's make up, okay?",
+      "korean": "화해해요, 우리?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049664"
+    },
+    {
+      "english": "Did I say something wrong, perhaps?",
+      "korean": "제가 혹시, 잘못 말했나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049667"
+    },
+    {
+      "english": "What can I do, to make amends?",
+      "korean": "제가 어떻게 하면, 될까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049670"
+    },
+    {
+      "english": "Is there something, bothering you?",
+      "korean": "뭐 때문에, 그러세요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049674"
+    },
+    {
+      "english": "Can you tell me, what happened?",
+      "korean": "무슨 일인지, 말해줄 수 있어요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049677"
+    },
+    {
+      "english": "How can we fix this, together?",
+      "korean": "이걸 어떻게, 같이 풀어나갈까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049680"
+    },
+    {
+      "english": "Your reaction, is it because of me?",
+      "korean": "당신 반응이, 저 때문인가요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049683"
+    },
+    {
+      "english": "Could you explain, your feelings?",
+      "korean": "당신의 마음을, 설명해 주시겠어요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049686"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "korean": "정말 무슨 생각, 하고 계세요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049689"
+    },
+    {
+      "english": "Shall we discuss, this calmly?",
+      "korean": "이 문제, 차분히 이야기할까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049691"
+    },
+    {
+      "english": "Do you need, some space right now?",
+      "korean": "지금, 혼자 있을 시간이 필요하세요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049695"
+    },
+    {
+      "english": "What would make you, feel better?",
+      "korean": "어떻게 하면, 기분이 나아지실까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049697"
+    },
+    {
+      "english": "Can we find, common ground here?",
+      "korean": "여기서, 공통점을 찾을 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049700"
+    },
+    {
+      "english": "Is there anything, I misunderstood?",
+      "korean": "제가 혹시, 오해한 부분이 있나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049705"
+    },
+    {
+      "english": "How do you want, to proceed?",
+      "korean": "앞으로 어떻게, 하길 원하시나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049708"
+    },
+    {
+      "english": "Can I help, resolve this issue?",
+      "korean": "이 문제를, 해결하는 데 도울 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049711"
+    },
+    {
+      "english": "What’s your perspective, on this?",
+      "korean": "이것에 대한, 당신의 관점은 무엇인가요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049715"
+    },
+    {
+      "english": "What should I do, next?",
+      "korean": "제가 다음엔, 뭘 해야 할까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049718"
+    },
+    {
+      "english": "Are you open to, talking it over?",
+      "korean": "이것에 대해, 이야기 나눌 의향이 있으신가요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049721"
+    },
+    {
+      "english": "What is your wish, in this matter?",
+      "korean": "이 일에 있어서, 당신의 바람은 무엇인가요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049724"
+    },
+    {
+      "english": "Can we find, a way forward?",
+      "korean": "앞으로 나아갈, 방법을 찾을 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049727"
+    },
+    {
+      "english": "Did I hurt you, unintentionally?",
+      "korean": "제가 의도치 않게, 상처를 드렸나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049729"
+    },
+    {
+      "english": "What’s the best way, to communicate?",
+      "korean": "가장 좋은 소통, 방법은 무엇일까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049733"
+    },
+    {
+      "english": "Can you share, your concerns?",
+      "korean": "걱정되는 부분을, 공유해 주시겠어요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049736"
+    },
+    {
+      "english": "How can I help, you feel heard?",
+      "korean": "제가 어떻게 해야, 당신의 마음을 알아줄까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049739"
+    },
+    {
+      "english": "What outcome, do you desire?",
+      "korean": "어떤 결과를, 원하시나요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049741"
+    },
+    {
+      "english": "Can we clear, the air between us?",
+      "korean": "우리 사이에, 오해를 풀 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049744"
+    },
+    {
+      "english": "What action, would be best now?",
+      "korean": "지금, 어떤 행동이 가장 좋을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049747"
+    },
+    {
+      "english": "Is there a way, to bridge this gap?",
+      "korean": "이 간극을, 좁힐 방법이 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049750"
+    },
+    {
+      "english": "Can you suggest, a solution?",
+      "korean": "해결책을, 제안해 주시겠어요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049752"
+    },
+    {
+      "english": "You are strong, and kind.",
+      "korean": "당신은 강하고, 친절해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049755"
+    },
+    {
+      "english": "Your heart is, so pure.",
+      "korean": "마음이, 정말 맑아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049758"
+    },
+    {
+      "english": "Let go of, grudges now.",
+      "korean": "이제, 묵은 감정은 털어내요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049761"
+    },
+    {
+      "english": "Your smile, is a gift.",
+      "korean": "당신의 미소는, 선물이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049765"
+    },
+    {
+      "english": "You shine, like the sun.",
+      "korean": "태양처럼, 빛나고 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049768"
+    },
+    {
+      "english": "Inner peace, is key.",
+      "korean": "마음의 평화가, 중요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049773"
+    },
+    {
+      "english": "You have, a good soul.",
+      "korean": "좋은 영혼을, 가졌어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049775"
+    },
+    {
+      "english": "Believe in, your goodness.",
+      "korean": "자신의 선함을, 믿으세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049778"
+    },
+    {
+      "english": "Your spirit, is bright.",
+      "korean": "당신의 정신은, 밝아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049781"
+    },
+    {
+      "english": "You deserve, happiness.",
+      "korean": "행복을, 누릴 자격이 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049783"
+    },
+    {
+      "english": "Let healing, begin now.",
+      "korean": "치유가, 지금 시작되길 바라요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049788"
+    },
+    {
+      "english": "Your strength, inspires me.",
+      "korean": "당신의 강함이, 저에게 영감을 줘요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049790"
+    },
+    {
+      "english": "You are, worthy of love.",
+      "korean": "사랑받을, 가치가 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049793"
+    },
+    {
+      "english": "Focus on, positive things.",
+      "korean": "긍정적인 것에, 집중해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049796"
+    },
+    {
+      "english": "Your heart, is forgiving.",
+      "korean": "마음이, 너그러워요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049799"
+    },
+    {
+      "english": "Rise above, the hurt.",
+      "korean": "상처를, 극복하세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049801"
+    },
+    {
+      "english": "You possess, great empathy.",
+      "korean": "큰 공감 능력을, 가졌어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049804"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "korean": "자신에게, 부드럽게 대하세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049807"
+    },
+    {
+      "english": "Your kindness, matters greatly.",
+      "korean": "당신의 친절함이, 매우 중요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049810"
+    },
+    {
+      "english": "You have, a beautiful spirit.",
+      "korean": "아름다운 정신을, 가졌어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049812"
+    },
+    {
+      "english": "Your resilience, is amazing.",
+      "korean": "당신의 회복력이, 놀라워요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049815"
+    },
+    {
+      "english": "Embrace, inner calm.",
+      "korean": "내면의 평온을, 받아들이세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049817"
+    },
+    {
+      "english": "You are capable, of growth.",
+      "korean": "성장할 수 있는, 능력이 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049820"
+    },
+    {
+      "english": "Your compassion, shines through.",
+      "korean": "당신의 연민이, 빛나요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049823"
+    },
+    {
+      "english": "Let forgiveness, bloom now.",
+      "korean": "용서가, 지금 피어나길 바라요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049825"
+    },
+    {
+      "english": "You are, a blessing.",
+      "korean": "당신은, 축복이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049828"
+    },
+    {
+      "english": "Seek light, always.",
+      "korean": "항상, 빛을 찾으세요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049830"
+    },
+    {
+      "english": "I need time, to think it over.",
+      "korean": "생각할 시간이, 필요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049833"
+    },
+    {
+      "english": "My feelings, are complicated right now.",
+      "korean": "지금 제 마음이, 복잡해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049836"
+    },
+    {
+      "english": "I'm still processing, this situation.",
+      "korean": "아직 상황을, 정리 중이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049839"
+    },
+    {
+      "english": "It takes patience, to heal completely.",
+      "korean": "완전히 치유되려면, 인내가 필요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049846"
+    },
+    {
+      "english": "Understanding takes, time and effort.",
+      "korean": "이해는 시간과, 노력이 필요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049849"
+    },
+    {
+      "english": "I’m reflecting, on my part.",
+      "korean": "제 몫을, 되돌아보고 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049855"
+    },
+    {
+      "english": "Can we rebuild, trust slowly?",
+      "korean": "천천히 신뢰를, 다시 쌓을 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049858"
+    },
+    {
+      "english": "My perspective, might have changed.",
+      "korean": "제 관점이, 변했을 수도 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049860"
+    },
+    {
+      "english": "It’s okay, to feel uncertain.",
+      "korean": "불확실한 감정을, 느끼는 건 괜찮아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049864"
+    },
+    {
+      "english": "I value, our relationship deeply.",
+      "korean": "저는 우리 관계를, 정말 소중하게 생각해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049867"
+    },
+    {
+      "english": "Let’s aim for, mutual understanding.",
+      "korean": "서로의 이해를, 목표로 삼아요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049870"
+    },
+    {
+      "english": "This requires, real emotional honesty.",
+      "korean": "이것은 진정한, 감정적 솔직함이 필요해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049873"
+    },
+    {
+      "english": "I’m trying, to see your side.",
+      "korean": "당신의 입장을, 이해하려고 노력 중이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049877"
+    },
+    {
+      "english": "Can we move, towards healing together?",
+      "korean": "함께 치유를 향해, 나아갈 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049880"
+    },
+    {
+      "english": "My intent, wasn’t to cause pain.",
+      "korean": "제 의도는, 상처를 주려는 것이 아니었어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049883"
+    },
+    {
+      "english": "I hope, we can find peace.",
+      "korean": "평화를 찾을 수 있기를, 바라요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049886"
+    },
+    {
+      "english": "This is a moment, for reflection.",
+      "korean": "이것은 성찰을 위한, 순간이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049923"
+    },
+    {
+      "english": "I’m learning, from this experience.",
+      "korean": "이 경험으로부터, 배우고 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049927"
+    },
+    {
+      "english": "What can I do, to help mend this?",
+      "korean": "이것을 치유하기 위해, 제가 무엇을 할 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049930"
+    },
+    {
+      "english": "Our understanding, needs more depth.",
+      "korean": "우리의 이해는, 더 깊어져야 해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049933"
+    },
+    {
+      "english": "I’m open to, honest dialogue.",
+      "korean": "솔직한 대화에, 열려 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049936"
+    },
+    {
+      "english": "Let’s acknowledge, our shared humanity.",
+      "korean": "우리의 공유된 인간성을, 인정합시다.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049939"
+    },
+    {
+      "english": "Forgiveness is, a gradual process.",
+      "korean": "용서는, 점진적인 과정이에요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049942"
+    },
+    {
+      "english": "I’m willing, to listen carefully.",
+      "korean": "주의 깊게, 들을 준비가 되어 있어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049945"
+    },
+    {
+      "english": "Can we approach, this with kindness?",
+      "korean": "이것에 친절하게, 다가갈 수 있을까요?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049948"
+    },
+    {
+      "english": "My heart seeks, reconciliation.",
+      "korean": "제 마음은, 화해를 추구해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049951"
+    },
+    {
+      "english": "Let’s create, a space for healing.",
+      "korean": "치유를 위한, 공간을 만들어요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049954"
+    },
+    {
+      "english": "Let's start over, fresh.",
+      "korean": "다시 시작합시다, 깨끗하게.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049957"
+    },
+    {
+      "english": "I accept your apology, truly.",
+      "korean": "진심으로 사과 받아들일게요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049960"
+    },
+    {
+      "english": "Let's focus on the future, okay?",
+      "korean": "미래에 집중합시다, 알겠죠?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049963"
+    },
+    {
+      "english": "I forgive you, from my heart.",
+      "korean": "마음속 깊이 당신을 용서해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049966"
+    },
+    {
+      "english": "No more holding grudges, ever.",
+      "korean": "이제 더 이상 앙금은 없어요, 절대.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049968"
+    },
+    {
+      "english": "Let's try to understand each other.",
+      "korean": "서로 이해하려고 노력해봐요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049971"
+    },
+    {
+      "english": "This happens, in real life.",
+      "korean": "이런 일은, 현실에서 일어나죠.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049976"
+    },
+    {
+      "english": "Letting go, is healthier.",
+      "korean": "놓아주는 것이, 더 건강해요.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-19T05:27:22.049979"
     }
   ],
-  "last_updated": "2026-10-18T05:15:14.528554"
+  "last_updated": "2026-10-19T05:27:22.049981"
 }
