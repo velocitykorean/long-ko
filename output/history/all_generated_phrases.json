@@ -7481,7 +7481,727 @@
       "korean": "놓아주는 것이, 더 건강해요.",
       "category": "Forgiveness",
       "generated_at": "2026-10-19T05:27:22.049979"
+    },
+    {
+      "english": "Nice weather, isn't it?",
+      "korean": "날씨 좋네요, 그렇죠?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064690"
+    },
+    {
+      "english": "It's a bit chilly, don't you think?",
+      "korean": "좀 쌀쌀하네요, 안 그래요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064703"
+    },
+    {
+      "english": "Looks like rain, be careful.",
+      "korean": "비 올 것 같아요, 조심해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064706"
+    },
+    {
+      "english": "The weather changed suddenly.",
+      "korean": "날씨가 갑자기 변했어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064709"
+    },
+    {
+      "english": "It's really hot today.",
+      "korean": "오늘 진짜 덥네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064711"
+    },
+    {
+      "english": "I love this kind of weather.",
+      "korean": "이런 날씨 너무 좋아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064713"
+    },
+    {
+      "english": "Hope the weather stays good.",
+      "korean": "날씨 계속 좋았으면 좋겠어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064715"
+    },
+    {
+      "english": "Did you see the forecast?",
+      "korean": "일기예보 봤어요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064721"
+    },
+    {
+      "english": "It's very humid today.",
+      "korean": "오늘 습도가 높네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064724"
+    },
+    {
+      "english": "The wind is strong today.",
+      "korean": "바람이 오늘 세네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064727"
+    },
+    {
+      "english": "Such a beautiful sunny day!",
+      "korean": "정말 화창한 날이네요!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064729"
+    },
+    {
+      "english": "It's freezing cold outside.",
+      "korean": "밖에 날씨가 얼어붙겠어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064731"
+    },
+    {
+      "english": "A little bit cloudy, maybe.",
+      "korean": "구름이 좀 끼었네요, 아마도.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064734"
+    },
+    {
+      "english": "What a pleasant temperature.",
+      "korean": "정말 쾌적한 온도네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064736"
+    },
+    {
+      "english": "Looks like it'll snow soon.",
+      "korean": "곧 눈이 올 것 같아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064738"
+    },
+    {
+      "english": "The air feels fresh today.",
+      "korean": "오늘 공기가 상쾌해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064742"
+    },
+    {
+      "english": "It's so bright, I can't see.",
+      "korean": "너무 밝아서 눈을 못 뜨겠어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064744"
+    },
+    {
+      "english": "This heat is unbearable.",
+      "korean": "이 더위는 견디기 힘들어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064746"
+    },
+    {
+      "english": "What's the temperature there?",
+      "korean": "거기는 기온이 몇 도예요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064748"
+    },
+    {
+      "english": "Let's go for a walk, if it's nice.",
+      "korean": "날씨 좋으면 산책 갈까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064752"
+    },
+    {
+      "english": "It's suddenly gotten colder.",
+      "korean": "갑자기 추워졌어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064754"
+    },
+    {
+      "english": "I didn't expect this weather.",
+      "korean": "이런 날씨일 줄 몰랐어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064756"
+    },
+    {
+      "english": "The sky is so clear today.",
+      "korean": "하늘이 오늘 정말 맑아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064758"
+    },
+    {
+      "english": "It's quite windy, isn't it?",
+      "korean": "바람이 꽤 부네요, 그렇죠?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064760"
+    },
+    {
+      "english": "Perfect weather for staying in.",
+      "korean": "집에 있기 딱 좋은 날씨네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064762"
+    },
+    {
+      "english": "I hope it doesn't rain tomorrow.",
+      "korean": "내일은 비가 안 왔으면 좋겠어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064764"
+    },
+    {
+      "english": "This is the best season.",
+      "korean": "가장 좋은 계절이에요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064766"
+    },
+    {
+      "english": "It's getting warmer, finally.",
+      "korean": "드디어 날씨가 따뜻해지네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064768"
+    },
+    {
+      "english": "What a gloomy day.",
+      "korean": "정말 우중충한 날이네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064770"
+    },
+    {
+      "english": "Need to wear a mask today.",
+      "korean": "오늘 마스크 써야겠어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064772"
+    },
+    {
+      "english": "What's the weather like, usually?",
+      "korean": "날씨가 보통 어떤 편이에요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064774"
+    },
+    {
+      "english": "Is it often rainy here?",
+      "korean": "여기는 비가 자주 오는 편인가요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064776"
+    },
+    {
+      "english": "How's the weather usually in spring?",
+      "korean": "봄에는 보통 날씨가 어떤가요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064779"
+    },
+    {
+      "english": "Do you check the weather app, often?",
+      "korean": "날씨 앱 자주 보세요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064781"
+    },
+    {
+      "english": "What should I wear today?",
+      "korean": "오늘 뭐 입어야 할까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064785"
+    },
+    {
+      "english": "Is it good weather for sightseeing?",
+      "korean": "관광하기 좋은 날씨인가요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064788"
+    },
+    {
+      "english": "Will it get colder tonight?",
+      "korean": "오늘 밤에 더 추워질까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064790"
+    },
+    {
+      "english": "How do locals handle this heat?",
+      "korean": "사람들은 이 더위를 어떻게 나나요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064792"
+    },
+    {
+      "english": "Is it okay to go out now?",
+      "korean": "지금 나가도 괜찮을까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064794"
+    },
+    {
+      "english": "What do you think of this humidity?",
+      "korean": "이 습도에 대해 어떻게 생각하세요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064796"
+    },
+    {
+      "english": "Is this the typical weather for this month?",
+      "korean": "이번 달 날씨가 보통 이래요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064799"
+    },
+    {
+      "english": "Do you recommend staying indoors today?",
+      "korean": "오늘은 실내에 있는 걸 추천하세요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064801"
+    },
+    {
+      "english": "What's the forecast for tomorrow?",
+      "korean": "내일 날씨는 어떻게 되나요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064803"
+    },
+    {
+      "english": "Is it usually this windy here?",
+      "korean": "여기 보통 이렇게 바람이 많이 불어요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064805"
+    },
+    {
+      "english": "How cold does it get in winter?",
+      "korean": "겨울에는 얼마나 추워지나요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064807"
+    },
+    {
+      "english": "Do you enjoy cold weather activities?",
+      "korean": "추운 날씨 활동 좋아하세요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064809"
+    },
+    {
+      "english": "Is it going to clear up soon?",
+      "korean": "곧 날이 갤까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064811"
+    },
+    {
+      "english": "What's your favorite season, really?",
+      "korean": "진짜 좋아하는 계절은 언제예요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064815"
+    },
+    {
+      "english": "Should we bring an umbrella, maybe?",
+      "korean": "우산 챙기는 게 좋을까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064817"
+    },
+    {
+      "english": "How's the air quality today?",
+      "korean": "오늘 공기는 어때요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064819"
+    },
+    {
+      "english": "Can we still have a picnic?",
+      "korean": "그래도 소풍 갈 수 있을까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064821"
+    },
+    {
+      "english": "Is it comfortable to walk around?",
+      "korean": "걸어 다니기 괜찮은 날씨인가요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064823"
+    },
+    {
+      "english": "Does it snow much in winter here?",
+      "korean": "여기 겨울에 눈이 많이 와요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064824"
+    },
+    {
+      "english": "What do you do on a rainy day?",
+      "korean": "비 오는 날에는 주로 뭐 하세요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064826"
+    },
+    {
+      "english": "Is it too hot to exercise outside?",
+      "korean": "밖에서 운동하기 너무 더운가요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064828"
+    },
+    {
+      "english": "Is the sunshine very strong today?",
+      "korean": "오늘 햇볕이 정말 강하네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064830"
+    },
+    {
+      "english": "Do you need a jacket, perhaps?",
+      "korean": "혹시 재킷이 필요할까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064832"
+    },
+    {
+      "english": "Is this weather good for allergies?",
+      "korean": "이 날씨가 알레르기에 괜찮을까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064834"
+    },
+    {
+      "english": "Should we postpone our plans?",
+      "korean": "계획을 미루는 게 좋을까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064836"
+    },
+    {
+      "english": "Keep your chin up, it'll get better.",
+      "korean": "힘내요, 나아질 거예요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064839"
+    },
+    {
+      "english": "You're doing great, really.",
+      "korean": "정말 잘하고 있어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064841"
+    },
+    {
+      "english": "This weather is good for a fresh start.",
+      "korean": "이 날씨, 새 시작에 좋네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064845"
+    },
+    {
+      "english": "Don't worry too much, okay?",
+      "korean": "너무 걱정하지 말아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064847"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "korean": "하늘이 맑아지겠죠.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064849"
+    },
+    {
+      "english": "Let's make the most of today.",
+      "korean": "오늘을 즐겨봐요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064851"
+    },
+    {
+      "english": "You have a good attitude.",
+      "korean": "태도가 좋으시네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064853"
+    },
+    {
+      "english": "This weather gives me energy.",
+      "korean": "이 날씨, 활력이 넘치네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064855"
+    },
+    {
+      "english": "Positive thoughts, positive results.",
+      "korean": "긍정적으로 생각해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064858"
+    },
+    {
+      "english": "You're handling this well.",
+      "korean": "잘 대처하고 계세요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064860"
+    },
+    {
+      "english": "It's a good day to reset.",
+      "korean": "오늘, 리셋하기 좋은 날이에요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064862"
+    },
+    {
+      "english": "This weather is a good challenge.",
+      "korean": "이 날씨, 좋은 도전이네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064864"
+    },
+    {
+      "english": "You're making good progress.",
+      "korean": "좋은 진전을 보이고 있어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064866"
+    },
+    {
+      "english": "Let's focus on the good things.",
+      "korean": "좋은 점에 집중해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064868"
+    },
+    {
+      "english": "The future looks bright.",
+      "korean": "미래가 밝아 보여요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064870"
+    },
+    {
+      "english": "This weather inspires me.",
+      "korean": "이 날씨, 영감을 줘요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064872"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "korean": "계속 앞으로 나아가요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064874"
+    },
+    {
+      "english": "Everything will be alright.",
+      "korean": "모든 것이 괜찮아질 거예요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064876"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "korean": "생각보다 강해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064878"
+    },
+    {
+      "english": "This weather is perfect for thinking.",
+      "korean": "이 날씨, 생각하기 딱 좋아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064880"
+    },
+    {
+      "english": "You're learning so fast.",
+      "korean": "정말 빨리 배우네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064884"
+    },
+    {
+      "english": "This moment is yours.",
+      "korean": "이 순간은 당신 거예요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064886"
+    },
+    {
+      "english": "Embrace the changing weather.",
+      "korean": "변화하는 날씨를 받아들여요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064887"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "korean": "노력이 정말 훌륭해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064889"
+    },
+    {
+      "english": "You're doing a fantastic job.",
+      "korean": "정말 멋지게 하고 있어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064891"
+    },
+    {
+      "english": "This weather brings good luck.",
+      "korean": "이 날씨, 행운을 가져다줘요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064893"
+    },
+    {
+      "english": "The quiet rain, it makes me thoughtful.",
+      "korean": "조용한 비, 마음을 차분하게 하네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064895"
+    },
+    {
+      "english": "This breeze, it feels like a gentle reminder.",
+      "korean": "이 바람, 부드러운 속삭임 같아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064900"
+    },
+    {
+      "english": "The sun's warmth, it heals weary souls.",
+      "korean": "햇살의 온기, 지친 마음을 치유해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064902"
+    },
+    {
+      "english": "After the storm, peace settles in.",
+      "korean": "폭풍 후, 평온이 찾아와요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064904"
+    },
+    {
+      "english": "I find solace, in this grey sky.",
+      "korean": "이 흐린 하늘에서, 위안을 얻어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064906"
+    },
+    {
+      "english": "It's a day, for patient waiting.",
+      "korean": "인내심을 가지고 기다리는 날이에요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064908"
+    },
+    {
+      "english": "The fog lifts, revealing clarity.",
+      "korean": "안개가 걷히니, 명확해져요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064910"
+    },
+    {
+      "english": "Nature's mood, mirrors my own.",
+      "korean": "자연의 기분, 제 마음과 같아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064913"
+    },
+    {
+      "english": "Today's weather, asks for introspection.",
+      "korean": "오늘 날씨, 내면을 돌아보게 하네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064915"
+    },
+    {
+      "english": "I need time, to just breathe.",
+      "korean": "그냥 숨 쉴 시간이 필요해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064917"
+    },
+    {
+      "english": "This quiet dawn, offers new hope.",
+      "korean": "이 조용한 새벽, 새로운 희망을 줘요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064919"
+    },
+    {
+      "english": "The changing seasons, teach us acceptance.",
+      "korean": "변화하는 계절, 수용을 가르쳐요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064924"
+    },
+    {
+      "english": "I feel a deep calm, in this weather.",
+      "korean": "이 날씨 속에서, 깊은 평온을 느껴요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064926"
+    },
+    {
+      "english": "Let's not rush, it takes its time.",
+      "korean": "서두르지 말아요, 시간이 걸릴 거예요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064928"
+    },
+    {
+      "english": "The wind whispers, secrets of resilience.",
+      "korean": "바람이 속삭여요, 회복의 비밀을.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064931"
+    },
+    {
+      "english": "This moment calls, for mindful reflection.",
+      "korean": "이 순간은, 사려 깊은 성찰을 불러요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064933"
+    },
+    {
+      "english": "Even grey skies, have their own beauty.",
+      "korean": "흐린 하늘도, 그 자체의 아름다움이 있어요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064935"
+    },
+    {
+      "english": "Patience is key, in uncertain times.",
+      "korean": "불확실한 시기에는, 인내가 중요해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064937"
+    },
+    {
+      "english": "The stillness, allows my thoughts to flow.",
+      "korean": "고요함은, 제 생각을 흐르게 해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064939"
+    },
+    {
+      "english": "It's okay, to feel things deeply.",
+      "korean": "깊이 느끼는 것은, 괜찮아요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064942"
+    },
+    {
+      "english": "This gentle rain, washes worries away.",
+      "korean": "이 부드러운 비는, 걱정을 씻어내요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064944"
+    },
+    {
+      "english": "I'm taking it slow, today.",
+      "korean": "오늘은 천천히 할 거예요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064946"
+    },
+    {
+      "english": "The crisp air, feels so refreshing.",
+      "korean": "상쾌한 공기, 정말 시원해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064948"
+    },
+    {
+      "english": "Let's just observe, and be present.",
+      "korean": "그냥 관찰하고, 현재에 집중해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064950"
+    },
+    {
+      "english": "This weather, encourages quiet contemplation.",
+      "korean": "이 날씨는, 조용한 사색을 권해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064952"
+    },
+    {
+      "english": "Sometimes, stillness is the answer.",
+      "korean": "때로는, 고요함이 답이에요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064956"
+    },
+    {
+      "english": "I appreciate, this peaceful atmosphere.",
+      "korean": "이 평화로운 분위기를, 감사해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064958"
+    },
+    {
+      "english": "The clouds drift by, like fleeting thoughts.",
+      "korean": "구름이 흘러가요, 덧없는 생각처럼.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064960"
+    },
+    {
+      "english": "We all need moments, to pause and reflect.",
+      "korean": "우리 모두는, 멈춰 생각할 시간이 필요해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064962"
+    },
+    {
+      "english": "Wow, such sudden rain, right?",
+      "korean": "와, 갑자기 비가 오네요, 그렇죠?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064964"
+    },
+    {
+      "english": "Did you bring an umbrella, by chance?",
+      "korean": "혹시 우산 챙겼어요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064967"
+    },
+    {
+      "english": "It's so humid today, I'm sweating.",
+      "korean": "오늘 너무 습해요, 땀나요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064969"
+    },
+    {
+      "english": "I should grab a coffee, it's chilly.",
+      "korean": "커피 한잔 해야겠어요, 쌀쌀해요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064971"
+    },
+    {
+      "english": "Will the weather clear up later?",
+      "korean": "날씨, 나중에 개일까요?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064973"
+    },
+    {
+      "english": "Perfect weather for a walk, isn't it?",
+      "korean": "산책하기 딱 좋은 날씨네요.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-20T05:29:47.064975"
     }
   ],
-  "last_updated": "2026-10-19T05:27:22.049981"
+  "last_updated": "2026-10-20T05:29:47.064977"
 }
