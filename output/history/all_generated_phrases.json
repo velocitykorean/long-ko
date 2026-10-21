@@ -8201,7 +8201,727 @@
       "korean": "산책하기 딱 좋은 날씨네요.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-10-20T05:29:47.064975"
+    },
+    {
+      "english": "One Americano, please.",
+      "korean": "아메리카노 한 잔 주세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617653"
+    },
+    {
+      "english": "Do you have Wi-Fi?",
+      "korean": "와이파이 되나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617666"
+    },
+    {
+      "english": "It's really delicious.",
+      "korean": "진짜 맛있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617670"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "korean": "영수증 주세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617673"
+    },
+    {
+      "english": "What's popular here?",
+      "korean": "여기 인기 메뉴 뭐예요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617676"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "korean": "그냥 둘러볼게요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617679"
+    },
+    {
+      "english": "How much is this?",
+      "korean": "이거 얼마예요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617681"
+    },
+    {
+      "english": "A little sweet, please.",
+      "korean": "좀 달게 해주세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617687"
+    },
+    {
+      "english": "I'll take this one.",
+      "korean": "이걸로 할게요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617691"
+    },
+    {
+      "english": "Can I sit here?",
+      "korean": "여기 앉아도 돼요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617694"
+    },
+    {
+      "english": "Thank you for the coffee.",
+      "korean": "커피 감사합니다.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617697"
+    },
+    {
+      "english": "Do you have decaf?",
+      "korean": "디카페인 있어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617699"
+    },
+    {
+      "english": "It smells so good.",
+      "korean": "냄새가 너무 좋아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617702"
+    },
+    {
+      "english": "Just black coffee.",
+      "korean": "그냥 커피요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617704"
+    },
+    {
+      "english": "For here, or to go?",
+      "korean": "여기서 드세요, 아니면 가져가세요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617710"
+    },
+    {
+      "english": "One more, please.",
+      "korean": "하나 더 주세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617713"
+    },
+    {
+      "english": "Is this fresh?",
+      "korean": "이거 신선해요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617715"
+    },
+    {
+      "english": "I need caffeine.",
+      "korean": "카페인 필요해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617718"
+    },
+    {
+      "english": "It's not too sweet.",
+      "korean": "너무 달지 않아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617720"
+    },
+    {
+      "english": "What kind of bread?",
+      "korean": "빵 종류 뭐 있어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617723"
+    },
+    {
+      "english": "I'll take a pastry.",
+      "korean": "빵 하나 살게요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617725"
+    },
+    {
+      "english": "Can I have water?",
+      "korean": "물 좀 주시겠어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617728"
+    },
+    {
+      "english": "It's perfect timing.",
+      "korean": "딱 좋아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617730"
+    },
+    {
+      "english": "Let's get some snacks.",
+      "korean": "간식 좀 먹자.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617735"
+    },
+    {
+      "english": "I'm craving coffee.",
+      "korean": "커피가 당겨요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617737"
+    },
+    {
+      "english": "This is my favorite.",
+      "korean": "이거 제일 좋아해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617742"
+    },
+    {
+      "english": "It's a bit cold.",
+      "korean": "좀 쌀쌀하네요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617744"
+    },
+    {
+      "english": "Can I order now?",
+      "korean": "지금 주문할 수 있어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617747"
+    },
+    {
+      "english": "Is it organic?",
+      "korean": "유기농인가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617749"
+    },
+    {
+      "english": "Just a small one.",
+      "korean": "작은 걸로 주세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617751"
+    },
+    {
+      "english": "What do you recommend, perhaps?",
+      "korean": "혹시, 추천해 주실 만한 거 있으세요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617754"
+    },
+    {
+      "english": "Could you tell me, what's new today?",
+      "korean": "오늘, 새로 나온 메뉴가 뭔가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617757"
+    },
+    {
+      "english": "Is this one, a signature drink?",
+      "korean": "이거, 시그니처 메뉴인가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617760"
+    },
+    {
+      "english": "Can I try, a small sample first?",
+      "korean": "먼저, 맛보기 작은 걸로 먹어볼 수 있을까요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617763"
+    },
+    {
+      "english": "What's the difference, between these two?",
+      "korean": "이거 두 개, 차이가 뭔가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617766"
+    },
+    {
+      "english": "How long, does it usually take?",
+      "korean": "보통, 얼마나 걸리나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617769"
+    },
+    {
+      "english": "Is there, anything without caffeine?",
+      "korean": "혹시, 카페인 없는 거 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617774"
+    },
+    {
+      "english": "Could I get, a refill maybe?",
+      "korean": "리필, 혹시 가능할까요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617777"
+    },
+    {
+      "english": "Does this have, nuts in it?",
+      "korean": "이거, 견과류 들어있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617782"
+    },
+    {
+      "english": "Can I order, for someone else?",
+      "korean": "다른 사람, 대신 주문할 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617785"
+    },
+    {
+      "english": "What's good, with this coffee?",
+      "korean": "이 커피랑, 같이 먹기 좋은 게 뭔가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617788"
+    },
+    {
+      "english": "Is this, very sweet, or mild?",
+      "korean": "이거, 많이 달아요, 아니면 순한 편인가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617791"
+    },
+    {
+      "english": "Can I substitute, the milk, perhaps?",
+      "korean": "우유를, 다른 걸로 바꿀 수 있을까요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617794"
+    },
+    {
+      "english": "What's the most, popular bread today?",
+      "korean": "오늘, 가장 잘 나가는 빵은 뭔가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617796"
+    },
+    {
+      "english": "Is this, suitable for kids?",
+      "korean": "이거, 아이들이 먹기 괜찮은가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617799"
+    },
+    {
+      "english": "Could I get, extra syrup, please?",
+      "korean": "시럽, 조금만 더 넣어주실 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617802"
+    },
+    {
+      "english": "Is there, a loyalty card?",
+      "korean": "혹시, 포인트 적립 카드 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617805"
+    },
+    {
+      "english": "What's the best, pastry to pair?",
+      "korean": "이거랑, 제일 잘 어울리는 페이스트리는 뭔가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617808"
+    },
+    {
+      "english": "Can I have, my drink hot?",
+      "korean": "음료, 따뜻하게 만들어 주실 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617810"
+    },
+    {
+      "english": "This looks, really interesting, what is it?",
+      "korean": "이거, 되게 신기하게 생겼는데, 뭐예요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617813"
+    },
+    {
+      "english": "Do you have, any sugar-free options?",
+      "korean": "설탕 없는, 옵션도 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617816"
+    },
+    {
+      "english": "Can I get, a straw, please?",
+      "korean": "스트로, 하나 주시겠어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617819"
+    },
+    {
+      "english": "Is this, made fresh daily?",
+      "korean": "이거, 매일 아침 만드는 건가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617822"
+    },
+    {
+      "english": "What kind, of tea do you have?",
+      "korean": "어떤 종류, 차가 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617824"
+    },
+    {
+      "english": "Could I have, a lid for this?",
+      "korean": "이거, 뚜껑 좀 주실 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617827"
+    },
+    {
+      "english": "Is this, very strong coffee?",
+      "korean": "이거, 커피 맛이 아주 진한가요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617829"
+    },
+    {
+      "english": "Can I get, a napkin too?",
+      "korean": "냅킨도, 좀 같이 주실 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617832"
+    },
+    {
+      "english": "What are, your opening hours?",
+      "korean": "영업시간이, 어떻게 되나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617836"
+    },
+    {
+      "english": "This is, quite unique, what's in it?",
+      "korean": "이거, 되게 독특한데, 뭐가 들어갔어요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617840"
+    },
+    {
+      "english": "May I have, the Wi-Fi password?",
+      "korean": "와이파이, 비밀번호 알려주실 수 있나요?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617843"
+    },
+    {
+      "english": "This place, has a good vibe.",
+      "korean": "여기 분위기, 좋네요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617845"
+    },
+    {
+      "english": "It hits the spot, perfectly.",
+      "korean": "딱, 입맛에 맞아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617848"
+    },
+    {
+      "english": "It's the real deal, isn't it?",
+      "korean": "이거 진짜배기죠, 그죠?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617851"
+    },
+    {
+      "english": "You can't go wrong, with this.",
+      "korean": "이걸로 실패하면, 바보죠.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617854"
+    },
+    {
+      "english": "It's my go-to, for a reason.",
+      "korean": "제가 자주 오는, 이유가 있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617857"
+    },
+    {
+      "english": "This is, top-notch quality.",
+      "korean": "이거 품질, 최상급이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617860"
+    },
+    {
+      "english": "It's worth every penny, really.",
+      "korean": "돈값, 제대로 하네요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617863"
+    },
+    {
+      "english": "I could eat this, all day long.",
+      "korean": "이거, 하루 종일 먹을 수 있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617865"
+    },
+    {
+      "english": "This is, a classic choice.",
+      "korean": "이건, 클래식한 선택이죠.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617868"
+    },
+    {
+      "english": "It tastes, like home cooking.",
+      "korean": "집밥, 같은 맛이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617870"
+    },
+    {
+      "english": "This is, seriously delicious.",
+      "korean": "이거 진짜, 맛있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617873"
+    },
+    {
+      "english": "It's a lifesaver, on a tough day.",
+      "korean": "힘든 날, 구세주 같아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617876"
+    },
+    {
+      "english": "This aroma, is heavenly.",
+      "korean": "이 향기, 천국 같아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617879"
+    },
+    {
+      "english": "I'm totally sold, on this.",
+      "korean": "이거에, 완전히 반했어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617882"
+    },
+    {
+      "english": "It's a hidden gem, for sure.",
+      "korean": "여긴, 숨겨진 보석이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617885"
+    },
+    {
+      "english": "This pairs well, with everything.",
+      "korean": "이건, 뭐든 잘 어울려요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617887"
+    },
+    {
+      "english": "It's comfort food, for me.",
+      "korean": "이건, 제게 위안 음식이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617890"
+    },
+    {
+      "english": "This is, exactly what I needed.",
+      "korean": "딱, 필요한 거였어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617895"
+    },
+    {
+      "english": "It's a treat, to myself.",
+      "korean": "이건, 저 자신에게 주는 선물이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617897"
+    },
+    {
+      "english": "This is, an absolute must-try.",
+      "korean": "이건, 꼭 먹어봐야 해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617900"
+    },
+    {
+      "english": "It has, that homemade touch.",
+      "korean": "집에서 만든, 느낌이 나요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617903"
+    },
+    {
+      "english": "This is, the perfect pick-me-up.",
+      "korean": "이거, 딱 기운 나는 거예요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617908"
+    },
+    {
+      "english": "It's made, with good ingredients.",
+      "korean": "좋은 재료로, 만들었네요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617913"
+    },
+    {
+      "english": "This is, pure bliss, honestly.",
+      "korean": "솔직히, 이건 행복 그 자체예요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617916"
+    },
+    {
+      "english": "It's a little slice, of heaven.",
+      "korean": "이건, 천국의 한 조각이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617919"
+    },
+    {
+      "english": "This is, ridiculously good.",
+      "korean": "이거 진짜, 말도 안 되게 맛있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617922"
+    },
+    {
+      "english": "It's a taste, I won't forget.",
+      "korean": "잊을 수 없는, 맛이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617925"
+    },
+    {
+      "english": "This is, my happy place.",
+      "korean": "여기가, 제 행복 장소예요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617927"
+    },
+    {
+      "english": "It's brewed, to perfection.",
+      "korean": "완벽하게, 내려졌어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617930"
+    },
+    {
+      "english": "This is, pure artistry, wow.",
+      "korean": "이건, 순수한 예술이에요, 와.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617932"
+    },
+    {
+      "english": "I needed this, more than I thought.",
+      "korean": "생각보다 더, 필요했어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617935"
+    },
+    {
+      "english": "It makes me feel, calmer.",
+      "korean": "마음이, 좀 차분해져요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617938"
+    },
+    {
+      "english": "This moment, is precious.",
+      "korean": "지금 이 순간이, 소중해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617941"
+    },
+    {
+      "english": "I can finally, breathe.",
+      "korean": "비로소, 숨통이 트여요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617943"
+    },
+    {
+      "english": "It’s okay, to wait a bit.",
+      "korean": "조금 기다려도, 괜찮아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617947"
+    },
+    {
+      "english": "This reminds me, of childhood.",
+      "korean": "어릴 적 생각이, 나네요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617950"
+    },
+    {
+      "english": "I’m enjoying, the quiet.",
+      "korean": "고요함을, 즐기는 중이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617954"
+    },
+    {
+      "english": "It’s a good place, to reflect.",
+      "korean": "생각하기 좋은, 장소예요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617958"
+    },
+    {
+      "english": "I’m grateful, for this.",
+      "korean": "이것에, 감사해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617961"
+    },
+    {
+      "english": "Slow down, and savor.",
+      "korean": "천천히, 음미하세요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617963"
+    },
+    {
+      "english": "It feels, like a reward.",
+      "korean": "스스로에게 주는, 선물 같아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617966"
+    },
+    {
+      "english": "This is, my peaceful escape.",
+      "korean": "여기는, 저만의 평화로운 공간이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617969"
+    },
+    {
+      "english": "I’m feeling, nostalgic.",
+      "korean": "왠지, 향수가 느껴져요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617972"
+    },
+    {
+      "english": "It brings back, good memories.",
+      "korean": "좋은 추억을, 떠올리게 해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617974"
+    },
+    {
+      "english": "I’m just, taking it in.",
+      "korean": "그냥, 여유를 즐기는 중이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617977"
+    },
+    {
+      "english": "It’s nice, to just be.",
+      "korean": "가만히 있기, 좋은 날이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617981"
+    },
+    {
+      "english": "This taste, is so familiar.",
+      "korean": "이 맛이, 너무 익숙해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617983"
+    },
+    {
+      "english": "I’m finding, my center here.",
+      "korean": "여기서, 마음을 다잡아요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617988"
+    },
+    {
+      "english": "It’s a moment, of pure calm.",
+      "korean": "순간의, 완벽한 평온함이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617993"
+    },
+    {
+      "english": "I’m letting go, of worries.",
+      "korean": "걱정을, 잠시 잊어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.617999"
+    },
+    {
+      "english": "This atmosphere, is healing.",
+      "korean": "이 분위기가, 치유가 돼요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618001"
+    },
+    {
+      "english": "I’m truly, content right now.",
+      "korean": "지금, 정말 만족스러워요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618004"
+    },
+    {
+      "english": "It’s worth, the wait.",
+      "korean": "기다릴, 만한 가치가 있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618007"
+    },
+    {
+      "english": "This feeling, is precious.",
+      "korean": "이 감정이, 정말 소중해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618010"
+    },
+    {
+      "english": "I feel, so refreshed.",
+      "korean": "기분이, 아주 상쾌해요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618013"
+    },
+    {
+      "english": "It’s a simple, pleasure.",
+      "korean": "소소하지만, 확실한 행복이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618016"
+    },
+    {
+      "english": "I’m just, soaking it in.",
+      "korean": "그냥, 분위기를 만끽하고 있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618019"
+    },
+    {
+      "english": "This taste, brings comfort.",
+      "korean": "이 맛이, 위안을 줘요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618021"
+    },
+    {
+      "english": "I’m finding, my inner peace.",
+      "korean": "제 안의 평화를, 찾고 있어요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618024"
+    },
+    {
+      "english": "It’s a good time, for thinking.",
+      "korean": "생각하기에, 좋은 시간이에요.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-10-21T05:28:01.618027"
     }
   ],
-  "last_updated": "2026-10-20T05:29:47.064977"
+  "last_updated": "2026-10-21T05:28:01.618029"
 }
