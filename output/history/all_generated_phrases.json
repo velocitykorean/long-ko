@@ -8921,7 +8921,727 @@
       "korean": "생각하기에, 좋은 시간이에요.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-10-21T05:28:01.618027"
+    },
+    {
+      "english": "Where is the restroom, please?",
+      "korean": "화장실이 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142958"
+    },
+    {
+      "english": "I need a boarding pass.",
+      "korean": "탑승권이 필요해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142970"
+    },
+    {
+      "english": "My flight is delayed.",
+      "korean": "제 비행기가 지연됐어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142974"
+    },
+    {
+      "english": "What gate number is it?",
+      "korean": "몇 번 게이트인가요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142977"
+    },
+    {
+      "english": "Can I see your passport?",
+      "korean": "여권 좀 보여주시겠어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142979"
+    },
+    {
+      "english": "This is my first time.",
+      "korean": "이번이 처음이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142982"
+    },
+    {
+      "english": "I'm looking for Gate 10.",
+      "korean": "10번 게이트를 찾고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142985"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "korean": "창가 자리로 주시겠어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142990"
+    },
+    {
+      "english": "My luggage is missing.",
+      "korean": "제 짐이 없어졌어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142994"
+    },
+    {
+      "english": "Where do I check in?",
+      "korean": "어디에서 체크인하나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.142997"
+    },
+    {
+      "english": "I have a connecting flight.",
+      "korean": "연결편이 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143000"
+    },
+    {
+      "english": "Is the boarding gate far?",
+      "korean": "탑승구까지 먼가요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143002"
+    },
+    {
+      "english": "Can I have a blanket?",
+      "korean": "담요 좀 주시겠어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143005"
+    },
+    {
+      "english": "What time does it land?",
+      "korean": "몇 시에 착륙하나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143007"
+    },
+    {
+      "english": "I'd like to change my seat.",
+      "korean": "자리를 바꾸고 싶어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143009"
+    },
+    {
+      "english": "Where is the baggage claim?",
+      "korean": "수하물 찾는 곳이 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143012"
+    },
+    {
+      "english": "I have nothing to declare.",
+      "korean": "신고할 물건 없어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143014"
+    },
+    {
+      "english": "My flight is on time.",
+      "korean": "제 비행기는 정시에 출발해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143017"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "korean": "환전은 어디서 하나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143019"
+    },
+    {
+      "english": "I need to rebook my flight.",
+      "korean": "비행기 표를 다시 예약해야 해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143022"
+    },
+    {
+      "english": "This is quite crowded.",
+      "korean": "사람이 꽤 많네요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143025"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "korean": "여기 와이파이 되나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143027"
+    },
+    {
+      "english": "I missed my flight.",
+      "korean": "비행기를 놓쳤어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143030"
+    },
+    {
+      "english": "Where is the departure gate?",
+      "korean": "출발 게이트가 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143032"
+    },
+    {
+      "english": "Can I get a refund?",
+      "korean": "환불 받을 수 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143037"
+    },
+    {
+      "english": "Enjoy your trip!",
+      "korean": "즐거운 여행 되세요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143039"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "korean": "저기요, 좀 도와주시겠어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143042"
+    },
+    {
+      "english": "Where should I go next?",
+      "korean": "다음엔 어디로 가야 하나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143044"
+    },
+    {
+      "english": "Is this the correct line?",
+      "korean": "이 줄이 맞나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143047"
+    },
+    {
+      "english": "What time is boarding now?",
+      "korean": "지금 몇 시에 타나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143050"
+    },
+    {
+      "english": "Do you speak English?",
+      "korean": "영어 할 줄 아세요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143052"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "korean": "택시는 어디서 타나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143055"
+    },
+    {
+      "english": "Is there a shuttle bus?",
+      "korean": "셔틀 버스 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143057"
+    },
+    {
+      "english": "How much is it to the city?",
+      "korean": "시내까지 얼마예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143060"
+    },
+    {
+      "english": "Can I get a map, please?",
+      "korean": "지도 좀 주시겠어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143063"
+    },
+    {
+      "english": "What's the Wi-Fi password?",
+      "korean": "와이파이 비밀번호 뭐예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143066"
+    },
+    {
+      "english": "Is there a charging station?",
+      "korean": "충전할 수 있는 곳 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143069"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "korean": "유심 카드 어디서 사요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143071"
+    },
+    {
+      "english": "Can I check my luggage here?",
+      "korean": "여기서 짐 부칠 수 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143073"
+    },
+    {
+      "english": "Is there a lounge nearby?",
+      "korean": "근처에 라운지 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143076"
+    },
+    {
+      "english": "What terminal is this?",
+      "korean": "여기가 몇 번 터미널인가요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143078"
+    },
+    {
+      "english": "Where can I find customs?",
+      "korean": "세관은 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143080"
+    },
+    {
+      "english": "Is there a duty-free shop?",
+      "korean": "면세점 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143083"
+    },
+    {
+      "english": "Where can I get a cart?",
+      "korean": "카트는 어디서 빌려요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143085"
+    },
+    {
+      "english": "Can I board with this?",
+      "korean": "이거 가지고 탈 수 있어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143090"
+    },
+    {
+      "english": "Where is the information desk?",
+      "korean": "안내 데스크가 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143092"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "korean": "근처에 약국 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143095"
+    },
+    {
+      "english": "What's the gate number again?",
+      "korean": "게이트 번호가 몇 번이었죠?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143098"
+    },
+    {
+      "english": "Can I pay by credit card?",
+      "korean": "신용카드로 낼 수 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143100"
+    },
+    {
+      "english": "Where do I get my visa?",
+      "korean": "비자는 어디서 받아요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143102"
+    },
+    {
+      "english": "You've got this, traveler!",
+      "korean": "잘 할 수 있어요, 여행자님!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143106"
+    },
+    {
+      "english": "Embrace the journey, relax.",
+      "korean": "여정을 즐기세요, 편안하게.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143110"
+    },
+    {
+      "english": "Every step is progress.",
+      "korean": "한 걸음마다 발전이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143113"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "korean": "정말 잘 하고 있어요, 계속 가세요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143116"
+    },
+    {
+      "english": "This adventure will be amazing.",
+      "korean": "이 모험은 정말 멋질 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143118"
+    },
+    {
+      "english": "Stay positive, it's all good.",
+      "korean": "긍정적으로 생각해요, 다 괜찮아요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143121"
+    },
+    {
+      "english": "You're handling it perfectly.",
+      "korean": "완벽하게 해내고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143124"
+    },
+    {
+      "english": "Focus on the fun ahead.",
+      "korean": "앞으로의 즐거움에 집중하세요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143126"
+    },
+    {
+      "english": "You're so brave, exploring!",
+      "korean": "탐험하는 당신, 정말 용감해요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143129"
+    },
+    {
+      "english": "Trust your instincts, you know.",
+      "korean": "자신을 믿으세요, 당신은 알아요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143132"
+    },
+    {
+      "english": "This moment is yours to enjoy.",
+      "korean": "이 순간은 당신이 즐기는 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143134"
+    },
+    {
+      "english": "Take a deep breath, you're fine.",
+      "korean": "심호흡 하세요, 괜찮아요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143137"
+    },
+    {
+      "english": "You're adapting wonderfully.",
+      "korean": "놀랍도록 잘 적응하고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143140"
+    },
+    {
+      "english": "What a wonderful attitude!",
+      "korean": "정말 멋진 태도예요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143142"
+    },
+    {
+      "english": "You've prepared so well.",
+      "korean": "정말 준비를 잘 하셨어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143145"
+    },
+    {
+      "english": "This experience will enrich you.",
+      "korean": "이 경험은 당신을 풍요롭게 할 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143147"
+    },
+    {
+      "english": "Keep that adventurous spirit!",
+      "korean": "그 모험적인 정신을 유지하세요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143150"
+    },
+    {
+      "english": "You're making memories now.",
+      "korean": "지금 추억을 만들고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143153"
+    },
+    {
+      "english": "Believe in your travel plans.",
+      "korean": "당신의 여행 계획을 믿으세요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143155"
+    },
+    {
+      "english": "You're doing an amazing job.",
+      "korean": "정말 훌륭하게 하고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143158"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "korean": "당신의 용기는 정말 인상 깊어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143160"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "korean": "이것은 배움의 기회예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143162"
+    },
+    {
+      "english": "You've got the travel bug!",
+      "korean": "여행의 재미를 제대로 느끼셨네요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143165"
+    },
+    {
+      "english": "Handle challenges with grace.",
+      "korean": "어려움을 우아하게 헤쳐나가세요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143167"
+    },
+    {
+      "english": "Every experience is valuable.",
+      "korean": "모든 경험은 소중해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143170"
+    },
+    {
+      "english": "You're becoming a seasoned traveler.",
+      "korean": "노련한 여행자가 되어가고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143173"
+    },
+    {
+      "english": "Stay open to new things.",
+      "korean": "새로운 것에 열린 마음을 가지세요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143178"
+    },
+    {
+      "english": "You're managing well, great job!",
+      "korean": "잘 대처하고 있어요, 정말 잘했어요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143182"
+    },
+    {
+      "english": "This trip will be unforgettable.",
+      "korean": "이 여행은 잊지 못할 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143184"
+    },
+    {
+      "english": "You're exceeding expectations!",
+      "korean": "기대 이상으로 잘하고 있어요!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143187"
+    },
+    {
+      "english": "This feels so surreal, doesn't it?",
+      "korean": "이거 정말 실감 안 나요, 그죠?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143190"
+    },
+    {
+      "english": "I'm feeling a little nostalgic, actually.",
+      "korean": "사실, 좀 아련한 기분이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143193"
+    },
+    {
+      "english": "Just taking it all in, slowly.",
+      "korean": "천천히, 음미하고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143196"
+    },
+    {
+      "english": "Deep breaths, remember why we're here.",
+      "korean": "심호흡, 우리가 왜 여기 있는지 기억해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143199"
+    },
+    {
+      "english": "It’s a mix of excitement, and a little fear.",
+      "korean": "설렘이랑, 약간의 두려움이 섞여 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143206"
+    },
+    {
+      "english": "Hoping for a smooth, peaceful flight.",
+      "korean": "순조롭고, 평화로운 비행을 바라요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143210"
+    },
+    {
+      "english": "This really makes you think, doesn't it?",
+      "korean": "이건 정말 생각하게 만드네요, 그죠?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143213"
+    },
+    {
+      "english": "I’m embracing the uncertainty, totally.",
+      "korean": "불확실성을 완전히 받아들이고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143217"
+    },
+    {
+      "english": "Cherishing this quiet moment before it's gone.",
+      "korean": "사라지기 전에 이 고요한 순간을 소중히 여길 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143222"
+    },
+    {
+      "english": "It's okay to feel a bit overwhelmed.",
+      "korean": "조금 압도되는 기분을 느껴도 괜찮아요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143225"
+    },
+    {
+      "english": "Letting go of expectations, just being present.",
+      "korean": "기대치를 내려놓고, 그저 현재에 집중하고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143227"
+    },
+    {
+      "english": "Wondering what adventures await us.",
+      "korean": "어떤 모험이 우리를 기다릴지 궁금해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143230"
+    },
+    {
+      "english": "This perspective shift is powerful.",
+      "korean": "이 관점의 변화는 정말 강력해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143233"
+    },
+    {
+      "english": "I’m practicing patience, little by little.",
+      "korean": "조금씩, 인내심을 연습하고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143237"
+    },
+    {
+      "english": "Feeling surprisingly calm, actually.",
+      "korean": "놀랍게도 차분한 기분이에요, 사실.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143240"
+    },
+    {
+      "english": "This moment requires true acceptance.",
+      "korean": "이 순간은 진정한 수용이 필요해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143242"
+    },
+    {
+      "english": "It’s a journey, not just a destination.",
+      "korean": "이건 목적지가 아니라, 여정이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143246"
+    },
+    {
+      "english": "Hoping for a sense of peace.",
+      "korean": "평온함을 느끼고 싶어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143248"
+    },
+    {
+      "english": "So much to process, so much to feel.",
+      "korean": "처리할 것도 많고, 느낄 것도 많아요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143253"
+    },
+    {
+      "english": "Trying to stay grounded amidst the chaos.",
+      "korean": "혼란 속에서 침착함을 유지하려고 노력 중이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143255"
+    },
+    {
+      "english": "This experience is truly humbling.",
+      "korean": "이 경험은 정말 겸손하게 만들어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143258"
+    },
+    {
+      "english": "Finding beauty in the unexpected.",
+      "korean": "예상치 못한 것에서 아름다움을 찾고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143261"
+    },
+    {
+      "english": "I need to trust the process, fully.",
+      "korean": "과정을 완전히 믿어야 해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143264"
+    },
+    {
+      "english": "This feeling is profound, and lasting.",
+      "korean": "이 느낌은 심오하고, 오래 갈 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143267"
+    },
+    {
+      "english": "Just letting go, and seeing what happens.",
+      "korean": "그냥 내려놓고, 어떻게 되는지 지켜볼 거예요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143269"
+    },
+    {
+      "english": "Reflecting on how far I’ve come.",
+      "korean": "내가 얼마나 멀리 왔는지 되돌아보고 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143273"
+    },
+    {
+      "english": "This solitude is quite welcome.",
+      "korean": "이 고독은 상당히 환영할 만해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143275"
+    },
+    {
+      "english": "It's a moment for genuine introspection.",
+      "korean": "진솔한 자기 성찰의 순간이에요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143278"
+    },
+    {
+      "english": "Hoping for understanding, and clarity.",
+      "korean": "이해와 명확함을 바라요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143283"
+    },
+    {
+      "english": "This journey changes you, subtly.",
+      "korean": "이 여정은 당신을 미묘하게 변화시켜요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143285"
+    },
+    {
+      "english": "Where is the check-in counter, please?",
+      "korean": "체크인 카운터가 어디예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143288"
+    },
+    {
+      "english": "My luggage is overweight, what do I do?",
+      "korean": "제 짐이 너무 무거워요, 어떻게 하죠?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143291"
+    },
+    {
+      "english": "I missed my flight, what should I do?",
+      "korean": "비행기를 놓쳤어요, 어떻게 해야 할까요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143294"
+    },
+    {
+      "english": "Do you have any Korean snacks?",
+      "korean": "한국 과자 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143297"
+    },
+    {
+      "english": "Can I exchange currency here?",
+      "korean": "여기서 환전할 수 있나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143299"
+    },
+    {
+      "english": "Excuse me, my boarding pass is here.",
+      "korean": "저기요, 제 보딩 패스 여기 있어요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143304"
+    },
+    {
+      "english": "Is this the gate for flight number XXX?",
+      "korean": "여기가 XXX편 게이트 맞나요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143306"
+    },
+    {
+      "english": "I need to report lost baggage.",
+      "korean": "수하물 분실 신고를 해야 해요.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143311"
+    },
+    {
+      "english": "How much is a single ride ticket?",
+      "korean": "일반 승차권은 얼마예요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143313"
+    },
+    {
+      "english": "Is there a convenience store open late?",
+      "korean": "늦게까지 하는 편의점 있어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-22T05:33:33.143316"
     }
   ],
-  "last_updated": "2026-10-21T05:28:01.618029"
+  "last_updated": "2026-10-22T05:33:33.143318"
 }
