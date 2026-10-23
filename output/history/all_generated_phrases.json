@@ -9641,7 +9641,727 @@
       "korean": "늦게까지 하는 편의점 있어요?",
       "category": "Travel & Airport",
       "generated_at": "2026-10-22T05:33:33.143316"
+    },
+    {
+      "english": "Just breathe, friend, it's okay.",
+      "korean": "그냥 숨 쉬어요, 친구, 괜찮아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535403"
+    },
+    {
+      "english": "Notice the sky, so blue.",
+      "korean": "하늘을 봐요, 참 파래요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535417"
+    },
+    {
+      "english": "Listen to the birds, sing.",
+      "korean": "새 소리를 들어봐요, 노래해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535421"
+    },
+    {
+      "english": "Feel the breeze, on your face.",
+      "korean": "바람을 느껴봐요, 얼굴에.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535429"
+    },
+    {
+      "english": "This moment, is truly ours.",
+      "korean": "이 순간, 정말 우리 거예요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535432"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "korean": "시간을 가지세요, 서두르지 마요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535435"
+    },
+    {
+      "english": "Just be here, right now.",
+      "korean": "그냥 여기 있어요, 지금 바로.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535437"
+    },
+    {
+      "english": "Feel your heart, beating slow.",
+      "korean": "심장 소리를 느껴봐요, 느리게 뛰어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535443"
+    },
+    {
+      "english": "What do you hear, right now?",
+      "korean": "지금 뭘 들려요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535446"
+    },
+    {
+      "english": "Let it go, it's fine.",
+      "korean": "내버려 둬요, 괜찮아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535449"
+    },
+    {
+      "english": "Smile a little, why not?",
+      "korean": "조금 웃어봐요, 왜 안 돼요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535452"
+    },
+    {
+      "english": "See the beauty, all around.",
+      "korean": "아름다움을 봐요, 주위에.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535455"
+    },
+    {
+      "english": "Ground yourself, feel stable.",
+      "korean": "자신을 다져요, 안정감을 느껴요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535458"
+    },
+    {
+      "english": "Just observe, no judgment.",
+      "korean": "그냥 관찰해요, 판단 없이.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535460"
+    },
+    {
+      "english": "One breath, at a time, yes.",
+      "korean": "한 번에 한 숨, 네.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535463"
+    },
+    {
+      "english": "Feel the warmth, inside you.",
+      "korean": "따뜻함을 느껴봐요, 안에서.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535465"
+    },
+    {
+      "english": "This is enough, for now.",
+      "korean": "지금으로 충분해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535468"
+    },
+    {
+      "english": "Simply be, without trying.",
+      "korean": "그냥 존재해요, 애쓰지 않고.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535471"
+    },
+    {
+      "english": "Notice your hands, feel them.",
+      "korean": "손을 봐요, 느껴봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535473"
+    },
+    {
+      "english": "Let thoughts pass, like water.",
+      "korean": "생각을 물처럼 흘려보내세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535476"
+    },
+    {
+      "english": "Peace is here, friend.",
+      "korean": "평화가 여기 있어요, 친구.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535478"
+    },
+    {
+      "english": "Just this breath, count it.",
+      "korean": "이 숨에 집중해요, 세어봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535481"
+    },
+    {
+      "english": "Feel your toes, wiggle them.",
+      "korean": "발가락을 느껴봐요, 움직여봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535484"
+    },
+    {
+      "english": "Look around, see what's new.",
+      "korean": "주위를 둘러봐요, 새로운 걸 봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535486"
+    },
+    {
+      "english": "You are here, safe and sound.",
+      "korean": "당신은 여기 있어요, 안전하게.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535489"
+    },
+    {
+      "english": "This is a gift, open it.",
+      "korean": "이것은 선물이에요, 열어봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535493"
+    },
+    {
+      "english": "Just be present, that's all.",
+      "korean": "현재에 집중해요, 그것뿐이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535496"
+    },
+    {
+      "english": "What a lovely moment, wow.",
+      "korean": "정말 멋진 순간이에요, 와.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535499"
+    },
+    {
+      "english": "How are you feeling, really?",
+      "korean": "기분이 어때요, 정말로요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535502"
+    },
+    {
+      "english": "What's on your mind, friend?",
+      "korean": "무슨 생각하고 있어요, 친구?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535506"
+    },
+    {
+      "english": "Can you share your thoughts?",
+      "korean": "생각 좀 나눠볼래요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535509"
+    },
+    {
+      "english": "How can I help you today?",
+      "korean": "오늘 제가 어떻게 도울까요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535512"
+    },
+    {
+      "english": "What are you noticing, inside?",
+      "korean": "안에서 뭘 알아차리고 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535514"
+    },
+    {
+      "english": "Did that feel peaceful?",
+      "korean": "평화롭게 느껴졌나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535517"
+    },
+    {
+      "english": "What's this moment like?",
+      "korean": "지금 이 순간은 어떤가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535520"
+    },
+    {
+      "english": "Any insights, perhaps?",
+      "korean": "혹시 깨달은 점이라도 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535523"
+    },
+    {
+      "english": "Tell me more about that.",
+      "korean": "그것에 대해 좀 더 말해주세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535525"
+    },
+    {
+      "english": "What helps you relax?",
+      "korean": "무엇이 당신을 편안하게 하나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535528"
+    },
+    {
+      "english": "Are you finding calm?",
+      "korean": "평온함을 찾고 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535530"
+    },
+    {
+      "english": "What surprised you today?",
+      "korean": "오늘 무엇이 놀라웠나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535532"
+    },
+    {
+      "english": "Did you notice the details?",
+      "korean": "세세한 것들을 알아차렸나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535535"
+    },
+    {
+      "english": "What can we learn together?",
+      "korean": "우리가 함께 무엇을 배울 수 있을까요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535537"
+    },
+    {
+      "english": "Is there a better way?",
+      "korean": "더 나은 방법이 있을까요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535540"
+    },
+    {
+      "english": "What wisdom do you have?",
+      "korean": "어떤 지혜를 가지고 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535542"
+    },
+    {
+      "english": "How did that moment feel?",
+      "korean": "그 순간은 어땠나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535545"
+    },
+    {
+      "english": "What are you grateful for?",
+      "korean": "무엇에 감사하나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535547"
+    },
+    {
+      "english": "Can you accept it, as is?",
+      "korean": "있는 그대로 받아들일 수 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535550"
+    },
+    {
+      "english": "What's truly important now?",
+      "korean": "지금 정말 중요한 것은 무엇인가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535552"
+    },
+    {
+      "english": "How do you respond to this?",
+      "korean": "이것에 어떻게 반응하나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535555"
+    },
+    {
+      "english": "What's your inner landscape?",
+      "korean": "당신의 내면 풍경은 어떤가요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535557"
+    },
+    {
+      "english": "Any new observations today?",
+      "korean": "오늘 새로운 관찰한 것이 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535560"
+    },
+    {
+      "english": "What do you wish for yourself?",
+      "korean": "스스로에게 무엇을 바라나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535563"
+    },
+    {
+      "english": "What brings you joy?",
+      "korean": "무엇이 당신에게 기쁨을 주나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535565"
+    },
+    {
+      "english": "How can we connect deeper?",
+      "korean": "어떻게 더 깊이 연결될 수 있을까요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535567"
+    },
+    {
+      "english": "What are you learning about yourself?",
+      "korean": "자신에 대해 무엇을 배우고 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535570"
+    },
+    {
+      "english": "You've got this, really.",
+      "korean": "넌 할 수 있어, 정말.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535574"
+    },
+    {
+      "english": "Keep going, slowly but surely.",
+      "korean": "천천히, 꾸준히 나아가.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535577"
+    },
+    {
+      "english": "That's a great step, truly.",
+      "korean": "정말 잘 한 발걸음이야.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535582"
+    },
+    {
+      "english": "Trust your own process.",
+      "korean": "너의 과정을 믿어 봐.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535584"
+    },
+    {
+      "english": "You're doing wonderfully, you know.",
+      "korean": "잘 하고 있어, 알지?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535587"
+    },
+    {
+      "english": "Believe in your strength.",
+      "korean": "너의 힘을 믿어.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535589"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "korean": "하루하루, 알았지?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535592"
+    },
+    {
+      "english": "This is a learning moment.",
+      "korean": "이건 배움의 순간이야.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535594"
+    },
+    {
+      "english": "You're on the right path.",
+      "korean": "옳은 길을 가고 있어.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535597"
+    },
+    {
+      "english": "Give yourself some credit.",
+      "korean": "자신에게 칭찬 좀 해.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535599"
+    },
+    {
+      "english": "You can handle this.",
+      "korean": "이것쯤은 다룰 수 있어.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535602"
+    },
+    {
+      "english": "Your efforts matter, a lot.",
+      "korean": "너의 노력, 중요해, 아주.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535604"
+    },
+    {
+      "english": "You're growing, beautifully.",
+      "korean": "아름답게 성장 중이야.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535621"
+    },
+    {
+      "english": "That's brilliant, absolutely.",
+      "korean": "정말 똑똑한데, 그거.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535623"
+    },
+    {
+      "english": "What a great insight, wow.",
+      "korean": "와, 정말 좋은 통찰이다.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535626"
+    },
+    {
+      "english": "You're doing your best, truly.",
+      "korean": "최선을 다하고 있어, 진심.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535629"
+    },
+    {
+      "english": "Keep that positive outlook.",
+      "korean": "그 긍정적인 마음 유지해.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535631"
+    },
+    {
+      "english": "That's a wonderful thought.",
+      "korean": "정말 멋진 생각이야.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535634"
+    },
+    {
+      "english": "You're learning so much.",
+      "korean": "정말 많이 배우고 있네.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535637"
+    },
+    {
+      "english": "You are resilient, always.",
+      "korean": "너는 언제나 회복력이 강해.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535639"
+    },
+    {
+      "english": "This is a good start.",
+      "korean": "이건 좋은 시작이야.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535642"
+    },
+    {
+      "english": "Trust your intuition.",
+      "korean": "네 직감을 믿어.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535644"
+    },
+    {
+      "english": "You've overcome so much.",
+      "korean": "정말 많은 걸 이겨냈어.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535647"
+    },
+    {
+      "english": "Slow down, enjoy the moment.",
+      "korean": "천천히, 지금을 즐겨봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535649"
+    },
+    {
+      "english": "Take a deep breath, feel it.",
+      "korean": "심호흡 크게, 느껴봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535652"
+    },
+    {
+      "english": "What's blooming inside you?",
+      "korean": "마음속에 뭐가 피어나나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535657"
+    },
+    {
+      "english": "Listen to your heart's whisper.",
+      "korean": "마음의 속삭임을 들어봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535659"
+    },
+    {
+      "english": "Today's small joys, notice them.",
+      "korean": "오늘의 작은 기쁨들, 알아차려요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535662"
+    },
+    {
+      "english": "Stillness speaks, listen closely.",
+      "korean": "고요함이 말해요, 귀 기울여요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535665"
+    },
+    {
+      "english": "Find peace in simple things.",
+      "korean": "소소한 것에서 평화를 찾아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535667"
+    },
+    {
+      "english": "Your inner world, explore it.",
+      "korean": "내면의 세계, 탐험해 봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535670"
+    },
+    {
+      "english": "What are you truly feeling?",
+      "korean": "진정 뭘 느끼고 있나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535672"
+    },
+    {
+      "english": "Mindfulness is a gentle practice.",
+      "korean": "마음챙김은 부드러운 연습이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535675"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "korean": "판단 없이, 관찰해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535677"
+    },
+    {
+      "english": "This too, shall pass.",
+      "korean": "이 또한 지나가리라.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535682"
+    },
+    {
+      "english": "Sow seeds of kindness within.",
+      "korean": "마음속에 친절의 씨앗을 뿌려요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535684"
+    },
+    {
+      "english": "Find stillness amidst the noise.",
+      "korean": "소음 속에서 고요를 찾아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535687"
+    },
+    {
+      "english": "Every moment is a fresh start.",
+      "korean": "매 순간은 새로운 시작이에요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535689"
+    },
+    {
+      "english": "What are you thankful for today?",
+      "korean": "오늘 무엇에 감사하나요?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535694"
+    },
+    {
+      "english": "Cultivate inner peace, daily.",
+      "korean": "내면의 평화를 매일 가꿔요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535697"
+    },
+    {
+      "english": "Let awareness be your guide.",
+      "korean": "알아차림을 당신의 안내자로 삼아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535699"
+    },
+    {
+      "english": "Release the need to control.",
+      "korean": "통제하려는 마음을 놓아요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535702"
+    },
+    {
+      "english": "Your true self is here.",
+      "korean": "진정한 당신은 여기에 있어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535704"
+    },
+    {
+      "english": "Breathe in peace, breathe out stress.",
+      "korean": "평화를 들이쉬고, 스트레스를 내쉬어요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535707"
+    },
+    {
+      "english": "Flow with life's gentle rhythm.",
+      "korean": "삶의 부드러운 리듬에 맞춰 흘러가요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535709"
+    },
+    {
+      "english": "Drink water first thing, okay?",
+      "korean": "아침에 물 먼저 마시기, 알겠죠?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535712"
+    },
+    {
+      "english": "Stretch for five minutes, feel better.",
+      "korean": "5분 스트레칭해요, 기분이 좋아져요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535715"
+    },
+    {
+      "english": "Eat slowly, savor each bite.",
+      "korean": "천천히 먹어요, 한 입씩 음미해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535717"
+    },
+    {
+      "english": "Check your posture, stand tall.",
+      "korean": "자세 확인해요, 당당하게 서세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535720"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "korean": "공간 정리해요, 마음도 맑아져요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535723"
+    },
+    {
+      "english": "Write down one good thing, daily.",
+      "korean": "좋은 점 한 가지 적어요, 매일.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535725"
+    },
+    {
+      "english": "Limit screen time, before bed.",
+      "korean": "자기 전, 화면 시간 줄이세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535728"
+    },
+    {
+      "english": "Listen to nature sounds, outside.",
+      "korean": "밖에서 자연 소리 들어봐요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535731"
+    },
+    {
+      "english": "Focus on one task, finish it.",
+      "korean": "한 가지 일에 집중해요, 끝까지.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535735"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "korean": "필요할 때, 도움 요청하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535738"
+    },
+    {
+      "english": "Express gratitude, to someone.",
+      "korean": "누군가에게 고마움을 표현해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535741"
+    },
+    {
+      "english": "Take a short walk, mid-day.",
+      "korean": "점심시간에 잠깐 산책해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535788"
+    },
+    {
+      "english": "Observe people, without judging.",
+      "korean": "사람들을 판단 없이 관찰해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535791"
+    },
+    {
+      "english": "Smile at a stranger, see what happens.",
+      "korean": "모르는 사람에게 웃어봐요, 무슨 일이 생길까?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535794"
+    },
+    {
+      "english": "Tidy up your desk, before leaving.",
+      "korean": "퇴근 전에 책상 정리해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535797"
+    },
+    {
+      "english": "Plan your day, loosely.",
+      "korean": "하루 계획을, 대략적으로 세워요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535800"
+    },
+    {
+      "english": "Say 'no' kindly, when needed.",
+      "korean": "필요하면, 부드럽게 '아니오'라고 말해요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535803"
+    },
+    {
+      "english": "Pause before reacting, think.",
+      "korean": "반응하기 전에 멈춰요, 생각하세요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535805"
+    },
+    {
+      "english": "Sip your tea, mindfully.",
+      "korean": "차를 음미하며 마셔요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535808"
+    },
+    {
+      "english": "Notice small details, everywhere.",
+      "korean": "어디서든, 작은 디테일을 알아차려요.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-23T05:32:00.535811"
     }
   ],
-  "last_updated": "2026-10-22T05:33:33.143318"
+  "last_updated": "2026-10-23T05:32:00.535813"
 }
