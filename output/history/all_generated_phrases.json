@@ -11081,7 +11081,727 @@
       "korean": "학습 여정을 즐기세요, 재미있어요.",
       "category": "Growth",
       "generated_at": "2026-11-01T06:57:48.762775"
+    },
+    {
+      "english": "Just keep pushing, a little more.",
+      "korean": "조금만 더 밀어붙여 봐.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435599"
+    },
+    {
+      "english": "Don't give up, stay determined.",
+      "korean": "포기하지 마, 단호하게 있어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435609"
+    },
+    {
+      "english": "That's impressive, truly strong.",
+      "korean": "정말 대단하다, 진짜 강해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435613"
+    },
+    {
+      "english": "You're incredibly resilient, wow.",
+      "korean": "너 정말 끈기 있구나, 와.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435618"
+    },
+    {
+      "english": "Your spirit is unbreakable, yes.",
+      "korean": "네 정신은 부서지지 않아, 응.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435621"
+    },
+    {
+      "english": "Find your inner power, now.",
+      "korean": "네 안의 힘을 찾아봐, 지금.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435624"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "korean": "집중해, 네 목표에.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435627"
+    },
+    {
+      "english": "You handle it, with great strength.",
+      "korean": "넌 그걸 잘 다뤄, 큰 힘으로.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435633"
+    },
+    {
+      "english": "That took real effort, good job.",
+      "korean": "진짜 노력했네, 잘했어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435636"
+    },
+    {
+      "english": "You're tougher than you think.",
+      "korean": "네 생각보다 넌 더 강해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435639"
+    },
+    {
+      "english": "Your determination shines through.",
+      "korean": "네 단호함이 빛나.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435642"
+    },
+    {
+      "english": "Keep that energy going, strong.",
+      "korean": "그 에너지 계속 이어가, 강하게.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435645"
+    },
+    {
+      "english": "You're a powerhouse, really.",
+      "korean": "넌 정말 대단한 사람이야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435650"
+    },
+    {
+      "english": "Never underestimate your power.",
+      "korean": "네 힘을 절대 과소평가하지 마.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435653"
+    },
+    {
+      "english": "This challenge, you will conquer.",
+      "korean": "이 도전을, 넌 극복할 거야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435656"
+    },
+    {
+      "english": "Your resolve is admirable, so.",
+      "korean": "네 결심은 정말 본받을 만해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435658"
+    },
+    {
+      "english": "Stand tall, with all your might.",
+      "korean": "네 모든 힘을 다해, 꼿꼿이 서.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435661"
+    },
+    {
+      "english": "You’re building something great, see.",
+      "korean": "넌 뭔가 대단한 걸 만들고 있어, 봐.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435665"
+    },
+    {
+      "english": "That’s the spirit, keep it up.",
+      "korean": "그게 바로 정신이지, 계속 그렇게 해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435669"
+    },
+    {
+      "english": "Your endurance is amazing, yes.",
+      "korean": "네 지구력은 놀라워, 응.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435672"
+    },
+    {
+      "english": "You’re a source of strength, for us.",
+      "korean": "넌 우리에게 힘의 원천이야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435675"
+    },
+    {
+      "english": "Embrace the struggle, grow from it.",
+      "korean": "고난을 받아들여, 거기서 자라.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435678"
+    },
+    {
+      "english": "You’re capable of so much.",
+      "korean": "넌 정말 많은 것을 할 수 있어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435681"
+    },
+    {
+      "english": "Let your inner lion roar.",
+      "korean": "네 안의 사자가 포효하게 해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435684"
+    },
+    {
+      "english": "You’re a force to be reckoned with.",
+      "korean": "넌 무시할 수 없는 힘이야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435687"
+    },
+    {
+      "english": "This is where your strength lies.",
+      "korean": "이곳에 네 힘이 있어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435689"
+    },
+    {
+      "english": "You're not backing down, good.",
+      "korean": "넌 물러서지 않아, 좋아.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435692"
+    },
+    {
+      "english": "You possess great fortitude, truly.",
+      "korean": "넌 정말 큰 인내심을 가지고 있어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435695"
+    },
+    {
+      "english": "Your grit is inspiring, thank you.",
+      "korean": "네 근성은 영감을 줘, 고마워.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435697"
+    },
+    {
+      "english": "What helps you, stay motivated?",
+      "korean": "무엇이 동기 부여를 유지하게 하나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435700"
+    },
+    {
+      "english": "How do you, bounce back, from setbacks?",
+      "korean": "어려움을 겪고 나서 어떻게 회복하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435705"
+    },
+    {
+      "english": "Can you share, a time you felt strong?",
+      "korean": "강하다고 느꼈던 때를 공유해 주시겠어요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435708"
+    },
+    {
+      "english": "What's your secret, to mental toughness?",
+      "korean": "정신력을 강하게 유지하는 비결이 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435711"
+    },
+    {
+      "english": "Do you find, strength in helping others?",
+      "korean": "다른 사람을 돕는 것에서 힘을 얻으시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435714"
+    },
+    {
+      "english": "Where do you, get your energy, from?",
+      "korean": "어디서 에너지를 얻으시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435717"
+    },
+    {
+      "english": "What's a challenge, you overcame bravely?",
+      "korean": "용감하게 극복했던 도전은 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435720"
+    },
+    {
+      "english": "How do you, build physical strength?",
+      "korean": "어떻게 신체적인 힘을 기르시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435723"
+    },
+    {
+      "english": "Is there someone, who inspires your strength?",
+      "korean": "당신의 힘에 영감을 주는 누군가가 있나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435728"
+    },
+    {
+      "english": "What does 'strength', mean to you?",
+      "korean": "'힘'이란 당신에게 무엇을 의미하나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435731"
+    },
+    {
+      "english": "How do you, manage stress, effectively?",
+      "korean": "스트레스를 효과적으로 어떻게 관리하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435734"
+    },
+    {
+      "english": "Do you believe, in your own power?",
+      "korean": "자신의 힘을 믿으시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435737"
+    },
+    {
+      "english": "What's your favorite, way to relax?",
+      "korean": "가장 좋아하는 휴식 방법은 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435740"
+    },
+    {
+      "english": "How do you, stay positive, during tough times?",
+      "korean": "힘든 시기에 어떻게 긍정적인 태도를 유지하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435743"
+    },
+    {
+      "english": "What motivates you, to get out of bed?",
+      "korean": "침대에서 일어나게 하는 동기는 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435747"
+    },
+    {
+      "english": "Can you give, advice on perseverance?",
+      "korean": "인내심에 대한 조언을 해 주실 수 있나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435750"
+    },
+    {
+      "english": "What's your biggest, source of comfort?",
+      "korean": "가장 큰 위안이 되는 것은 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435753"
+    },
+    {
+      "english": "How do you, face your fears?",
+      "korean": "두려움에 어떻게 맞서시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435755"
+    },
+    {
+      "english": "What makes you, feel capable?",
+      "korean": "무엇이 당신을 유능하다고 느끼게 하나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435758"
+    },
+    {
+      "english": "Do you practice, mindfulness, regularly?",
+      "korean": "정기적으로 마음챙김을 연습하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435761"
+    },
+    {
+      "english": "How do you, keep your promises?",
+      "korean": "약속을 어떻게 지키시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435764"
+    },
+    {
+      "english": "What's your approach, to problem-solving?",
+      "korean": "문제 해결에 대한 당신의 접근 방식은 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435767"
+    },
+    {
+      "english": "How do you, build trust, with people?",
+      "korean": "사람들과 어떻게 신뢰를 쌓으시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435769"
+    },
+    {
+      "english": "What gives you, a sense of purpose?",
+      "korean": "무엇이 당신에게 삶의 목적 의식을 주나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435772"
+    },
+    {
+      "english": "How do you, learn from mistakes?",
+      "korean": "실수로부터 어떻게 배우시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435774"
+    },
+    {
+      "english": "What's your strategy, for difficult conversations?",
+      "korean": "어려운 대화에 대한 당신의 전략은 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435777"
+    },
+    {
+      "english": "How do you, maintain your integrity?",
+      "korean": "어떻게 당신의 진실성을 유지하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435780"
+    },
+    {
+      "english": "What's a small win, today?",
+      "korean": "오늘의 작은 승리는 무엇인가요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435782"
+    },
+    {
+      "english": "How do you, encourage yourself?",
+      "korean": "스스로를 어떻게 격려하시나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435785"
+    },
+    {
+      "english": "What belief, powers your actions?",
+      "korean": "어떤 믿음이 당신의 행동에 힘을 주나요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435788"
+    },
+    {
+      "english": "Your effort is seen, truly.",
+      "korean": "네 노력이 보여, 정말.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435790"
+    },
+    {
+      "english": "One step at a time, okay?",
+      "korean": "한 번에 한 걸음씩, 알았지?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435793"
+    },
+    {
+      "english": "You can overcome this, yes.",
+      "korean": "이겨낼 수 있어, 응.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435796"
+    },
+    {
+      "english": "Your resilience is admirable.",
+      "korean": "네 회복력이 대단해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435800"
+    },
+    {
+      "english": "Stay focused, push forward.",
+      "korean": "집중해, 앞으로 나아가.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435803"
+    },
+    {
+      "english": "This challenge makes you stronger.",
+      "korean": "이 도전이 널 강하게 만들어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435805"
+    },
+    {
+      "english": "What keeps you going, always?",
+      "korean": "무엇이 널 늘 가게 해?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435808"
+    },
+    {
+      "english": "Positive thoughts win, always.",
+      "korean": "긍정적인 생각이 늘 이겨.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435810"
+    },
+    {
+      "english": "Let your determination shine.",
+      "korean": "네 결단력을 빛나게 해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435813"
+    },
+    {
+      "english": "Inner strength is crucial, right?",
+      "korean": "내면의 힘이 중요하지, 그렇지?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435816"
+    },
+    {
+      "english": "You are incredibly persistent.",
+      "korean": "넌 정말 끈기 있어.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435820"
+    },
+    {
+      "english": "Every step forward counts.",
+      "korean": "앞으로 나아가는 모든 걸음이 소중해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435822"
+    },
+    {
+      "english": "Don't underestimate your potential.",
+      "korean": "네 잠재력을 과소평가하지 마.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435825"
+    },
+    {
+      "english": "You possess great courage.",
+      "korean": "너는 용기가 대단해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435828"
+    },
+    {
+      "english": "How do you stay centered?",
+      "korean": "어떻게 중심을 잡고 있어?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435830"
+    },
+    {
+      "english": "Your mindset is your power.",
+      "korean": "너의 마음가짐이 너의 힘이야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435833"
+    },
+    {
+      "english": "You grow with every challenge.",
+      "korean": "모든 도전으로 넌 성장해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435835"
+    },
+    {
+      "english": "You are a true fighter.",
+      "korean": "넌 진짜 싸움꾼이야.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435838"
+    },
+    {
+      "english": "Let your inner strength guide you.",
+      "korean": "네 내면의 힘이 널 이끌게 해.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435861"
+    },
+    {
+      "english": "You are incredibly resilient.",
+      "korean": "넌 놀랍도록 회복력이 좋아.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435872"
+    },
+    {
+      "english": "Embrace the journey, with strength.",
+      "korean": "힘내서 여정을 받아들여.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435875"
+    },
+    {
+      "english": "Your will is strong, yes.",
+      "korean": "네 의지가 강해, 응.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435878"
+    },
+    {
+      "english": "Quiet reflection, brings inner peace.",
+      "korean": "고요한 성찰, 마음의 평화를 가져옵니다.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435881"
+    },
+    {
+      "english": "Honesty with myself, is key.",
+      "korean": "스스로에게 솔직한 것, 중요해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435883"
+    },
+    {
+      "english": "Patience with progress, feels good.",
+      "korean": "진행에 인내심을 갖는 것, 좋아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435886"
+    },
+    {
+      "english": "Deep thoughts, reveal true self.",
+      "korean": "깊은 생각은, 진짜 나를 드러내요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435889"
+    },
+    {
+      "english": "Accepting flaws, is a strength.",
+      "korean": "결점을 받아들이는 것, 강점이에요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435891"
+    },
+    {
+      "english": "My feelings are valid, always.",
+      "korean": "내 감정은 언제나, 옳아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435894"
+    },
+    {
+      "english": "Learning from setbacks, builds wisdom.",
+      "korean": "좌절에서 배우는 것, 지혜를 쌓아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435897"
+    },
+    {
+      "english": "Trusting my intuition, guides me.",
+      "korean": "내 직감을 믿는 것, 나를 이끌어요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435899"
+    },
+    {
+      "english": "Self-compassion, is a daily practice.",
+      "korean": "자기 연민, 매일 실천해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435902"
+    },
+    {
+      "english": "Vulnerability, is not weakness.",
+      "korean": "취약함, 약점이 아니에요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435905"
+    },
+    {
+      "english": "Understanding my limits, helps me.",
+      "korean": "내 한계를 이해하는 것, 도움이 돼요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435907"
+    },
+    {
+      "english": "Finding peace, in the present.",
+      "korean": "현재에서 평화를 찾아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435910"
+    },
+    {
+      "english": "Emotional honesty, fosters connection.",
+      "korean": "감정적 솔직함, 관계를 키워요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435913"
+    },
+    {
+      "english": "My journey, shapes my strength.",
+      "korean": "나의 여정이, 나의 힘을 만들어요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435917"
+    },
+    {
+      "english": "Letting go, brings relief.",
+      "korean": "놓아주는 것, 안도를 줘요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435920"
+    },
+    {
+      "english": "Reflecting on lessons, is vital.",
+      "korean": "교훈을 되돌아보는 것, 중요해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435922"
+    },
+    {
+      "english": "Inner dialogue, matters greatly.",
+      "korean": "내면의 대화, 매우 중요해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435925"
+    },
+    {
+      "english": "Accepting imperfection, frees me.",
+      "korean": "불완전함을 받아들이는 것, 나를 해방시켜요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435928"
+    },
+    {
+      "english": "Calmness amidst chaos, is strength.",
+      "korean": "혼란 속 평온함, 강점이에요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435930"
+    },
+    {
+      "english": "My feelings, are a compass.",
+      "korean": "나의 감정은, 나침반이에요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435935"
+    },
+    {
+      "english": "Wise reflection, leads to growth.",
+      "korean": "현명한 성찰, 성장을 이끌어요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435937"
+    },
+    {
+      "english": "Patience with self, is essential.",
+      "korean": "스스로에게 인내심 갖기, 필수적이에요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435940"
+    },
+    {
+      "english": "Honest feelings, create bonds.",
+      "korean": "솔직한 감정, 유대감을 만들어요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435942"
+    },
+    {
+      "english": "Deeper understanding, brings peace.",
+      "korean": "더 깊은 이해, 평화를 가져와요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435945"
+    },
+    {
+      "english": "My emotional truth, is powerful.",
+      "korean": "나의 감정적 진실, 강력해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435948"
+    },
+    {
+      "english": "Embracing the quiet moments.",
+      "korean": "고요한 순간들을 받아들여요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435951"
+    },
+    {
+      "english": "Kindness towards self, is vital.",
+      "korean": "스스로에게 친절함, 매우 중요해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435953"
+    },
+    {
+      "english": "Trusting the process, with faith.",
+      "korean": "과정을 믿는 것, 믿음으로요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.435956"
+    },
+    {
+      "english": "Sincere reflection, shows maturity.",
+      "korean": "진솔한 성찰, 성숙함을 보여줘요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436006"
+    },
+    {
+      "english": "Little by little, reach the goal.",
+      "korean": "조금씩, 목표에 닿아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436009"
+    },
+    {
+      "english": "Focus on today's effort.",
+      "korean": "오늘의 노력에 집중해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436012"
+    },
+    {
+      "english": "Don't rush, it's okay.",
+      "korean": "서두르지 마요, 괜찮아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436015"
+    },
+    {
+      "english": "What did you learn today?",
+      "korean": "오늘 무엇을 배웠어요?",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436017"
+    },
+    {
+      "english": "It's okay to rest now.",
+      "korean": "지금 쉬어도 괜찮아요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436020"
+    },
+    {
+      "english": "Listen to your body.",
+      "korean": "몸의 소리에 귀 기울여요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436022"
+    },
+    {
+      "english": "Don't compare with others.",
+      "korean": "다른 사람과 비교하지 마요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436025"
+    },
+    {
+      "english": "Your pace is perfect.",
+      "korean": "당신의 속도가 완벽해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436027"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "korean": "작은 승리들을 축하해요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436029"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "korean": "숨을 들이쉬고, 내쉬어요.",
+      "category": "Strength",
+      "generated_at": "2026-11-02T06:57:47.436032"
     }
   ],
-  "last_updated": "2026-11-01T06:57:48.762777"
+  "last_updated": "2026-11-02T06:57:47.436034"
 }
