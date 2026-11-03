@@ -11801,7 +11801,727 @@
       "korean": "숨을 들이쉬고, 내쉬어요.",
       "category": "Strength",
       "generated_at": "2026-11-02T06:57:47.436032"
+    },
+    {
+      "english": "Hey, are you okay, right now?",
+      "korean": "야, 지금 괜찮아, 응?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857327"
+    },
+    {
+      "english": "You look pale, do you feel sick?",
+      "korean": "너 창백해 보여, 몸 안 좋아?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857343"
+    },
+    {
+      "english": "Breathe slowly, you’ll be fine, okay?",
+      "korean": "천천히 숨 쉬어, 괜찮을 거야, 응?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857348"
+    },
+    {
+      "english": "Wait, let me check your temperature.",
+      "korean": "잠깐만, 체온 좀 재볼게.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857352"
+    },
+    {
+      "english": "Do you need water, right now?",
+      "korean": "물 좀 필요해, 지금?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857355"
+    },
+    {
+      "english": "Hold on, sit down, please.",
+      "korean": "잠깐만, 앉아 줘, 제발.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857358"
+    },
+    {
+      "english": "Call 119, I’m serious, now.",
+      "korean": "119에 전화해, 진짜로, 지금.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857364"
+    },
+    {
+      "english": "Is your chest hurting, like tight?",
+      "korean": "가슴이 답답해, 아파?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857369"
+    },
+    {
+      "english": "Don’t move, your ankle might be broken.",
+      "korean": "움직이지 마, 발목 다쳤을지도 몰라.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857374"
+    },
+    {
+      "english": "That cut looks bad, are you bleeding?",
+      "korean": "상처가 좀 심한데, 피 나?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857379"
+    },
+    {
+      "english": "Press it, with a clean tissue, please.",
+      "korean": "깨끗한 휴지로 눌러줘, 제발.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857382"
+    },
+    {
+      "english": "How long have you had this fever?",
+      "korean": "열은 얼마나 됐어?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857385"
+    },
+    {
+      "english": "Do you have medicine at home?",
+      "korean": "집에 약 있어?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857388"
+    },
+    {
+      "english": "Let’s rest, you’re overworking yourself.",
+      "korean": "쉬자, 너 너무 무리했어.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857391"
+    },
+    {
+      "english": "I think you need a doctor, seriously.",
+      "korean": "너 병원 가야 할 것 같아, 진짜로.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857394"
+    },
+    {
+      "english": "Can you stand up, slowly?",
+      "korean": "천천히 일어날 수 있어?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857396"
+    },
+    {
+      "english": "Are you dizzy, like the room spins?",
+      "korean": "어지러워, 방이 빙빙 돌아?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857399"
+    },
+    {
+      "english": "Wait, don’t swallow, breathe through your mouth.",
+      "korean": "잠깐, 삼키지 말고 입으로 숨 쉬어.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857403"
+    },
+    {
+      "english": "What’s the pain level, one to ten?",
+      "korean": "아픈 정도가 몇 점이야, 1부터 10까지?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857407"
+    },
+    {
+      "english": "Don’t panic, I’m right here with you.",
+      "korean": "괜찮아, 나 여기 있어.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857412"
+    },
+    {
+      "english": "Do you have an allergy, by any chance?",
+      "korean": "혹시 알레르기 있어?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857415"
+    },
+    {
+      "english": "Your lips look swollen, that worries me.",
+      "korean": "입술이 붓는 것 같아서 걱정돼.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857418"
+    },
+    {
+      "english": "Can you speak clearly, for me?",
+      "korean": "나한테 말 또렷하게 할 수 있어?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857421"
+    },
+    {
+      "english": "Let me call someone, please wait.",
+      "korean": "내가 연락할게, 기다려줘.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857423"
+    },
+    {
+      "english": "Do you want me to drive you?",
+      "korean": "내가 데려다줄까?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857426"
+    },
+    {
+      "english": "Have you eaten today, or not yet?",
+      "korean": "오늘 밥 먹었어, 아직이야?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857428"
+    },
+    {
+      "english": "Take it easy, sip water slowly.",
+      "korean": "천천히 물 한 모금씩 마셔.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857431"
+    },
+    {
+      "english": "Your breathing sounds rough, are you okay?",
+      "korean": "숨이 좀 가빠 보여, 괜찮아?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857434"
+    },
+    {
+      "english": "If it gets worse, we go now.",
+      "korean": "더 심해지면, 지금 바로 가자.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857436"
+    },
+    {
+      "english": "I’ll stay with you, until you feel better.",
+      "korean": "나 네가 괜찮아질 때까지 옆에 있을게.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857440"
+    },
+    {
+      "english": "Are you hurt, where exactly?",
+      "korean": "다쳤어요, 어디가 제일 아파요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857442"
+    },
+    {
+      "english": "What happened, step by step?",
+      "korean": "무슨 일이 있었어요, 차근차근 말해줘요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857445"
+    },
+    {
+      "english": "Do you feel nausea or dizziness?",
+      "korean": "메스꺼워요, 어지러워요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857448"
+    },
+    {
+      "english": "Any headache, even a mild one?",
+      "korean": "두통 있어요, 아주 조금이라도요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857451"
+    },
+    {
+      "english": "When did the symptoms start?",
+      "korean": "증상은 언제부터 시작됐어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857453"
+    },
+    {
+      "english": "Is your throat sore, or itchy?",
+      "korean": "목이 아파요, 간지러워요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857456"
+    },
+    {
+      "english": "Do you have trouble breathing?",
+      "korean": "숨 쉬기 어려워요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857458"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "korean": "통증을 어떻게 느끼는지 말해줄 수 있어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857461"
+    },
+    {
+      "english": "Is it sharp, dull, or burning?",
+      "korean": "찌릿해요, 둔해요, 아니면 타는 느낌이에요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857466"
+    },
+    {
+      "english": "Where does it spread to, if anywhere?",
+      "korean": "퍼지는 곳이 있어요, 있어요 없어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857469"
+    },
+    {
+      "english": "Do you have any swelling?",
+      "korean": "붓는 게 있어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857472"
+    },
+    {
+      "english": "Have you taken any pain medicine?",
+      "korean": "진통제는 드셨어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857474"
+    },
+    {
+      "english": "Are you on any regular medication?",
+      "korean": "평소 약을 드세요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857479"
+    },
+    {
+      "english": "Do you have known allergies?",
+      "korean": "알레르기 있는 거 알아요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857481"
+    },
+    {
+      "english": "What did you eat or drink today?",
+      "korean": "오늘 뭐 드셨어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857484"
+    },
+    {
+      "english": "Have you vomited, or just nauseous?",
+      "korean": "토했어요, 아니면 속이 메스러워요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857486"
+    },
+    {
+      "english": "Is your stomach cramping right now?",
+      "korean": "지금 배가 쥐어아파요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857489"
+    },
+    {
+      "english": "Any diarrhea, or only stomach pain?",
+      "korean": "설사해요, 아니면 배만 아파요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857491"
+    },
+    {
+      "english": "Do you have a rash or hives?",
+      "korean": "두드러기나 발진 있어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857494"
+    },
+    {
+      "english": "Did this start after a new food?",
+      "korean": "새로 먹은 음식 때문에 시작됐어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857498"
+    },
+    {
+      "english": "Is the area numb, or tingly?",
+      "korean": "감각이 둔해요, 아니면 저려요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857502"
+    },
+    {
+      "english": "Can you move that arm normally?",
+      "korean": "그 팔, 정상적으로 움직여져요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857504"
+    },
+    {
+      "english": "Which hurts more, left or right?",
+      "korean": "어느 쪽이 더 아파요, 왼쪽 아니면 오른쪽?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857507"
+    },
+    {
+      "english": "Do you feel weak all over?",
+      "korean": "온몸이 너무 약해요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857509"
+    },
+    {
+      "english": "Have you lost consciousness before?",
+      "korean": "전에 기절한 적 있어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857512"
+    },
+    {
+      "english": "Do you have any chest discomfort?",
+      "korean": "가슴이 불편해요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857514"
+    },
+    {
+      "english": "Can you check your pulse for me?",
+      "korean": "맥박 한번 재줄 수 있어요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857516"
+    },
+    {
+      "english": "Do you know your blood pressure number?",
+      "korean": "혈압 수치 알아요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857519"
+    },
+    {
+      "english": "Should I call a friend or family?",
+      "korean": "친구나 가족에게 전화할까요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857521"
+    },
+    {
+      "english": "Do you want a clinic, or hospital?",
+      "korean": "병원 갈까요, 아니면 동네 의원 갈까요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857524"
+    },
+    {
+      "english": "Keep it together, stay calm, breathe.",
+      "korean": "진정하고, 차분히, 숨 쉬세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857527"
+    },
+    {
+      "english": "Take a deep breath, just for now.",
+      "korean": "일단 크게 한 번 숨 쉬세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857530"
+    },
+    {
+      "english": "Cold compress helps, grab an ice pack.",
+      "korean": "차갑게 대면 좋아요, 아이스팩 챙기세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857533"
+    },
+    {
+      "english": "Don’t ignore it, get checked today.",
+      "korean": "대충 넘기지 말고, 오늘 진료받으세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857536"
+    },
+    {
+      "english": "This feels like a red flag, fast.",
+      "korean": "이건 수상해요, 빨리 가요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857539"
+    },
+    {
+      "english": "Pain won’t wait, let’s move quickly.",
+      "korean": "아픈 건 오래 못 버텨요, 빨리 가요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857542"
+    },
+    {
+      "english": "If you’re dizzy, sit down, don’t stand.",
+      "korean": "어지럽다면 앉으세요, 무리하지 마요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857546"
+    },
+    {
+      "english": "Dry cough? Drink warm water, slowly.",
+      "korean": "마른 기침이면, 따뜻한 물로 천천히.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857549"
+    },
+    {
+      "english": "Slight fever, still watch your body.",
+      "korean": "열이 좀 있어도, 몸 상태를 봐요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857552"
+    },
+    {
+      "english": "No brushing past it, symptoms matter.",
+      "korean": "대수롭지 않게 넘기지 마요, 증상은 중요해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857555"
+    },
+    {
+      "english": "It’s better safe, let’s check now.",
+      "korean": "괜히 불안하면, 지금 확인해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857558"
+    },
+    {
+      "english": "Listen to your body, it’s warning you.",
+      "korean": "몸이 말해요, 지금 신경 쓰세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857562"
+    },
+    {
+      "english": "Don’t panic, we’ll handle it stepwise.",
+      "korean": "겁내지 마요, 차근차근 해볼게요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857566"
+    },
+    {
+      "english": "If water helps, take small sips.",
+      "korean": "물로 좀 나아지면, 조금씩 드세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857568"
+    },
+    {
+      "english": "Check the color, skin and lips matter.",
+      "korean": "색부터 봐요, 피부랑 입술이 중요해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857573"
+    },
+    {
+      "english": "If it’s severe, don’t wait around.",
+      "korean": "심하면 기다리지 말고 바로 가요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857576"
+    },
+    {
+      "english": "Better late than never, get help.",
+      "korean": "늦기 전에, 도움을 받으세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857579"
+    },
+    {
+      "english": "Warmth helps, keep you covered up.",
+      "korean": "따뜻하게, 몸을 좀 덮으세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857582"
+    },
+    {
+      "english": "If you can’t talk, call right away.",
+      "korean": "말이 안 나오면, 바로 전화해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857585"
+    },
+    {
+      "english": "Rest first, then we decide what to do.",
+      "korean": "일단 쉬고, 그다음에 정해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857588"
+    },
+    {
+      "english": "That’s not “nothing,” get checked.",
+      "korean": "그건 아무 게 아니에요, 검사해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857592"
+    },
+    {
+      "english": "When in doubt, err on the safe side.",
+      "korean": "모르면 안전한 쪽으로 가요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857595"
+    },
+    {
+      "english": "You look pale, sit down, okay?",
+      "korean": "창백해 보여요, 앉아 계세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857597"
+    },
+    {
+      "english": "A little sore throat? Warm tea helps.",
+      "korean": "목이 좀 아프면, 따뜻한 차가 좋아요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857600"
+    },
+    {
+      "english": "If you feel numb, don’t ignore it.",
+      "korean": "저림이 있으면, 그냥 넘어가지 마요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857603"
+    },
+    {
+      "english": "No heavy lifting today, take it easy.",
+      "korean": "오늘은 무리하지 마요, 쉬세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857606"
+    },
+    {
+      "english": "Sweating, chills, it might be a fever.",
+      "korean": "식은땀 나고 오한이면, 열일 수 있어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857611"
+    },
+    {
+      "english": "Keep warm, but don’t overheat.",
+      "korean": "따뜻하게 하되, 너무 덥히진 마요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857614"
+    },
+    {
+      "english": "If it’s getting worse, we act now.",
+      "korean": "점점 심해지면, 지금 움직여요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857617"
+    },
+    {
+      "english": "Let’s cool down, loosen that tight clothing.",
+      "korean": "열 식히고, 옷 좀 느슨하게 해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857621"
+    },
+    {
+      "english": "I’m scared, but I’m staying honest.",
+      "korean": "무섭지만, 솔직하게 말할게요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857624"
+    },
+    {
+      "english": "Tell me slowly, I need to listen.",
+      "korean": "천천히 말해 주세요, 들어야 해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857627"
+    },
+    {
+      "english": "I feel uneasy, like something’s off.",
+      "korean": "기분이 이상해요, 뭔가 잘못된 것 같아요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857630"
+    },
+    {
+      "english": "My mind is racing, can I sit?",
+      "korean": "머리가 너무 복잡해요, 앉아도 될까요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857633"
+    },
+    {
+      "english": "I’m trying to be calm, really.",
+      "korean": "진짜로 침착하려고 해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857636"
+    },
+    {
+      "english": "I keep thinking it might be serious.",
+      "korean": "계속 심각할까 봐 걱정돼요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857640"
+    },
+    {
+      "english": "I’m not sure, but it feels different.",
+      "korean": "잘 모르겠는데, 느낌이 달라요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857643"
+    },
+    {
+      "english": "Please be patient, I’m shaking inside.",
+      "korean": "조금만 기다려 주세요, 속이 떨려요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857647"
+    },
+    {
+      "english": "I’m embarrassed, but I need help.",
+      "korean": "창피하지만, 도움이 필요해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857650"
+    },
+    {
+      "english": "I’m frustrated, it keeps coming back.",
+      "korean": "답답해요, 자꾸 다시 와요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857653"
+    },
+    {
+      "english": "I can’t focus, this is wearing me down.",
+      "korean": "집중이 안 돼요, 너무 지쳐요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857657"
+    },
+    {
+      "english": "I’m worried, it’s worse than yesterday.",
+      "korean": "걱정돼요, 어제보다 더 심해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857665"
+    },
+    {
+      "english": "I’m feeling low, I don’t feel myself.",
+      "korean": "기분이 가라앉아요, 예전 같지 않아요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857669"
+    },
+    {
+      "english": "It’s hard to describe, but it’s real.",
+      "korean": "설명하기 어렵지만, 분명히 느껴져요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857672"
+    },
+    {
+      "english": "I’m trying to wait, but I can’t.",
+      "korean": "참아 보려고 했는데, 못 참겠어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857676"
+    },
+    {
+      "english": "I’m scared of complications, please tell me.",
+      "korean": "합병증이 걱정돼요, 알려 주세요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857679"
+    },
+    {
+      "english": "I’m calming down, but it still hurts.",
+      "korean": "진정이 좀 되는데, 그래도 아파요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857684"
+    },
+    {
+      "english": "I keep checking myself, is that okay?",
+      "korean": "계속 몸을 확인해요, 괜찮을까요?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857687"
+    },
+    {
+      "english": "I’m not acting tough, I’m genuinely concerned.",
+      "korean": "괜찮은 척 못 하겠어요, 정말 걱정돼요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857691"
+    },
+    {
+      "english": "Honestly, I’m afraid I waited too long.",
+      "korean": "솔직히, 너무 오래 기다렸을까 봐 두려워요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857694"
+    },
+    {
+      "english": "I’m breathing slowly, but my fear stays.",
+      "korean": "천천히 숨 쉬는데, 불안은 남아 있어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857697"
+    },
+    {
+      "english": "I know it’s uncomfortable, I’m still here.",
+      "korean": "불편한 건 아는데, 지금도 버틸 수 있어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857700"
+    },
+    {
+      "english": "I feel shaky, my body feels on edge.",
+      "korean": "몸이 떨려요, 긴장 상태 같아요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857703"
+    },
+    {
+      "english": "Please check again, I’m second-guessing myself.",
+      "korean": "다시 한 번 확인해 주세요, 제가 확신이 없어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857707"
+    },
+    {
+      "english": "I’m doing my best to stay patient.",
+      "korean": "최대한 참아 보려고 해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857710"
+    },
+    {
+      "english": "I keep thinking, what if I miss this?",
+      "korean": "혹시 놓치면 어떡해, 계속 생각해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857713"
+    },
+    {
+      "english": "This feels personal, not just physical.",
+      "korean": "이건 몸만의 문제가 아닌 것 같아요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857716"
+    },
+    {
+      "english": "I’m trying to be brave, but I’m tired.",
+      "korean": "용기 내고 있는데, 너무 지쳤어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857719"
+    },
+    {
+      "english": "Give me the facts, I can handle them.",
+      "korean": "사실대로 말해 주세요, 알아들을 수 있어요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857722"
+    },
+    {
+      "english": "I’m still thinking clearly, but I need guidance.",
+      "korean": "아직은 정신이 맑은데, 도움이 필요해요.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-03T07:21:42.857725"
     }
   ],
-  "last_updated": "2026-11-02T06:57:47.436034"
+  "last_updated": "2026-11-03T07:21:42.857727"
 }
