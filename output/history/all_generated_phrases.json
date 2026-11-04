@@ -12521,7 +12521,727 @@
       "korean": "아직은 정신이 맑은데, 도움이 필요해요.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-03T07:21:42.857725"
+    },
+    {
+      "english": "Is there a sale today?",
+      "korean": "오늘 세일해요, 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757550"
+    },
+    {
+      "english": "I’ll take it, how much total?",
+      "korean": "이거 살게요, 총 얼마예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757566"
+    },
+    {
+      "english": "Do you have this in black?",
+      "korean": "이거 검정색으로 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757569"
+    },
+    {
+      "english": "Is it free, or just a sample?",
+      "korean": "이거 무료예요, 샘플이에요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757571"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "korean": "이거 입어봐도 돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757574"
+    },
+    {
+      "english": "Where’s the price tag, sorry?",
+      "korean": "가격표가 어디에 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757576"
+    },
+    {
+      "english": "Is there a cheaper version?",
+      "korean": "좀 더 싼 걸로 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757579"
+    },
+    {
+      "english": "That looks really good, how much?",
+      "korean": "이거 되게 좋아 보여요, 얼마예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757583"
+    },
+    {
+      "english": "Do you accept card, too?",
+      "korean": "카드도 돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757586"
+    },
+    {
+      "english": "Is the size accurate, or runs small?",
+      "korean": "사이즈 실한가요, 작게 나와요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757588"
+    },
+    {
+      "english": "Is there a return policy?",
+      "korean": "반품 가능해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757591"
+    },
+    {
+      "english": "Does this come with warranty?",
+      "korean": "이거 보증기간 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757593"
+    },
+    {
+      "english": "I’ll think about it, thanks.",
+      "korean": "생각해볼게요, 감사합니다.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757595"
+    },
+    {
+      "english": "Wait, is this discounted?",
+      "korean": "잠깐만요, 이거 할인해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757600"
+    },
+    {
+      "english": "That price is too high, sorry.",
+      "korean": "가격이 너무 비싸요, 죄송해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757602"
+    },
+    {
+      "english": "Can you match the lower price?",
+      "korean": "더 싼 가격으로 맞춰줘요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757604"
+    },
+    {
+      "english": "Is tax included in the price?",
+      "korean": "가격에 세금 포함돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757606"
+    },
+    {
+      "english": "How long does this promotion last?",
+      "korean": "이 이벤트 얼마나 해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757608"
+    },
+    {
+      "english": "Any points or membership benefits?",
+      "korean": "포인트 적립돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757611"
+    },
+    {
+      "english": "Do you have it in stock?",
+      "korean": "재고 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757613"
+    },
+    {
+      "english": "That’s exactly what I wanted.",
+      "korean": "이거 딱 원하던 거예요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757616"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "korean": "할부로 결제돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757618"
+    },
+    {
+      "english": "I’ll buy it, just one question.",
+      "korean": "살게요, 한 가지만요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757620"
+    },
+    {
+      "english": "Is there a bundle discount?",
+      "korean": "세트로 사면 할인해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757623"
+    },
+    {
+      "english": "Do you offer free delivery?",
+      "korean": "배송비 무료예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757624"
+    },
+    {
+      "english": "Oh, that’s a great deal!",
+      "korean": "오, 이거 완전 꿀딜이네요!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757627"
+    },
+    {
+      "english": "I need the cheapest option, please.",
+      "korean": "제일 싼 걸로 주세요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757630"
+    },
+    {
+      "english": "Can you wrap it nicely?",
+      "korean": "예쁘게 포장해주실 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757632"
+    },
+    {
+      "english": "It’s out of budget, maybe later.",
+      "korean": "예산이 안 돼요, 나중에요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757637"
+    },
+    {
+      "english": "Excuse me, what’s the current price?",
+      "korean": "실례지만, 지금 가격이 얼마예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757640"
+    },
+    {
+      "english": "Is this the final price, or extra?",
+      "korean": "이 가격이 최종이에요, 아니면 추가돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757642"
+    },
+    {
+      "english": "Do you have student discounts here?",
+      "korean": "여기 학생 할인 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757645"
+    },
+    {
+      "english": "Which one’s better for daily use?",
+      "korean": "하루에 쓰기엔 뭐가 더 좋아요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757648"
+    },
+    {
+      "english": "Can you recommend something in this price range?",
+      "korean": "이 가격대에서 추천해 주실 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757650"
+    },
+    {
+      "english": "Is there a discount for buying two?",
+      "korean": "두 개 사면 할인돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757652"
+    },
+    {
+      "english": "Do these prices change depending on size?",
+      "korean": "사이즈에 따라 가격이 달라져요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757654"
+    },
+    {
+      "english": "Is there a cheaper option in stock?",
+      "korean": "재고 있는 더 저렴한 게 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757657"
+    },
+    {
+      "english": "How much is it if I get the set?",
+      "korean": "세트로 하면 얼마예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757659"
+    },
+    {
+      "english": "What’s the price for the smaller version?",
+      "korean": "작은 건 가격이 얼마예요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757662"
+    },
+    {
+      "english": "Is the receipt required for exchanges?",
+      "korean": "교환할 때 영수증 필요해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757664"
+    },
+    {
+      "english": "If I exchange, is the difference refunded?",
+      "korean": "교환하면 차액도 돌려줘요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757666"
+    },
+    {
+      "english": "What’s the best way to check inventory?",
+      "korean": "재고 확인은 어떻게 해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757669"
+    },
+    {
+      "english": "Do you offer samples for first-timers?",
+      "korean": "처음 오면 샘플 줘요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757671"
+    },
+    {
+      "english": "Is this item limited, or always available?",
+      "korean": "이건 한정이에요, 아니면 계속 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757676"
+    },
+    {
+      "english": "Could you tell me the warranty details?",
+      "korean": "보증이 어떻게 되는지 알려주실 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757678"
+    },
+    {
+      "english": "Is delivery included, or is it extra?",
+      "korean": "배송비가 포함돼요, 아니면 따로 내요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757682"
+    },
+    {
+      "english": "How long does it take to arrive?",
+      "korean": "도착까지 보통 얼마나 걸려요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757684"
+    },
+    {
+      "english": "Do you have this in a different color?",
+      "korean": "이거 다른 색상 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757686"
+    },
+    {
+      "english": "What size should I get, for me?",
+      "korean": "저는 몇 사이즈가 좋을까요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757688"
+    },
+    {
+      "english": "Is it comfortable, especially for long days?",
+      "korean": "오래 신어도 편해요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757691"
+    },
+    {
+      "english": "Can I see the material, up close?",
+      "korean": "소재 좀 자세히 볼 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757693"
+    },
+    {
+      "english": "Is there any extra cost for customization?",
+      "korean": "이렇게 맞추면 추가 비용 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757695"
+    },
+    {
+      "english": "Do you have a display model I can check?",
+      "korean": "진열품으로 한번 볼 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757697"
+    },
+    {
+      "english": "What forms of payment do you accept?",
+      "korean": "결제는 어떤 방식으로 돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757699"
+    },
+    {
+      "english": "If I pay today, do I get points?",
+      "korean": "오늘 결제하면 포인트 쌓여요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757703"
+    },
+    {
+      "english": "Is there a promo code you recommend?",
+      "korean": "추천해 주실 프로모션 코드 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757705"
+    },
+    {
+      "english": "Can I confirm the price before I decide?",
+      "korean": "결정하기 전에 가격 확인해도 돼요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757707"
+    },
+    {
+      "english": "Thanks, I’ll ask if there’s a better deal.",
+      "korean": "네, 더 좋은 할인 있으면 여쭤볼게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757710"
+    },
+    {
+      "english": "You’ve got this, compare prices calmly.",
+      "korean": "넌 할 수 있어, 가격은 차분히 비교해.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757713"
+    },
+    {
+      "english": "Small checks today, big savings tomorrow.",
+      "korean": "오늘 조금만 확인하면, 내일 큰 절약이 돼.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757716"
+    },
+    {
+      "english": "Trust your taste, choose what fits.",
+      "korean": "네 취향을 믿어, 나한테 맞는 걸 골라.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757718"
+    },
+    {
+      "english": "Take a breath, then decide confidently.",
+      "korean": "숨 한 번 고르고, 자신 있게 결정해.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757720"
+    },
+    {
+      "english": "You don’t need rush, thoughtful picks win.",
+      "korean": "급할 필요 없어, 신중한 선택이 이겨.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757723"
+    },
+    {
+      "english": "Every review helps, keep learning.",
+      "korean": "리뷰 하나하나가 도움돼, 계속 배우자.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757725"
+    },
+    {
+      "english": "Good deals feel easy when you plan.",
+      "korean": "계획하면 좋은 딜은 편하게 느껴져.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757728"
+    },
+    {
+      "english": "Ask, check, and move forward proudly.",
+      "korean": "물어보고, 확인하고, 당당하게 가자.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757730"
+    },
+    {
+      "english": "Pay attention, details can save money.",
+      "korean": "잘 봐, 디테일이 돈을 아껴줘.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757732"
+    },
+    {
+      "english": "It’s okay to wait, you’re choosing wisely.",
+      "korean": "기다려도 돼, 넌 현명하게 고르는 중이야.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757735"
+    },
+    {
+      "english": "Your budget is a tool, not a wall.",
+      "korean": "예산은 벽이 아니라 도구야.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757738"
+    },
+    {
+      "english": "Stay positive, the right option shows up.",
+      "korean": "긍정적으로 가면, 정답이 나타나.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757740"
+    },
+    {
+      "english": "Don’t chase hype, chase value.",
+      "korean": "유행만 쫓지 말고, 가치를 챙겨.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757743"
+    },
+    {
+      "english": "Compare once more, you’ll feel better.",
+      "korean": "한 번만 더 비교해, 마음이 편해져.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757746"
+    },
+    {
+      "english": "You’re building smart habits, keep going.",
+      "korean": "너는 똑똑한 습관을 만들고 있어, 계속해.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757748"
+    },
+    {
+      "english": "Choose quality, your future self says thanks.",
+      "korean": "품질을 골라, 미래의 네가 고마워할 거야.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757751"
+    },
+    {
+      "english": "Nice job, you’re staying in control.",
+      "korean": "잘했어, 너는 통제하고 있어.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757753"
+    },
+    {
+      "english": "Check the total vibe, not just the price.",
+      "korean": "가격만 보지 말고, 전체 느낌을 봐.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757756"
+    },
+    {
+      "english": "You’re allowed to want more clarity.",
+      "korean": "더 확실히 알고 싶어도 돼.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757758"
+    },
+    {
+      "english": "Go with what lasts, that’s real value.",
+      "korean": "오래 가는 걸 사, 그게 진짜 가치야.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757763"
+    },
+    {
+      "english": "Small win today, big confidence tomorrow.",
+      "korean": "오늘 작은 승리, 내일 큰 자신감.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757765"
+    },
+    {
+      "english": "Say yes to your needs, not panic.",
+      "korean": "공황 말고, 네 필요에 맞게 해.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757780"
+    },
+    {
+      "english": "Stay focused, your best deal is waiting.",
+      "korean": "집중해, 최고의 딜은 기다리고 있어.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757786"
+    },
+    {
+      "english": "You’re doing great, keep asking good questions.",
+      "korean": "너무 잘하고 있어, 좋은 질문 계속해.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757790"
+    },
+    {
+      "english": "Don’t overthink, pick the one that fits.",
+      "korean": "너무 고민하지 말고, 딱 맞는 걸 골라.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757795"
+    },
+    {
+      "english": "Your goals come first, spend with purpose.",
+      "korean": "목표가 먼저야, 목적 있게 써.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757798"
+    },
+    {
+      "english": "Be proud of yourself, you’re shopping smart.",
+      "korean": "자랑스러워해, 너는 똑똑하게 사고 있어.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757802"
+    },
+    {
+      "english": "Let the numbers guide you, not stress.",
+      "korean": "숫자는 너를 이끌어, 스트레스는 덜어.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757804"
+    },
+    {
+      "english": "Focus on long-term value, not quick hype.",
+      "korean": "단기 유행 말고, 장기 가치를 봐.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757807"
+    },
+    {
+      "english": "You’ll find it, keep searching with confidence.",
+      "korean": "찾게 될 거야, 자신 있게 계속 찾아봐.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757810"
+    },
+    {
+      "english": "I’m shopping with patience, not panic.",
+      "korean": "전 조급함 말고, 여유로 쇼핑해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757812"
+    },
+    {
+      "english": "Honestly, I feel calmer comparing options.",
+      "korean": "솔직히, 선택지 비교하면 마음이 편해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757815"
+    },
+    {
+      "english": "I want value, even if it’s slower.",
+      "korean": "천천히 가도, 가성비를 원해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757819"
+    },
+    {
+      "english": "Let me think, I’m not rushing.",
+      "korean": "생각 좀 할게요, 서두르지 않을게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757822"
+    },
+    {
+      "english": "I’m checking prices, but also my mood.",
+      "korean": "가격도 보지만, 제 기분도 봐요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757825"
+    },
+    {
+      "english": "I want something I won’t regret later.",
+      "korean": "나중에 후회 안 할 걸 고르고 싶어요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757828"
+    },
+    {
+      "english": "Can we talk slowly, I’m listening carefully?",
+      "korean": "천천히 설명해 주실 수 있어요? 천천히 들을게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757833"
+    },
+    {
+      "english": "I’m leaning toward the simpler choice.",
+      "korean": "저는 더 간단한 걸로 기울고 있어요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757835"
+    },
+    {
+      "english": "My budget feels tight, so I need clarity.",
+      "korean": "제 예산이 빠듯해서, 정확히 알고 싶어요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757838"
+    },
+    {
+      "english": "I care about comfort, not just the tag.",
+      "korean": "가격표보다 편안함이 더 중요해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757840"
+    },
+    {
+      "english": "I’m trying to buy what lasts, quietly.",
+      "korean": "조용히 오래 쓸 수 있는 걸 사려 해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757843"
+    },
+    {
+      "english": "I don’t need hype, I need a fair price.",
+      "korean": "유행은 필요 없고, 공정한 가격이 필요해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757846"
+    },
+    {
+      "english": "If I wait, it’s because I’m thoughtful.",
+      "korean": "제가 기다리는 건, 신중해서예요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757850"
+    },
+    {
+      "english": "I want to feel confident, not pressured.",
+      "korean": "압박 말고, 자신감 있게 사고 싶어요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757853"
+    },
+    {
+      "english": "Can you tell me the total, honestly?",
+      "korean": "총액을 솔직히 설명해 주실 수 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757855"
+    },
+    {
+      "english": "I’m comparing again, because details matter.",
+      "korean": "또 비교해요, 디테일이 중요해서요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757858"
+    },
+    {
+      "english": "I’d rather pay a bit more, if it’s right.",
+      "korean": "맞다면 조금 더 내도 괜찮아요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757861"
+    },
+    {
+      "english": "I’m watching the price, but staying calm.",
+      "korean": "가격은 보지만, 마음은 차분하게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757863"
+    },
+    {
+      "english": "I feel good when the deal makes sense.",
+      "korean": "딜이 말이 되면, 기분이 좋아져요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757865"
+    },
+    {
+      "english": "I’m choosing slowly, so I don’t regret.",
+      "korean": "천천히 고르면 후회가 덜해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757868"
+    },
+    {
+      "english": "What feels fair to you, for this?",
+      "korean": "이건, 가격이 공정하다고 느껴지세요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757872"
+    },
+    {
+      "english": "I’m not sure yet, I need time.",
+      "korean": "아직 잘 모르겠어요, 시간 좀 필요해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757875"
+    },
+    {
+      "english": "I’d like a honest recommendation, please.",
+      "korean": "솔직한 추천 부탁드려요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757878"
+    },
+    {
+      "english": "I’m hoping to find a sweet spot.",
+      "korean": "적당한 가격대, 찾고 싶어요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757880"
+    },
+    {
+      "english": "My heart says yes, but my head checks first.",
+      "korean": "마음은 끌리는데, 머리는 먼저 확인해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757882"
+    },
+    {
+      "english": "I’m grateful you’re explaining so clearly.",
+      "korean": "이렇게 자세히 설명해 주셔서 감사해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757885"
+    },
+    {
+      "english": "I want to protect my money, kindly.",
+      "korean": "돈을 지키는 데, 너무 무리하지 않을게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757887"
+    },
+    {
+      "english": "I’m buying with intention, not impulse.",
+      "korean": "충동 말고, 의도로 사려고 해요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757890"
+    },
+    {
+      "english": "If it’s not right, I’ll walk away.",
+      "korean": "마음에 안 들면, 그냥 나올게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757892"
+    },
+    {
+      "english": "I’ll decide when my worries fade.",
+      "korean": "걱정이 줄면, 그때 결정할게요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757895"
+    },
+    {
+      "english": "Before buying, check the return policy, please.",
+      "korean": "구매 전에 반품 정책, 꼭 확인해 주세요.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757897"
+    },
+    {
+      "english": "Is there a student discount, by any chance?",
+      "korean": "혹시 학생 할인, 있어요?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-04T07:04:03.757900"
     }
   ],
-  "last_updated": "2026-11-03T07:21:42.857727"
+  "last_updated": "2026-11-04T07:04:03.757902"
 }
