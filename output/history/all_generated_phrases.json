@@ -13241,7 +13241,727 @@
       "korean": "혹시 학생 할인, 있어요?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-04T07:04:03.757900"
+    },
+    {
+      "english": "I’ll do it, one try today.",
+      "korean": "나 해볼게요, 오늘 한 번만요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368353"
+    },
+    {
+      "english": "It’s okay, I’m still learning.",
+      "korean": "괜찮아요, 아직 배우는 중이에요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368373"
+    },
+    {
+      "english": "Let’s practice, even if it’s awkward.",
+      "korean": "연습해봐요, 어색해도 괜찮아요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368381"
+    },
+    {
+      "english": "Say it now, then breathe.",
+      "korean": "지금 말해요, 그리고 숨 쉬세요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368387"
+    },
+    {
+      "english": "I’m scared, but I’ll try anyway.",
+      "korean": "무서워도, 그래도 해볼 거예요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368393"
+    },
+    {
+      "english": "Ask first, you’ll feel steadier.",
+      "korean": "먼저 물어봐요, 훨씬 안정돼요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368399"
+    },
+    {
+      "english": "Thanks, I’ll handle it from here.",
+      "korean": "고마워요, 여기서 제가 할게요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368405"
+    },
+    {
+      "english": "No worries, I’ve got this.",
+      "korean": "괜찮아요, 제가 할 수 있어요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368414"
+    },
+    {
+      "english": "I can, even if it’s messy.",
+      "korean": "할 수 있어요, 좀 엉망이어도요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368420"
+    },
+    {
+      "english": "Ready? Let’s go, right now.",
+      "korean": "준비됐어요? 자, 지금 가요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368426"
+    },
+    {
+      "english": "I’ll start small, then grow.",
+      "korean": "작게 시작해요, 그리고 커져요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368432"
+    },
+    {
+      "english": "Quick check, am I okay?",
+      "korean": "잠깐 확인해요, 저 괜찮아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368437"
+    },
+    {
+      "english": "Thanks for waiting, I’m getting ready.",
+      "korean": "기다려줘서 고마워요, 준비 중이에요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368443"
+    },
+    {
+      "english": "I’ll say hello, even first.",
+      "korean": "안녕하세요, 먼저 인사할게요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368448"
+    },
+    {
+      "english": "I’m learning fast, step by step.",
+      "korean": "빨리 배우고 있어요, 한 걸음씩.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368453"
+    },
+    {
+      "english": "If I mess up, I’ll reset.",
+      "korean": "실수하면, 다시 시작해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368463"
+    },
+    {
+      "english": "I’ll be honest, just say it.",
+      "korean": "솔직하게 말해요, 그냥 말하면 돼요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368469"
+    },
+    {
+      "english": "One more try, that’s all.",
+      "korean": "한 번만 더 해요, 그게 전부예요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368474"
+    },
+    {
+      "english": "Let it go, tomorrow is another chance.",
+      "korean": "놓아줘요, 내일은 또 기회예요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368480"
+    },
+    {
+      "english": "Even quiet people can be brave.",
+      "korean": "조용한 사람도 용감해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368484"
+    },
+    {
+      "english": "I’ll ask, because I need clarity.",
+      "korean": "물어볼게요, 정확히 알아야 해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368490"
+    },
+    {
+      "english": "Keep your promise, even small ones.",
+      "korean": "약속 지켜요, 작은 것도요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368495"
+    },
+    {
+      "english": "I’m not alone, let’s do it together.",
+      "korean": "혼자가 아니에요, 같이 해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368500"
+    },
+    {
+      "english": "Do it scared, not later.",
+      "korean": "무서워도 지금 해요, 나중에 말고요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368505"
+    },
+    {
+      "english": "I’ll own it, I was wrong.",
+      "korean": "제 책임이에요, 제가 틀렸어요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368511"
+    },
+    {
+      "english": "Be kind to yourself, then move.",
+      "korean": "자기한테 친절해요, 그리고 움직여요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368515"
+    },
+    {
+      "english": "I can handle the pause, stay calm.",
+      "korean": "잠깐 멈춰도 돼요, 침착하게요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368523"
+    },
+    {
+      "english": "Your effort counts, even if it’s imperfect.",
+      "korean": "노력은 중요해요, 완벽이 아니어도요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368532"
+    },
+    {
+      "english": "Let’s try again, no drama.",
+      "korean": "다시 해봐요, 너무 복잡하게 말고요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368539"
+    },
+    {
+      "english": "I’ll protect my peace, and speak kindly.",
+      "korean": "제 평화를 지켜요, 그리고 상냥하게 말해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368545"
+    },
+    {
+      "english": "Can you show me, one more time?",
+      "korean": "한번만 더 보여주실 수 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368551"
+    },
+    {
+      "english": "What’s the polite way to ask?",
+      "korean": "공손하게 묻는 말, 뭐가 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368558"
+    },
+    {
+      "english": "Where should I start, first step?",
+      "korean": "어디부터 시작하면 돼요, 첫 단계요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368563"
+    },
+    {
+      "english": "Is it okay to ask for advice?",
+      "korean": "조언 부탁해도 괜찮아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368568"
+    },
+    {
+      "english": "Could you repeat that, a bit slower?",
+      "korean": "조금만 천천히 다시 말해주실래요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368573"
+    },
+    {
+      "english": "What should I do if I freeze?",
+      "korean": "말문이 막히면, 어떻게 해요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368578"
+    },
+    {
+      "english": "Do you think this is the right way?",
+      "korean": "이렇게 하는 게 맞아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368583"
+    },
+    {
+      "english": "Which question sounds more respectful?",
+      "korean": "어떤 질문이 더 공손해요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368588"
+    },
+    {
+      "english": "May I ask, what time works best?",
+      "korean": "몇 시가 가장 좋아요, 여쭤봐도 될까요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368593"
+    },
+    {
+      "english": "What’s the short answer here, please?",
+      "korean": "여기선 짧게 뭐라고 해요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368603"
+    },
+    {
+      "english": "Can I get your honest feedback?",
+      "korean": "솔직한 피드백, 받을 수 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368608"
+    },
+    {
+      "english": "Would you recommend this route, or not?",
+      "korean": "이 길 추천해요, 아니에요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368613"
+    },
+    {
+      "english": "How should I respond, step by step?",
+      "korean": "어떻게 대답하면 돼요, 차근차근요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368618"
+    },
+    {
+      "english": "What if I don’t understand, then?",
+      "korean": "잘 모르겠으면, 어떻게 해요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368624"
+    },
+    {
+      "english": "Is it too much, if I ask again?",
+      "korean": "다시 물어봐도 너무 부담 없어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368629"
+    },
+    {
+      "english": "Can we talk later, for a minute?",
+      "korean": "잠깐 나중에 이야기할 수 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368634"
+    },
+    {
+      "english": "Which one do you prefer, this or that?",
+      "korean": "이거랑 저거, 뭐가 더 좋아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368638"
+    },
+    {
+      "english": "What’s the safest option, for me?",
+      "korean": "저한테 가장 안전한 방법이 뭐예요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368646"
+    },
+    {
+      "english": "Can I confirm, your address is correct?",
+      "korean": "주소 확인해도 될까요, 맞아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368651"
+    },
+    {
+      "english": "Where can I find the answer?",
+      "korean": "답은 어디서 찾을 수 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368655"
+    },
+    {
+      "english": "How do you keep calm while asking?",
+      "korean": "질문할 때 어떻게 침착해요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368678"
+    },
+    {
+      "english": "What’s your suggestion, for today’s plan?",
+      "korean": "오늘 계획, 어떻게 하면 좋을까요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368685"
+    },
+    {
+      "english": "Can you judge my answer, quickly?",
+      "korean": "제 답, 빨리 봐주실 수 있어요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368690"
+    },
+    {
+      "english": "Do you have a contact, just in case?",
+      "korean": "혹시 연락처 있으세요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368695"
+    },
+    {
+      "english": "What’s the best phrase for this moment?",
+      "korean": "이 순간에 제일 좋은 말이 뭐예요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368700"
+    },
+    {
+      "english": "How late is too late to ask?",
+      "korean": "물어봐도 늦지 않은 시간이 언제예요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368705"
+    },
+    {
+      "english": "Can you check my pronunciation, please?",
+      "korean": "발음, 한 번만 봐주실래요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368710"
+    },
+    {
+      "english": "Should I be direct, or gentle?",
+      "korean": "직설이 좋아요, 아니면 부드럽게요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368714"
+    },
+    {
+      "english": "What topic should I ask first?",
+      "korean": "먼저 어떤 걸 물어보면 좋아요?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368719"
+    },
+    {
+      "english": "Breathe in, then answer with confidence.",
+      "korean": "숨 들이쉬고, 자신 있게 말해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368724"
+    },
+    {
+      "english": "Try first, worry later, courage wins.",
+      "korean": "일단 해봐, 나중에 걱정해, 용기가 이겨.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368733"
+    },
+    {
+      "english": "Small wins today, bravery builds tomorrow.",
+      "korean": "오늘 작은 승리, 내일 더 용기.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368738"
+    },
+    {
+      "english": "Speak up, even if your voice shakes.",
+      "korean": "목소리 떨려도, 말해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368752"
+    },
+    {
+      "english": "Mistakes happen, you’re still moving forward.",
+      "korean": "실수는 생겨도, 계속 나아가요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368759"
+    },
+    {
+      "english": "Let fear ride shotgun, not the driver.",
+      "korean": "두려움은 옆에 태우고, 내가 운전해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368764"
+    },
+    {
+      "english": "Good intentions, brave words, clear results.",
+      "korean": "좋은 마음, 용기 있는 말, 결과가 나와요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368769"
+    },
+    {
+      "english": "You don’t need perfect, just honest.",
+      "korean": "완벽할 필요 없어요, 솔직하면 돼요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368775"
+    },
+    {
+      "english": "Keep going, your confidence will catch up.",
+      "korean": "계속 가요, 자신감이 따라와요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368781"
+    },
+    {
+      "english": "Say it, then let it go, breathe.",
+      "korean": "말하고 놓아줘요, 숨 쉬세요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368786"
+    },
+    {
+      "english": "You’re learning, not failing, stay brave.",
+      "korean": "너는 실패가 아니라 배우는 중, 용기 내요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368792"
+    },
+    {
+      "english": "Confidence grows in the doing, not thinking.",
+      "korean": "생각보다 해보면, 자신감이 커져요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368797"
+    },
+    {
+      "english": "Ask anyway, you’re allowed to try.",
+      "korean": "물어보세요, 시도할 권리가 있어요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368803"
+    },
+    {
+      "english": "I can handle it, I won’t shrink.",
+      "korean": "나는 할 수 있어요, 움츠리지 않아요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368809"
+    },
+    {
+      "english": "Be bold, but keep your manners.",
+      "korean": "용기 있게, 예의는 꼭 지켜요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368814"
+    },
+    {
+      "english": "When you hesitate, choose courage anyway.",
+      "korean": "망설일 때도, 그래도 용기로 가요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368819"
+    },
+    {
+      "english": "Your effort matters, even on hard days.",
+      "korean": "노력은 중요해요, 힘든 날에도요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368824"
+    },
+    {
+      "english": "Go slow, but don’t stop, brave traveler.",
+      "korean": "천천히 가도 돼요, 멈추지 말아요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368830"
+    },
+    {
+      "english": "You’re allowed to take up space.",
+      "korean": "자리를 차지해도 돼요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368836"
+    },
+    {
+      "english": "Today, I choose calm and courage.",
+      "korean": "오늘은 차분함과 용기를 선택해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368840"
+    },
+    {
+      "english": "Trust yourself, your next move is enough.",
+      "korean": "스스로 믿어요, 다음 선택이면 돼요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368849"
+    },
+    {
+      "english": "Start messy, courage will smooth it out.",
+      "korean": "엉망이어도 시작해요, 용기가 다듬어줘요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368854"
+    },
+    {
+      "english": "Give yourself credit, then keep going.",
+      "korean": "자신에게 칭찬하고, 계속 나아가요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368859"
+    },
+    {
+      "english": "Stay curious, courage loves questions.",
+      "korean": "호기심을 유지해요, 용기는 질문을 좋아해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368863"
+    },
+    {
+      "english": "It’s okay to be nervous, be brave.",
+      "korean": "긴장해도 괜찮아요, 용기 내요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368869"
+    },
+    {
+      "english": "Your future self is watching, act now.",
+      "korean": "미래의 나는 보고 있어요, 지금 해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368874"
+    },
+    {
+      "english": "Say yes to growth, not to fear.",
+      "korean": "두려움 말고 성장에 ‘네’ 해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368879"
+    },
+    {
+      "english": "You can be scared and still brave.",
+      "korean": "무서워도 괜찮아, 그래도 용기 있어요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368884"
+    },
+    {
+      "english": "Celebrate progress, even tiny steps count.",
+      "korean": "조금이라도 발전을 축하해요, 작은 걸음도 중요해요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368889"
+    },
+    {
+      "english": "I’m scared, but I’m choosing honesty.",
+      "korean": "무섭지만, 난 정직을 선택할게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368895"
+    },
+    {
+      "english": "Tell me how you really feel, please.",
+      "korean": "진짜 마음, 솔직히 말해줘, 응?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368900"
+    },
+    {
+      "english": "I need time, still I won’t run.",
+      "korean": "시간이 필요해도, 도망치진 않을게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368905"
+    },
+    {
+      "english": "I’ll be gentle, but I’ll speak up.",
+      "korean": "조심스러워도, 나는 말할게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368911"
+    },
+    {
+      "english": "Some days, courage is just staying.",
+      "korean": "어떤 날은, 용기는 그냥 버티는 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368916"
+    },
+    {
+      "english": "I trust you, even if I doubt myself.",
+      "korean": "나 스스로는 불안해도, 널 믿을게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368921"
+    },
+    {
+      "english": "I’m not overthinking, I’m listening.",
+      "korean": "과하게 생각하는 게 아니야, 듣는 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368927"
+    },
+    {
+      "english": "My heart’s tired, so I’ll go slow.",
+      "korean": "마음이 지쳤어, 그래서 천천히 갈게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368932"
+    },
+    {
+      "english": "I’ll admit it, I want you.",
+      "korean": "솔직히 말할게, 나 너 원해.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368938"
+    },
+    {
+      "english": "I’m learning to be patient with me.",
+      "korean": "나한테도 천천히 기다리는 법을 배우는 중이야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368947"
+    },
+    {
+      "english": "Let’s pause, breathe, then choose brave words.",
+      "korean": "잠깐 쉬었다가, 숨 고르고, 용기 있는 말로 가자.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368954"
+    },
+    {
+      "english": "I won’t hide my feelings anymore.",
+      "korean": "이제 내 감정을 숨기지 않을 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368962"
+    },
+    {
+      "english": "I might shake, but I’ll stay kind.",
+      "korean": "손이 떨려도, 나는 다정함은 지킬게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368968"
+    },
+    {
+      "english": "If it’s scary, that’s my cue to try.",
+      "korean": "무서우면, 그게 바로 해볼 신호야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368977"
+    },
+    {
+      "english": "I won’t pretend, I’ll just be real.",
+      "korean": "척하지 않을게, 그냥 있는 그대로일게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368984"
+    },
+    {
+      "english": "Give me a minute, I’ll find my courage.",
+      "korean": "잠깐만, 내가 용기 찾을게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368991"
+    },
+    {
+      "english": "I’m proud I asked, even imperfectly.",
+      "korean": "완벽하진 않아도, 묻는 용기가 자랑스러워.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.368996"
+    },
+    {
+      "english": "I’ll hold back tears, and still be brave.",
+      "korean": "눈물은 참아도, 용기는 놓치지 않을게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369002"
+    },
+    {
+      "english": "I’m allowed to want more, right?",
+      "korean": "나 더 원해도 돼, 그치?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369008"
+    },
+    {
+      "english": "I respect your pace, and mine too.",
+      "korean": "너 속도도 존중하고, 내 속도도 존중해.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369013"
+    },
+    {
+      "english": "I’ll speak softly, but I mean it.",
+      "korean": "부드럽게 말해도, 진짜로 원해.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369019"
+    },
+    {
+      "english": "When I fall, I’ll come back sooner.",
+      "korean": "넘어져도, 더 빨리 돌아올게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369025"
+    },
+    {
+      "english": "I’m afraid, but I’m moving anyway.",
+      "korean": "무섭지만, 그래도 난 움직일 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369030"
+    },
+    {
+      "english": "My feelings deserve a safe place.",
+      "korean": "내 감정도 안전한 자리가 필요해.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369038"
+    },
+    {
+      "english": "Let’s be honest, even if it’s messy.",
+      "korean": "서툴러도 솔직하자, 어지러워도 괜찮아.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369044"
+    },
+    {
+      "english": "I’m choosing calm, and still taking steps.",
+      "korean": "차분하게 가면서도, 난 움직일 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369049"
+    },
+    {
+      "english": "I don’t need approval to start.",
+      "korean": "누가 허락해주길 기다리진 않을 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369054"
+    },
+    {
+      "english": "If you’re hurt, say it, please.",
+      "korean": "상처받았으면, 말해줘, 응?",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369060"
+    },
+    {
+      "english": "I’ll be brave, not loud, in my way.",
+      "korean": "크게 떠들진 않아도, 내 방식대로 용기 낼게.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369066"
+    },
+    {
+      "english": "Sometimes courage is just staying kind.",
+      "korean": "가끔은 용기란, 그냥 친절을 지키는 거야.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369070"
+    },
+    {
+      "english": "Ask first, then step up when ready.",
+      "korean": "먼저 물어보고, 준비되면 나서요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369075"
+    },
+    {
+      "english": "Say what you want, clearly, without blaming.",
+      "korean": "원하는 걸 분명히 말하되, 탓하진 마요.",
+      "category": "Courage",
+      "generated_at": "2026-11-05T07:30:49.369081"
     }
   ],
-  "last_updated": "2026-11-04T07:04:03.757902"
+  "last_updated": "2026-11-05T07:30:49.369084"
 }
