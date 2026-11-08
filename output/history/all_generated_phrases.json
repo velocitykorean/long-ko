@@ -15401,7 +15401,727 @@
       "korean": "도착하면 나한테 문자해줘, 응?",
       "category": "Love",
       "generated_at": "2026-11-07T06:42:35.072959"
+    },
+    {
+      "english": "Hi, you got a minute, please?",
+      "korean": "안녕하세요, 잠깐만 시간 있으세요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610718"
+    },
+    {
+      "english": "I’m on my way, see you soon.",
+      "korean": "지금 가고 있어요, 곧 봐요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610735"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was awful.",
+      "korean": "죄송해요, 늦었어요, 교통이 너무 막혔어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610739"
+    },
+    {
+      "english": "Can we meet, right after this call?",
+      "korean": "이 통화 끝나고 바로 만날 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610742"
+    },
+    {
+      "english": "Quick question, what’s the deadline?",
+      "korean": "짧게 질문, 마감이 언제예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610746"
+    },
+    {
+      "english": "I’ll handle it, don’t worry.",
+      "korean": "제가 할게요, 걱정 마세요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610749"
+    },
+    {
+      "english": "Do you have the latest version?",
+      "korean": "최신 버전 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610751"
+    },
+    {
+      "english": "Could you send it, when you can?",
+      "korean": "가능할 때 보내 주실 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610758"
+    },
+    {
+      "english": "Wait, let me check the calendar.",
+      "korean": "잠깐만요, 캘린더 확인할게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610761"
+    },
+    {
+      "english": "I’m not sure yet, I’ll confirm.",
+      "korean": "아직 잘 모르겠어요, 확인할게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610765"
+    },
+    {
+      "english": "That makes sense, I get it now.",
+      "korean": "그 말이 맞네요, 이제 이해됐어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610767"
+    },
+    {
+      "english": "Hold on, I need one more detail.",
+      "korean": "잠깐만요, 하나만 더 알려 주세요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610770"
+    },
+    {
+      "english": "Thanks, I’ll take a look now.",
+      "korean": "고마워요, 지금 확인해 볼게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610773"
+    },
+    {
+      "english": "No worries, we can adjust later.",
+      "korean": "괜찮아요, 나중에 조정하면 돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610775"
+    },
+    {
+      "english": "Let’s sync up, quick check-in later.",
+      "korean": "한 번 맞춰요, 나중에 간단히 얘기하자.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610778"
+    },
+    {
+      "english": "I’ll follow up, by the end of day.",
+      "korean": "오늘 마감 전에 다시 연락할게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610781"
+    },
+    {
+      "english": "Can you loop me in on this?",
+      "korean": "이거 제가 참여하게 해줄 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610783"
+    },
+    {
+      "english": "I have a concern, let’s talk briefly.",
+      "korean": "걱정되는 게 있어요, 잠깐 얘기하자요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610787"
+    },
+    {
+      "english": "That’s surprising, I didn’t expect this.",
+      "korean": "이상하네요, 이럴 줄 몰랐어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610790"
+    },
+    {
+      "english": "Okay, I’ll start, you keep me posted.",
+      "korean": "좋아요, 제가 시작할게요, 계속 알려 주세요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610793"
+    },
+    {
+      "english": "I’m stuck, can you help me for a bit?",
+      "korean": "막혔어요, 잠깐 도와주실 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610796"
+    },
+    {
+      "english": "Let me know, once you decide.",
+      "korean": "결정하면 알려 주세요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610799"
+    },
+    {
+      "english": "We’re good, this is all set now.",
+      "korean": "완벽해요, 지금은 다 준비됐어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610802"
+    },
+    {
+      "english": "I’ll update it, right after lunch.",
+      "korean": "점심 먹고 바로 업데이트할게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610805"
+    },
+    {
+      "english": "Who owns this task?",
+      "korean": "이 업무, 누가 맡고 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610808"
+    },
+    {
+      "english": "Is this urgent, or later is fine?",
+      "korean": "이거 급해요, 아니면 나중에 해도 돼요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610810"
+    },
+    {
+      "english": "I’m free after 3, what works for you?",
+      "korean": "세 시 이후에 시간 돼요, 언제가 좋아요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610813"
+    },
+    {
+      "english": "Great, I’ll confirm and get back to you.",
+      "korean": "좋아요, 확인하고 다시 연락드릴게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610816"
+    },
+    {
+      "english": "Can we do this offline, real quick?",
+      "korean": "이건 오프라인으로 잠깐 처리할 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610818"
+    },
+    {
+      "english": "I’ll bring the document, just in case.",
+      "korean": "혹시 모르니까 문서 가져갈게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610821"
+    },
+    {
+      "english": "Can you recommend a good meeting time?",
+      "korean": "회의 시간, 괜찮은 거 추천해 주실 수 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610824"
+    },
+    {
+      "english": "What’s the best way to ask for help?",
+      "korean": "도움 요청은, 보통 어떻게 하세요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610826"
+    },
+    {
+      "english": "How do you want me to format it?",
+      "korean": "이거, 어떤 형식으로 정리하면 될까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610830"
+    },
+    {
+      "english": "Who should I contact for approvals?",
+      "korean": "승인 담당자는, 누구예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610832"
+    },
+    {
+      "english": "Could you tell me what changed?",
+      "korean": "어떤 부분이 바뀐 건지 알려주실래요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610835"
+    },
+    {
+      "english": "What’s the priority for today’s tasks?",
+      "korean": "오늘 업무, 우선순위가 뭐예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610838"
+    },
+    {
+      "english": "Do we have any risks to watch?",
+      "korean": "주요 리스크가 있을까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610840"
+    },
+    {
+      "english": "Can we clarify the scope, real quick?",
+      "korean": "범위, 잠깐만 정리해 볼까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610842"
+    },
+    {
+      "english": "Where can I find the latest notes?",
+      "korean": "최신 노트는 어디에 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610844"
+    },
+    {
+      "english": "What does ‘by EOD’ mean here?",
+      "korean": "여기서 ‘EOD’가 정확히 언제예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610847"
+    },
+    {
+      "english": "Is it okay if I join remotely?",
+      "korean": "제가 원격으로 참석해도 괜찮아요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610849"
+    },
+    {
+      "english": "How should I report progress to you?",
+      "korean": "진행 상황은 어떻게 보고드리면 돼요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610851"
+    },
+    {
+      "english": "Do you prefer email or chat?",
+      "korean": "이메일이 나아요, 아니면 채팅이 나아요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610853"
+    },
+    {
+      "english": "What’s the target for this deliverable?",
+      "korean": "이 결과물, 목표가 뭐예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610856"
+    },
+    {
+      "english": "When do you want a quick update?",
+      "korean": "언제쯤 짧게 업데이트 드릴까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610858"
+    },
+    {
+      "english": "What should I do if I get stuck?",
+      "korean": "막히면, 어디로 연락하면 돼요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610860"
+    },
+    {
+      "english": "Can we align on the next steps?",
+      "korean": "다음 단계, 같이 맞춰볼까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610862"
+    },
+    {
+      "english": "Is there a template I can use?",
+      "korean": "사용할 템플릿이 따로 있어요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610864"
+    },
+    {
+      "english": "What’s your expectation for turnaround time?",
+      "korean": "처리 시간에 대한 기대가 어떻게 돼요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610867"
+    },
+    {
+      "english": "Should I include the client in this?",
+      "korean": "이거 고객사도 포함할까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610869"
+    },
+    {
+      "english": "Which section do you want me to focus on?",
+      "korean": "어느 파트에 집중하면 될까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610871"
+    },
+    {
+      "english": "Can we review it before we send?",
+      "korean": "보내기 전에 한 번 검토할까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610873"
+    },
+    {
+      "english": "What’s the goal for this meeting?",
+      "korean": "이번 미팅 목표가 뭐예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610875"
+    },
+    {
+      "english": "Do you want comments or edits?",
+      "korean": "코멘트가 필요해요, 아니면 수정할까요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610877"
+    },
+    {
+      "english": "How urgent is this, realistically?",
+      "korean": "현실적으로 이건 얼마나 급해요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610879"
+    },
+    {
+      "english": "Where do we store the final file?",
+      "korean": "완성 파일은 어디에 저장해요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610881"
+    },
+    {
+      "english": "Can you confirm you received my message?",
+      "korean": "제가 보낸 거 받으셨나요, 확인 부탁드려요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610884"
+    },
+    {
+      "english": "What’s the issue we should solve first?",
+      "korean": "먼저 해결해야 할 문제는 뭐예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610886"
+    },
+    {
+      "english": "Do you have time for a quick chat?",
+      "korean": "잠깐 통화나 대화 가능하세요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610889"
+    },
+    {
+      "english": "Breathe, then tackle one thing at a time.",
+      "korean": "숨 고르고, 한 가지씩 차근히 해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610892"
+    },
+    {
+      "english": "Small steps today, big results later.",
+      "korean": "오늘은 작은 걸음, 내일은 큰 결과.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610897"
+    },
+    {
+      "english": "You’ve got this, keep momentum going.",
+      "korean": "할 수 있어요, 기세를 계속 이어가요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610900"
+    },
+    {
+      "english": "Focus on progress, not perfect timing.",
+      "korean": "완벽한 타이밍보다, 진행에 집중해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610903"
+    },
+    {
+      "english": "Start messy, you can refine later.",
+      "korean": "일단 대충 시작해도, 나중에 다듬으면 돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610906"
+    },
+    {
+      "english": "Ask yourself, what’s the next best move?",
+      "korean": "자, 다음에 제일 좋은 선택이 뭐예요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610910"
+    },
+    {
+      "english": "Give it your best, then adjust quickly.",
+      "korean": "일단 최선을 다하고, 바로 조정해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610913"
+    },
+    {
+      "english": "One win counts, even if it’s minor.",
+      "korean": "작은 성과도, 한 번이면 충분해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610916"
+    },
+    {
+      "english": "Keep the tone positive, stay solution-focused.",
+      "korean": "말투는 긍정적으로, 해결책에 집중해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610918"
+    },
+    {
+      "english": "You’re closer than you think, keep going.",
+      "korean": "생각보다 더 가까워요, 계속 가요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610921"
+    },
+    {
+      "english": "Celebrate effort, not just final outcomes.",
+      "korean": "결과만 말고, 노력도 칭찬해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610923"
+    },
+    {
+      "english": "If it’s unclear, ask now, not later.",
+      "korean": "애매하면 지금 물어봐요, 나중 말고요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610927"
+    },
+    {
+      "english": "Consistency beats intensity, every single day.",
+      "korean": "강도보다 꾸준함이 이겨요, 매일.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610929"
+    },
+    {
+      "english": "Let’s handle it calmly, no panic.",
+      "korean": "차분하게 처리해요, 당황하지 말고요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610932"
+    },
+    {
+      "english": "Mistakes happen, learn fast and move on.",
+      "korean": "실수는 누구나 해요, 빨리 배우고 넘어가요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610934"
+    },
+    {
+      "english": "Trust the process, it will pay off.",
+      "korean": "과정을 믿어요, 결국 보상이 와요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610936"
+    },
+    {
+      "english": "Today’s job, do it well, then breathe.",
+      "korean": "오늘 일은 제대로 하고, 숨 좀 돌려요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610940"
+    },
+    {
+      "english": "Your ideas matter, speak up confidently.",
+      "korean": "당신의 생각은 중요해요, 자신 있게 말해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610942"
+    },
+    {
+      "english": "Stay curious, every feedback is useful.",
+      "korean": "호기심을 유지해요, 피드백은 다 도움이 돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610945"
+    },
+    {
+      "english": "You don’t need perfect, just keep going.",
+      "korean": "완벽할 필요 없어요, 계속하면 돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610948"
+    },
+    {
+      "english": "Thanks, that helped more than you know.",
+      "korean": "고마워요, 생각보다 훨씬 도움이 됐어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610951"
+    },
+    {
+      "english": "Great catch, that detail saves us time.",
+      "korean": "좋은 발견이에요, 그 디테일 덕분에 시간이 아껴요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610953"
+    },
+    {
+      "english": "Let’s keep it simple, then refine later.",
+      "korean": "일단 단순하게 가요, 나중에 다듬으면 돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610956"
+    },
+    {
+      "english": "If you’re tired, pause, then restart.",
+      "korean": "피곤하면 잠깐 멈췄다가, 다시 시작해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610959"
+    },
+    {
+      "english": "You’re doing better than yesterday, seriously.",
+      "korean": "어제보다 훨씬 잘하고 있어요, 진짜로요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610962"
+    },
+    {
+      "english": "Own your part, and ask for support early.",
+      "korean": "내 역할은 내가 책임지고, 지원은 일찍 요청해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610964"
+    },
+    {
+      "english": "Make today count, one task at a time.",
+      "korean": "오늘을 알차게 써요, 한 번에 하나씩.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610967"
+    },
+    {
+      "english": "Good energy in, good outcomes out.",
+      "korean": "좋은 에너지, 좋은 결과로 이어져요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610969"
+    },
+    {
+      "english": "We’ve got this team, let’s move forward.",
+      "korean": "우리 팀은 할 수 있어요, 앞으로 가요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610972"
+    },
+    {
+      "english": "I’m feeling a little overwhelmed, but I’m okay.",
+      "korean": "조금 벅차긴 한데, 괜찮아요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610975"
+    },
+    {
+      "english": "I didn’t realize how heavy this was.",
+      "korean": "이게 생각보다 더 무거운 일이었네요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610978"
+    },
+    {
+      "english": "I need a moment, then I’ll restart.",
+      "korean": "잠깐만요, 그다음에 다시 할게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610981"
+    },
+    {
+      "english": "Honestly, I’m worried about the timeline.",
+      "korean": "솔직히 일정이 걱정돼요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610984"
+    },
+    {
+      "english": "I’m trying to be patient with delays.",
+      "korean": "지연이 있어도 인내하려고 해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610986"
+    },
+    {
+      "english": "I keep second-guessing my last decision.",
+      "korean": "제가 내린 마지막 결정이 계속 망설여져요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610989"
+    },
+    {
+      "english": "I want to reflect before I speak.",
+      "korean": "말하기 전에 한 번 생각하고 싶어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610991"
+    },
+    {
+      "english": "I’m learning, even when it’s awkward.",
+      "korean": "어색해도 배우고 있어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610995"
+    },
+    {
+      "english": "I should’ve asked earlier, I get it.",
+      "korean": "아까 더 일찍 물어봤어야 했는데, 알아요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.610998"
+    },
+    {
+      "english": "I don’t want to push, I want clarity.",
+      "korean": "밀어붙이고 싶진 않고, 명확히 알고 싶어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611001"
+    },
+    {
+      "english": "I’m grateful for your honest feedback.",
+      "korean": "솔직한 피드백 고마워요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611003"
+    },
+    {
+      "english": "I’m not trying to blame anyone.",
+      "korean": "누구 탓하려는 건 아니에요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611006"
+    },
+    {
+      "english": "I want to understand your perspective.",
+      "korean": "당신의 관점을 이해하고 싶어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611008"
+    },
+    {
+      "english": "I’m still processing what happened.",
+      "korean": "무슨 일이 있었는지 아직 정리 중이에요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611010"
+    },
+    {
+      "english": "Let’s slow down, so we don’t miss.",
+      "korean": "천천히 가요, 그래야 놓치지 않아요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611014"
+    },
+    {
+      "english": "I feel safer when we align first.",
+      "korean": "먼저 맞추면 마음이 더 편해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611016"
+    },
+    {
+      "english": "I’m okay with taking it step by step.",
+      "korean": "하나씩 해도 괜찮아요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611018"
+    },
+    {
+      "english": "I’m keeping my expectations realistic.",
+      "korean": "기대는 현실적으로 가져가고 있어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611021"
+    },
+    {
+      "english": "I’m trying to stay calm under pressure.",
+      "korean": "압박이 와도 침착하려고 해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611024"
+    },
+    {
+      "english": "I’ll own it, I made the mistake.",
+      "korean": "내가 책임질게요, 제가 실수했어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611027"
+    },
+    {
+      "english": "I’m learning to ask for help sooner.",
+      "korean": "더 빨리 도움을 요청하는 걸 배우고 있어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611030"
+    },
+    {
+      "english": "I don’t want to react, I want solutions.",
+      "korean": "감정대로 반응하고 싶지 않고, 해결책을 원해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611033"
+    },
+    {
+      "english": "I’m honestly a bit nervous presenting.",
+      "korean": "사실 발표가 조금 떨려요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611036"
+    },
+    {
+      "english": "I need clearer boundaries for my work.",
+      "korean": "제 일에 대한 경계가 더 필요해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611038"
+    },
+    {
+      "english": "I’ll pause and check again, no rush.",
+      "korean": "잠깐 멈추고 다시 확인할게요, 서두르지 말아요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611041"
+    },
+    {
+      "english": "I’m trying not to overthink this.",
+      "korean": "이거 너무 생각에 빠지지 않으려고 해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611043"
+    },
+    {
+      "english": "I want to be more honest about my limits.",
+      "korean": "제 한계를 더 솔직하게 말하고 싶어요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611046"
+    },
+    {
+      "english": "We can improve, I’m not giving up.",
+      "korean": "우리는 나아질 수 있어요, 포기 안 해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611048"
+    },
+    {
+      "english": "Right now, I just need a fresh start.",
+      "korean": "지금은 그냥 새로운 시작이 필요해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611051"
+    },
+    {
+      "english": "I’ll revisit this later, with a calmer mind.",
+      "korean": "나중에 더 차분한 마음으로 다시 볼게요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611054"
+    },
+    {
+      "english": "Quick check, does this match the brief?",
+      "korean": "짧게 확인할게요, 이거 기획서랑 맞아요?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611056"
+    },
+    {
+      "english": "Before you send, double-check the numbers.",
+      "korean": "보내기 전에 숫자부터 두 번 확인해요.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-08T06:48:39.611059"
     }
   ],
-  "last_updated": "2026-11-07T06:42:35.072961"
+  "last_updated": "2026-11-08T06:48:39.611061"
 }
