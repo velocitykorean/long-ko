@@ -16121,7 +16121,727 @@
       "korean": "보내기 전에 숫자부터 두 번 확인해요.",
       "category": "Work & Office",
       "generated_at": "2026-11-08T06:48:39.611059"
+    },
+    {
+      "english": "Hey, got a sec, can you chat?",
+      "korean": "야, 잠깐만, 같이 얘기할래?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781005"
+    },
+    {
+      "english": "You’re here, so I feel better.",
+      "korean": "네가 여기 있으니까, 나 마음이 편해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781022"
+    },
+    {
+      "english": "Thanks for checking on me, really.",
+      "korean": "나 어떻게 지내는지 봐줘서, 고마워.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781026"
+    },
+    {
+      "english": "Let’s grab snacks after work, okay?",
+      "korean": "퇴근하고 간식 먹으러 가자, 어때?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781030"
+    },
+    {
+      "english": "I’m free tonight, wanna hang out?",
+      "korean": "나 오늘 저녁 비는데, 같이 놀까?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781033"
+    },
+    {
+      "english": "No pressure, just tell me what’s up.",
+      "korean": "부담은 없어, 그냥 뭐가 있었는지 말해줘.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781036"
+    },
+    {
+      "english": "That’s so you, I love it.",
+      "korean": "너답다, 진짜 멋있다.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781039"
+    },
+    {
+      "english": "Oof, that sounds rough, I’m sorry.",
+      "korean": "아이고, 그거 진짜 힘들겠다, 미안해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781046"
+    },
+    {
+      "english": "Wait, tell me the whole story, please.",
+      "korean": "잠깐, 다 얘기해줘, 응?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781050"
+    },
+    {
+      "english": "Want to vent, I’ll listen, promise.",
+      "korean": "털어놔도 돼, 나 들어줄게, 약속해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781053"
+    },
+    {
+      "english": "I got you, let’s solve it together.",
+      "korean": "내가 도와줄게, 같이 해결하자.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781057"
+    },
+    {
+      "english": "We can figure it out, step by step.",
+      "korean": "천천히 해보자, 우리 해결해볼 수 있어.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781060"
+    },
+    {
+      "english": "You did good, seriously, I’m proud.",
+      "korean": "너 잘했어, 진짜, 나 자랑스러워.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781063"
+    },
+    {
+      "english": "That’s hilarious, I can’t stop laughing.",
+      "korean": "너무 웃겨, 나 계속 웃기만 나와.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781069"
+    },
+    {
+      "english": "Let’s stay in touch, no disappearing.",
+      "korean": "연락 자주 하자, 사라지지 마.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781072"
+    },
+    {
+      "english": "Next time, I’m paying, deal?",
+      "korean": "다음엔 내가 살게, 약속이지?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781075"
+    },
+    {
+      "english": "I’m down, what’s the plan?",
+      "korean": "나 좋아, 오늘 뭐 해볼까?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781079"
+    },
+    {
+      "english": "That’s okay, mistakes happen, right?",
+      "korean": "괜찮아, 실수는 누구나 하지.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781084"
+    },
+    {
+      "english": "You mean a lot to me, honestly.",
+      "korean": "솔직히 말하면, 너 진짜 소중해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781086"
+    },
+    {
+      "english": "Come on, don’t overthink it.",
+      "korean": "야, 너무 생각하지 마, 괜찮아.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781090"
+    },
+    {
+      "english": "I’ll be there, even if it’s late.",
+      "korean": "늦어도 갈게, 너 필요하면.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781093"
+    },
+    {
+      "english": "Same team, different problems, same us.",
+      "korean": "우린 한편이야, 문제는 달라도 우리야.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781096"
+    },
+    {
+      "english": "That mood, I feel it too.",
+      "korean": "그 분위기, 나도 똑같이 느껴.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781098"
+    },
+    {
+      "english": "Let’s celebrate small wins, together.",
+      "korean": "작은 성과도 같이 축하하자.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781101"
+    },
+    {
+      "english": "After today, you’re stuck with me.",
+      "korean": "오늘부터, 너 나랑 계속 붙어있어야 돼.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781105"
+    },
+    {
+      "english": "I trust you, don’t worry about that.",
+      "korean": "너 믿어, 그건 걱정하지 마.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781108"
+    },
+    {
+      "english": "Your advice helped, thank you.",
+      "korean": "너 조언 덕분에, 진짜 도움됐어.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781111"
+    },
+    {
+      "english": "Call me when you get home, please.",
+      "korean": "집에 가면 전화해, 응?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781113"
+    },
+    {
+      "english": "We should hang out, like, soon.",
+      "korean": "우리 좀 만나자, 빨리.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781118"
+    },
+    {
+      "english": "Today was wild, you made it better.",
+      "korean": "오늘 완전 정신없었는데, 네 덕분이야.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781121"
+    },
+    {
+      "english": "How’s your day going, really?",
+      "korean": "오늘 하루, 어때?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781124"
+    },
+    {
+      "english": "What’s new with you lately?",
+      "korean": "요즘 너 뭐가 제일 달라졌어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781127"
+    },
+    {
+      "english": "Can I ask you something personal?",
+      "korean": "조금만 개인적인 거 물어봐도 돼?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781130"
+    },
+    {
+      "english": "Do you like coffee, or tea?",
+      "korean": "커피 좋아해, 아니면 차?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781133"
+    },
+    {
+      "english": "What are you into these days?",
+      "korean": "요즘 뭐에 빠졌어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781136"
+    },
+    {
+      "english": "Want advice, or do you want to vent?",
+      "korean": "조언 필요해, 아니면 그냥 들어줄까?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781138"
+    },
+    {
+      "english": "How did you manage that?",
+      "korean": "그거 어떻게 해냈어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781141"
+    },
+    {
+      "english": "Are you free this weekend, maybe?",
+      "korean": "이번 주말, 시간 있어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781143"
+    },
+    {
+      "english": "What do you want to do tonight?",
+      "korean": "오늘 밤에 뭐 하고 싶어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781146"
+    },
+    {
+      "english": "Should we meet halfway, or near you?",
+      "korean": "중간에서 만날까, 아니면 네 근처에서?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781148"
+    },
+    {
+      "english": "What helped you feel better before?",
+      "korean": "예전에 뭐가 너를 편하게 했어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781151"
+    },
+    {
+      "english": "Can I steal two minutes of your time?",
+      "korean": "딱 두 분만, 시간 괜찮아?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781153"
+    },
+    {
+      "english": "What’s your favorite small comfort?",
+      "korean": "너의 작은 위로, 뭐야?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781156"
+    },
+    {
+      "english": "If you could change one thing, what?",
+      "korean": "하나만 바꿀 수 있다면, 뭐겠어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781159"
+    },
+    {
+      "english": "Do you want to talk about it more?",
+      "korean": "이 얘기 더 해볼래?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781162"
+    },
+    {
+      "english": "How’s your stress level today?",
+      "korean": "오늘 스트레스, 어느 정도야?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781167"
+    },
+    {
+      "english": "Can I help, even a little?",
+      "korean": "나 좀 도와줘도 돼?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781169"
+    },
+    {
+      "english": "What should I do when you’re off?",
+      "korean": "너 컨디션 안 좋을 때, 내가 뭐 하면 돼?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781172"
+    },
+    {
+      "english": "Who’s your go-to person, besides me?",
+      "korean": "나 말고, 너의 제일 믿는 사람은?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781175"
+    },
+    {
+      "english": "How did you decide to try that?",
+      "korean": "그거 하기로 어떻게 결심했어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781180"
+    },
+    {
+      "english": "Are you okay with honesty, like this?",
+      "korean": "솔직하게 말해도 괜찮아?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781183"
+    },
+    {
+      "english": "What’s the best thing I can say?",
+      "korean": "내가 해줄 수 있는 말, 뭐가 제일 좋을까?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781186"
+    },
+    {
+      "english": "Do you mind if I join you?",
+      "korean": "나 같이 가도 돼?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781188"
+    },
+    {
+      "english": "What’s your dream, I’m curious",
+      "korean": "너 꿈이 뭐야, 진짜 궁금해",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781191"
+    },
+    {
+      "english": "When you feel stuck, what do you do?",
+      "korean": "막힐 때, 너는 뭐부터 해?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781194"
+    },
+    {
+      "english": "Want to swap playlists sometime?",
+      "korean": "가끔 플레이리스트 서로 바꿔볼래?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781196"
+    },
+    {
+      "english": "Do you want me to check in tomorrow?",
+      "korean": "내일 또 연락해도 돼?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781198"
+    },
+    {
+      "english": "What boundary do you need from me?",
+      "korean": "나한테 어떤 건 꼭 필요해?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781201"
+    },
+    {
+      "english": "Can we talk, slow and easy?",
+      "korean": "우리 천천히 얘기할 수 있어?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781203"
+    },
+    {
+      "english": "I’m proud of you, for real.",
+      "korean": "진짜 너 자랑스러워.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781207"
+    },
+    {
+      "english": "Good friends show up, no big talk.",
+      "korean": "좋은 친구는, 말보다 행동으로 와.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781210"
+    },
+    {
+      "english": "Keep going, your effort won’t vanish.",
+      "korean": "계속 가, 네 노력은 사라지지 않아.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781213"
+    },
+    {
+      "english": "You don’t have to be perfect, ever.",
+      "korean": "완벽할 필요 없어, 절대.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781216"
+    },
+    {
+      "english": "I believe in you, even now.",
+      "korean": "나 너 믿어, 지금도.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781219"
+    },
+    {
+      "english": "Small effort, big heart, that’s you.",
+      "korean": "작은 노력, 큰 마음, 너답다.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781223"
+    },
+    {
+      "english": "Let’s be kind to ourselves today.",
+      "korean": "오늘은 우리 자신에게도 따뜻하자.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781226"
+    },
+    {
+      "english": "Your feelings make sense, I get it.",
+      "korean": "네 감정, 이해돼.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781245"
+    },
+    {
+      "english": "I’ve got your back, always.",
+      "korean": "난 네 편이야, 언제나.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781249"
+    },
+    {
+      "english": "You’re not alone, not even close.",
+      "korean": "너 혼자 아니야, 전혀 아니야.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781252"
+    },
+    {
+      "english": "It’ll get better, just stay with me.",
+      "korean": "더 나아질 거야, 나랑 같이 버텨.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781256"
+    },
+    {
+      "english": "Today, focus on what you can do.",
+      "korean": "오늘은 네가 할 수 있는 것에 집중해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781259"
+    },
+    {
+      "english": "Trust your pace, it’s working.",
+      "korean": "네 속도 믿어, 잘 가고 있어.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781262"
+    },
+    {
+      "english": "We grow together, not by pressure.",
+      "korean": "우린 압박 말고 같이 자라.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781265"
+    },
+    {
+      "english": "I’m here, to hype you up.",
+      "korean": "난 여기 있어, 너 응원할게.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781268"
+    },
+    {
+      "english": "You handled it, seriously, nicely done.",
+      "korean": "너 잘 해냈어, 진짜 잘했어.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781271"
+    },
+    {
+      "english": "Friendship means, I care and listen.",
+      "korean": "우정은 그래, 신경 쓰고 들어주는 거야.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781274"
+    },
+    {
+      "english": "Don’t label yourself, just keep moving.",
+      "korean": "너 자신에 딱 이름 붙이지 말고, 계속 가.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781277"
+    },
+    {
+      "english": "You’re doing better than you think.",
+      "korean": "생각보다 너 더 잘하고 있어.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781282"
+    },
+    {
+      "english": "Let’s make today lighter, together.",
+      "korean": "오늘은 같이 가볍게 만들자.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781285"
+    },
+    {
+      "english": "I’ll remind you, you’re stronger than this.",
+      "korean": "내가 말해줄게, 너는 이보다 강해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781289"
+    },
+    {
+      "english": "When doubt hits, choose your next step.",
+      "korean": "의심이 와도, 다음 한 걸음을 골라.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781292"
+    },
+    {
+      "english": "You can talk to me, anytime.",
+      "korean": "언제든 나한테 말해도 돼.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781294"
+    },
+    {
+      "english": "I like your effort, not just results.",
+      "korean": "결과보다 네 노력, 그게 좋아.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781297"
+    },
+    {
+      "english": "We’ll handle it, one calm minute at a time.",
+      "korean": "우리 천천히, 한 번에 하나씩 해보자.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781300"
+    },
+    {
+      "english": "Your friendship, keeps me grounded too.",
+      "korean": "너랑의 우정이, 나도 마음을 잡아줘.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781303"
+    },
+    {
+      "english": "Stay hopeful, good people notice you.",
+      "korean": "희망을 놓지 마, 좋은 사람들은 알아봐.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781306"
+    },
+    {
+      "english": "I’m cheering for you, quietly and hard.",
+      "korean": "난 조용히, 진심으로 너 응원해.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781309"
+    },
+    {
+      "english": "I’ll be honest, I miss you lately,",
+      "korean": "솔직히 말할게, 요즘 너 많이 보고 싶어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781314"
+    },
+    {
+      "english": "Sometimes I get quiet, that’s just me thinking,",
+      "korean": "가끔은 내가 조용해져, 그냥 생각이 많아서,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781318"
+    },
+    {
+      "english": "I value your trust, even when I’m unsure,",
+      "korean": "내가 확신이 없어도, 네 믿음이 중요해,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781321"
+    },
+    {
+      "english": "Let’s slow down, I want to feel it through,",
+      "korean": "천천히 가자, 나도 제대로 느껴보고 싶어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781324"
+    },
+    {
+      "english": "I’m learning patience, with you and myself,",
+      "korean": "나도 인내를 배우는 중이야, 너랑 나랑 같이,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781328"
+    },
+    {
+      "english": "I don’t need perfection, I need real presence,",
+      "korean": "완벽할 필요 없어, 진짜 함께 있으면 돼,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781331"
+    },
+    {
+      "english": "Your kindness changed how I handle stress,",
+      "korean": "네 다정함이, 내가 스트레스를 대하는 법을 바꿨어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781335"
+    },
+    {
+      "english": "I’m trying to speak up, not just hint,",
+      "korean": "말로 분명히 하려고 해, 돌려 말하지 않을게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781340"
+    },
+    {
+      "english": "When I overthink, you still feel safe,",
+      "korean": "내가 너무 생각할 때도, 넌 여전히 편안해,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781343"
+    },
+    {
+      "english": "I’m thankful for you, in the quiet moments,",
+      "korean": "조용한 순간마다, 너한테 고마워,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781346"
+    },
+    {
+      "english": "Sometimes I need a hug, no explanations,",
+      "korean": "가끔은 포옹이 필요해, 설명은 필요 없어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781349"
+    },
+    {
+      "english": "I respect your pace, it’s your rhythm,",
+      "korean": "너의 속도를 존중해, 그게 네 리듬이니까,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781352"
+    },
+    {
+      "english": "I’m here, not to fix you,",
+      "korean": "난 고치러 온 게 아니야, 그냥 옆에 있을게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781355"
+    },
+    {
+      "english": "Your honesty makes our friendship stronger,",
+      "korean": "네 솔직함이 우리 우정을 더 단단하게 해,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781358"
+    },
+    {
+      "english": "I’m learning to forgive, slowly but honestly,",
+      "korean": "나도 천천히, 하지만 솔직하게 용서하는 법을 배워,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781361"
+    },
+    {
+      "english": "If I’m wrong, tell me gently,",
+      "korean": "내가 틀렸으면, 다정하게 말해줘,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781365"
+    },
+    {
+      "english": "I notice your effort, it doesn’t go unnoticed,",
+      "korean": "네 노력을 내가 알아, 절대 그냥 지나가지 않아,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781368"
+    },
+    {
+      "english": "Let’s be real, our hearts deserve truth,",
+      "korean": "진짜로 하자, 우리 마음은 진실이 필요해,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781372"
+    },
+    {
+      "english": "I don’t judge you, I’m with you,",
+      "korean": "난 너를 판단하지 않아, 그냥 함께할게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781375"
+    },
+    {
+      "english": "Even small talks, mean a lot to me,",
+      "korean": "사소한 대화도, 나한텐 정말 커,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781378"
+    },
+    {
+      "english": "I’m proud of your growth, not the hype,",
+      "korean": "네 성장을 보고 있으면, 난 진짜로 자랑스러워,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781381"
+    },
+    {
+      "english": "I get emotional, but I stay respectful,",
+      "korean": "나 좀 감정이 올라오지만, 존중은 지킬게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781384"
+    },
+    {
+      "english": "We can pause, I won’t rush your healing,",
+      "korean": "잠깐 멈춰도 돼, 네 회복을 서두르진 않을게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781389"
+    },
+    {
+      "english": "I’m grateful you understand my messy side,",
+      "korean": "내 복잡한 면도 이해해줘서 고마워,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781392"
+    },
+    {
+      "english": "I want to be the calm in your chaos,",
+      "korean": "네 혼란 속에서도, 내가 차분함이 되고 싶어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781394"
+    },
+    {
+      "english": "If you need space, I’ll wait kindly,",
+      "korean": "네가 공간이 필요하면, 나는 다정하게 기다릴게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781398"
+    },
+    {
+      "english": "I’m not perfect, but my intention is clear,",
+      "korean": "난 완벽하진 않아도, 마음은 분명해,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781401"
+    },
+    {
+      "english": "Let’s check in, even when nothing’s wrong,",
+      "korean": "별일 없을 때도, 우리 한 번 확인하자,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781404"
+    },
+    {
+      "english": "Your presence is enough, I don’t need more,",
+      "korean": "네가 여기 있는 것만으로도 충분해, 더 필요 없어,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781408"
+    },
+    {
+      "english": "I’ll keep choosing you, with patience and care,",
+      "korean": "나는 인내랑 다정함으로, 계속 너를 선택할게,",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781411"
+    },
+    {
+      "english": "Text me when you’re free, okay?",
+      "korean": "시간 될 때, 나한테 문자해줄래?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781414"
+    },
+    {
+      "english": "I’m down to hang out after work.",
+      "korean": "퇴근하고 만나도 괜찮아?",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781417"
+    },
+    {
+      "english": "No pressure, just be yourself with me.",
+      "korean": "부담 갖지 말고, 그냥 편하게 있어줘.",
+      "category": "Friendship",
+      "generated_at": "2026-11-09T07:20:33.781420"
     }
   ],
-  "last_updated": "2026-11-08T06:48:39.611061"
+  "last_updated": "2026-11-09T07:20:33.781422"
 }
