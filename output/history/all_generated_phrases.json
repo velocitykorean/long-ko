@@ -16841,7 +16841,727 @@
       "korean": "부담 갖지 말고, 그냥 편하게 있어줘.",
       "category": "Friendship",
       "generated_at": "2026-11-09T07:20:33.781420"
+    },
+    {
+      "english": "Nice, let’s do this, right now.",
+      "korean": "좋아, 우리 해보자, 지금 바로.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754765"
+    },
+    {
+      "english": "That’s it, I’m smiling already.",
+      "korean": "맞아, 나 벌써 웃고 있어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754781"
+    },
+    {
+      "english": "Really? That’s such a good idea.",
+      "korean": "진짜? 그거 완전 좋은 생각이야.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754784"
+    },
+    {
+      "english": "Oh wow, I feel better now.",
+      "korean": "어, 대박이다, 이제 좀 나아.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754786"
+    },
+    {
+      "english": "Wait, that’s hilarious, tell me more.",
+      "korean": "잠깐, 그거 너무 웃겨, 더 말해줘.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754789"
+    },
+    {
+      "english": "Good news, I made it!",
+      "korean": "좋은 소식, 됐어!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754792"
+    },
+    {
+      "english": "Perfect timing, thanks for that.",
+      "korean": "딱 타이밍 좋다, 고마워.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754794"
+    },
+    {
+      "english": "I’m relieved, that’s a big deal.",
+      "korean": "다행이다, 큰일이야.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754800"
+    },
+    {
+      "english": "No way, that’s actually awesome.",
+      "korean": "설마 아니지, 진짜 대박이야.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754803"
+    },
+    {
+      "english": "Yup, we’re doing great today.",
+      "korean": "응, 오늘 잘돼.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754806"
+    },
+    {
+      "english": "Okay, I’ll take it, thanks!",
+      "korean": "알겠어, 그거 받을게, 고마워!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754808"
+    },
+    {
+      "english": "Hold on, that’s kind of sweet.",
+      "korean": "잠깐만, 그거 좀 다정하다.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754813"
+    },
+    {
+      "english": "I love this vibe, it’s so calm.",
+      "korean": "이 분위기 너무 좋아, 편안해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754815"
+    },
+    {
+      "english": "Nice catch, you got it right!",
+      "korean": "잘 봤다, 정답이야!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754819"
+    },
+    {
+      "english": "Let’s go, I’m ready to laugh.",
+      "korean": "가자, 나 웃을 준비됐어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754822"
+    },
+    {
+      "english": "That’s cute, seriously, it’s adorable.",
+      "korean": "귀엽다, 진짜로 너무 사랑스러워.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754825"
+    },
+    {
+      "english": "I’m in, this sounds fun.",
+      "korean": "나도 할래, 이거 재밌겠다.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754828"
+    },
+    {
+      "english": "Relax, we’ll figure it out.",
+      "korean": "괜찮아, 우리 알아낼 거야.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754830"
+    },
+    {
+      "english": "Aww, that’s actually really sweet.",
+      "korean": "아, 그거 진짜 마음 따뜻해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754832"
+    },
+    {
+      "english": "Okay, I’m impressed, that was smooth.",
+      "korean": "좋아, 나 감탄했어, 멋지다.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754835"
+    },
+    {
+      "english": "Just like that, you nailed it!",
+      "korean": "딱 이렇게, 너 진짜 잘했어!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754837"
+    },
+    {
+      "english": "That made my day, seriously.",
+      "korean": "그거 내 하루를 바꿨어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754839"
+    },
+    {
+      "english": "You’re back, yay, I missed you.",
+      "korean": "왔네, 야호, 보고 싶었어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754841"
+    },
+    {
+      "english": "Come on, you’ve got this!",
+      "korean": "힘내, 넌 해낼 수 있어!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754844"
+    },
+    {
+      "english": "Wait, I can’t stop laughing.",
+      "korean": "잠깐, 나 계속 웃겨 죽겠어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754846"
+    },
+    {
+      "english": "That’s the best, I’m so happy.",
+      "korean": "최고야, 나 너무 행복해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754849"
+    },
+    {
+      "english": "Great idea, let’s try it together.",
+      "korean": "좋은 생각이야, 같이 해보자.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754851"
+    },
+    {
+      "english": "Nice work, you deserve a break.",
+      "korean": "잘했어, 이제 쉬어도 돼.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754853"
+    },
+    {
+      "english": "Good choice, that fits perfectly.",
+      "korean": "잘 골랐어, 딱 맞아.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754855"
+    },
+    {
+      "english": "Okay, let’s celebrate, small win!",
+      "korean": "좋아, 축하하자, 작은 승리야!",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754858"
+    },
+    {
+      "english": "Can you help me choose, please?",
+      "korean": "고르는데 도와주실 수 있어요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754860"
+    },
+    {
+      "english": "What’s the best way to learn Korean?",
+      "korean": "한국어를 제일 잘 배우는 방법이 뭐예요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754863"
+    },
+    {
+      "english": "Is this sentence natural, like a native?",
+      "korean": "이 문장, 자연스럽게 들려요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754865"
+    },
+    {
+      "english": "Could you check my answer, please?",
+      "korean": "제 답 확인해 주실 수 있어요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754867"
+    },
+    {
+      "english": "Where can I practice speaking today?",
+      "korean": "오늘 어디서 말하기 연습해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754869"
+    },
+    {
+      "english": "When should I start using 존댓말?",
+      "korean": "언제 존댓말부터 써야 해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754872"
+    },
+    {
+      "english": "What does this word mean in Korean?",
+      "korean": "이 단어 뜻이 뭐예요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754874"
+    },
+    {
+      "english": "Do I need to say it differently?",
+      "korean": "이렇게 말해야 돼요, 아니면 달라요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754876"
+    },
+    {
+      "english": "Can I ask you one quick question?",
+      "korean": "질문 하나만 빠르게 해도 돼요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754878"
+    },
+    {
+      "english": "Which one sounds more natural, A or B?",
+      "korean": "A랑 B 중에 뭐가 더 자연스러워요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754881"
+    },
+    {
+      "english": "What time is good for you, today?",
+      "korean": "오늘 몇 시가 편해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754882"
+    },
+    {
+      "english": "Can we meet, where’s easiest for you?",
+      "korean": "만날까요, 어디가 제일 편해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754885"
+    },
+    {
+      "english": "I’m confused, how would you say it?",
+      "korean": "헷갈려요, 어떻게 말하면 돼요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754889"
+    },
+    {
+      "english": "Is this honorific used often in Korea?",
+      "korean": "이 호칭 자주 써요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754891"
+    },
+    {
+      "english": "Do you have any simple daily practice tips?",
+      "korean": "매일 쉽게 연습하는 방법 있어요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754893"
+    },
+    {
+      "english": "Should I use 이게 or 그게 here?",
+      "korean": "여기서 이게 써요, 그게 써요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754896"
+    },
+    {
+      "english": "What’s your go-to phrase for greetings?",
+      "korean": "인사할 때 제일 자주 써요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754900"
+    },
+    {
+      "english": "Can you make a sample sentence for me?",
+      "korean": "예문 하나만 만들어 주실래요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754902"
+    },
+    {
+      "english": "How can I sound less translated?",
+      "korean": "번역투처럼 안 들리게 하려면요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754904"
+    },
+    {
+      "english": "Do you think this is too formal?",
+      "korean": "이 말, 너무 격식 있어 보여요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754906"
+    },
+    {
+      "english": "What’s a polite way to refuse?",
+      "korean": "거절할 때 예의 있게 어떻게 해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754908"
+    },
+    {
+      "english": "If I’m late, what should I say?",
+      "korean": "늦을 때 뭐라고 말해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754911"
+    },
+    {
+      "english": "Can you repeat it more slowly, please?",
+      "korean": "천천히 한 번만 더 말해 주실래요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754913"
+    },
+    {
+      "english": "What should I do if I forget?",
+      "korean": "기억이 안 날 땐 어떻게 해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754915"
+    },
+    {
+      "english": "Is it okay to ask again politely?",
+      "korean": "다시 한 번만 정중하게 물어봐도 돼요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754917"
+    },
+    {
+      "english": "Which part should I focus on most?",
+      "korean": "어떤 부분을 제일 집중해야 해요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754918"
+    },
+    {
+      "english": "Do you want to practice this together?",
+      "korean": "이거 같이 연습해 볼까요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754920"
+    },
+    {
+      "english": "How did you remember this so fast?",
+      "korean": "이걸 이렇게 빨리 어떻게 외웠어요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754922"
+    },
+    {
+      "english": "Can you give me one quick correction?",
+      "korean": "딱 하나만 고쳐 주실 수 있어요?",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754924"
+    },
+    {
+      "english": "Keep going, even small steps count",
+      "korean": "계속 가요, 작은 걸음도 쌓여요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754927"
+    },
+    {
+      "english": "Today’s progress, not perfection, wins",
+      "korean": "완벽이 아니라 오늘의 성장이 이겨요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754930"
+    },
+    {
+      "english": "You’re learning fast, day by day",
+      "korean": "넌 하루하루 빨리 느는 중이야",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754932"
+    },
+    {
+      "english": "Catch your courage, then speak anyway",
+      "korean": "용기를 먼저 잡고, 그래도 말해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754936"
+    },
+    {
+      "english": "Mistakes are feedback, not failure",
+      "korean": "실수는 실패가 아니라 피드백이야",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754938"
+    },
+    {
+      "english": "Breathe, relax, and try one more",
+      "korean": "숨 쉬고, 편하게, 한 번 더 해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754940"
+    },
+    {
+      "english": "Keep your mind light, enjoy the ride",
+      "korean": "마음 가볍게, 즐기면서 가요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754942"
+    },
+    {
+      "english": "Say it once, celebrate the effort",
+      "korean": "한 번 말해, 노력 자체가 축하야",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754944"
+    },
+    {
+      "english": "Confidence grows from tiny practice",
+      "korean": "자신감은 작은 연습에서 자라요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754946"
+    },
+    {
+      "english": "Trust your process, not the doubts",
+      "korean": "의심보다 과정이 더 믿음직해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754949"
+    },
+    {
+      "english": "Even if it’s messy, you’re improving",
+      "korean": "좀 어지러워도, 넌 나아지고 있어",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754953"
+    },
+    {
+      "english": "Small consistency, big joy",
+      "korean": "작은 꾸준함이 큰 기쁨이 돼요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754955"
+    },
+    {
+      "english": "Your brain learns when you keep showing up",
+      "korean": "계속 나타나면, 뇌가 배워요",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754957"
+    },
+    {
+      "english": "Be proud, you’re speaking Korean today",
+      "korean": "자랑스러워, 오늘도 한국어 말하고 있어",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754960"
+    },
+    {
+      "english": "Give yourself credit, then move forward",
+      "korean": "자기 칭찬하고, 다음으로 가자",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754962"
+    },
+    {
+      "english": "Don’t rush, learn, and let it settle",
+      "korean": "서두르지 말고, 배우고, 천천히 자리 잡아",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754965"
+    },
+    {
+      "english": "One good try beats ten perfect plans",
+      "korean": "좋은 한 번이, 완벽한 계획 열 개보다 나아",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754967"
+    },
+    {
+      "english": "Keep smiling, language comes with warmth",
+      "korean": "웃으며 해, 언어는 따뜻함이 있어야 와",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754974"
+    },
+    {
+      "english": "Your effort is louder than your fear",
+      "korean": "노력이 두려움보다 더 크게 들려",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754976"
+    },
+    {
+      "english": "Ask, learn, and laugh, that’s growth",
+      "korean": "물어보고, 배우고, 웃어, 이게 성장이지",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754979"
+    },
+    {
+      "english": "Today you’re braver than yesterday",
+      "korean": "오늘은 어제보다 더 용감해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754981"
+    },
+    {
+      "english": "Let your curiosity lead the way",
+      "korean": "호기심이 길을 인도하게 해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754983"
+    },
+    {
+      "english": "You can restart, anytime, no shame",
+      "korean": "언제든 다시 시작해, 부끄러울 필요 없어",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754985"
+    },
+    {
+      "english": "Focus on what you can say",
+      "korean": "말할 수 있는 것에 집중해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754988"
+    },
+    {
+      "english": "Celebrate learning, not just results",
+      "korean": "결과만 말고, 배움을 기뻐해",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754990"
+    },
+    {
+      "english": "Say it simply, joy comes faster",
+      "korean": "간단히 말해, 기쁨이 더 빨라져",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754992"
+    },
+    {
+      "english": "You’re building a Korean habit, nice",
+      "korean": "너 한국어 습관 만들고 있어, 멋지다",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754995"
+    },
+    {
+      "english": "Keep your goals small, your heart big",
+      "korean": "목표는 작게, 마음은 크게 가자",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754996"
+    },
+    {
+      "english": "I feel lighter, when I speak honestly.",
+      "korean": "솔직하게 말하면 마음이 가벼워져요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.754999"
+    },
+    {
+      "english": "I’m proud of my effort, not outcome.",
+      "korean": "결과보다 노력에 더 뿌듯해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755001"
+    },
+    {
+      "english": "Some days, I just go slow, still.",
+      "korean": "어떤 날은 그냥 천천히 해도 돼요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755003"
+    },
+    {
+      "english": "I don’t pretend, I talk from my heart.",
+      "korean": "꾸미지 말고, 마음에서 말해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755006"
+    },
+    {
+      "english": "Even silence feels kind, when I try.",
+      "korean": "제가 해보면, 침묵도 따뜻해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755008"
+    },
+    {
+      "english": "My joy shows up in small, real moments.",
+      "korean": "기쁨은 작은, 진짜 순간에 와요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755010"
+    },
+    {
+      "english": "I can be nervous, but I keep going.",
+      "korean": "떨려도, 계속 해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755012"
+    },
+    {
+      "english": "Today, I’m reflecting, not just collecting words.",
+      "korean": "오늘은 단어만 모으지 않고, 돌아봐요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755015"
+    },
+    {
+      "english": "I notice my progress, even when it’s quiet.",
+      "korean": "조용해도, 제가 늘어난 걸 느껴요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755018"
+    },
+    {
+      "english": "I’ll trust my pace, it’s still moving.",
+      "korean": "제 속도 믿어요, 지금도 가고 있어요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755020"
+    },
+    {
+      "english": "When I’m stuck, I ask myself why.",
+      "korean": "막힐 때, 왜 그런지 나한테 물어봐요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755023"
+    },
+    {
+      "english": "I’m grateful, even for imperfect attempts.",
+      "korean": "서툴러도, 시도한 것에 감사해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755026"
+    },
+    {
+      "english": "I let the feeling guide my words today.",
+      "korean": "오늘은 그 느낌이 말로 이어져요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755028"
+    },
+    {
+      "english": "I’m okay with not knowing everything.",
+      "korean": "다 아는 건 아니어도 괜찮아요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755030"
+    },
+    {
+      "english": "Joy is safer than forcing confidence.",
+      "korean": "기쁨이 억지로 믿는 것보다 더 안전해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755032"
+    },
+    {
+      "english": "I feel better when I speak, slowly.",
+      "korean": "천천히 말하면, 마음이 더 편해져요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755034"
+    },
+    {
+      "english": "I can be honest, even with errors.",
+      "korean": "실수해도 솔직하게 말할 수 있어요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755036"
+    },
+    {
+      "english": "I don’t chase perfect, I chase honest.",
+      "korean": "완벽을 쫓지 말고, 진심을 쫓아요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755038"
+    },
+    {
+      "english": "I recover fast, when I forgive myself.",
+      "korean": "제가 저를 용서하면, 빨리 돌아와요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755041"
+    },
+    {
+      "english": "I’m proud I tried, even if it’s messy.",
+      "korean": "엉망이어도 시도한 게 뿌듯해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755043"
+    },
+    {
+      "english": "I keep my heart open, to learn.",
+      "korean": "배우려고 마음을 열어 둬요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755045"
+    },
+    {
+      "english": "I don’t need big feelings, just steady effort.",
+      "korean": "큰 감정 없어도, 꾸준히 하면 돼요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755050"
+    },
+    {
+      "english": "I remember why I started, and smile.",
+      "korean": "시작한 이유를 떠올리면, 웃음이 나와요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755052"
+    },
+    {
+      "english": "When joy comes, I let it settle.",
+      "korean": "기쁨이 오면, 그냥 받아들여요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755054"
+    },
+    {
+      "english": "I’m not behind, I’m in my rhythm.",
+      "korean": "뒤처지지 않았어요, 제 리듬대로 가요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755056"
+    },
+    {
+      "english": "I show respect to my own emotions.",
+      "korean": "제 감정도 존중해요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755058"
+    },
+    {
+      "english": "Even small reflections make my speaking better.",
+      "korean": "작은 성찰이 말에 도움이 돼요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755060"
+    },
+    {
+      "english": "I’ll stay gentle, and keep practicing.",
+      "korean": "부드럽게, 계속 연습할게요.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755063"
+    },
+    {
+      "english": "Wake up, study ten minutes, then breathe.",
+      "korean": "일어나서, 10분만 공부하고, 숨 좀 쉬어.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755067"
+    },
+    {
+      "english": "Before class, check notes, then ask one question.",
+      "korean": "수업 전에, 노트 확인하고, 질문 하나 해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755069"
+    },
+    {
+      "english": "When you miss a word, say it differently.",
+      "korean": "단어를 놓치면, 다른 말로 돌려 말해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755072"
+    },
+    {
+      "english": "At the cafe, greet first, then order calmly.",
+      "korean": "카페에서는 먼저 인사하고, 차분히 주문해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755074"
+    },
+    {
+      "english": "If you’re nervous, slow down, speak kindly.",
+      "korean": "긴장되면 천천히, 상냥하게 말해.",
+      "category": "Joy",
+      "generated_at": "2026-11-10T08:14:23.755093"
     }
   ],
-  "last_updated": "2026-11-09T07:20:33.781422"
+  "last_updated": "2026-11-10T08:14:23.755095"
 }
