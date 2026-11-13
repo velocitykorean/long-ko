@@ -18673,7 +18673,399 @@
       "transliteration": "dong-ui-ha-gi-n ha-neun-de, geu i-yu-neun a-ni-e-yo.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-12T19:08:45.090261"
+    },
+    {
+      "english": "I soften my thoughts, again and again.",
+      "korean": "나는 생각을 부드럽게 해, 또 해.",
+      "transliteration": "Naneun saenggageul budureobge hae, tto hae.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "My shoulders drop, my mind follows.",
+      "korean": "어깨가 내려가면 마음도 따라와요.",
+      "transliteration": "Eokkaega naeryeogamyeon maeumdo ttarawayo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Quiet is my real home.",
+      "korean": "고요는 내 진짜 집이에요.",
+      "transliteration": "Goyoneun nae jinjja jibieyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I choose calm over being right.",
+      "korean": "맞는 말보다 차분함을 선택해요.",
+      "transliteration": "Matneun malboda chabunham-eul seontaekhaeyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Even now, I can be kind.",
+      "korean": "지금도 나는 나에게 다정해질 수 있어요.",
+      "transliteration": "Jigeumdo naneun naegeman dajeonghaejil su isseoyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I stop wrestling with what is.",
+      "korean": "있는 그대로와 싸우는 걸 멈춰요.",
+      "transliteration": "Isneun geudaero-wa ssau neun geol meomchweoyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I let tension drift away.",
+      "korean": "긴장이 서서히 흘러가게 둬요.",
+      "transliteration": "Ginjangi seoseohi heulleo gage dwaeyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I can handle this conversation.",
+      "korean": "난 이 대화 감당할 수 있어요.",
+      "transliteration": "nan i dae-hwa gamdang-hal su isseoyo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "My pace is my power.",
+      "korean": "내 페이스가 내 힘이에요.",
+      "transliteration": "nae peiseuga nae him-ieyo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Even now, I’m doing it.",
+      "korean": "지금도 난 하고 있어요.",
+      "transliteration": "ji-geum-do nan ha-go isseo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I belong in this room.",
+      "korean": "난 여기 있어도 돼요.",
+      "transliteration": "nan yeo-gi isseo-do dwae-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Ask one question, then smile.",
+      "korean": "질문 하나 하고, 웃어 보세요.",
+      "transliteration": "ji-mun ha-na ha-go, u-sseo bo-se-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Slow down, and sound natural.",
+      "korean": "천천히 해도 자연스럽게 들려요.",
+      "transliteration": "cheon-cheo-ni hae-do ja-yeon-seu-reop-ke deul-lyeo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I’m learning out loud.",
+      "korean": "난 크게 배우고 있어요.",
+      "transliteration": "nan geu-ke baeu-go isseo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Cheers to your big win, 정말!",
+      "korean": "큰 승리를 축하해, 정말 고마워!",
+      "transliteration": "Keun seungni-reul chukhae, JEONGMAL gomawo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Happy birthday, I brought cake.",
+      "korean": "생일 축하해, 케이크 가져왔어.",
+      "transliteration": "Saengil chukhae, KEIKE gajyeo-wasseo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "You made it, congratulations!",
+      "korean": "왔어, 해냈다, 정말 축하해!",
+      "transliteration": "Wasseo, haenatda, JEONGMAL chukhae!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Let's toast, tonight's a celebration!",
+      "korean": "건배하자, 오늘은 제대로 즐기자.",
+      "transliteration": "Geonbae-haja, ONEUL-eun jekgeodaero jeulgija.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I’m so proud of you, seriously.",
+      "korean": "진짜로 너 정말 자랑스러워.",
+      "transliteration": "JINJJA-ro neo JEONGMAL jarangseureowo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Make a wish, then blow it out.",
+      "korean": "소원 빌고 촛불 불어 끄자.",
+      "transliteration": "So-won bil-go chotppul bul-eo kkeuja.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Thank you for inviting me tonight.",
+      "korean": "오늘 초대해줘서 고마워.",
+      "transliteration": "ONEUL cho-daehae-jwo-seo gomawo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Coffee shop sketching after work",
+      "korean": "퇴근하고 커피숍에서 스케치해요.",
+      "transliteration": "TWEGUN higo KEOPI syop eseo SKECh-ihaeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I unwind by playing board games",
+      "korean": "보드게임 하면서 스트레스 풀어요.",
+      "transliteration": "BODEUGEIM haemyeonseo sTReSEU pul-eo-yo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Morning walks, no music today",
+      "korean": "오늘은 음악 없이 아침 산책해요.",
+      "transliteration": "ONEUL-eun EUMAK eops-i aCHIM SANChaekhaeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Cooking something new on weekends",
+      "korean": "주말엔 새로운 요리 해먹어요.",
+      "transliteration": "JUMal-en SAe-ROUN YOli haemeog-eo-yo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I practice Korean with daily journaling",
+      "korean": "매일 일기 쓰면서 한국어를 연습해요.",
+      "transliteration": "MAEil ilki sseumyeonseo HANgUgeo-reul yeONSEUBhaeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Late night movies, blanket included",
+      "korean": "늦은 밤 영화 보면 담요 꼭 써요.",
+      "transliteration": "NEUjeun BAM yeonghwa bomyeon DAMyo kKk KSeo-yo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Baking bread is my weekend therapy",
+      "korean": "빵 굽는 건 주말 치료 같아요.",
+      "transliteration": "ppang gud-neun geon JUMal chiRYO gat-a-yo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Tell me your goal for today",
+      "korean": "오늘 목적이 뭐예요?",
+      "transliteration": "ONEUL mok-jeo-gi mwoe-yo?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Why are you learning Korean?",
+      "korean": "왜 한국어를 배우세요?",
+      "transliteration": "WAE han-guk-eo-reul bae-u-se-yo?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I’m studying for work interviews",
+      "korean": "취업 면접 때문에 공부해요.",
+      "transliteration": "CHWI-eob myeon-jeob ttae-mu-n-e gong-bu-hae-yo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "My purpose is to travel freely",
+      "korean": "여행을 자유롭게 하려고 해요.",
+      "transliteration": "Yeo-haeng-eul ja-yu-ro-ke ha-ryeo-go hae-yo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I need this for daily life",
+      "korean": "이건 일상에 써야 해서 필요해요.",
+      "transliteration": "I-gon il-sang-e sseo-ya hae-seo pi-ryo-hae-yo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Let’s align on our plan",
+      "korean": "우리 목적을 같이 맞춰요.",
+      "transliteration": "U-ri mok-jeo-geul ka-chi mat-chwo-yo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "What’s the real reason?",
+      "korean": "진짜 이유가 뭐예요?",
+      "transliteration": "JIN-jja I-yu-ga mwoe-yo?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Stay kind, even while things drag.",
+      "korean": "일이 더디더라도 마음은 따뜻하게 지켜요.",
+      "transliteration": "ILee ga deut-i-deo-do ma-eum-eun TTAEUT-ha-ge ji-kyeo-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Breathe, then don’t react too fast.",
+      "korean": "숨 한번 고르고, 바로 반응하지 말자.",
+      "transliteration": "Sum han beon goer-go, ba-ro ban-eung-ha-ji mal-ja.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Let the message arrive, not panic.",
+      "korean": "답장 오길 기다리면서, 너무 당황하지 마.",
+      "transliteration": "Dap-jang o-gil gi-da-ri-myeon-seo, neomu dang-hwang-ha-ji ma.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Slow is fine, I’m still moving.",
+      "korean": "느려도 괜찮아, 난 계속 가고 있어.",
+      "transliteration": "Neu-ryeo-do gwaen-chan-a, nan gye-sok ga-go i-sseo.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "When stuck, switch tactics, not pace.",
+      "korean": "막혔으면 속도를 줄이기보다 전략을 바꿔봐요.",
+      "transliteration": "Mak-hyeot-sseu-myeon so-gdo-reul jul-i-gi-bo-da jeon-ryag-eul ba-kkwo-bwa-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Give it time, then revisit calmly.",
+      "korean": "조금 지나고 나서, 차분히 다시 봐요.",
+      "transliteration": "Jo-geum ji-na-go na-seo, cha-bun-hi da-si bwa-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "I can wait without losing myself.",
+      "korean": "기다려도, 나를 잃지 않을 거예요.",
+      "transliteration": "Gi-da-ryeo-do, na-reul il-ji an-eul geo-ye-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Small wins stack up fast",
+      "korean": "작은 승리가 빠르게 쌓여요",
+      "transliteration": "jageun seung-riga ppalkke ssay-yeo-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "You are building momentum, keep going",
+      "korean": "지금 하고 있잖아요, 그 흐름이 힘이에요",
+      "transliteration": "ji-geum ha-go it-jan-a-yo, geu heu-mil i him-i-e-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Aim higher, but stay kind",
+      "korean": "더 높게 가되, 스스로에게 친절해요",
+      "transliteration": "deo nopi-ge ga-deo, seu-ro-se-ge chin-jeol-hae-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Tell yourself, I can do this",
+      "korean": "나 할 수 있어요, 지금부터 시작해요",
+      "transliteration": "na hal su isseo-yo, ji-geum-bu-teo si-jak-hae-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Finish the hard part first",
+      "korean": "어려운 거 먼저 끝내요, 그다음은 쉬워져요",
+      "transliteration": "eo-ryeo-un geo meon-je kkeut-nae-yo, geu-da-eum-eun swi-wo-jyeo-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Make progress, not excuses",
+      "korean": "변명 말고, 지금 한 걸음이에요",
+      "transliteration": "byeon-myeong mal-go, ji-geum han geol-eum-i-e-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Consistency beats motivation",
+      "korean": "의지는 잠깐, 꾸준함이 이겨요",
+      "transliteration": "ui-ji-neun jam-kkkan, kku- jun-ham-i i- gyeo-yo",
+      "category": "Success",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "korean": "가장 가까운 버스 정류장이 어디예요?",
+      "transliteration": "GAJANG KA-KEUN BEOS SU JEONG-NYU-JA-GI EODI-EYO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "How much is a one way ticket?",
+      "korean": "편도 티켓은 얼마예요?",
+      "transliteration": "PYEON-DO TIK-KE-TO EOL-MA-EYO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Do I need to tap my card?",
+      "korean": "카드 찍어야 해요?",
+      "transliteration": "KA-DEU JIK-KEO-YA HAE-YO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "My card isn't working, sorry.",
+      "korean": "카드가 안 돼요, 죄송해요.",
+      "transliteration": "KA-DEU-GA AN DWE-SEO-YO, JOE-SONG-HAE-YO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Which line goes to City Hall?",
+      "korean": "시청 가는 노선이 몇 번이에요?",
+      "transliteration": "SI-CHEONG GA-NEUN NO-SUN-I MYEO T BEON-I-EYO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Is there a transfer station nearby?",
+      "korean": "근처에 환승역이 있어요?",
+      "transliteration": "GEUN-CHEO-E HWAN-SEUNG-YEOG-I ISEO-YO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "What time is the next train?",
+      "korean": "다음 기차가 몇 시에 와요?",
+      "transliteration": "DA-EUM GI-CHA-GA MYEO T SI-E WA-YO",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-13T18:46:16.335199"
     }
   ],
-  "last_updated": "2026-11-12T19:08:45.090261"
+  "last_updated": "2026-11-13T18:46:16.335199"
 }
