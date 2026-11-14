@@ -135,7 +135,39 @@
     {
       "category": "Public Transportation",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T18:46:16.346727"
+  "last_updated": "2026-11-14T17:19:05.327743"
 }

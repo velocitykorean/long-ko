@@ -19065,7 +19065,399 @@
       "transliteration": "DA-EUM GI-CHA-GA MYEO T SI-E WA-YO",
       "category": "Public Transportation",
       "generated_at": "2026-11-13T18:46:16.335199"
+    },
+    {
+      "english": "Hi, it’s Mina. Calling you now.",
+      "korean": "안녕하세요, 미나예요. 지금 전화드려요.",
+      "transliteration": "Annyeonghaseyo, MINA-eyo. JIGEUM joneul deryeoyo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can you talk for a minute?",
+      "korean": "잠깐 통화할 수 있어요?",
+      "transliteration": "JAMGKAN tonghwahal su isseoyo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Sorry, I’m calling at a bad time.",
+      "korean": "죄송해요, 지금은 좀 바쁘실 때예요?",
+      "transliteration": "Joesonghaeyo, JIGEUMEUN jom BAPPEUSIL ttaeye-yo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’ll call you back in ten minutes.",
+      "korean": "10분 뒤에 다시 전화할게요.",
+      "transliteration": "SIP bun DWI-e dasi jonehalgeyo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I sent you a text message.",
+      "korean": "문자 보냈어요.",
+      "transliteration": "MUNJA bonaess-eoyo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Did you get my message?",
+      "korean": "제 메시지 받으셨어요?",
+      "transliteration": "Je MESIJİ bat-eusyeosseoyo?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I didn’t see your reply yet.",
+      "korean": "아직 답장은 못 봤어요.",
+      "transliteration": "AJik dapjangeun mot bwasseoyo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I need new running shoes today.",
+      "korean": "오늘 러닝화 새로 사야 해요.",
+      "transliteration": "o-neul RYIN-gwa sae-ro sa-ya HAE-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Where’s the gym locker room?",
+      "korean": "헬스장 탈의실이 어디예요?",
+      "transliteration": "hel-seu-jang ta-lui-shil-i eo-di-ye-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can you show me the treadmill?",
+      "korean": "러닝머신 사용법, 보여주실 수 있어요?",
+      "transliteration": "Ryu-ning-meo-shin sa-yong-bop, bo-yeo-ju-shil su i-sseo-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’ll meet you after my workout.",
+      "korean": "운동 끝나고 나서 만나요.",
+      "transliteration": "un-dong kkeut-na-go na-seo man-na-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Is the pool lane still open?",
+      "korean": "수영장 레인 아직 열려 있어요?",
+      "transliteration": "su-yeong-jang re-in a-jik yeol-lyeo i-sseo-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’m getting shin splints again.",
+      "korean": "또 정강이 통증이 와요.",
+      "transliteration": "tto jeong-gang-i tong-jeung-i wa-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "How do I stretch my hip flexor?",
+      "korean": "고관절 앞쪽 스트레칭은 어떻게 해요?",
+      "transliteration": "go-guan-jeol ap-jjok seu-teu-re- ching-eun eo-tteok-he-yo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Do you have free parking?",
+      "korean": "주차는 무료예요?",
+      "transliteration": "JU-CHA-NEUN MU-RO-ye-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can I check in early?",
+      "korean": "일찍 체크인 가능해요?",
+      "transliteration": "IL-jik CHEK-kin KA-neng-he-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "What time is check-out?",
+      "korean": "체크아웃은 몇 시예요?",
+      "transliteration": "CHEK-KAUS-TEUN myeok SI-ye-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Is breakfast included in the rate?",
+      "korean": "조식이 요금에 포함돼요?",
+      "transliteration": "JO-SIK-I YO-GEUM-e PO-HAM-DWEO-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I need a late checkout, please.",
+      "korean": "레이트 체크아웃 가능할까요?",
+      "transliteration": "RE-이트 CHEK-ka-UT KA-neng-hal-KKAY-o",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "My room key isn't working.",
+      "korean": "객실 카드키가 안돼요.",
+      "transliteration": "GAK-SIL KA-DEU-ki-ga AN-DWEO-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can I get an extra towel?",
+      "korean": "수건 하나 더 받을 수 있어요?",
+      "transliteration": "SU-GEON HA-NA DEO BAD-EUL SU i-sseo-yo",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Where is the nearest subway station?",
+      "korean": "가장 가까운 지하철역이 어디예요?",
+      "transliteration": "ga jang gakka un jiha chŏl-yeok-i eodi-eyo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "How do I get to City Hall?",
+      "korean": "시청까지 어떻게 가요?",
+      "transliteration": "si chŏng-gkki eotteoke gayo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Is there a bus to the airport?",
+      "korean": "공항 가는 버스가 있어요?",
+      "transliteration": "gonghang ka-neun beoseu-ga isseo-yo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "What bus number goes there?",
+      "korean": "저기 가는 버스 번호가 뭐예요?",
+      "transliteration": "jeo-gi ganeun beoseu beon-ho-ga mwo-eyo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Which way is the train station?",
+      "korean": "기차역은 어느 쪽이에요?",
+      "transliteration": "gi-cha-yeok-eun eoneu-jjok-i-eyo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "korean": "지도에서 어디인지 보여주실 수 있어요?",
+      "transliteration": "ji-do-eseo eodi-in-ji bo-yeo-ju sīl su isseo-yo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Do I walk or take a taxi?",
+      "korean": "걸어가요, 아니면 택시 타요?",
+      "transliteration": "geol-eo-gayo, a-ni-myeon taek-si t-a-yo",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I need to plan this today.",
+      "korean": "오늘 이거 계획 세워야 해요.",
+      "transliteration": "O-nul i-geo gye-ho-keul se-wo-ya hae-yo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "What’s our next step?",
+      "korean": "다음에 뭘 어떻게 하면 돼요?",
+      "transliteration": "Da-eu-me mwo-eo-tteok-ha-myeon dwae-yo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Let’s set a realistic schedule.",
+      "korean": "현실적인 일정으로 잡아 봅시다.",
+      "transliteration": "Hyun-sil-jeog-in il-jeong-eu-ro jab-a bop-si-da.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’ll decide the time by tonight.",
+      "korean": "오늘 밤까지 시간은 제가 정할게요.",
+      "transliteration": "O-nul bam-kka-ji si-gan-eun je-ga jeong-hal-kke-yo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can we fit this into our week?",
+      "korean": "이번 주 일정에 끼워 넣을 수 있어요?",
+      "transliteration": "I-beon ju il-jeong-e kki-wŏ ne-ohl su i-sseo-yo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’m making a quick checklist.",
+      "korean": "간단한 체크리스트부터 만들어 둘게요.",
+      "transliteration": "Gan-dan-han chek-ke-ri-seu-teu-bu-teo man-deul-eo dul-kke-yo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "First, we choose a place.",
+      "korean": "먼저 장소부터 정해요.",
+      "transliteration": "Meon-jeo jang-so-bu-teo jeong-hae-yo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Hi, can I order now?",
+      "korean": "여기서 지금 주문할 수 있을까요?",
+      "transliteration": "yeogiseo JIGEUM JU MUNHAL SU ISSEULKkayo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "One spicy ramen, please.",
+      "korean": "매운 라면 하나 주세요.",
+      "transliteration": "maeun RAMYON hana juseyo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "korean": "채식 메뉴 있어요?",
+      "transliteration": "chae sik MENYU isseoyo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can I get it to go?",
+      "korean": "포장으로 할 수 있을까요?",
+      "transliteration": "PO jang euro hal su isseulkka yo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "No onions, please.",
+      "korean": "양파는 빼 주세요.",
+      "transliteration": "yangpa neun ppae juseyo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Less sweet, please.",
+      "korean": "덜 달게 해 주세요.",
+      "transliteration": "deol dalge hae juseyo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "May I have water, please?",
+      "korean": "물 좀 주세요.",
+      "transliteration": "mul jom juseyo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Use both hands, gently.",
+      "korean": "두 손 다 써서, 부드럽게 해요.",
+      "transliteration": "Du SON da sseoseo, BUDUReobge hae-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Even coffee, take slow sips.",
+      "korean": "커피도 천천히, 한 모금씩 마셔요.",
+      "transliteration": "Keopi-do CHEOncheo-ni, han mogeumssik ma-syeo-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Pause before you answer.",
+      "korean": "답하기 전에 잠깐 멈춰요.",
+      "transliteration": "Dap-hagi jeone JAM-kkan meom-CHWO-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Choose calm, then move forward.",
+      "korean": "차분하게, 마음을 정리하고 움직여요.",
+      "transliteration": "Cha-bun-ha-ge, mae-um-eul jeong-ri-ha-go um-jik-yeo-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Balance loud with kind.",
+      "korean": "말은 분명히 하되, 다정하게 하세요.",
+      "transliteration": "Mar-eun BUN-myeong-hi ha-deo, da-jeong-hae-se-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Let your shoulders drop, now.",
+      "korean": "어깨 힘 빼요, 지금.",
+      "transliteration": "Eok-kkae him ppae-yo, JI-geum.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Switch tasks, not your focus.",
+      "korean": "일은 바꿔도, 집중은 유지해요.",
+      "transliteration": "I-reun ba-kku-do, jip-jung-eun yu-ji-hae-yo.",
+      "category": "Balance",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I need to withdraw cash today.",
+      "korean": "오늘 현금 좀 찾아야 해요.",
+      "transliteration": "o-neul HYEON-geum jom CHA-ja-ya HAE-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can I check my account balance?",
+      "korean": "계좌 잔액 확인해 주실 수 있어요?",
+      "transliteration": "GYE-jwa JAN-aek HWA-in Hae-ju-shil SU i-sseo-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I’d like to transfer money now.",
+      "korean": "지금 돈 송금하고 싶어요.",
+      "transliteration": "ji-geum DON SONG-geum-ha-go SIP-eo-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Is there a fee for wire transfer?",
+      "korean": "해외 송금 수수료가 있나요?",
+      "transliteration": "HAE-oe SONG-geum SU-su-ryo-ga it-na-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Please keep my card safe.",
+      "korean": "카드 분실하지 않게 조심할게요.",
+      "transliteration": "KA-deu bun-sil-ha-ji an-ke JO-sim-hal-ge-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "I think my card got declined.",
+      "korean": "카드 결제가 안 됐어요.",
+      "transliteration": "KA-deu GYEOL-je-ga an dwae-sseo-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
+    },
+    {
+      "english": "Can I use my card here?",
+      "korean": "여기서 카드 결제돼요?",
+      "transliteration": "Yeo-gi-seo KA-deu GYEOL-je dwae-yo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T17:19:05.311802"
     }
   ],
-  "last_updated": "2026-11-13T18:46:16.335199"
+  "last_updated": "2026-11-14T17:19:05.311802"
 }
