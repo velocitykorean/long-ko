@@ -19849,7 +19849,399 @@
       "transliteration": "ilhamyeonseo daesin mabya jWOSSEO GOMAwo",
       "category": "Gratitude",
       "generated_at": "2026-11-15T17:59:41.053747"
+    },
+    {
+      "english": "Try writing your thoughts for ten minutes",
+      "korean": "10분만 생각을 글로 써봐요, 영감이 와요",
+      "transliteration": "SIP BUNMAN SAEGAK EUL GEUL-LO SEO BWA YO, YEONG-GAM-I WA YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Step outside, let fresh air reset you",
+      "korean": "밖에 잠깐 나가요, 공기가 머리를 맑게 해줘요",
+      "transliteration": "BAK-KE JAM-PPAN NA GA YO, GONG-GI-GA MEO- RI-REUL MAL-GE HAE JWO YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Name what you want most right now",
+      "korean": "지금 가장 원하는 게 뭐예요, 딱 한 가지로요",
+      "transliteration": "JI-GEUM GA JANG WOO-HA-NEUN GE MOSH- EYO, TT- AK HAN GA-JI-RO YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Steal inspiration from everyday small moments",
+      "korean": "평범한 순간에서도 영감을 훔쳐와요",
+      "transliteration": "PYEONG-BEOM-HAN SUN-GA-ND-EE-SE-DO YEONG-GAM- EUL HUM-CHEO-A-WA YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Change one routine, watch ideas spark",
+      "korean": "루틴 하나만 바꿔보세요, 그러면 생각이 틔어요",
+      "transliteration": "RUT- IN HA NA-MAN BAK-KWEO BO-SE YO, GUR-O-MYEON SAEK-KA GI TTI-EO YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Call a friend, ask what inspires them",
+      "korean": "친구에게 전화해서, 뭐가 영감을 주는지 들어봐요",
+      "transliteration": "CHIN-GU-E-GE JEON-HWA-HAE SEO, MWOO-GA YEONG-GAM- EUL JU-NEUN-JI DEU-REO BWA YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Read one page, let your mind wander",
+      "korean": "책 한 페이지만 읽어도 충분해요, 마음이 옆으로 가요",
+      "transliteration": "CHAEK HAN PE-I-JI-MAN IL-KKEO DO CHUNG-BUN-HAE YO, MA-UM-I YOT-KEU-RO GA YO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "That was really considerate of you",
+      "korean": "정말 배려해줘서 고마워",
+      "transliteration": "Jeongmal BAE-RYEO-hae-jwo-seo GODMA-WO",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do you want me to help?",
+      "korean": "내가 도와줄까, 필요하면 말해줘",
+      "transliteration": "Nae-ga DOWA-jul-kka, PI-ryo-haemyeon malhae-jwo",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "You handled that with care",
+      "korean": "그거 정말 신경 써서 했더라",
+      "transliteration": "Geu-geo JEONGMAL SIN-GYEONG sseo-seo haetdeo-ra",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I appreciate your patience with me",
+      "korean": "내가 느린데도 기다려줘서 고마워",
+      "transliteration": "Nae-ga NEU-RIN-deu-do GI-da-ryeo-jwo-seo GODMA-WO",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "No worries, we’ll figure it out",
+      "korean": "괜찮아, 우리 같이 풀어가자",
+      "transliteration": "Gwaen-chan-a, U-ri gachi PU-RO-ga-ja",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Here, take my seat",
+      "korean": "여기 앉아, 내가 자리 좀 볼게",
+      "transliteration": "Yeo-gi anja, Nae-ga ja-ri jom bol-ke",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I’ll keep it down for you",
+      "korean": "여기서는 좀 조용히 할게, 괜찮지?",
+      "transliteration": "Yeo-gi-seo-neun jom JO-YONG-hi hal-ke, gwaen-chan-ji?",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I want to stop the blame cycle.",
+      "korean": "서로를 탓하는 건 이제 멈추고 싶어.",
+      "transliteration": "sor-eo-reul tas-haneun geon i-je meomchugo si-peo",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I hear you, and I choose peace.",
+      "korean": "당신 말 들었고, 나는 평화를 선택할래.",
+      "transliteration": "dang-sin mal deul-eot-go, na-neun pyeong-hwa-reul seon-taek-hal-lae",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I can forgive, but boundaries help.",
+      "korean": "용서할 수는 있지만, 경계는 지켜야 해.",
+      "transliteration": "yong-seo-hal su-neun it-jiman, gyeong-gye-neun ji-kye-ya hae",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Let’s talk when we’re both calmer.",
+      "korean": "둘 다 좀 더 차분해질 때 이야기하자.",
+      "transliteration": "dul da jom deo cha-bun-hae-jil ttae yi-ya-gi-ha-ja",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I’m not excusing it, I’m letting go.",
+      "korean": "그건 괜찮게 말하는 게 아니라, 놓아주고 싶어.",
+      "transliteration": "geon geon gwaen-chanh-ge mal-ha-neun ge ani-ra, noh-a-ju-go si-peo",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Thanks for owning your mistake.",
+      "korean": "잘못을 인정해줘서 고마워.",
+      "transliteration": "ja-lmot-eul in-jeong-hae-jwo-seo go-ma-wo",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I want to be kinder now.",
+      "korean": "이제는 더 너그러워지고 싶어.",
+      "transliteration": "i-je-neun deo neo-geu-roo-wo-jil su-ppeo",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "What a nice day, right?",
+      "korean": "오늘 날씨 정말 좋지 않아요?",
+      "transliteration": "o-neul nal-ssi jeong-mal jo-chi an-a-yo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Is it supposed to rain soon?",
+      "korean": "곧 비가 올 예정이에요?",
+      "transliteration": "got bi-ga ol ye-jeong-i-e-yo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Feels colder than yesterday, wow.",
+      "korean": "어제보다 훨씬 더 추운 것 같아요.",
+      "transliteration": "eo-je-bo-da hwal-sin deo chu-un geot gat-a-yo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I love this fresh morning air.",
+      "korean": "이 신선한 아침 공기가 너무 좋아요.",
+      "transliteration": "i sin-seon-han a-chim gong-gi-ga ne-mu jo-a-yo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Why is it so windy today?",
+      "korean": "오늘 왜 이렇게 바람이 많이 불어요?",
+      "transliteration": "o-neul wae i-reo-ke ba-ram-i ma-ni bul-eo-yo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do you know when it will clear?",
+      "korean": "언제쯤 맑아질지 알아요?",
+      "transliteration": "eon-je-jjeum mal-a-jil-ji a-ra-yo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "That sunset looks amazing tonight.",
+      "korean": "오늘 저녁 노을이 정말 예쁘네요.",
+      "transliteration": "o-neul jeo-nyeok nu-ur-i jeong-mal ye-ppeu-ne-yo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "One more espresso before I go",
+      "korean": "가기 전에 에스프레소 한 잔 더 할게요.",
+      "transliteration": "Ga-gi Jeone Es-pres-so Han Jan Deo Hal-kke-yo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "What pastries are fresh today?",
+      "korean": "오늘 갓 나온 베이커리 뭐가 있어요?",
+      "transliteration": "Oneul Gat Na-on Bei-keo-ri Mwo-ga Is-sseo-yo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "That latte looks perfect, actually",
+      "korean": "저 라떼 진짜 딱이네요.",
+      "transliteration": "Jeo La-tte Jin-jja Ddik-i-ne-yo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I’ll try the recommended cake",
+      "korean": "추천 케이크로 하나 먹어볼게요.",
+      "transliteration": "Chum-chon Kei-keu-ro Ha-na Meo-geo-bol-kke-yo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do you have oat milk?",
+      "korean": "오트 밀크 있어요?",
+      "transliteration": "O-teu Mil-keu Is-sseo-yo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "No sugar, please. I mean it",
+      "korean": "설탕은 빼 주세요, 꼭요.",
+      "transliteration": "Seol-tang-eun Bbae Ju-se-yo, Kkok-yo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "This place smells like comfort",
+      "korean": "여기 냄새가 너무 편안해요.",
+      "transliteration": "Yeo-gi Naem-se-ga Neo-mu Pyeo-an-hae-yo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Where can I print boarding passes?",
+      "korean": "탑승권은 어디에서 출력해요?",
+      "transliteration": "탑승권은 어디에서 출력해요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "What time does the boarding start?",
+      "korean": "탑승은 몇 시에 시작해요?",
+      "transliteration": "탑승은 몇 시에 시—작해요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do I need to fill out customs?",
+      "korean": "세관 신고서 작성해야 해요?",
+      "transliteration": "세관 신고서 작성해야 해요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Can I check in online, please?",
+      "korean": "온라인으로 체크인할 수 있어요?",
+      "transliteration": "온라인으로 체크인할 수 있어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Is there a baggage scale nearby?",
+      "korean": "근처에 짐 무게 재는 저울 있어요?",
+      "transliteration": "근처에 짐 무게 재는 저울 있어요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "How early should I arrive for security?",
+      "korean": "보안 검색은 얼마나 일찍 와야 해요?",
+      "transliteration": "보안 검색은 얼마나 일찍 와야 해요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do I keep my shoes on?",
+      "korean": "신발은 벗어야 해요?",
+      "transliteration": "신발은 벗어야 해요?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Feel your feet on the floor",
+      "korean": "발바닥 감각을 느껴봐요",
+      "transliteration": "Balbadak gamgak-eul NUKKEOBWA-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Let your mind come, then go",
+      "korean": "생각이 오면, 흘려보내요",
+      "transliteration": "Saenggag-i OMyeon, HULLYEO-BONAE-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Unclench your jaw, soften your face",
+      "korean": "턱 힘을 풀고 얼굴을 부드럽게 해요",
+      "transliteration": "Teok him-eul PULKGO Eolgul-eul BUDURUBGE HAE-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Name the emotion, not the story",
+      "korean": "감정은 이름 붙이고 이야기는 내려놔요",
+      "transliteration": "Gamjeong-eun IREUM BUTTIGo IYA-GIneun NAE RYEO-NWA-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Notice your breath without fixing it",
+      "korean": "숨은 고치지 말고 지켜봐요",
+      "transliteration": "SUM-eun GOCHIJI MALGO JIKKYEOBWA-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Do one mindful stretch right now",
+      "korean": "지금 한 번만 몸을 천천히 늘려요",
+      "transliteration": "JIGEUM HAN BEONMAN MOM-eul CHEONCHEONHI NUL-LYEO-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Listen to the room for five breaths",
+      "korean": "숨 다섯 번, 이 방의 소리를 들어요",
+      "transliteration": "SUM DASEOT BEON, I BANG-ui SORIREUL DEUR-EO-YO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Turn effort into quiet confidence",
+      "korean": "노력은 조용한 자신감이 돼요",
+      "transliteration": "Noryeok-eun JOYONGHAN jasingam-i dwae-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Show up, even when tired",
+      "korean": "피곤해도 일단 나타나세요",
+      "transliteration": "Pigon-hae-do IL-DAN nat-na-na-se-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Build small habits that stick",
+      "korean": "작은 습관을 꾸준히 쌓아가요",
+      "transliteration": "JAK-eun seupgwan-eul KKU-joon-hi ssaa-ga-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Let your routine sharpen you",
+      "korean": "루틴이 나를 다듬어 줘요",
+      "transliteration": "Ruu-tin-i nareul DA-DUM-eo jwo-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Keep moving, learn as you go",
+      "korean": "움직이면서 계속 배우면 돼요",
+      "transliteration": "Um-jik-i-myeon-seo gye-sok BAEU-myeon dwae-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Practice saying one honest thing",
+      "korean": "솔직한 한마디를 연습해 보세요",
+      "transliteration": "Sol-jik-han HAN-ma-di-reul YEON-seup-hae bo-se-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "Make room for better choices",
+      "korean": "나쁜 선택 대신 한 칸 비워요",
+      "transliteration": "Na-bbeun SEON-taek dae-shin han KAN bi-weo-yo",
+      "category": "Growth",
+      "generated_at": "2026-11-16T21:15:13.909323"
     }
   ],
-  "last_updated": "2026-11-15T17:59:41.053747"
+  "last_updated": "2026-11-16T21:15:13.909323"
 }
