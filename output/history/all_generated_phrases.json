@@ -20241,7 +20241,399 @@
       "transliteration": "Na-bbeun SEON-taek dae-shin han KAN bi-weo-yo",
       "category": "Growth",
       "generated_at": "2026-11-16T21:15:13.909323"
+    },
+    {
+      "english": "I stand up for my boundaries",
+      "korean": "나는 내 경계를 지킬 힘이 있어",
+      "transliteration": "na-neun nae gye- gye-reul ji-kil hi-mi i-seo",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I can say no, firmly",
+      "korean": "나는 단호하게 거절할 수 있어",
+      "transliteration": "na-neun dan-ho-ha-ge geo-jeol-hal su i-sseo",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "My body carries strength, day by day",
+      "korean": "내 몸은 매일 힘을 품고 있어",
+      "transliteration": "nae mom-eun mae-il hi-meul pum-go i-sseo",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I keep going, even tired",
+      "korean": "나는 피곤해도 계속 나아가",
+      "transliteration": "na-neun pi-gon-hae-do gye-sok na-a-ga",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Small steps still count as strong",
+      "korean": "작은 걸음도 강해지는 길이야",
+      "transliteration": "jak-eun ge-oreum-do gang-hae-ji-neun gil-i-ya",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I ask for help without shame",
+      "korean": "나는 부끄럽지 않게 도움을 요청할 수 있어",
+      "transliteration": "na-neun bu-kkeu-reop-ji an-ke dou-mul yo-cheong-hal su i-sseo",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I protect my peace fiercely",
+      "korean": "나는 내 평화를 지키려고 애써",
+      "transliteration": "na-neun nae pyeong-hwa-reul ji-ki-ryeo-go ae-sseo",
+      "category": "Strength",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "My chest feels tight, help me.",
+      "korean": "가슴이 답답해요, 저를 도와주세요.",
+      "transliteration": "gaseumi dapdaphaeyo, jeoreul doayuseyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Call an ambulance, please, now.",
+      "korean": "구급차 좀 바로 불러 주세요.",
+      "transliteration": "gugu pcha jom baro bulleo juseyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’m having trouble breathing right now.",
+      "korean": "지금 숨쉬기 힘들어요.",
+      "transliteration": "jigeum sumswigi himdeureoyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I might faint, please stay with me.",
+      "korean": "쓰러질 것 같아요, 저랑 같이 있어 주세요.",
+      "transliteration": "sseureojil geot gatayo, raang gachi iseo juseyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "My face feels numb, is this serious?",
+      "korean": "얼굴이 저려요, 이거 심각한가요?",
+      "transliteration": "eolguli jeoryeoyo, igeo simgakkan-gayo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "One side is weak, check me.",
+      "korean": "몸 한쪽이 힘이 빠졌어요, 확인해 주세요.",
+      "transliteration": "mom hanjjok i himi ppa jyeosseoyo, hwaginhae juseyo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I swallowed something wrong, I’m coughing.",
+      "korean": "뭔가 잘못 삼켰나 봐요, 기침이 나요.",
+      "transliteration": "mwo n ga jalmos samkeotna bwa yo, gichimi nayo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "What’s the final price after tax?",
+      "korean": "세금 포함해서 총 얼마예요?",
+      "transliteration": "se-gum po-ham-ssa-seo chong eol-ma-ye-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Can I try it on here?",
+      "korean": "여기서 입어봐도 돼요?",
+      "transliteration": "yeo-gi-seo i-beo-bwa-do dwae-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "How long is the warranty, exactly?",
+      "korean": "보증기간이 정확히 얼마나 돼요?",
+      "transliteration": "bo-jeung-gi-gan-i jeok-queok-hi eol-ma-na dwae-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Does this price include shipping?",
+      "korean": "이 가격에 배송비가 포함돼요?",
+      "transliteration": "i ga-gyeok-e seo-bing-bi-ga po-ham-dwae-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "What’s the return deadline, please?",
+      "korean": "반품 가능 기간이 언제까지예요?",
+      "transliteration": "ban-pum ga-neung gi-gan-i eon-je-kka-ji-ye-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Can I see the receipt option?",
+      "korean": "영수증도 받을 수 있어요?",
+      "transliteration": "yeong-su-jeung-do bat-eul su is-seo-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Do you price-match any stores?",
+      "korean": "다른 데 가격이 같으면 맞춰줘요?",
+      "transliteration": "da-reun de ga-gyeok-i gat-eu-myeon mat-chwo-jwo-yo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I can handle this fear, step by step",
+      "korean": "두려워도 괜찮아, 한 걸음씩 해볼게",
+      "transliteration": "두려워도 괜찮아, 한 걸음씩 해볼게",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I will ask for help today",
+      "korean": "오늘은 도움을 요청할 거예요",
+      "transliteration": "오늘은 도움을 요청할 거예요",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’ll tell the truth, even gently",
+      "korean": "조금 조심스럽게라도 진실을 말할게요",
+      "transliteration": "조금 조심스럽게라도 진실을 말할게요",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’m allowed to be nervous",
+      "korean": "떨려도 괜찮아요, 전 괜찮게 갈 수 있어요",
+      "transliteration": "떨려도 괜찮아요, 전 괜찮게 갈 수 있어요",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I choose the next right thing",
+      "korean": "다음으로 맞는 걸 고를 거예요, 지금",
+      "transliteration": "다음으로 맞는 걸 고를 거예요, 지금",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’ll protect my boundaries, kindly",
+      "korean": "상처 주지 않게 선은 분명히 지킬게요",
+      "transliteration": "상처 주지 않게 선은 분명히 지킬게요",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I can start, even unfinished",
+      "korean": "완벽하지 않아도 시작할게요",
+      "transliteration": "완벽하지 않아도 시작할게요",
+      "category": "Courage",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I miss, then I restart anyway.",
+      "korean": "빠져도 다시 시작해요.",
+      "transliteration": "Ppa-jeo-do da-si si-jak-hae-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Breaks are part of my rhythm.",
+      "korean": "쉬는 것도 제 리듬이에요.",
+      "transliteration": "Shwi-neun geot-do je ri-deum-i-e-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I practice even when it’s boring.",
+      "korean": "재미없어도 연습해요.",
+      "transliteration": "Jae-mi-eob-seo-do yeon-su-pae-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I keep going, one rep at a time.",
+      "korean": "한 번씩 계속해요.",
+      "transliteration": "Han beon-ssik gyae-sok-hae-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Today is for reps, not perfection.",
+      "korean": "오늘은 완벽 말고 반복이에요.",
+      "transliteration": "Oneul-eun wan-byeok mal-go ban-bok-i-e-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Small progress still counts a lot.",
+      "korean": "작은 진전도 크게 쳐줘요.",
+      "transliteration": "Jak-eun jin-jeon-do geu-kke cheo-jwo-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I show up, then I figure it out.",
+      "korean": "일단 나타나서 해답을 찾아요.",
+      "transliteration": "Il-dan na-ta-na-seo hae-dap-eul cha-ja-yo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I miss you, but I mean well.",
+      "korean": "보고 싶지만, 잘하려고 해.",
+      "transliteration": "Bogo sipjiman, jalharyeogo hae.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Let me hold your hand today.",
+      "korean": "오늘은 내 손 잡아줘.",
+      "transliteration": "Oneureun nae son jabajwo.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Your kindness changes my whole day.",
+      "korean": "네 다정함이 내 하루를 바꿔.",
+      "transliteration": "Ne dajeonghami nae harureul bakkweo.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I choose tenderness, even when busy.",
+      "korean": "바빠도 다정함으로 선택할게.",
+      "transliteration": "Bappado dajeonghameuro seontaekhalge.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’m listening, not just responding.",
+      "korean": "답장보다, 먼저 들어줄게.",
+      "transliteration": "Dabjangboda, meonjeo deureojulge.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I want our love to feel safe.",
+      "korean": "우리 사랑이 안전하게 느껴지길 바래.",
+      "transliteration": "Uri sarangi anjeonhage neukkyeojigil barae.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "When you’re hurting, I stay close.",
+      "korean": "아플 때도 나는 가까이 있을게.",
+      "transliteration": "Apeul ttaedo naneun gakkai isseulge.",
+      "category": "Love",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Can we prioritize what’s urgent first?",
+      "korean": "지금 급한 일부터 우선순위를 정할 수 있을까요?",
+      "transliteration": "JiGEUM GGEU-NAN IL-BU-TEO U-SUN-SU-EE-REUL JUNG-HAL SU IT-SSEUL-KKAYO?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’ll send the updated file in a sec.",
+      "korean": "바로 업데이트한 파일 보내드릴게요.",
+      "transliteration": "BA-RO U-PDEI-TE-EDHAN PA-IL BO-NAE-DI-RIL-KKE-YO.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Let me confirm the meeting time.",
+      "korean": "회의 시간부터 확인해도 될까요?",
+      "transliteration": "HOE-E UI SI-GAN-BU-TEO HWA IN-HAE-DO DWEUL-KKAYO?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I need access to that shared drive.",
+      "korean": "그 공유 드라이브에 접속 권한이 필요해요.",
+      "transliteration": "GEU GONG-YU DRAI-BEU-E JEOB-SOG KWON-HAN-I PI-ROLLAE-YO.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Could you repeat that key detail?",
+      "korean": "중요한 포인트만 다시 한 번 말씀해 주실래요?",
+      "transliteration": "JUNG-YO-HAN PO-INTU-MAN DA-SI HAN BEON MAL-SSEUM-HAE JU-SIL-RAE-YO?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’ll take notes, so we don’t lose track.",
+      "korean": "제가 메모할게요, 진행이 안 끊기게요.",
+      "transliteration": "JE-GA ME-MO-HAL-GE-YO, JIN-GAE-GA AN KKIN-KKI-GE- YO.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Who owns the next step on this?",
+      "korean": "이 다음 단계는 누가 담당하나요?",
+      "transliteration": "I DA-EUM DAN-GYE-NEUN NU-GA DAM-DANG-HA-NA-YO?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I trust you with my real feelings.",
+      "korean": "내 진짜 마음을 너한테 맡겨.",
+      "transliteration": "nae jinjja mae-eumeul neohante mat-gyeo",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Thanks for keeping my secrets.",
+      "korean": "내 비밀을 지켜줘서 고마워.",
+      "transliteration": "nae bimilleul jikyeojwo-seo gomawo",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "You make hard days feel lighter.",
+      "korean": "너랑 있으면 힘든 날이 가벼워져.",
+      "transliteration": "neorang isseumyeon himdeun nal-i ga-byeo-wojyeo",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I’m glad you’re in my corner.",
+      "korean": "네가 내 편이라서 정말 다행이야.",
+      "transliteration": "nega nae pyeon-i-ra-seo jeong-mal da-haeng-i-ya",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "Call me, even if it’s nothing.",
+      "korean": "별거 아니어도 전화해, 나 받을게.",
+      "transliteration": "byeolgeo an-i-eodo jeonhwa-hae, na badeul-ke",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "We can disagree, still stay close.",
+      "korean": "서로 달라도, 우리는 계속 가까이 있어.",
+      "transliteration": "seo-ro dal-la-do, urineun gyesok gakka-i iss-eo",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I appreciate how you show up.",
+      "korean": "네가 나타나는 방식이 고마워.",
+      "transliteration": "nega na-ta-na-neun bang-sik-i go-ma-wo",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T20:02:27.275310"
     }
   ],
-  "last_updated": "2026-11-16T21:15:13.909323"
+  "last_updated": "2026-11-17T20:02:27.275310"
 }

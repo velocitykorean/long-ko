@@ -231,7 +231,39 @@
     {
       "category": "Growth",
       "date": "2026-11-16"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-16T21:15:13.923559"
+  "last_updated": "2026-11-17T20:02:27.292854"
 }
