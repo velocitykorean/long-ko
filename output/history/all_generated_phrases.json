@@ -20633,7 +20633,399 @@
       "transliteration": "nega na-ta-na-neun bang-sik-i go-ma-wo",
       "category": "Friendship",
       "generated_at": "2026-11-17T20:02:27.275310"
+    },
+    {
+      "english": "I celebrate tiny wins today.",
+      "korean": "오늘 작은 승리를 축하해요.",
+      "transliteration": "oneul jageun seungnireul chukha-haeyo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "My smile shows up naturally.",
+      "korean": "내 미소가 자연스럽게 나와요.",
+      "transliteration": "nae misoga jayeonseureopge nawa-yo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Joy makes my sentences softer.",
+      "korean": "기쁨이 내 문장을 더 부드럽게 해요.",
+      "transliteration": "gippeum-i nae munjang-eul deo budeureopge hae-yo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I thank myself for trying.",
+      "korean": "해낸 건 나 자신에게 감사해요.",
+      "transliteration": "hae-n eon geon na ja-shin-ege gam-sa-hae-yo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Good news, even a little counts.",
+      "korean": "좋은 소식은 조금이어도 충분해요.",
+      "transliteration": "joheun sosik-eun jo-geum-i-eodo chungbunhaeyo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I let excitement guide my voice.",
+      "korean": "들뜬 마음이 목소리를 이끌게 해요.",
+      "transliteration": "deul-tteun maeum-i mok-sso-ri-reul ikkeul-ge hae-yo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I celebrate learning, not just answers.",
+      "korean": "정답만 말고 배움 자체를 기뻐해요.",
+      "transliteration": "jeongdab-man mal-go bae-um cha-ja-reul gippeo-hae-yo.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Before I speak, I greet first",
+      "korean": "말하기 전에 먼저 인사부터 해요",
+      "transliteration": "maLHaGI jeoNeo meoNJeo INSa-buTeo hae-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I follow the seating order calmly",
+      "korean": "자리 순서대로 조용히 따라가요",
+      "transliteration": "jaRi SUNSeoDae-ro joYong-hi TTaRaGa-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I thank the host, then compliment",
+      "korean": "주인 분께 먼저 감사하고, 그다음 칭찬해요",
+      "transliteration": "juIN bun-kke meoNJeo GAMSa-han-go, geu-da-eum CHINGChan-hae-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I keep both hands visible when bowing",
+      "korean": "절할 때 두 손을 보이게 해요",
+      "transliteration": "jeoLHal ttae du SON-eul boi-ge hae-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I pause for elders, they go first",
+      "korean": "어른들께는 먼저 드리려고 기다려요",
+      "transliteration": "eo-reun-deul-kke-neun meoNJeo deU-ri-ryeo-go gidDae-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "At ceremonies, I dress neatly and simply",
+      "korean": "행사에는 단정하게 입고 가요",
+      "transliteration": "haeng-sa-e-neun dan-jeong-hae-ge ip-go ga-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I listen for the whole story, not just tips",
+      "korean": "요령만 말고, 이야기를 끝까지 들어요",
+      "transliteration": "yoRyeong-man mal-go, i-ya-gi-reul kkeut-kka-ji deU-reo-yo",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Totally agree, let’s do it.",
+      "korean": "완전 동의해, 하자.",
+      "transliteration": "wanjeon don-ui, HAZJA",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Yes, I’m with you on that.",
+      "korean": "응, 그건 나도 동의해.",
+      "transliteration": "eung, geugon na-do dong-ihae",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I agree, especially with your reason.",
+      "korean": "동의해, 특히 네 말이 설득력 있어.",
+      "transliteration": "dong-ihae, teukhi ne mal-i seol-deuk-ryeok isseo",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I’m comfortable with that plan.",
+      "korean": "그 계획, 나는 괜찮아.",
+      "transliteration": "geu gye-hoek, na-neun gwaen-chan-a",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I like the idea, go for it.",
+      "korean": "좋아, 그 아이디어 하자.",
+      "transliteration": "jo-a, geu ai-dee-a had-ja",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "No, I can’t agree with that.",
+      "korean": "아니, 그건 동의 못 해.",
+      "transliteration": "ani, geugon dong-i mot hae",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I disagree, that worries me.",
+      "korean": "반대야, 그건 좀 걱정돼.",
+      "transliteration": "ban-dae-ya, geugon jom geok-jeong-dwae",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I cook dinner for my family",
+      "korean": "나는 우리 가족을 위해 저녁을 해요",
+      "transliteration": "NA-neun u-ri ga-jok-eul wi-hae jeo-nyeog-eul hae-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "My dad always keeps a spare key",
+      "korean": "아빠는 항상 여분 키를 가지고 있어요",
+      "transliteration": "AP-pa-neun han-sang yeo-bun KI-reul ga-ji-go i-sseo-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "We share chores every weekend",
+      "korean": "우리는 주말마다 집안일을 나눠요",
+      "transliteration": "U-ri-neun ju-mal-ma-da jib-an-il-eul na-nwŏ-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Mom folds laundry while chatting",
+      "korean": "엄마는 수다 떨며 빨래를 개요",
+      "transliteration": "EOM-ma-neun SU-da ttel-myeo ppal-lae-reul gae-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "My sister and I share a room",
+      "korean": "내 여동생이랑 나는 한 방을 써요",
+      "transliteration": "nae yeo-dong-saeng-i-rang na-neun han bang-eul sseo-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "We plan meals together after work",
+      "korean": "퇴근하고 나서 같이 식사를 정해요",
+      "transliteration": "TWE-geun-ha-go na-seo ga-chi sik-sa-reul jeong-hae-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Grandma calls, even when I’m busy",
+      "korean": "할머니는 내가 바빠도 전화해요",
+      "transliteration": "HAL-meo-ni-neun nae-ga bapp-a-do jeon-hwa-hae-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Steal a thought, twist it gently",
+      "korean": "한 발 빼서 생각을 훔쳐 비틀어 봐",
+      "transliteration": "Han bal BBae-seo saenggageul Humeo Bittleo bwa",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Change the setting, keep the goal",
+      "korean": "배경만 바꿔도 목표는 그대로 가",
+      "transliteration": "Baegyeonman Bakkwodo mokpyo-neun Geudaero ga",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Use one real problem, make a story",
+      "korean": "진짜 문제 하나로 이야기를 만들어 봐",
+      "transliteration": "Jin-jja munje hana-ro iyagireul mandeureo bwa",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Draft fast, listen for the vibe",
+      "korean": "빨리 초안을 잡고, 분위기부터 들어봐",
+      "transliteration": "Ppalli choan-eul japgo, bunwigi-buteo deureobwa",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Say it differently, then try again",
+      "korean": "다르게 말해 보고, 또 한 번 시도해",
+      "transliteration": "Dareuge malhae bo-go, tto han beon si-dohae",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Turn silence into a new idea",
+      "korean": "멈춰 서서, 멈춘 그 순간이 아이디어가 돼",
+      "transliteration": "Meomchwo seoseo, meomchun geu sungan-i aidieo-ga dwae",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Ask, what would wow people today",
+      "korean": "지금 사람들 깜짝 놀랄 건 뭘까 생각해",
+      "transliteration": "Jigeum saramdeul kkamjjak nollal geon mwolkka saenggakhae",
+      "category": "Creativity",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Today, I’ll speak to myself gently",
+      "korean": "오늘은 나에게 부드럽게 말해요",
+      "transliteration": "Oneul-eun na-ege bu-deu-reob-ge mal-hae-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I can handle what comes next",
+      "korean": "다음에 오는 건, 나는 해낼 수 있어요",
+      "transliteration": "Da-eum-e o-neun geon, na-neun hae-nael su isseo-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "My mind can learn new thoughts",
+      "korean": "내 마음은 새로운 생각을 배울 수 있어요",
+      "transliteration": "Nae maeum-eun sae-ro-un saeng-gak-eul bae-ul su isseo-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I look for solutions, not blame",
+      "korean": "탓하기보다 해결책을 찾을래요",
+      "transliteration": "Tashagi bo-da hae-gyeol-chaek-eul chat-eul-lae-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Gratitude, then I take action",
+      "korean": "감사하는 마음으로 바로 움직여요",
+      "transliteration": "Gam-sa-ha-neun maeum-euro ba-ro u-muk-kyeo-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I turn setbacks into lessons",
+      "korean": "실패도 결국은 배움이 돼요",
+      "transliteration": "Sil-pae-do gyeok-kuk-eun bae-um-i dwae-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Small steps, strong spirit today",
+      "korean": "오늘은 작은 걸음으로도 마음이 강해져요",
+      "transliteration": "Oneu-reun ja-g-eun georeum-eu-ro-do maeum-i gang-hae-jyeo-yo",
+      "category": "Positive Life",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Hope texts you, you reply in courage",
+      "korean": "희망이 먼저 손을 내밀면, 당신은 용기로 답해요",
+      "transliteration": "HIMANG-i meonjeo son-eul naemilmyeon, dangsin-eun YONGGILO daphaeyo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "In the mess, hope stays curious",
+      "korean": "엉망인 날에도 희망은 자꾸 궁금해져요",
+      "transliteration": "Eongmang-in nal-edo HIMANG-eun jakku gunggeumhaejyeo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Hope, even your tired heart",
+      "korean": "희망아, 지친 마음도 다시 걸어 줘요",
+      "transliteration": "HIMANG-a, JICHIN maeumdo dasi georeo jwo-yoyo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Keep hope close, like keys",
+      "korean": "희망은 열쇠처럼 가까이 두세요",
+      "transliteration": "HIMANG-eun yeol-swi-cheoreom gakka-i du-se-yo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Choose hope, one decision at a time",
+      "korean": "희망을 고르는 거예요, 한 번에 하나씩",
+      "transliteration": "HIMANG-eul goreu-neun ge-ye-yo, han beon-e na han ssik",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Let hope guide your next small move",
+      "korean": "다음 한 걸음은 희망이 길을 잡아줘요",
+      "transliteration": "Daeum han georeum-eun HIMANG-i gireul jab-a-jwo-yo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "When you miss the mark, hope resets",
+      "korean": "실수해도 희망은 다시 시작하게 해요",
+      "transliteration": "SILSU-hae-do HIMANG-eun dasi sijak-hage haeyo",
+      "category": "Hope",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I make my bed right away.",
+      "korean": "이불 정리부터 바로 해요.",
+      "transliteration": "IBUL JUNGNI BUTEORO BATO HAEYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I brush my teeth while the kettle heats.",
+      "korean": "물 끓는 동안 양치해요.",
+      "transliteration": "MUL KITTNEUN DONGAN YANGCHIHAEYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I do a quick stretch before coffee.",
+      "korean": "커피 마시기 전에 간단히 스트레칭해요.",
+      "transliteration": "KEOPI MASIGI JEONE GANdANHI SEUTEUCHINGHAEYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I check the weather before I go.",
+      "korean": "나가기 전에 날씨부터 확인해요.",
+      "transliteration": "NAGIJEON E NALSSI BUTE0 HWA I NHAEYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I grab water, then head out.",
+      "korean": "물 한 병 챙기고 바로 나가요.",
+      "transliteration": "MUL HAN BYEONG CHAEKGIGO BATO NAGAYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I stop by the corner store for snacks.",
+      "korean": "길모퉁이 가게에서 간식 좀 사요.",
+      "transliteration": "GILMOTUNGI GAGESE0 GANSIK JOM SAYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "I pay my bills during lunch.",
+      "korean": "점심시간에 공과금 좀 내요.",
+      "transliteration": "JUMSISSIGANE GONGGWAGUM JOM NAEYO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T19:36:04.072810"
     }
   ],
-  "last_updated": "2026-11-17T20:02:27.275310"
+  "last_updated": "2026-11-18T19:36:04.072810"
 }
