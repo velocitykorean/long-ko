@@ -21025,7 +21025,399 @@
       "transliteration": "JUMSISSIGANE GONGGWAGUM JOM NAEYO.",
       "category": "Daily Routine",
       "generated_at": "2026-11-18T19:36:04.072810"
+    },
+    {
+      "english": "Make mistakes, then come back stronger",
+      "korean": "실수해도 괜찮아, 다시 더 강하게 돌아와",
+      "transliteration": "SIL-su-hae-do GWAEN-chan-a, DA-si deo GAN-kae door-a-wa",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Your effort counts, even on rough days",
+      "korean": "거친 날에도 노력은 분명히 쌓여요",
+      "transliteration": "geo-chin nal-e-do NO-ryeok-eun bun-myeong-hi SSA-yeo-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Little practice now saves future stress",
+      "korean": "지금 조금 연습하면 나중이 편해져요",
+      "transliteration": "ji-geum jo-geum YEON-seup-hae-myeon NA-jung-i pyeon-hae- jyeo-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Set a tiny goal, start anyway",
+      "korean": "작은 목표 하나만 정하고, 일단 시작해요",
+      "transliteration": "ja-geun mok-pyo ha-na-man JEONG-ha-go, IL-dan si-jak-hae-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Turn Korean into your daily habit",
+      "korean": "한국어를 매일 습관처럼 붙여 보세요",
+      "transliteration": "han-guk-eo-reul mae-il seup- gwan-cheo-rom BUT-yeo bo-se-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Watch one clip, steal the useful lines",
+      "korean": "짧은 영상 한 개 보고, 쓸 만한 문장만 가져오세요",
+      "transliteration": "jjal-bun yong-sang han gae bo-go, sseul man-han mun-jang-man ga-ja-o-se-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Keep going, even when it feels slow",
+      "korean": "느리게 느껴져도 계속 가면 돼요",
+      "transliteration": "neu-ri-ge neu-kyeo-jyeo-do GYE-sok ga-myeon dwae-yo",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Choose patience, not quick reactions",
+      "korean": "빨리 반응하기보다 인내를 선택해",
+      "transliteration": "Ppalli ban-eunghagi boda inne-reul seontaekhae",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Pause, then speak what is true",
+      "korean": "멈추고, 그다음에 진실만 말해",
+      "transliteration": "Meomuchigo, geu-daeume jinshilman malhae",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Don’t argue, clarify what you mean",
+      "korean": "싸우지 말고, 말하려는 뜻을 분명히 해",
+      "transliteration": "Ssa-uji malgo, mal-lyeo-neun ttus-eul bunmyeonghi hae",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Make space for silence to teach",
+      "korean": "침묵이 가르치게 시간을 내줘",
+      "transliteration": "Chim-muk-i garu-chi-ge sigan-eul nae-jwo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Your mind improves with gentle limits",
+      "korean": "마음을 달래며 한계를 정해",
+      "transliteration": "Mae-um-eul dallyeomyeo han-gye-reul jeonghae",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Better ask why, then decide",
+      "korean": "왜 그런지 먼저 보고 결정해",
+      "transliteration": "Wae geu-reon-ji meon-jeo bo-go gyeoljeonghae",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Small wins build steady wisdom",
+      "korean": "작은 성취가 차근차근 지혜를 쌓아",
+      "transliteration": "Jakseun seongchwiga cha-geun-cha-geun ji-hye-reul ssa-a",
+      "category": "Wisdom",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I breathe, then I soften my gaze.",
+      "korean": "숨을 쉬고, 눈빛을 부드럽게 해요.",
+      "transliteration": "sum-eul swi-go, nunbit-eul bu-deureopge hae-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I stop chasing, I come back.",
+      "korean": "쫓아다니지 않고, 다시 돌아와요.",
+      "transliteration": "jjo-a-da-ni-ji an-go, da-si dol-a-wa-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Inhale hope, exhale what ifs.",
+      "korean": "숨은 희망으로, 내쉬는 건 걱정이에요.",
+      "transliteration": "sum-eun hui-mang-euro, nae-swi-neun geon geok-jeong-i-e-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "My heartbeat tells me, calm is here.",
+      "korean": "내 심장이 말해요, 여기 평온이 있어요.",
+      "transliteration": "nae sim-jang-i mal-hae-yo, yeo-gi pyeong-on-i is-seo-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I untangle one thought at a time.",
+      "korean": "생각 하나를, 하나씩 풀어줘요.",
+      "transliteration": "saeng-gak ha-na-reul, ha-na-ssik pul-eo-jwo-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I let my body lead today.",
+      "korean": "오늘은 몸이 먼저예요.",
+      "transliteration": "o-neul-eun mo-bu i meon-je-ye-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I choose gentleness, even in tension.",
+      "korean": "긴장 속에서도 다정함을 골라요.",
+      "transliteration": "gin-jang sok-eo-do da-jeong-ham-eul gol-la-yo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I do this for a reason",
+      "korean": "난 목적이 있어서 하는 거야",
+      "transliteration": "nan MOKjeoki isseo hanun geoya",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "What is your real purpose?",
+      "korean": "정말로 하고 싶은 목적이 뭐야?",
+      "transliteration": "jeongmallo hago sipeun MOKjeogi mwoya",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "My purpose is to connect",
+      "korean": "제 목적은 사람들과 연결하는 거예요",
+      "transliteration": "je MOKjeun saramdeulgwa yeon-gyeol-haneun geoyeyo",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I have one clear intention",
+      "korean": "나는 딱 하나의 목적이 있어",
+      "transliteration": "nan ttak hanaui MOKjeoki isseo",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "For what purpose is this?",
+      "korean": "이거, 어떤 목적으로 하는 거야?",
+      "transliteration": "igeo, eotteon MOKjeokuro haneun geoya",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Tell me the plan behind it",
+      "korean": "왜 하는지 목적부터 말해줘",
+      "transliteration": "wae hanunji MOKjeokbuteo malhaejwo",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I need your purpose, quickly",
+      "korean": "목적을 빨리 설명해줘",
+      "transliteration": "MOKjeogeul ppalli seolmyeonghaejwo",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I’m ready for this moment",
+      "korean": "지금 이 순간을 준비했어요",
+      "transliteration": "ji-geum i sun-gan-eul ju- bi-hae-sseo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "My voice is worth hearing",
+      "korean": "내 목소리는 들을 가치가 있어요",
+      "transliteration": "nae mok-so-neun deur-eul ga-chi-ga i-sseo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Pause, then answer calmly",
+      "korean": "잠깐 멈추고 차분하게 답해요",
+      "transliteration": "jam- kkan meom-chu-go cha-bun-ha-ge dap-hae-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I trust what I already know",
+      "korean": "내가 이미 아는 걸 믿어요",
+      "transliteration": "nae-ga i-mi a-neun geol mi-deu-eo-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Even if I stumble, I’ll recover",
+      "korean": "넘어져도 다시 일어나면 돼요",
+      "transliteration": "neom-eo- jyeo-do da-si il-eo-na-myeon dwae-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I’ll ask for clarity when needed",
+      "korean": "모르면 알아들을 때까지 물어볼게요",
+      "transliteration": "mo-reu-myeon a-raa-deu-eul ttaek-kka-ji mu-l eo-bol-ge-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "I choose confidence, right now",
+      "korean": "지금 저는 자신감 있게 말할 거예요",
+      "transliteration": "ji-geum jeo-neun ja-shin-gam it-ge mal-hal geo-ye-yo",
+      "category": "Confidence",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Stay calm when plans change.",
+      "korean": "계획이 바뀌어도, 마음은 차분히.",
+      "transliteration": "Gyehoeg-i bakkwieodo, maeumeun chabunhi.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Pause, then answer when ready.",
+      "korean": "준비될 때 답하면 돼요, 잠깐만 멈춰요.",
+      "transliteration": "Junbwi-doel ttae dabeumyeon dwaeyo, jamkkkan man meomchwo-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Give your future self room.",
+      "korean": "지금은 미래의 나한테 여유를 줘요.",
+      "transliteration": "Jigeumeun mire-eui nahan테 yeoyureul jwoyo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Keep going, even slowly.",
+      "korean": "느려도 괜찮아요, 계속 가요.",
+      "transliteration": "Neuryeodo gwaenchanh-a-yo, gyesok gayo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Let silence cool the tension.",
+      "korean": "말을 멈추고, 긴장부터 식혀요.",
+      "transliteration": "Mareul meomchugo, jinjangbuteo si-khyeo-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Trust the timing, not the rush.",
+      "korean": "타이밍을 믿어요, 급하게 굴지 말고요.",
+      "transliteration": "Taimeing-eul mideosseo-yo, geupha-ge guh-li-ji mal-go-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Work, then rest without guilt.",
+      "korean": "노력은 하되, 쉬는 것도 인내예요.",
+      "transliteration": "Noryeog-eun ha-doe, swineun geotdo innae-ye-yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Cheers, you did it, wow!",
+      "korean": "건배, 해냈다, 와!",
+      "transliteration": "geon-bae, hae-nat-da, wa!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Happy anniversary, we’re so lucky.",
+      "korean": "결혼기념일 축하해요, 정말 행운이에요.",
+      "transliteration": "gyeol-hon-gi-nyeom-il chuk-ha-hae-yo, jeong-mal haeng-un-i-e-yo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Congrats on the new baby.",
+      "korean": "아기 태어난 거 진심으로 축하해요.",
+      "transliteration": "a-gi tae-eo-nan geu jin-sim-eu-ro chuk-ha-hae-yo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Welcome to the team, celebrate!",
+      "korean": "팀에 오신 걸 환영해요, 축하해요!",
+      "transliteration": "teim-e o-sin geol hwan-yeong-hae-yo, chuk-ha-hae-yo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "You deserve this, tonight we celebrate.",
+      "korean": "당신이 받을 만해요, 오늘 밤은 파티예요.",
+      "transliteration": "dang-sin-i bal-bul man-hae-yo, o-neul bam-eun pa-ti-ye-yo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Break the ice, dance on!",
+      "korean": "어색함 털고, 춤춰요!",
+      "transliteration": "eo-saek-ham teol-go, chum-chwo-yo!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "This cake is legendary, try it.",
+      "korean": "이 케이크 진짜 맛있어요, 드셔 보세요.",
+      "transliteration": "i ke-i-keu jin-jja ma-shit-seo-yo, deu-syeo bo-se-yo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Celebrate the wins you earn",
+      "korean": "당신이 얻은 승리를 먼저 축하해요",
+      "transliteration": "dangsin-i eot-eun seungli-reul meoJeo chukha-hae-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Set the goal, then act today",
+      "korean": "목표를 정하고, 오늘 바로 움직여요",
+      "transliteration": "mokpyo-reul jeongha-go, oneul baro umjikyeo-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Your effort counts, keep it up",
+      "korean": "노력은 반드시 쌓여요, 계속해요",
+      "transliteration": "noryeok-eun ban드시 ssajyeo-yo, gyesok-hae-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Small routine, big results",
+      "korean": "작은 루틴이 큰 결과를 만들어요",
+      "transliteration": "jageun rUITin-i keun gyeolgwa-reul mandeul-eo-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Don’t quit right before it clicks",
+      "korean": "깨닫는 그 순간 직전에 멈추지 마요",
+      "transliteration": "kkaedan-nun geu sungan jikjeon-e momeuchiji ma-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Be brave enough to try again",
+      "korean": "다시 해볼 용기를 가지세요",
+      "transliteration": "dasi haebol yong-gi-reul gaji-seyo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
+    },
+    {
+      "english": "Track progress, trust the pattern",
+      "korean": "변화를 기록하고, 그 흐름을 믿어봐요",
+      "transliteration": "byeonhwa-reul giklog-ha-go, geu heu-reum-eul mit-eobwa-yo",
+      "category": "Success",
+      "generated_at": "2026-11-19T19:39:27.790887"
     }
   ],
-  "last_updated": "2026-11-18T19:36:04.072810"
+  "last_updated": "2026-11-19T19:39:27.790887"
 }
