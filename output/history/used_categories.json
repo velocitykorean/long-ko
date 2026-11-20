@@ -327,7 +327,39 @@
     {
       "category": "Success",
       "date": "2026-11-19"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-20"
     }
   ],
-  "last_updated": "2026-11-19T19:39:27.808716"
+  "last_updated": "2026-11-20T19:17:24.103379"
 }
