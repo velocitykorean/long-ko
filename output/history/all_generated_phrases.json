@@ -21809,7 +21809,399 @@
       "transliteration": "가는 데 얼마나 걸려요?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-20T19:17:24.091816"
+    },
+    {
+      "english": "Do you have a day pass?",
+      "korean": "오늘 하루 이용권 있어요?",
+      "transliteration": "o-neul ha-ru yi-yong-kwon i-sseo-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "How much is the personal training?",
+      "korean": "개인 트레이닝 비용이 얼마예요?",
+      "transliteration": "gae-in teu-rei-ning bi-yong-i eol-ma-ye-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Can I try the spin class?",
+      "korean": "스핀 수업 한번 해볼 수 있어요?",
+      "transliteration": "seu-pin su-eop han beon hae-bol su i-sseo-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Is the track open this morning?",
+      "korean": "오늘 아침 트랙 열었어요?",
+      "transliteration": "o-neul a-chim teu-raek yeo-ss-eo-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I need a resistance band, please.",
+      "korean": "저한테 저항 밴드 하나 주세요.",
+      "transliteration": "jeo-han-te keo-hang baen-deu ha-na ju-se-yo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Where can I fill my water bottle?",
+      "korean": "물병은 어디서 채워요?",
+      "transliteration": "mul-byeong-eun eo-di-seo chae-weo-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Do you have free weights here?",
+      "korean": "여기 프리 웨이트 있어요?",
+      "transliteration": "yeo-gi peu-ri we-i-t eu i-sseo-yo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Do you cash this check?",
+      "korean": "이 수표 현금으로 바꿔 주실 수 있어요?",
+      "transliteration": "이 SUPYO HYEONGEUMEURO BAKKWO JUshIL SU ISSEOYO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I need change for this bill",
+      "korean": "이 지폐를 잔돈으로 바꿔 주세요.",
+      "transliteration": "이 JI PYE REUL JAN DOnEURO BAKKWO JUSEYO.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Where can I deposit cash?",
+      "korean": "현금은 어디에 넣으면 돼요?",
+      "transliteration": "HYENGEUMEUN EODIE NHEOmeum DWAeyo?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Is there an ATM near here?",
+      "korean": "여기 근처에 ATM 있어요?",
+      "transliteration": "YEOGI GEUNChEoE ATM ISSEOYO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "My card is stuck in the machine",
+      "korean": "카드가 ATM에 끼었어요. 어떻게 해요?",
+      "transliteration": "KAEdeuGA ATM-e KKIEOSSEOYO. EOTTEOKE HAEYO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Can I withdraw without my card?",
+      "korean": "카드 없이 현금 인출이 돼요?",
+      "transliteration": "KAEdeu EOPSI HYENGEUM INchUL-i DWAeyo?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "What are your business hours?",
+      "korean": "은행 영업시간이 어떻게 돼요?",
+      "transliteration": "EUNHaENG YEOPEOng SI GANi EOTTEOKE DWEYO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "That’s sus, not buying it",
+      "korean": "그거 좀 수상해, 난 못 믿겠어",
+      "transliteration": "geu-geo jom SU-SANG-hae, nan mot mi-deu-gesseo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I’m not trying to start drama",
+      "korean": "나 싸우자는 거 아니야, 그냥 지나갈게",
+      "transliteration": "na ssa-u-ja-neun geo a-ni-a, geu-냥 ji-na-gal-ke",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Let’s grab food, like right now",
+      "korean": "우리 밥 먹으러 가자, 지금 당장",
+      "transliteration": "u-ri bap meo-gu-reo ja-ja, ji-geum dang-jang",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I got you, no worries",
+      "korean": "내가 다 해줄게, 걱정 마",
+      "transliteration": "nae-ga da hae-jul-ke, geok-jeong ma",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Stop being so salty",
+      "korean": "그만 째째하게 굴지 마, 그렇게 하지 마",
+      "transliteration": "geu-man JJE- JJE-ha-ge gu-lji ma, geu-reok-ke ha-ji ma",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I’m running late, I swear",
+      "korean": "나 늦어지고 있어, 진짜로",
+      "transliteration": "na neu-jeo-ji-go is-seo, jin-jja-ro",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "That hit hard, wow",
+      "korean": "이거 완전 꽂혔다, 와",
+      "transliteration": "i-geo wan-jeon kko-chi-eot-da, wa",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Make time for the next lesson",
+      "korean": "다음 수업을 위한 시간을 만들어",
+      "transliteration": "da-eum sueob-eul wihan sigan-eul mandeu-EO",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Ask what I can learn right now",
+      "korean": "지금 내가 배울 수 있는 걸 물어봐",
+      "transliteration": "ji-geum nae-ga bae-ul su i-nneun geol mul-eo-bwa",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Turn feedback into fuel",
+      "korean": "피드백은 연료로 써",
+      "transliteration": "pi-deu-baeg-eun yeon-nyo-lo sseo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Choose progress over comfort",
+      "korean": "편안함보다 성장을 골라",
+      "transliteration": "pyeon-an-ham-bo-da seong-jang-eul gol-la",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Set one goal, then schedule it",
+      "korean": "한 가지 목표를 정하고 일정을 잡아",
+      "transliteration": "han ga-ji mo-kyo-reul jeong-ha-go il-jeong-eul jab-a",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Small wins, keep stacking",
+      "korean": "작은 승리를 계속 쌓아",
+      "transliteration": "jak-eun seung-ni-reul gye-sok ssaa",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Protect your focus like a habit",
+      "korean": "집중은 습관처럼 지켜",
+      "transliteration": "jip-jung-eun seup-kwan-cheo-reom ji-KYE-",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "That first date energy is real",
+      "korean": "그 첫 데이트 기운 진짜다",
+      "transliteration": "Geu cheot deiteu giun JINJJAda",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Want to trade playlists tonight?",
+      "korean": "오늘 플레이리스트 서로 바꿔 볼래요?",
+      "transliteration": "Oneul peulleiリseuteu seoro BAKKWOl-laeyo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Let s meet for dessert after dinner",
+      "korean": "저녁 먹고 디저트 먹으러 가요",
+      "transliteration": "Jeonyeok meokko dijeoteu meogeuro gayo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "You look stunning, seriously",
+      "korean": "진짜 너 정말 멋있어",
+      "transliteration": "JINJJA neo jeongmal meosisseo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Can I steal a kiss, quickly?",
+      "korean": "키스 한 번만 훔쳐도 돼요?",
+      "transliteration": "KISEU han beonman HUMCHyeodo dwaeyo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Tell me what you re into",
+      "korean": "너 요즘 뭐에 꽂혀 있어?",
+      "transliteration": "Neo yojeum mwue kkkochae iss-eo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Your smile made my day",
+      "korean": "너 웃는 거, 내 하루가 달라졌어",
+      "transliteration": "Neo utneun geo, nae haruga dallyeojyeosseo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Thank you for fixing that fast.",
+      "korean": "빨리 고쳐 주셔서 감사해요.",
+      "transliteration": "ppalli gochyeo jusyeoseo gamsahaeyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I’m grateful you checked the details.",
+      "korean": "세부까지 확인해 주셔서 감사해요.",
+      "transliteration": "seobu kkaji hwaginhae jusyeoseo gamsahaeyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Thanks for stepping in so quickly.",
+      "korean": "바로 도와주셔서 정말 감사해요.",
+      "transliteration": "baro dowajusyeoseo jeongmal gamsahaeyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Thank you, I feel so supported.",
+      "korean": "도움이 돼서 정말 든든해요, 감사합니다.",
+      "transliteration": "doumi dwaeseo jeongmal deundunhaeyo, gamsahamnida.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I appreciate you making time for me.",
+      "korean": "시간 내주셔서 감사해요.",
+      "transliteration": "sigan naejusyeoseo gamsahaeyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Thanks for the calm, thoughtful help.",
+      "korean": "차분하게 생각해 주셔서 감사해요.",
+      "transliteration": "chabunhage saenggakhae jusyeoseo gamsahaeyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I needed this kindness today, truly.",
+      "korean": "오늘 이런 친절이 정말 필요했어요.",
+      "transliteration": "oneul ireon chinjeol-i jeongmal piryohetseoyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "My symptoms started last night",
+      "korean": "증상이 어젯밤부터 시작됐어요, 오늘 진료받고 싶어요",
+      "transliteration": "jeungsang-i eojeotbamseo sijakdaesseo, ONEUL j inryo batg goe sipeoyo",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I need help with my fever",
+      "korean": "열이 계속 나서요, 진료받을 수 있을까요",
+      "transliteration": "yeori gye-sok n aeseo yo, JINryo badgeul su isseulkkayo",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Can I get a checkup today?",
+      "korean": "오늘 건강검진도 받을 수 있어요?",
+      "transliteration": "ONEUL geongang geom j in-do badgeul su isseoyo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Where do I register for a visit?",
+      "korean": "진료 접수는 어디서 해요?",
+      "transliteration": "j inryo jeopsu-neun eodi-eseo haeyo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Do you accept walk-ins?",
+      "korean": "예약 없이도 들어갈 수 있어요?",
+      "transliteration": "yeyak eops-i-do deureogal su isseoyo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I brought my ID and insurance",
+      "korean": "신분증이랑 보험도 가져왔어요",
+      "transliteration": "sinbunjeung-i rang boheom-do gajyeo wass-eoyo",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "I have an allergy to penicillin",
+      "korean": "저는 페니실린 알레르기가 있어요",
+      "transliteration": "jeoneun p enisillin al lereg i-ga isseoyo",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Joy starts with one honest pause.",
+      "korean": "행복은 한 번의 솔직한 멈춤에서 시작돼.",
+      "transliteration": "haeng-bok-eun han beon-ui sol-jik-han meom-chum-e-seo si-jak-dweo",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Say hi, make someone’s day.",
+      "korean": "인사 한마디로 누군가의 하루를 밝혀.",
+      "transliteration": "in-sa han-ma-di-ro nu-gung-ga-ui ha-ru-reul bi-byeo",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Do one small brave thing today.",
+      "korean": "오늘 딱 하나, 용기 내서 해봐.",
+      "transliteration": "o-neul ttak ha-na, yong-gi nae-seo hae-bwa",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Notice the good, even if tiny.",
+      "korean": "작아도 좋은 걸 먼저 찾아봐.",
+      "transliteration": "ja-ka-do jo-eun geol meon-jeo cha-ja-bwa",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Turn off noise, turn on peace.",
+      "korean": "잡음을 줄이고, 평화를 켜.",
+      "transliteration": "jab-eum-eul ju-ri-go, pyeong-hwa-reul kyeo",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Invite a friend to tea.",
+      "korean": "차 한 잔 같이하자, 행복하자.",
+      "transliteration": "cha han jan ga-chi-ha-ja, haeng-bok-ha-ja",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
+    },
+    {
+      "english": "Make room for play, not pressure.",
+      "korean": "압박 말고, 놀 시간을 내.",
+      "transliteration": "ap-bak mal-go, nol si-gan-eul nae",
+      "category": "Happiness",
+      "generated_at": "2026-11-21T18:12:50.576824"
     }
   ],
-  "last_updated": "2026-11-20T19:17:24.091816"
+  "last_updated": "2026-11-21T18:12:50.576824"
 }
