@@ -22985,7 +22985,399 @@
       "transliteration": "haruga manghaetdaego haeseo pogihaji anha.",
       "category": "Perseverance",
       "generated_at": "2026-11-23T23:30:35.308289"
+    },
+    {
+      "english": "I’m grateful for your steady support",
+      "korean": "늘 든든하게 곁에 있어 줘서 고마워.",
+      "transliteration": "Neul DUd-nen-ha-ge gyeo-e i-sseo jwoo-seo GO-ma-wo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "You always listen, not just hear",
+      "korean": "너는 들어 주는 걸 넘어서, 정말 들어줘.",
+      "transliteration": "Neo-neun DEU-reo ju-neun geol neom-eo-seo, jeong-mal DEU-reo-jwo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I trust your judgment, truly",
+      "korean": "너의 판단을 나는 믿어, 진짜로.",
+      "transliteration": "No-eh JU-ndan-eul na-neun MI-deo, jin-jja-ro.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "When I fall, you stay with me",
+      "korean": "내가 흔들려도 넌 곁에 남아 줘.",
+      "transliteration": "Nae-ga heun-deul-yeo-do neon gyeo-e na-majwo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "You make room for my feelings",
+      "korean": "너는 내 마음을 밀어내지 않아 줘.",
+      "transliteration": "Neo-neun nae ma-eum-eul mi-reo-nae-ji an-a jwo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Thank you for being honest with me",
+      "korean": "나한테 솔직해 줘서 고마워.",
+      "transliteration": "Na-han-te SOL-jik-hae jwoo-seo GO-ma-wo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I love our late-night talks",
+      "korean": "너랑 밤늦게 얘기하는 거, 정말 좋아.",
+      "transliteration": "Neo-rang bam-neut-ge yae-gi-ha-neun geo, jeong-mal jo-a.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I’m here, no fixing needed.",
+      "korean": "내가 여기 있어, 고치지 않아도 돼.",
+      "transliteration": "nae-ga yeo-gi isseo, GO-chi-ji an-a-do dwae.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I love how you say please.",
+      "korean": "네가 제발 하고 말해주는 방식이 좋아.",
+      "transliteration": "ne-ga je-bal ha-go mal-hae-ju-neun bang-sik-i jo-a.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I trust your intentions with me.",
+      "korean": "나한테 너의 마음을 믿어, 진심이 느껴져.",
+      "transliteration": "na-han-te neo-ui ma-eum-eul mit-eo, jin-sim-i neuk-kyeo-jeo.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Let’s make room for laughter.",
+      "korean": "우리, 웃을 자리를 같이 만들어보자.",
+      "transliteration": "u-ri, uus-eul ja-ri-reul ga-chi man-deul-eo-bo-ja.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I want your joy more than wins.",
+      "korean": "이기기보다 네 기쁨이 더 중요해.",
+      "transliteration": "i-gi-gi-bo-da ne gi-ppum-i deo jung-yo-hae.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I choose you in every decision.",
+      "korean": "어떤 선택이든 널 먼저 생각해.",
+      "transliteration": "eo-tteon seon-taek-i-deun neol meon-jeo saeng-gak-hae.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Your hugs feel like home.",
+      "korean": "네 포옹이, 집처럼 편안해.",
+      "transliteration": "ne po-ong-i, jip-cheo-reom pyeon-an-hae.",
+      "category": "Love",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I bow once, then smile softly.",
+      "korean": "한 번만 공손히 인사하고, 부드럽게 웃어요.",
+      "transliteration": "han beonman GONGsonhi INsa higo, BUDEUREOPge useoyo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I bring a small gift, just because.",
+      "korean": "작은 선물을 준비해 가요, 그냥 마음이에요.",
+      "transliteration": "jageun seonmureul junbihae gayo, geunyang maeumieyo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Before eating, I wait for the signal.",
+      "korean": "식사 시작 신호가 오기 전엔 기다려요.",
+      "transliteration": "siksA shijak SHINOga Ogi JEONen gidaRyeoyo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I pour for others, not just me.",
+      "korean": "먼저 다른 사람 잔에 먼저 따라요.",
+      "transliteration": "meonjeo daREun saRam jan-e meonjeo ttara yo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I hold the lid when someone serves me.",
+      "korean": "상대가 음식 줄 때 뚜껑도 같이 잡아요.",
+      "transliteration": "sangdae-ga eumsik jul ttae ttukkeokdo gachi jaba yo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I say thank you in the right tone.",
+      "korean": "감사 인사는 말투도 같이 맞춰요.",
+      "transliteration": "gam sa INsa-neun malttu-do gachi matchwo yo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "At a table, I keep utensils tidy.",
+      "korean": "식탁에서는 젓가락을 가지런히 놓아요.",
+      "transliteration": "siktaKeuneseo jetgarak-eul gajireonhi NOa yo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I’m on board with that idea.",
+      "korean": "그 아이디어, 나도 찬성해.",
+      "transliteration": "geu A-IDi-eo, NA-do CHAN-seong-hae",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I agree, for sure, with you.",
+      "korean": "응, 난 확실히 네 말이 맞아.",
+      "transliteration": "eung, nan hwak-shil-hi ne mal-i ma-ja",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Yes, I can get behind that.",
+      "korean": "응, 그건 나도 지지할 수 있어.",
+      "transliteration": "eung, geu-geon NA-do ji-ji-hal su isseo",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I’m fine with it, honestly.",
+      "korean": "솔직히, 난 그거 괜찮아.",
+      "transliteration": "sol-jik-hi, nan geu-geo gwaen-chan-a",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "That plan feels right to me.",
+      "korean": "그 계획, 내 느낌엔 딱 맞아.",
+      "transliteration": "geu gye-hoek, nae neuk-kim-en ttak ma-ja",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I think that’s a smart choice.",
+      "korean": "내 생각엔 그게 현명한 선택이야.",
+      "transliteration": "nae saeng-gak-en geu-ge hyun-myeong-han seon-taek-i-ya",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I agree with the overall direction.",
+      "korean": "전체 방향은 나도 동의해.",
+      "transliteration": "jeon-che bang-hyang-eun NA-do dong-i-hae",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Try a twist on a routine",
+      "korean": "일상을 살짝 비틀어봐요,",
+      "transliteration": "ilsang-eul salljjak bitteul-eobwa-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Give yourself permission to be odd",
+      "korean": "조금은 이상해도 괜찮아요,",
+      "transliteration": "jogeumeun isang-hae-do gwaenchan-a-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Start with a feeling, not facts",
+      "korean": "사실부터 말고, 감정부터 시작해요,",
+      "transliteration": "sasil-buteo mallo, gamjeong-buteo sijak-hae-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Sketch the awkward version first",
+      "korean": "어색한 초안을 먼저 그려요,",
+      "transliteration": "eosaekhan choan-eul meonjeo geu-ryeo-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Flip roles, see what changes",
+      "korean": "역할을 바꿔보면, 달라져요,",
+      "transliteration": "yeokhal-eul bakkwo-bomyeon, dall a-jyeo-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Turn feedback into new directions",
+      "korean": "피드백을 길로 바꿔서 가봐요,",
+      "transliteration": "pideubaek-eul gillo bakkwo-seo ga-bwa-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Make it weird, then make it clear",
+      "korean": "먼저 이상하게 만들고, 그다음 또렷하게 해요,",
+      "transliteration": "meon jeo isang-hae-gedo man deul-go, geu-da-eum ttoreot-hae-ge hae-yo,",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "My brother repairs the bikes for us",
+      "korean": "오빠가 우리 자전거를 고쳐 줘요",
+      "transliteration": "OPpaGA U-ri JAE-n geo-reul GO-chyeo JWA-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "We keep shoes by the front door",
+      "korean": "현관 앞에 신발을 가지런히 둬요",
+      "transliteration": "HYEoN-gwan AP-e SHIN-bal-lul GA-ji-reon-hi DWO-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Dad hates clutter, so we tidy fast",
+      "korean": "아빠는 어지르는 걸 싫어해서, 우리는 빨리 치워요",
+      "transliteration": "APpa-neun EO-ji-reu-neun geol SHIL-eo-seo, U-ri-neun PPAL-li CHI-weo-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Mom makes tea when guests arrive",
+      "korean": "엄마는 손님 오면 차를 끓여 줘요",
+      "transliteration": "EOM-ma-neun SON-nim O-myeon cha-reul KIL-yeo JWA-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I text my sister her schedule",
+      "korean": "나는 언니 스케줄 알려 달라고 문자해요",
+      "transliteration": "NA-neun EON-ni SEU-ke-jul AL-lyeo DA-lal-go MU-njae-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "We argue, then we hug and move on",
+      "korean": "싸우고 나면 또 안아 주고, 금방 풀려요",
+      "transliteration": "SSA-u-go na-myeon TTO an-a ju-go, GEUM-bang PUl-lyeo-yo",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Our house smells like fresh bread",
+      "korean": "우리 집은 갓 구운 빵 냄새가 나요",
+      "transliteration": "U-ri JIP-eun GAS KU-un Bbang N Mye-Sae-ga NAY-o",
+      "category": "Family & Home",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I brew tea, then open my laptop.",
+      "korean": "차를 우린 다음 노트북을 켜요.",
+      "transliteration": "차를 우린 다음 노트북을 KE-OYO",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I hear the door, I get ready.",
+      "korean": "문 소리 들리면 얼른 준비해요.",
+      "transliteration": "문 SO-ri DEU-LI-myeon EOL-leun JU-bi-hae-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I leave home right after I pray.",
+      "korean": "기도하고 바로 집을 나서요.",
+      "transliteration": "기-도-ha-go BA-ro JIP-eul Na-seo-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I grab headphones and pick a playlist.",
+      "korean": "이어폰을 챙기고 플레이리스트를 골라요.",
+      "transliteration": "이-어-폰-eul 챙-ki-go เพล레-리-스트-reul 골-ra-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I review emails, no pressure.",
+      "korean": "이메일을 훑어보되, 부담은 없어요.",
+      "transliteration": "이-메-일-eul 휏-어-bo-deu, 부-담은 업-sseo-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I keep snacks in my drawer.",
+      "korean": "서랍에 간식은 항상 넣어둬요.",
+      "transliteration": "서-랍-e 간-식-eun 항상 NEo-eo-du-wo-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I call my mom on my break.",
+      "korean": "쉬는 시간에 엄마한테 전화해요.",
+      "transliteration": "쉬는 시-간-e 엄-ma-han-te CHEONHWA-hae-yo",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Joy starts with one sincere breath",
+      "korean": "기쁨은 한 번 진심으로 숨 쉬는 데서 시작돼요",
+      "transliteration": "Gipeum-eun han beon jinsimeuro sum swineun 데seo sijak-doe-a-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I find joy in warm greetings",
+      "korean": "따뜻한 인사가 기쁨을 만들어줘요",
+      "transliteration": "Ddaatteushan insaga gipeumeul mandeureo-jweo-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Even busy days can feel light",
+      "korean": "바쁜 날에도 마음이 가벼울 수 있어요",
+      "transliteration": "Bappeun nal-edo maeumi gabeowo-ulsu i-sseo-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I speak kindly, and joy follows",
+      "korean": "내가 말을 다정하게 하면 기쁨이 따라와요",
+      "transliteration": "Nega mal-eul da-jeonghage hamyeon gipeumi ttara-wayo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "My heart learns when I smile first",
+      "korean": "내가 먼저 웃으면 마음이 배워요",
+      "transliteration": "Nega meonjeo u-sseumyeon maeumi bae-wo-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "I share small good news right away",
+      "korean": "좋은 소식은 작아도 바로 나눠요",
+      "transliteration": "Jo-eun sosik-eun ja-ka-do ba-ro nanwo-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
+    },
+    {
+      "english": "Joy makes me want to connect",
+      "korean": "기쁨이 생기면 사람과 이어지고 싶어져요",
+      "transliteration": "Gipeumi saeng-gi-myeon saram-gwa ieo-ji-go si-peo- jyeo-yo",
+      "category": "Joy",
+      "generated_at": "2026-11-24T21:31:02.240310"
     }
   ],
-  "last_updated": "2026-11-23T23:30:35.308289"
+  "last_updated": "2026-11-24T21:31:02.240310"
 }
