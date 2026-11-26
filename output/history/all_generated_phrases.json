@@ -23769,7 +23769,399 @@
       "transliteration": "mak-hi-myeon bang-beob-eul ppa ll-i ba kko-bwa",
       "category": "Motivation",
       "generated_at": "2026-11-25T20:39:47.795260"
+    },
+    {
+      "english": "Set your purpose before you start",
+      "korean": "시작하기 전에 목적을 정해요",
+      "transliteration": "Si-jak-ha-gi Jeo-ne ye Mok-jeok-eul Jeong-hae-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "What do you want to achieve?",
+      "korean": "이 일로 뭘 이루고 싶어요?",
+      "transliteration": "I i-ro Mwol i-ru-go Si-peo-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I’m learning Korean for confidence",
+      "korean": "저는 자신감 때문에 한국어를 배워요",
+      "transliteration": "Jeo-neun Ja-shin-gam Ttae-mu-ne Han-gu-geo-reul Bae-wo-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "My goal tonight is real talk",
+      "korean": "오늘 밤은 진짜 대화가 목적이에요",
+      "transliteration": "Onul Bam-eun Jin-jja Dae-hwa-ga Mok-jeok-i-e-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Tell me your end goal",
+      "korean": "마지막 목표가 뭐예요?",
+      "transliteration": "Ma-ji-mak Mo-kyo-ga Mwo-ye-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Check the reason, then proceed",
+      "korean": "이유를 한번 확인하고 시작해요",
+      "transliteration": "I-yu-reul Han-beon Hwan-in-ha-go Si-jak-hae-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I want to speak, not just memorize",
+      "korean": "외우기만 말고 말하는 게 목적이에요",
+      "transliteration": "Oe-wo-gi-man Mal-go Mal-ha-neun Ge Mok-jeok-i-e-yo",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I rest my mind between tasks.",
+      "korean": "일 사이에 마음을 쉬어요.",
+      "transliteration": "il sai-e ma-eum-eul swi-eo-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I return to my breath gently.",
+      "korean": "숨으로 천천히 돌아와요.",
+      "transliteration": "sum-euro cheon-cheon-hi dora-wa-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "My body knows how to settle.",
+      "korean": "내 몸은 가라앉는 법을 알아요.",
+      "transliteration": "nae mom-eun ga-ra-an-neun beob-eul a-la-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I choose curiosity over worry.",
+      "korean": "걱정보다 호기심을 골라요.",
+      "transliteration": "geok-jeong-bo-da ho-gi-sim-eul gol-la-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Let the noise pass through me.",
+      "korean": "시끄러운 마음이 지나가게 둬요.",
+      "transliteration": "si-kkeu-reo-un ma-eum-i ji-na-ga-ge dwae-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I soften, without fixing everything.",
+      "korean": "다 고치지 않아도 부드러워져요.",
+      "transliteration": "da go-chi-ji an-a-do bu-deu-reo-weo-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I speak to myself with warmth.",
+      "korean": "저 자신에게 다정하게 말해요.",
+      "transliteration": "jeo ja-shin-e-ge da-jeong-ha-ge mal-hae-yo",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Excuse me, where’s this street?",
+      "korean": "실례합니다, 이 거리는 어디예요?",
+      "transliteration": "SIR-yeham-ni-da, i geo-ri-neun O-di-eh-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "How do I reach that intersection?",
+      "korean": "저기 교차로는 어떻게 가요?",
+      "transliteration": "Jeo-gi gyo-cha-ro-neun EOT-teo-ke ga-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Is there a walking shortcut?",
+      "korean": "지름길로 갈 수 있어요?",
+      "transliteration": "Ji-reum-gil-lo gal su i-sseo-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Which exit should I use here?",
+      "korean": "여기서는 몇 번 출구로 나가요?",
+      "transliteration": "Yeo-gi-seo-neun myeot beon CHUL-gu-ro na-ga-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Where’s the bus stop for that?",
+      "korean": "저거 타려면 버스 정류장이 어디예요?",
+      "transliteration": "Jeo-geo ta-ryeo-myeon beo-seu jeong-nyu-ja-gi O-di-eh-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Does this stop go near there?",
+      "korean": "여기서 내려서 거기 가요?",
+      "transliteration": "Yeo-gi-seo na-ryeo-seo geo-gi ga-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Can I get there by subway?",
+      "korean": "지하철로 거기까지 갈 수 있어요?",
+      "transliteration": "Ji-ha-cheol-lo geo-gi-kka-ji gal su i-sseo-yo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I unwind with street food walks.",
+      "korean": "저는 길거리 음식 먹으면서 산책하며 풀어요.",
+      "transliteration": "Joneun giligeori eumsik meogumyeonseo sanchaekhamyeo PUreoyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Weeknights, I volunteer at shelters.",
+      "korean": "평일 저녁에는 보호소에서 봉사해요.",
+      "transliteration": "Pyeongil jeonyeogeoneun bohosaeseo bongsa haeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I paint little things, just for me.",
+      "korean": "저는 혼자만을 위해 작은 그림을 그려요.",
+      "transliteration": "Jeoneun homjaman-eul wihae jageun geurimeul gullyeoyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I try calligraphy when I’m calm.",
+      "korean": "마음이 차분할 때 서예를 해요.",
+      "transliteration": "Maeumi chabunhal ttae seoyereul haeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I learn recipes from YouTube cooking.",
+      "korean": "저는 유튜브 요리로 새로운 레시피를 배워요.",
+      "transliteration": "Jeoneun yutyubeu yorilo saeroun resipi-reul baewoyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I play catch with my neighbor’s dog.",
+      "korean": "옆집 강아지랑 공놀이해요.",
+      "transliteration": "Yeopjip gangajirang gongnoiihaeyo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I collect postcards when I travel.",
+      "korean": "여행 가면 엽서를 모아요.",
+      "transliteration": "Yeohaeng gamyeon yeopseoreul moayo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Work with breaks, stay balanced",
+      "korean": "일하면서 쉬어줘요, 균형을 지켜요",
+      "transliteration": "ILHAMYEON SEOIJEOWO YO, GYUNHYEONGEUL JIKKEOWO YO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Balance ambition with self-kindness",
+      "korean": "야망도 챙기되, 나에게 친절해요",
+      "transliteration": "YAMANGDO CHAEGI DO, NA EGE CHINJEOLHAEYO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Too much, pause and reset",
+      "korean": "너무 과하면 멈추고 다시 맞춰요",
+      "transliteration": "NEOMU GWAAHAMYEON MEOMCHUGO DA SHI MATCHWEO YO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Keep your energy even, please",
+      "korean": "기운을 고르게 유지해요, 제발",
+      "transliteration": "GIUN EUL GO RGE YUJIHAEYO, JE BAL",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Make room for play today",
+      "korean": "오늘은 즐길 시간을 꼭 넣어야 해요",
+      "transliteration": "ONEUL EUN JEULGIL SHIGAN EUL KOK NEOYA HAEYO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Balance your budget, start small",
+      "korean": "예산은 작게라도 균형부터 잡아봐요",
+      "transliteration": "YE SANEUN JAKK EORADO GYUNHYEONG BUTE O JABAA BW AYO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Mind and body, both get attention",
+      "korean": "마음과 몸, 둘 다 챙겨요",
+      "transliteration": "MA EUM GWA MOM, DUL DA CHAE GYEO YO",
+      "category": "Balance",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Hey, are you free to chat?",
+      "korean": "안녕하세요, 지금 통화 가능하세요?",
+      "transliteration": "annyeonghaseyo, jigeum tonghwa ganeunghaseyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Can I ask something quickly?",
+      "korean": "잠깐만요, 질문 좀 해도 될까요?",
+      "transliteration": "jamkkanmanyo, jilmun jo haedo doelkkayo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Where are you right now?",
+      "korean": "지금 어디세요?",
+      "transliteration": "jigeum eodieseoyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I’m outside, call me when ready.",
+      "korean": "밖에 나와 있어요, 준비되면 전화해 주세요.",
+      "transliteration": "bake nawa isseoyo, junbidoeumyeon jeonhwahae juseyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I just got your voicemail.",
+      "korean": "방금 음성메시지 들었어요.",
+      "transliteration": "banggeum eumsengmesiji deur-eosseoyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Please leave a message if missed.",
+      "korean": "못 받으면 메시지 남겨 주세요.",
+      "transliteration": "mot bad-eumyeon mesiji namgyeo juseyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Can you send details by text?",
+      "korean": "문자로 자세한 내용 보내주실 수 있어요?",
+      "transliteration": "munjaro jasehan naeyong bonae jusil su isseoyo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Which bus goes to the airport?",
+      "korean": "공항 가는 버스가 어디 있어요?",
+      "transliteration": "Gonghang ganeun beoseuga eodi isseoyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Where do I wait for the tram?",
+      "korean": "트램은 어디서 기다리면 돼요?",
+      "transliteration": "Teuraemeun eodieseo gidarimyeon dwaeyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Is the station entrance open now?",
+      "korean": "역 입구가 지금 열려 있어요?",
+      "transliteration": "Yeok ipgu ga jigeum yeollyeo isseoyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "How late do buses run tonight?",
+      "korean": "오늘 밤 버스는 몇 시까지 다녀요?",
+      "transliteration": "Oneul bam beoseuneun myeot si kkaji danyeo yo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Does this route include stops downtown?",
+      "korean": "이 노선에 시내 정류장이 있어요?",
+      "transliteration": "I noseone shinae jeongnyujang-i isseoyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Can I ride with a day pass?",
+      "korean": "하루 교통패스로 탈 수 있어요?",
+      "transliteration": "Haroo gyotongpaeseuro tal su isseoyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Where can I buy a transit card?",
+      "korean": "교통카드는 어디서 살 수 있어요?",
+      "transliteration": "Gyotongkadeuneun eodiseo sal su isseoyo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Let’s align our goals first.",
+      "korean": "먼저 목표를 맞춰보자, 그래야 빨라.",
+      "transliteration": "meonjeo mokpyo-reul majchwoj a, geuraeya ppalra",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "What deadlines are we facing?",
+      "korean": "우리가 지금 마감이 언제야?",
+      "transliteration": "uriga jigeum magami eonjeoya",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I’ll confirm availability for everyone.",
+      "korean": "모두 일정 되는지 내가 확인할게.",
+      "transliteration": "modu iljeong doeneunji naega hwaginhalke",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Who owns the final decision?",
+      "korean": "최종 결정을 누가 할까?",
+      "transliteration": "choejong gyeoljeong-eul nuga halkka",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "I want a clear timeline.",
+      "korean": "각 단계 언제까지인지 타임라인을 딱 잡자.",
+      "transliteration": "gak dan gyeonjeokkaji-inji ta-iml-ainn-eul ttak jabja",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "We should check constraints now.",
+      "korean": "제약조건부터 지금 확인하자.",
+      "transliteration": "je-yakjo-gon-buteo jigeum hwaginhalja",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
+    },
+    {
+      "english": "Can we plan for delays?",
+      "korean": "늦어질 때를 대비해서 여유도 잡자.",
+      "transliteration": "neujeojil ttae-reul daebihaeseo yeoyu-do jabja",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T20:32:40.869551"
     }
   ],
-  "last_updated": "2026-11-25T20:39:47.795260"
+  "last_updated": "2026-11-26T20:32:40.869551"
 }
